@@ -1,0 +1,284 @@
+<words>
+    <word value="sorciere">
+        <definition>Femme pratiquant la sorcellerie, généralement associée à la magie noire et à des pouvoirs surnaturels.</definition>
+        <definition>Personnage souvent représenté avec un chapeau pointu et un balai volant, utilisé dans les contes et les légendes.</definition>
+        <definition>Individu censé posséder des pouvoirs magiques et être en contact avec des forces occultes, souvent craint et persécuté dans les sociétés traditionnelles.</definition>
+    </word>
+    <word value="fantome">
+        <definition>Apparition surnaturelle d'une personne décédée, généralement associée à la peur et au mystère.</definition>
+        <definition>Esprit ou âme errante censé hanter des lieux ou des personnes après la mort.</definition>
+        <definition>Phénomène paranormal souvent décrit comme une manifestation de l'au-delà, suscitant la terreur et l'angoisse chez ceux qui en sont témoins.</definition>
+    </word>
+    <word value="sanglier">
+        <definition>Mammifère sauvage souvent associé à des récits épiques et à des légendes mythologiques, représenté comme un symbole de force et de férocité.</definition>
+        <definition>Animal souvent chassé pour sa viande et ses trophées, réputé pour sa puissance et sa détermination à protéger sa progéniture.</definition>
+        <definition>Créature souvent utilisée comme motif décoratif dans l'art celtique et les symboles héraldiques, représentée comme un animal intrépide et indomptable.</definition>
+    </word>
+    <word value="corbeau">
+        <definition>Oiseau souvent associé à des symboles de malheur et de mort, représenté comme un messager des ténèbres et un présage sinistre.</definition>
+        <definition>Créature souvent utilisée dans la mythologie et les récits folkloriques, représentée comme un guide des âmes perdues et un gardien des secrets.</definition>
+        <definition>Animal souvent utilisé comme motif dans l'art et la littérature, symbolisant la sagesse, la ruse et la perspicacité dans de nombreuses cultures à travers le monde.</definition>
+    </word>
+    <word value="fee">
+        <definition>Être mythique souvent représenté comme une petite créature ailée dotée de pouvoirs magiques et de la capacité de voler.</definition>
+        <definition>Figure légendaire associée à la nature, aux éléments et aux forces mystérieuses, souvent décrite comme une protectrice des forêts et des animaux.</definition>
+        <definition>Personnage emblématique des contes de fées et des récits fantastiques, représenté comme une bienfaitrice accordant des vœux et des bénédictions aux humains.</definition>
+    </word>
+    <word value="momie">
+        <definition>Corps humain ou animal préservé après la mort par des techniques d'embaumement ou des conditions naturelles, souvent associé à des rituels funéraires et à des croyances religieuses.</definition>
+        <definition>Créature mythique issue des légendes égyptiennes, représentée comme un cadavre réanimé errant dans les tombes et les pyramides.</definition>
+        <definition>Personnage emblématique des histoires d'horreur et des films fantastiques, souvent représenté comme un être revenu à la vie pour hanter les vivants.</definition>
+    </word>
+    <word value="banshee">
+        <definition>Créature légendaire du folklore irlandais, souvent représentée comme un esprit féminin gémissant et pleurant, annonçant la mort imminente d'un proche.</definition>
+        <definition>Figure mythique associée aux superstitions et aux croyances populaires, crainte pour ses lamentations sinistres et son apparition spectrale.</definition>
+        <definition>Entité surnaturelle souvent décrite comme une femme fantomatique, associée aux lieux hantés et aux présages de mort.</definition>
+    </word>
+    <word value="citrouille">
+        <definition>Plante potagère de la famille des cucurbitacées, souvent de couleur orange, utilisée pour la décoration et la cuisine.</definition>
+        <definition>Légume souvent sculpté en forme de visage pour la fête d'Halloween, appelé aussi "jack-o'-lantern".</definition>
+        <definition>Élément emblématique de la saison d'Halloween, souvent creusé et illuminé avec une bougie à l'intérieur pour créer une lanterne effrayante.</definition>
+    </word>
+    <word value="vampire">
+        <definition>Créature légendaire se nourrissant du sang des vivants pour survivre, souvent associée à l'immortalité et à la séduction.</definition>
+        <definition>Personnage souvent représenté avec des crocs acérés et une aversion pour la lumière du soleil.</definition>
+        <definition>Figure mythologique issue de nombreuses cultures, souvent décrite comme un être charismatique et séduisant, mais aussi dangereux et mortel.</definition>
+    </word>
+    <word value="loup-garou">
+        <definition>Créature légendaire mi-humaine mi-loup, censée se transformer à la pleine lune et chasser les humains.</definition>
+        <definition>Personnage souvent associé à la peur de la nuit et aux histoires de lycanthropie.</definition>
+        <definition>Figure mythique de nombreux récits folkloriques, généralement décrite comme un homme maudit capable de se métamorphoser en loup lors de la pleine lune.</definition>
+    </word>
+    <word value="zombie">
+        <definition>Mort-vivant ou cadavre réanimé, souvent associé à un état de décomposition et à une soif insatiable de chair humaine.</definition>
+        <definition>Créature issue de la culture populaire et des films d'horreur, représentant la peur de l'épidémie et de la perte de contrôle.</definition>
+        <definition>Personnage souvent décrit comme un être sans âme, dépourvu de pensée et de volonté, cherchant uniquement à satisfaire ses besoins primaires.</definition>
+    </word>
+    <word value="araignee">
+        <definition>Arthropode souvent représenté avec huit pattes et une toile, associé à la peur et à l'horreur dans de nombreuses cultures.</definition>
+        <definition>Insecte prédateur se nourrissant d'autres insectes, capable de fabriquer des toiles pour capturer leur proie.</definition>
+        <definition>Créature souvent utilisée comme symbole de l'effroi et du danger, associée à des superstitions et des phobies répandues.</definition>
+    </word>
+    <word value="cimetiere">
+        <definition>Lieu où sont enterrés les morts, souvent associé à la tristesse, à la peur et au mystère.</definition>
+        <definition>Endroit sacré où les gens viennent se recueillir et se souvenir de leurs proches disparus.</definition>
+        <definition>Zone souvent entourée de mystère et de superstition, considérée comme le lieu de repos éternel pour les défunts.</definition>
+    </word>
+    <word value="chateau hante">
+        <definition>Bâtiment ancien réputé pour être habité par des esprits ou des fantômes, souvent associé à des légendes urbaines et à des récits d'horreur.</definition>
+        <definition>Attraction touristique populaire lors de la saison d'Halloween, mettant en scène des décors effrayants et des acteurs déguisés en monstres.</definition>
+        <definition>Lieu souvent utilisé dans la fiction pour représenter des scènes de terreur et de suspense, suscitant la curiosité et la fascination chez les visiteurs.</definition>
+    </word>
+    <word value="crypte">
+        <definition>Cave ou souterrain servant de sépulture, souvent associé à des cultes ou des rites funéraires.</definition>
+        <definition>Lieu de repos éternel pour les défunts, généralement situé sous une église ou un bâtiment religieux.</definition>
+        <definition>Endroit sombre et sinistre, souvent utilisé dans les histoires d'horreur pour créer une atmosphère de terreur et de mystère.</definition>
+    </word>
+    <word value="epouvantail">
+        <definition>Figure effrayante souvent fabriquée à partir de vêtements usagés et de matériaux de récupération, utilisée pour éloigner les oiseaux et protéger les cultures.</definition>
+        <definition>Personnage souvent représenté avec une tête en forme de citrouille et des bras en paille, utilisé dans les décorations d'Halloween et les films d'horreur.</definition>
+        <definition>Objet souvent utilisé dans les champs et les jardins pour effrayer les oiseaux et les animaux nuisibles, généralement associé à la saison d'automne et à la moisson.</definition>
+    </word>
+    <word value="maison hantee">
+        <definition>Résidence réputée pour être habitée par des esprits ou des fantômes, souvent abandonnée ou en état de délabrement.</definition>
+        <definition>Attraction touristique populaire lors de la saison d'Halloween, mettant en scène des décors terrifiants et des acteurs déguisés en monstres.</definition>
+        <definition>Lieu souvent utilisé dans la fiction pour représenter des scènes de terreur et de suspense, suscitant la curiosité et la peur chez les visiteurs.</definition>
+    </word>
+    <word value="brouillard">
+        <definition>Masse d'air chargée de particules d'eau en suspension, réduisant la visibilité et créant une atmosphère mystérieuse et inquiétante.</definition>
+        <definition>Phénomène météorologique souvent associé à des histoires de fantômes et de créatures surnaturelles, enveloppant les paysages dans un voile de mystère.</definition>
+        <definition>Élément atmosphérique souvent utilisé dans les œuvres de fiction pour créer une ambiance sombre et oppressante, renforçant le sentiment de danger et d'isolement.</definition>
+    </word>
+    <word value="cercueil">
+        <definition>Boîte rectangulaire souvent en bois, utilisée pour contenir et transporter les corps des défunts avant leur inhumation ou leur crémation.</definition>
+        <definition>Objet souvent associé à la mort et à la fin de la vie, utilisé dans les rituels funéraires et les cérémonies de deuil.</definition>
+        <definition>Symbole de la mortalité humaine et de la transience de la vie, souvent représenté dans l'art et la littérature comme un rappel de notre propre destinée.</definition>
+    </word>
+    <word value="ombre">
+        <definition>Image sombre et indistincte projetée par un objet interceptant la lumière, souvent associée à des phénomènes paranormaux et à des présences surnaturelles.</definition>
+        <definition>Figuration symbolique de la mort et de la peur, souvent représentée comme une silhouette flottante dans l'obscurité.</definition>
+        <definition>Entité mystérieuse souvent décrite comme un double fantomatique d'une personne vivante, suscitant la terreur et l'angoisse chez ceux qui en sont témoins.</definition>
+    </word>
+    <word value="sorcellerie">
+        <definition>Pratique magique utilisée pour invoquer des forces surnaturelles et manipuler la réalité, souvent associée à des rituels et des incantations.</definition>
+        <definition>Art occulte utilisé pour influencer les événements et les personnes par des moyens surnaturels, généralement considéré comme dangereux et interdit dans de nombreuses cultures.</definition>
+        <definition>Croyance en la capacité de certains individus à manipuler les forces de l'univers pour obtenir des résultats surnaturels, souvent basée sur des traditions anciennes et des superstitions populaires.</definition>
+    </word>
+    <word value="magie noire">
+        <definition>Pratique occulte utilisée pour causer du mal ou infliger des souffrances à autrui, souvent associée à des rituels macabres et à des pactes avec des entités démoniaques.</definition>
+        <definition>Art sombre et interdit consistant à manipuler les énergies occultes pour nuire à des personnes ou obtenir un avantage personnel, souvent pratiqué dans le secret et la clandestinité.</definition>
+        <definition>Forme de sorcellerie utilisant des forces obscures et malveillantes pour réaliser des désirs égoïstes ou obtenir un pouvoir sur les autres, généralement condamnée et réprouvée par les sociétés traditionnelles.</definition>
+    </word>
+    <word value="lune">
+        <definition>Satellite naturel de la Terre, souvent associé à des phénomènes mystérieux et à des légendes de transformation.</definition>
+        <definition>Objet céleste souvent représenté comme un symbole de la nuit et de la magie, influençant les marées et les cycles lunaires.</definition>
+        <definition>Source de fascination et de mystère pour de nombreuses cultures, souvent associée à des divinités lunaires et des rituels de fertilité.</definition>
+    </word>
+    <word value="creature">
+        <definition>Être surnaturel ou fantastique, souvent représenté comme une combinaison d'éléments humains et animaux.</definition>
+        <definition>Entité mystérieuse souvent décrite comme un être monstrueux et terrifiant, suscitant la peur et l'effroi chez ceux qui en sont témoins.</definition>
+        <definition>Figure mythique ou légendaire, souvent associée à des récits d'horreur et à des superstitions populaires.</definition>
+    </word>
+    <word value="spectre">
+        <definition>Apparition fantomatique d'une personne décédée, généralement associée à des lieux hantés et des phénomènes paranormaux.</definition>
+        <definition>Esprit errant censé hanter les vivants et provoquer des manifestations de terreur et de malaise.</definition>
+        <definition>Entité invisible souvent perçue comme une présence menaçante et malveillante, provoquant des sensations de froid et de peur chez ceux qui en sont témoins.</definition>
+    </word>
+    <word value="nuit">
+        <definition>Période de l'obscurité entre le coucher et le lever du soleil, souvent associée à des phénomènes mystérieux et des rencontres surnaturelles.</definition>
+        <definition>Temps de la journée où les activités nocturnes et les créatures de l'ombre deviennent plus actives, suscitant la peur et la méfiance chez certains.</definition>
+        <definition>Élément atmosphérique souvent utilisé dans les histoires d'horreur pour créer une atmosphère de suspense et de terreur, renforçant le sentiment d'isolement et d'impuissance.</definition>
+    </word>
+    <word value="sang">
+        <definition>Fluide corporel vital circulant dans les veines et les artères, souvent associé à la vie et à la mort dans les traditions et les croyances populaires.</definition>
+        <definition>Substance rougeâtre essentielle à la survie des êtres vivants, utilisée comme symbole de l'amour, de la passion et de la violence dans l'art et la littérature.</definition>
+        <definition>Liquide biologique utilisé dans les rituels religieux et les cérémonies occultes, souvent associé à des pratiques de sorcellerie et de magie noire.</definition>
+    </word>
+    <word value="chateau">
+        <definition>Grande résidence fortifiée, souvent associée à des histoires de fantômes et de mystères, symbole de pouvoir et de richesse.</definition>
+        <definition>Construction médiévale souvent utilisée comme résidence de la noblesse et du clergé, renfermant des trésors et des secrets cachés.</definition>
+        <definition>Bâtiment emblématique de nombreux récits de contes de fées et de légendes, souvent représenté comme un lieu de danger et d'aventure.</definition>
+    </word>
+    <word value="mort">
+        <definition>État final de cessation de toutes les fonctions vitales d'un organisme vivant, souvent associé à des rituels funéraires et à des cérémonies de deuil.</definition>
+        <definition>Concept universel représentant la fin de la vie et le passage vers l'au-delà, souvent entouré de mystère et de superstition.</definition>
+        <definition>Thème récurrent dans l'art, la littérature et la religion, souvent utilisé comme symbole de la transience de la vie et de l'impermanence de toutes choses.</definition>
+    </word>
+    <word value="magicien">
+        <definition>Personne possédant des pouvoirs surnaturels et capable d'accomplir des actes de magie, souvent associée à des mystères et des légendes.</definition>
+        <definition>Artiste ou illusionniste spécialisé dans la réalisation de tours de magie et de prestidigitation, utilisant des techniques secrètes pour tromper l'œil et l'esprit.</definition>
+        <definition>Personnage emblématique de nombreux récits fantastiques et de contes de fées, représenté comme un sage et un manipulateur de forces occultes.</definition>
+    </word>
+    <word value="squelette">
+        <definition>Structure osseuse d'un être humain ou d'un animal, souvent utilisée comme symbole de la mort et de la mortalité.</definition>
+        <definition>Image anatomique représentant les os d'un corps dépourvu de chair, souvent utilisée dans l'art et la science pour étudier la structure osseuse.</definition>
+        <definition>Figure squelettique souvent utilisée dans les décorations d'Halloween et les récits d'horreur, symbolisant la fragilité de la vie et la transience de l'existence.</definition>
+    </word>
+    <word value="citrouille">
+        <definition>Fruit orange souvent utilisé comme symbole de la saison d'automne et des festivités d'Halloween, creusé et sculpté en lanternes décoratives appelées « Jack-o'-lanterns ».</definition>
+        <definition>Légume de la famille des cucurbitacées, cultivé pour sa chair sucrée et sa polyvalence culinaire dans de nombreuses cultures à travers le monde.</definition>
+        <definition>Plante grimpante produisant des fruits de forme ronde à ovale, largement utilisés dans la cuisine, la décoration et les traditions festives.</definition>
+    </word>
+    <word value="chauve-souris">
+        <definition>Mammifère volant souvent associé à des légendes et des croyances populaires, représenté comme un symbole de la nuit et du mystère.</definition>
+        <definition>Créature nocturne souvent utilisée comme motif décoratif dans les fêtes d'Halloween et les histoires d'horreur, crainte pour sa capacité à voler dans l'obscurité.</definition>
+        <definition>Animal souvent utilisé dans les récits fantastiques et les contes de fées, représenté comme un messager des ténèbres et un compagnon des sorcières et des vampires.</definition>
+    </word>
+    <word value="sorcier">
+        <definition>Personne possédant des pouvoirs magiques et des connaissances occultes, souvent représentée comme un sage et un gardien du savoir ésotérique.</definition>
+        <definition>Praticien de la sorcellerie, souvent vénéré pour ses pouvoirs de guérison et sa capacité à influencer les événements par des moyens surnaturels.</definition>
+        <definition>Personnage emblématique des récits fantastiques et des légendes, souvent représenté comme un protecteur des faibles et un défenseur de la justice.</definition>
+    </word>
+    <word value="cauchemar">
+        <definition>Rêve effrayant et perturbant, souvent associé à des sensations de terreur et d'angoisse intenses.</definition>
+        <definition>Expérience onirique désagréable caractérisée par des scénarios de danger et de menace, souvent réveillant les dormeurs en sursaut.</definition>
+        <definition>Phénomène psychologique souvent lié au stress et à l'anxiété, provoquant des visions et des sensations désagréables pendant le sommeil.</definition>
+    </word>
+    <word value="mystere">
+        <definition>Énigme ou secret difficile à comprendre ou à expliquer, souvent entouré de mysticisme et de fascination.</definition>
+        <definition>Thème récurrent dans la littérature, le cinéma et les jeux, captivant l'imagination et suscitant l'intérêt pour l'inconnu.</definition>
+        <definition>Concept philosophique explorant les limites de la connaissance humaine et la nature de la réalité, souvent associé à des réflexions sur l'existence et la transcendance.</definition>
+    </word>
+    <word value="loup">
+        <definition>Créature mythique souvent associée à des récits de loups-garous et de chasses nocturnes, représentée comme un prédateur redoutable de la nuit.</definition>
+        <definition>Figure emblématique de nombreux contes et légendes, souvent représentée comme un symbole de la sauvagerie et de la solitude, rôdant dans les forêts obscures.</definition>
+        <definition>Animal souvent utilisé dans les récits d'horreur et les films fantastiques, symbolisant la peur de l'obscurité et des forces sauvages de la nature.</definition>
+    </word>
+
+    <word value="chouette">
+        <definition>Oiseau nocturne souvent associé à des présages de mort et de malheur, représenté comme un messager des ténèbres et un compagnon des sorcières.</definition>
+        <definition>Créature mystérieuse souvent utilisée dans les histoires d'horreur, symbolisant la sagesse et la perspicacité dans certaines cultures, et la mort dans d'autres.</definition>
+        <definition>Animal souvent représenté dans l'art et la littérature comme un symbole de l'obscurité et du mystère, suscitant la fascination et la peur chez ceux qui l'observent.</definition>
+    </word>
+    <word value="mystère">
+        <definition>Énigme ou secret difficile à comprendre ou à expliquer, souvent associé à des phénomènes paranormaux et des histoires d'occultisme.</definition>
+        <definition>Thème récurrent dans les récits d'horreur et les légendes, suscitant la curiosité et l'angoisse chez ceux qui cherchent à percer ses mystères.</definition>
+        <definition>Concept philosophique explorant les limites de la connaissance humaine et la nature de la réalité, souvent représenté comme une force insondable et terrifiante dans les histoires d'horreur.</definition>
+    </word>
+    <word value="frisson">
+        <definition>Sensation de froid intense ou de peur soudaine provoquée par une atmosphère angoissante ou des événements terrifiants.</definition>
+        <definition>Émotion souvent associée à des histoires d'horreur et à des films fantastiques, suscitant des frissons d'effroi et de fascination chez les spectateurs.</definition>
+        <definition>Réaction corporelle instinctive face à une menace imminente ou à une atmosphère sinistre, souvent accompagnée d'un pic d'adrénaline et d'une accélération du rythme cardiaque.</definition>
+    </word>
+    <word value="epouvante">
+        <definition>Sentiment intense de peur ou de terreur provoqué par des événements surnaturels, des apparitions effrayantes ou des situations menaçantes.</definition>
+        <definition>État émotionnel souvent associé à des histoires d'horreur et à des films d'épouvante, suscitant la terreur et le malaise chez ceux qui en sont témoins.</definition>
+        <definition>Thème récurrent dans les récits de fantômes et les légendes urbaines, représentant la confrontation avec l'inconnu et l'irrationnel.</definition>
+    </word>
+    <word value="chauve-souris">
+        <definition>Mammifère volant souvent associé à des légendes et des croyances populaires, représenté comme un symbole de la nuit et du mystère.</definition>
+        <definition>Créature nocturne souvent utilisée comme motif décoratif dans les fêtes d'Halloween et les histoires d'horreur, crainte pour sa capacité à voler dans l'obscurité.</definition>
+        <definition>Animal souvent utilisé dans les récits fantastiques et les contes de fées, représenté comme un messager des ténèbres et un compagnon des sorcières et des vampires.</definition>
+    </word>
+    <word value="tombstone">
+        <definition>Pierre tombale souvent utilisée pour marquer la dernière demeure des morts, souvent associée à des histoires de fantômes et de cimetières hantés.</definition>
+        <definition>Monument funéraire souvent gravé de noms et de dates, symbolisant la mémoire des défunts et le passage du temps.</definition>
+        <definition>Objet souvent utilisé dans les décors d'Halloween et les histoires d'horreur, représentant la mort et la mortalité dans de nombreuses cultures.</definition>
+    </word>
+    <word value="catacombes">
+        <definition>Réseaux souterrains de tunnels et de chambres funéraires, souvent utilisés comme lieu de repos éternel pour les morts et les défunts.</definition>
+        <definition>Lieu souvent associé à des histoires de fantômes et de revenants, représentant l'obscurité et la terreur de l'au-delà.</definition>
+        <definition>Endroit souvent utilisé dans les récits d'horreur et les films fantastiques pour créer une atmosphère de claustrophobie et de désespoir.</definition>
+    </word>
+    <word value="cryptique">
+        <definition>Obscur, mystérieux et difficile à comprendre, souvent associé à des énigmes et des messages cachés.</definition>
+        <definition>Terme souvent utilisé pour décrire des symboles et des langages obscurs, évoquant des mystères et des secrets.</definition>
+        <definition>Adjectif souvent utilisé pour décrire des comportements énigmatiques et des phénomènes inexpliqués, suscitant la curiosité et l'interrogation.</definition>
+    </word>
+    <word value="obscurite">
+        <definition>Absence de lumière, souvent associée à des sensations de peur et d'incertitude, symbolisant l'inconnu et le mystère.</definition>
+        <definition>État de sombre et de noirceur, évoquant des sensations de solitude et de désespoir, souvent utilisé dans les récits d'horreur pour créer une atmosphère oppressante.</definition>
+        <definition>Thème récurrent dans la littérature et le cinéma, représentant la confrontation avec l'obscurité intérieure et extérieure, et les forces maléfiques qui y résident.</definition>
+    </word>
+    <word value="sinistre">
+        <definition>Sombre, lugubre et menaçant, souvent associé à des présages de malheur et de mort.</definition>
+        <definition>Adjectif souvent utilisé pour décrire des lieux et des événements effrayants et inquiétants, évoquant des sensations de terreur et de désespoir.</definition>
+        <definition>Terme souvent utilisé pour décrire des personnages et des atmosphères macabres, suscitant la peur et la fascination chez ceux qui les rencontrent.</definition>
+    </word>
+    <word value="hurlant">
+        <definition>Produire ou émettre un son fort et perçant, souvent associé à des cris d'animaux sauvages et à des hurlements de douleur ou de terreur.</definition>
+        <definition>Adjectif souvent utilisé pour décrire des vents violents et des tempêtes déchaînées, évoquant des images de chaos et de destruction.</definition>
+        <definition>Terme souvent utilisé pour décrire des personnages et des monstres hurlant dans les ténèbres, suscitant la terreur et l'effroi chez ceux qui les entendent.</definition>
+    </word>
+    <word value="sombre">
+        <definition>De couleur foncée, souvent associé à des atmosphères lugubres et à des humeurs sombres, évoquant des sensations de tristesse et de désespoir.</definition>
+        <definition>Adjectif souvent utilisé pour décrire des lieux et des paysages obscurs et lugubres, évoquant des images de mort et de désolation.</definition>
+        <definition>Terme souvent utilisé pour décrire des personnages et des événements macabres et inquiétants, suscitant la peur et l'angoisse chez ceux qui les rencontrent.</definition>
+    </word>
+    <word value="hantise">
+        <definition>Présence ou esprit invisible qui hante un lieu, souvent associé à des histoires de fantômes et de maisons hantées.</definition>
+        <definition>Sentiment de peur persistante et irrationnelle, souvent lié à des expériences traumatisantes ou à des événements surnaturels.</definition>
+        <definition>Thème récurrent dans la littérature et le cinéma d'horreur, représentant la confrontation avec des forces surnaturelles et des phénomènes inexpliqués.</definition>
+    </word>
+    <word value="hurluberlu">
+        <definition>Personne excentrique et fantasque, souvent considérée comme étrange ou bizarre par les autres.</definition>
+        <definition>Adjectif souvent utilisé pour décrire des comportements et des apparences extravagants et farfelus, évoquant des images de folie et d'absurdité.</definition>
+        <definition>Terme souvent utilisé pour décrire des personnages et des situations loufoques et délirantes, suscitant le rire et la perplexité chez ceux qui les rencontrent.</definition>
+    </word>
+    <word value="goule">
+        <definition>Créature légendaire souvent représentée comme un cadavre réanimé se nourrissant de chair humaine, associée à des histoires d'horreur et de mort.</definition>
+        <definition>Entité surnaturelle souvent décrite comme un être monstrueux rôdant dans les cimetières et les catacombes, provoquant la terreur chez ceux qui la rencontrent.</definition>
+        <definition>Figure mythologique issue de nombreuses cultures, représentée comme un démon des ténèbres se délectant de la chair des morts, suscitant la peur et l'angoisse.</definition>
+    </word>
+    <word value="effroi">
+        <definition>Sentiment soudain et intense de peur ou de terreur, souvent provoqué par des événements inattendus ou des apparitions effrayantes.</definition>
+        <definition>Émotion souvent associée à des histoires d'horreur et à des films d'épouvante, suscitant la terreur et le malaise chez ceux qui en sont témoins.</definition>
+        <definition>Thème récurrent dans la littérature et le cinéma d'horreur, représentant la confrontation avec l'inconnu et l'inexplicable.</definition>
+    </word>
+    <word value="obsession">
+        <definition>Fixation mentale sur une idée, un objet ou une personne, souvent associée à des comportements compulsifs et à des pensées obsessionnelles.</definition>
+        <definition>Thème récurrent dans les récits d'horreur et les films psychologiques, représentant la descente dans la folie et l'obsession pour l'occulte et le surnaturel.</definition>
+        <definition>Émotion souvent associée à des histoires de fantômes et de possessions démoniaques, représentant la lutte entre la raison et la démence.</definition>
+    </word>
+    <word value="fantaisie">
+        <definition>Genre littéraire et cinématographique mettant en scène des mondes imaginaires et des créatures fantastiques, souvent associé à des récits d'aventures et de magie.</definition>
+        <definition>Évasion de la réalité dans un monde de rêves et de chimères, souvent utilisée comme échappatoire à la banalité de la vie quotidienne.</definition>
+        <definition>Terme souvent utilisé pour décrire des éléments irréels et fantastiques dans les récits d'horreur et les contes de fées, évoquant des mondes parallèles et des êtres surnaturels.</definition>
+    </word>
+    <word value="malediction">
+        <definition>Sort jeté par des forces surnaturelles pour infliger du malheur et de la souffrance à une personne ou à un lieu.</definition>
+        <definition>Thème récurrent dans les récits d'horreur et les légendes populaires, représentant la lutte contre des forces maléfiques et des pouvoirs occultes.</definition>
+        <definition>Croyance en des forces maléfiques et des entités démoniaques capables de maudire les vivants et de les condamner à une vie de misère et de désespoir.</definition>
+    </word>
+
+</words>
