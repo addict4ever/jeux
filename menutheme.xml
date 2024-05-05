@@ -1,7 +1,7 @@
 <choices>
     <option>
         <name>Words</name>
-        <file>words.xml</file>
+        <file>https://raw.githubusercontent.com/addict4ever/jeux/main/words.xml</file>
     </option>
     <option>
         <name>Halloween</name>
