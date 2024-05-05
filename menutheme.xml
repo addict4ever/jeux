@@ -13,11 +13,11 @@
     </option>
     <option>
         <name>Disney</name>
-        <file>disney.xml</file>
+        <file>https://raw.githubusercontent.com/addict4ever/jeux/main/disney.xml</file>
     </option>
     <option>
         <name>Marvel</name>
-        <file>marvel.xml</file>
+        <file>https://raw.githubusercontent.com/addict4ever/jeux/main/marvel.xml</file>
     </option>
     <option>
         <name>Dc</name>
