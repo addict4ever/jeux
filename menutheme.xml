@@ -1,0 +1,30 @@
+<choices>
+    <option>
+        <name>Words</name>
+        <file>words.xml</file>
+    </option>
+    <option>
+        <name>Halloween</name>
+        <file>halloween.xml</file>
+    </option>
+     <option>
+        <name>Simpson</name>
+        <file>simpson.xml</file>
+    </option>
+    <option>
+        <name>Disney</name>
+        <file>disney.xml</file>
+    </option>
+    <option>
+        <name>Marvel</name>
+        <file>marvel.xml</file>
+    </option>
+    <option>
+        <name>Dc</name>
+        <file>dc.xml</file>
+    </option>
+    <option>
+        <name>Definitions</name>
+        <file>definitions.xml</file>
+    </option>
+</choices>
