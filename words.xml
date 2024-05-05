@@ -1,0 +1,559 @@
+<words>
+    <word value="trident">
+        <definition>Arme à trois pointes utilisée notamment par les pêcheurs et mythologiquement par Neptune.</definition>
+        <definition>Symbole de souveraineté sur les mers.</definition>
+    </word>
+    <word value="cascade">
+        <definition>Chute d'eau rapide et abondante, souvent en plusieurs paliers.</definition>
+        <definition>Mouvement rapide et fluide de quelque chose qui s'écoule en abondance.</definition>
+    </word>
+    <word value="labyrinthe">
+        <definition>Construction complexe formée de galeries, de détours, de nœuds, et destinée à égarer ou à perdre ceux qui s'y aventurent.</definition>
+        <definition>Situation complexe et difficile à comprendre ou à démêler.</definition>
+    </word>
+    <word value="eclipse">
+        <definition>Obscurcissement temporaire d'un astre dû à l'interposition d'un autre corps céleste.</definition>
+        <definition>Disparition ou diminution temporaire de quelque chose, notamment de la lumière ou de la visibilité.</definition>
+    </word>
+    <word value="sernade">
+        <definition>Composition musicale chantée ou jouée en plein air, à destination d'une personne, le plus souvent le soir et en signe d'amour ou d'hommage.</definition>
+        <definition>Manifestation d'amour, de tendresse ou de respect, exprimée à voix basse et en privé.</definition>
+    </word>
+    <word value="algorithme">
+        <definition>Ensemble fini et ordonné d'opérations à effectuer pour résoudre un problème ou atteindre un but précis.</definition>
+        <definition>Procédé de résolution de problèmes informatiques par une suite d'opérations élémentaires définies avec précision.</definition>
+    </word>
+    <word value="avalanche">
+        <definition>Masse de neige, de glace et de roches qui se détache d'une pente de montagne et dévale en se fragmentant.</definition>
+        <definition>Ensemble de choses ou de personnes qui se précipitent brutalement et en grand nombre.</definition>
+    </word>
+    <word value="camouflage">
+        <definition>Technique consistant à se dissimuler, à se fondre dans le décor pour échapper à la vue ou à l'attention.</definition>
+        <definition>Ensemble de moyens utilisés pour masquer, dissimuler ou déguiser quelque chose.</definition>
+    </word>
+    <word value="equinoxe">
+        <definition>Moment de l'année où le Soleil traverse le plan de l'équateur céleste, marquant ainsi le début du printemps ou de l'automne.</definition>
+        <definition>Phénomène céleste se produisant deux fois par an, caractérisé par une égale durée du jour et de la nuit.</definition>
+    </word>
+    <word value="gargouille">
+        <definition>Conduit de pierre, généralement sculpté en forme de figure fantastique ou de monstre, destiné à évacuer les eaux de pluie des toits d'un édifice.</definition>
+        <definition>Statue ou sculpture représentant une créature fantastique crachant de l'eau, utilisée comme élément décoratif dans l'architecture gothique.</definition>
+    </word>
+    <word value="eclipse">
+    <definition>Phénomène astronomique lorsqu'un corps céleste cache un autre.</definition>
+    <definition>Disparition momentanée ou partielle d'un astre.</definition>
+    <definition>Occultation d'une source de lumière par un autre corps céleste.</definition>
+    </word>
+    <word value="labyrinthe">
+        <definition>Réseau complexe de chemins et passages, difficile à naviguer.</definition>
+        <definition>Situation complexe où il est facile de se perdre.</definition>
+        <definition>Structure comportant des chemins tortueux et des impasses, conçue comme un défi intellectuel ou ludique.</definition>
+    </word>
+    <word value="marionnette">
+        <definition>Figure articulée manipulée par des fils ou des mains pour le divertissement.</definition>
+        <definition>Personne contrôlée par d'autres.</definition>
+        <definition>Personnage animé par une personne ou un système extérieur.</definition>
+    </word>
+    <word value="quasar">
+        <definition>Objet céleste émettant des quantités exceptionnelles d'énergie.</definition>
+        <definition>Centre brillant et lointain d'une galaxie jeune.</definition>
+        <definition>Source lumineuse extrêmement éloignée et puissante, émettant des rayonnements divers.</definition>
+    </word>
+    <word value="zenith">
+        <definition>Point du ciel directement au-dessus de l'observateur.</definition>
+        <definition>Apogée ou point culminant de quelque chose.</definition>
+        <definition>Sommet ou point le plus élevé atteint dans une situation donnée.</definition>
+    </word>
+    <word value="graffiti">
+        <definition>Inscriptions ou dessins griffonnés sur des murs ou des surfaces publiques.</definition>
+        <definition>Art de rue impliquant l'écriture ou le dessin illégal.</definition>
+        <definition>Décoration ou expression artistique réalisée en utilisant des sprays ou des peintures sur des surfaces urbaines.</definition>
+    </word>
+    <word value="helice">
+        <definition>Dispositif en forme de spirale utilisé pour propulser ou manoeuvrer.</definition>
+        <definition>Structure tournante qui convertit le mouvement en force propulsive.</definition>
+        <definition>Organe de propulsion rotatif utilisé principalement dans les domaines de l'aéronautique et de la marine.</definition>
+    </word>
+    <word value="javelot">
+        <definition>Lance légère utilisée dans les sports athlétiques.</definition>
+        <definition>Arme de jet ancienne utilisée principalement pour la chasse.</definition>
+        <definition>Instrument de lancer utilisé dans des compétitions sportives, composé d'une hampe et d'une pointe métallique aérodynamique.</definition>
+    </word>
+    <word value="kaleidoscope">
+        <definition>Tube contenant des miroirs et des morceaux de verre colorés créant des motifs.</definition>
+        <definition>Série de changements ou de mouvements rapides et changeants.</definition>
+        <definition>Instrument optique à travers lequel on observe des motifs symétriques créés par la réflexion de fragments colorés.</definition>
+    </word>
+    <word value="lyre">
+        <definition>Instrument de musique à cordes utilisé dans l'Antiquité.</definition>
+        <definition>Symbole de la musique poétique et artistique.</definition>
+        <definition>Harpe à cordes métalliques utilisée dans la Grèce antique et associée à la poésie et à la musique.</definition>
+    </word>
+    <word value="meteorite">
+        <definition>Fragment de météor qui atteint la surface terrestre.</definition>
+        <definition>Corps rocheux ou métallique provenant de l'espace extérieur.</definition>
+        <definition>Matière extraterrestre entrant dans l'atmosphère terrestre et frappant la surface de la Terre.</definition>
+    </word>
+    <word value="neon">
+        <definition>Gaz rare utilisé dans les enseignes lumineuses.</definition>
+        <definition>Lumière vive et colorée utilisée pour l'affichage publicitaire.</definition>
+        <definition>Gaz noble incolore, utilisé dans l'éclairage et les enseignes lumineuses pour produire une lumière fluorescente.</definition>
+    </word>
+    <word value="obsidienne">
+        <definition>Roche volcanique vitreuse formée par le refroidissement rapide de la lave.</definition>
+        <definition>Pierre noire utilisée pour fabriquer des outils tranchants et des ornements.</definition>
+        <definition>Roche d'origine volcanique, noire et brillante, résultant du refroidissement rapide de la lave.</definition>
+    </word>
+    <word value="papyrus">
+        <definition>Plante aquatique dont on extrayait l'ancien papier égyptien.</definition>
+        <definition>Support d'écriture préparé dans l'Égypte antique.</definition>
+        <definition>Feuille ou bandelette de papier fabriquée à partir de la tige de la plante aquatique du même nom, utilisée dans l'Antiquité pour l'écriture.</definition>
+    </word>
+    <word value="quintessence">
+        <definition>Forme la plus pure ou parfaite de quelque chose.</definition>
+        <definition>Extrait concentré ou essence d'une substance.</definition>
+        <definition>Concentration maximale ou essence la plus pure d'une substance ou d'une idée.</definition>
+    </word>
+    <word value="recif">
+        <definition>Bande ou chaîne de roches située sous ou juste au-dessus de la surface de la mer.</definition>
+        <definition>Danger ou obstacle caché.</definition>
+        <definition>Formation rocheuse sous-marine, souvent composée de coraux ou de roches, constituant un danger pour la navigation.</definition>
+    </word>
+    <word value="sphinx">
+    <definition>Statue mythologique avec le corps d'un lion et la tête d'un humain.</definition>
+    <definition>Énigme ou mystère complexe.</definition>
+    <definition>Figure légendaire de la mythologie égyptienne, souvent représentée comme un gardien énigmatique et mystérieux.</definition>
+    </word>
+    <word value="toucan">
+        <definition>Oiseau tropical connu pour son grand bec coloré.</definition>
+        <definition>Symbole de la faune exotique dans les forêts tropicales.</definition>
+        <definition>Animal caractéristique des forêts tropicales d'Amérique centrale et du Sud, reconnaissable à son bec coloré et à son plumage vif.</definition>
+    </word>
+    <word value="vortex">
+        <definition>Mouvement tourbillonnant de liquide ou de gaz.</definition>
+        <definition>Centre d'une situation ou d'un phénomène intense.</definition>
+        <definition>Phénomène de rotation ou de spirale dans un fluide ou un gaz, caractérisé par un mouvement circulaire autour d'un point central.</definition>
+    </word>
+    <word value="arbre">
+        <definition>Plante ligneuse et pérenne.</definition>
+        <definition>Structure en forme de branches.</definition>
+        <definition>Organisme végétal possédant une tige lignifiée et des feuilles, généralement caractérisé par sa capacité à produire de l'oxygène par la photosynthèse.</definition>
+    </word>
+    <word value="riviere">
+        <definition>Cours d'eau naturel.</definition>
+        <definition>Grande quantité de quelque chose qui coule.</definition>
+        <definition>Écoulement naturel d'eau, généralement alimenté par des sources ou des précipitations, et qui se jette dans un autre cours d'eau, un lac ou un océan.</definition>
+    </word>
+    <word value="soleil">
+        <definition>Étoile du système solaire.</definition>
+        <definition>Ce qui illumine et réchauffe.</definition>
+        <definition>Étoile située au centre du système solaire, source de lumière et de chaleur pour la Terre et les autres planètes.</definition>
+    </word>
+    <word value="montagne">
+        <definition>Grande élévation naturelle de terrain.</definition>
+        <definition>Obstacle à surmonter symboliquement.</definition>
+        <definition>Formation géologique caractérisée par une élévation importante du relief, souvent associée à des pentes raides et à des sommets escarpés.</definition>
+    </word>
+    <word value="ordinateur">
+        <definition>Machine de traitement de l'information.</definition>
+        <definition>Appareil électronique de données.</definition>
+        <definition>Dispositif électronique capable de recevoir, de stocker, de traiter et d'émettre des informations selon des instructions programmées.</definition>
+    </word>
+    <word value="ocean">
+        <definition>Vaste étendue d'eau salée.</definition>
+        <definition>Grande abondance, immensité.</definition>
+        <definition>Étendue d'eau salée qui recouvre une grande partie de la surface de la Terre, divisée en cinq principaux bassins océaniques : l'Atlantique, le Pacifique, l'Indien, l'Arctique et l'Antarctique.</definition>
+    </word>
+    <word value="citron">
+        <definition>Fruit d'un agrume.</definition>
+        <definition>Couleur vive et jaune.</definition>
+        <definition> Agrume de forme ovale ou oblongue, de couleur jaune à jaune verdâtre, à la pulpe juteuse et acide, souvent utilisé pour son jus et son zeste dans la cuisine.</definition>
+    </word>
+    <word value="horloge">
+        <definition>Instrument pour mesurer le temps.</definition>
+        <definition>Disposition régulière d'événements.</definition>
+        <definition>Appareil mécanique ou électronique permettant de mesurer et d'indiquer l'heure, généralement composé d'un cadran et de dispositifs de mouvement.</definition>
+    </word>
+    <word value="chaise">
+        <definition>Siège avec un dossier.</definition>
+        <definition>Poste, fonction dans une organisation.</definition>
+        <definition>Meuble conçu pour s'asseoir, généralement muni d'un dossier et parfois de bras, utilisé dans les maisons, les bureaux, les écoles, etc.</definition>
+    </word>
+    <word value="fenetre">
+        <definition>Ouverture dans un mur.</definition>
+        <definition>Moyen de voir au-delà de son environnement immédiat.</definition>
+        <definition>Perçage dans un mur ou une paroi permettant à la lumière et à l'air de pénétrer dans un espace intérieur, et souvent équipé d'un vitrage transparent pour la vision extérieure.</definition>
+    </word>
+    <word value="albatros">
+    <definition>Grand oiseau de mer connu pour ses longs vols transocéaniques.</definition>
+    <definition>Symbole de fardeau ou de malédiction dans la littérature.</definition>
+    <definition>Oiseau marin de grande envergure, caractérisé par ses longs vols planés au-dessus des océans et souvent associé à des superstitions maritimes.</definition>
+    </word>
+    <word value="boussole">
+        <definition>Instrument utilisé pour déterminer les directions géographiques.</definition>
+        <definition>Guide métaphorique pour la navigation ou les décisions de vie.</definition>
+        <definition>Dispositif magnétique ou gyroscopique permettant de trouver la direction cardinale nord et de s'orienter dans l'espace, souvent utilisé comme une métaphore pour guider les choix ou les décisions dans la vie.</definition>
+    </word>
+    <word value="cynisme">
+        <definition>Attitude ou état d'esprit caractérisé par une disposition à ne croire en aucune sincérité humaine.</definition>
+        <definition>Philosophie qui valorise l'autosuffisance et la vertu.</definition>
+        <definition>Disposition sceptique ou pessimiste envers les motivations ou les intentions des autres, souvent associée à une vision pessimiste de la nature humaine.</definition>
+    </word>
+    <word value="diorama">
+        <definition>Modèle tridimensionnel représentant une scène avec des figures, souvent miniaturisée.</definition>
+        <definition>Technique d'exposition visuelle utilisée dans les musées.</definition>
+        <definition>Installation artistique ou éducative présentant une scène ou un paysage en trois dimensions, souvent utilisée pour représenter des événements historiques ou des habitats naturels.</definition>
+    </word>
+    <word value="epilogue">
+        <definition>Court passage à la fin d'une œuvre littéraire, servant de conclusion.</definition>
+        <definition>Événement final qui conclut une série d'événements.</definition>
+        <definition>Dernière partie d'une œuvre littéraire, souvent utilisée pour récapituler les événements ou pour donner une conclusion aux intrigues.</definition>
+    </word>
+    <word value="fossile">
+        <definition>Restes ou empreintes d'organismes anciens conservés dans les roches.</definition>
+        <definition>Chose dépassée et résistante au changement.</definition>
+        <definition>Trace ou vestige d'une forme de vie du passé, souvent conservée dans les roches ou les sédiments, et utilisée comme indice pour étudier l'histoire de la vie sur Terre.</definition>
+    </word>
+    <word value="geothermie">
+        <definition>Technologie exploitant la chaleur interne de la Terre pour la production d'énergie.</definition>
+        <definition>Phénomène naturel de chaleur émanant du sous-sol terrestre.</definition>
+        <definition>Processus de production d'énergie utilisant la chaleur naturelle du sous-sol terrestre, souvent utilisée pour le chauffage des bâtiments ou la production d'électricité.</definition>
+    </word>
+    <word value="hibernation">
+        <definition>Période de repos prolongée généralement associée à l'hiver chez certains animaux.</definition>
+        <definition>Retraite temporaire ou période d'inactivité.</definition>
+        <definition>État de dormance prolongée observé chez certains animaux pendant les mois d'hiver, caractérisé par une diminution de l'activité métabolique et des fonctions corporelles pour économiser de l'énergie.</definition>
+    </word>
+    <word value="insuline">
+        <definition>Hormone produite par le pancréas, essentielle à la régulation de la glycémie.</definition>
+        <definition>Médicament vital pour de nombreux diabétiques.</definition>
+        <definition>Substance chimique produite par le pancréas qui régule la glycémie en facilitant l'absorption du glucose par les cellules, souvent utilisée comme traitement pour le diabète.</definition>
+    </word>
+    <word value="jubile">
+        <definition>Célébration marquant l'anniversaire d'un événement important, notamment un règne ou un mariage.</definition>
+        <definition>Expression de joie ou de célébration.</definition>
+        <definition>Fête ou célébration marquant un événement important ou une étape significative, souvent associée à des expressions de joie et de jubilation.</definition>
+    </word>
+    <word value="krypton">
+        <definition>Élément chimique gazeux rare utilisé principalement dans l'éclairage.</definition>
+        <definition>Gaz noble caractérisé par son inertie chimique.</definition>
+        <definition>Élément chimique de numéro atomique 36, souvent utilisé dans les lampes à arc pour produire une lumière vive et stable, et présentant une grande stabilité chimique en raison de sa configuration électronique.</definition>
+    </word>
+    <word value="luthier">
+        <definition>Artisan spécialisé dans la fabrication et la réparation d'instruments à cordes.</definition>
+        <definition>Personne dont le métier est associé à la musique classique et traditionnelle.</definition>
+        <definition>Professionnel qualifié dans la construction et l'entretien des instruments de musique à cordes, tels que les violons, les violoncelles et les guitares, souvent apprécié pour ses compétences techniques et sa connaissance des matériaux et des techniques de fabrication.</definition>
+    </word>
+    <word value="meandre">
+        <definition>Courbe ou virage prononcé du cours d'une rivière.</definition>
+        <definition>Périple complexe et indirect, souvent utilisé pour décrire des procédures ou des récits.</definition>
+        <definition>Section sinueuse et courbe d'un cours d'eau, caractérisée par des virages et des boucles qui créent des motifs tortueux le long du lit de la rivière, souvent utilisée comme métaphore pour décrire des chemins ou des processus indirects et complexes.</definition>
+    </word>
+    <word value="neologisme">
+    <definition>Mot nouveau ou expression nouvelle, ou nouvel usage d'un mot existant.</definition>
+    <definition>Phénomène linguistique reflétant l'évolution d'une langue.</definition>
+    <definition>Nouveau mot ou expression introduit dans une langue pour décrire des concepts ou des réalités émergentes, souvent en réponse à des changements sociaux, technologiques ou culturels.</definition>
+    </word>
+    <word value="ocre">
+        <definition>Pigment naturel terreux allant du jaune au brun rougeâtre.</definition>
+        <definition>Couleur chaude et terreuse utilisée en peinture et en décoration.</definition>
+        <definition>Teinte naturelle dérivée d'un pigment minéral, allant du jaune pâle au rouge foncé, souvent utilisée pour colorer les peintures, les pigments et les matériaux de construction.</definition>
+    </word>
+    <word value="palindrome">
+        <definition>Mot, phrase, nombre ou autre séquence de caractères qui se lit de la même manière à l'endroit comme à l'envers.</definition>
+        <definition>Type de symétrie littéraire ou numérique.</definition>
+        <definition>Expression linguistique ou numérique qui peut être lue de la même manière dans les deux sens, souvent utilisée comme jeu de mots ou comme défi pour les amateurs de jeux de lettres.</definition>
+    </word>
+    <word value="quinoa">
+        <definition>Graine comestible considérée comme une pseudo-céréale, originaire des Andes.</definition>
+        <definition>Aliment de base dans la cuisine sud-américaine, apprécié pour sa valeur nutritive.</definition>
+        <definition>Graine nutritive issue d'une plante originaire des Andes, riche en protéines et en fibres, souvent consommée comme substitut de céréales dans de nombreux plats et recettes culinaires.</definition>
+    </word>
+    <word value="remanence">
+        <definition>Phénomène par lequel une image persiste sur un écran après avoir été affichée.</definition>
+        <definition>Capacité d'une substance à conserver une propriété, comme la luminescence, après avoir été stimulée.</definition>
+        <definition>Rétention temporaire d'une impression ou d'une sensation après la cessation de son stimulus initial, souvent observée dans les écrans d'affichage ou les matériaux lumineux.</definition>
+    </word>
+    <word value="synapse">
+        <definition>Zone de jonction entre deux neurones permettant la transmission de l'information nerveuse.</definition>
+        <definition>Point critique où se produit un échange d'informations dans le système nerveux.</definition>
+        <definition>Connexion spécialisée entre les cellules nerveuses qui permet le transfert rapide des signaux électriques et chimiques, jouant un rôle crucial dans la communication neuronale et le fonctionnement du système nerveux.</definition>
+    </word>
+    <word value="triathlon">
+        <definition>Compétition sportive consistant en trois épreuves successives, généralement la natation, le cyclisme et la course à pied.</definition>
+        <definition>Épreuve d'endurance combinant diverses disciplines sportives.</definition>
+        <definition>Compétition athlétique exigeant des participants de compléter successivement trois épreuves différentes, souvent la natation, le cyclisme et la course à pied, mettant à l'épreuve leur endurance, leur force et leur agilité.</definition>
+    </word>
+    <word value="altimetre">
+        <definition>Instrument mesurant l'altitude.</definition>
+        <definition>Utilisé principalement en aviation et en randonnée.</definition>
+        <definition>Dispositif de mesure utilisé pour déterminer l'altitude d'un objet par rapport à un point de référence, souvent utilisé dans l'aviation, la navigation et les activités de plein air.</definition>
+    </word>
+    <word value="biodiversite">
+        <definition>Variété et variabilité des organismes vivants.</definition>
+        <definition>Indicateur de la santé écologique d'un environnement.</definition>
+        <definition>Richesse et diversité des formes de vie présentes dans un écosystème donné, souvent utilisée comme mesure de la stabilité et de la résilience des communautés biologiques face aux perturbations environnementales.</definition>
+    </word>
+    <word value="conifere">
+        <definition>Arbre produisant des cônes et des feuilles en forme d'aiguilles.</definition>
+        <definition>Présent principalement dans les régions tempérées froides.</definition>
+        <definition>Arbre à feuilles persistantes caractérisé par des cônes reproducteurs et des feuilles en forme d'aiguilles, adapté à la croissance dans les climats froids et les sols pauvres, souvent utilisé comme source de bois d'œuvre et de matériaux de construction.</definition>
+    </word>
+    <word value="dichotomie">
+        <definition>Division en deux parties totalement opposées.</definition>
+        <definition>Séparation claire et définie en philosophie ou science.</definition>
+        <definition>Classification binaire ou division en deux catégories distinctes, souvent utilisée pour analyser des concepts, des idées ou des systèmes complexes en opposant leurs caractéristiques ou leurs caractéristiques essentielles.</definition>
+    </word>
+    <word value="ebullition">
+        <definition>Point où un liquide se transforme en vapeur.</definition>
+        <definition>État d'agitation ou d'excitation intense.</definition>
+        <definition>Changement d'état physique d'un liquide en vapeur résultant de l'augmentation de sa température jusqu'à son point d'ébullition, souvent accompagné de turbulences et d'effervescence.</definition>
+    </word>
+    <word value="feng shui">
+        <definition>Art chinois ancien de l'arrangement spatial pour harmoniser l'énergie.</definition>
+        <definition>Pratique visant à optimiser le bien-être et la fortune.</definition>
+        <definition>Philosophie et pratique chinoise ancienne visant à harmoniser l'énergie vitale (chi) dans les environnements bâtis en utilisant des principes d'orientation, de disposition et de décoration, souvent appliquée pour promouvoir la santé, le bonheur et la prospérité.</definition>
+    </word>
+    <word value="heliotrope">
+        <definition>Plante qui s'oriente vers le soleil.</definition>
+        <definition>Pierre semi-précieuse utilisée en joaillerie.</definition>
+        <definition>Plante à fleurs caractérisée par la capacité de ses fleurs à suivre la trajectoire du soleil tout au long de la journée, souvent cultivée comme ornementale pour son comportement unique et sa valeur esthétique.</definition>
+    </word>
+    <word value="iconographie">
+        <definition>Système d'images visuelles ou de symboles.</definition>
+        <definition>Étude des représentations et des thèmes dans les arts visuels.</definition>
+        <definition>Discipline qui étudie les images et les symboles dans l'art et la culture, en se concentrant sur leur signification, leur utilisation et leur interprétation dans différents contextes historiques et culturels.</definition>
+    </word>
+    <word value="volatilité">
+        <definition>Propriété d'une substance de se vaporiser facilement.</definition>
+        <definition>Caractéristique des marchés financiers qui varient fréquemment.</definition>
+        <definition>Propension d'une substance à passer de l'état liquide ou solide à l'état gazeux à des températures relativement basses, souvent utilisée pour décrire la tendance d'un marché financier à fluctuer rapidement et de manière imprévisible.</definition>
+    </word>
+    <word value="xenophile">
+        <definition>Qui est attiré par les cultures étrangères.</definition>
+        <definition>Opposé à xénophobe, souvent utilisé en contexte socioculturel.</definition>
+        <definition>Personne ou trait de personnalité caractérisé par une attirance ou un intérêt marqué pour les cultures, les coutumes ou les peuples étrangers, souvent associé à une ouverture d'esprit et à une curiosité interculturelle.</definition>
+    </word>
+    <word value="yacht">
+        <definition>Petit navire de luxe utilisé pour les loisirs.</definition>
+        <definition>Symbole de richesse et de loisir nautique.</definition>
+        <definition>Navire de plaisance de taille moyenne à grande, souvent utilisé pour les voyages de loisirs ou les événements sociaux, associé à un mode de vie luxueux et à des loisirs nautiques.</definition>
+    </word>
+    <word value="aquifere">
+        <definition>Couche de roche qui contient de l'eau ou permet à l'eau de s'écouler.</definition>
+        <definition>Essentiel pour les ressources en eau souterraine.</definition>
+        <definition>Formation géologique souterraine composée de roches perméables capables de stocker et de transmettre de grandes quantités d'eau souterraine, souvent exploitée comme source d'eau potable et de ressources hydriques.</definition>
+    </word>
+    <word value="biotope">
+        <definition>Zone écologique uniforme caractérisée par des conditions de vie spécifiques.</definition>
+        <definition>Utilisé en écologie pour la conservation des habitats.</definition>
+        <definition>Environnement naturel ou habitat spécifique caractérisé par des conditions écologiques distinctes et des communautés biologiques particulières, souvent utilisé comme unité de base pour l'étude et la conservation de la biodiversité et des écosystèmes.</definition>
+    </word>
+    <word value="cryptique">
+        <definition>Qui est obscur et difficile à comprendre.</definition>
+        <definition>Souvent utilisé pour décrire des messages ou des comportements.</definition>
+        <definition>Énigmatique ou mystérieux dans sa signification ou son interprétation, souvent utilisé pour décrire des langages codés, des symboles ambigus ou des comportements énigmatiques.</definition>
+    </word>
+    <word value="diurne">
+        <definition>Actif pendant les heures de lumière du jour.</definition>
+        <definition>Opposé à nocturne, utilisé en biologie pour décrire le comportement animal.</definition>
+        <definition>Qui se produit ou se manifeste principalement pendant la journée, par opposition à ce qui se produit pendant la nuit.</definition>
+    </word>
+    <word value="ephemere">
+        <definition>Qui dure un très court moment.</definition>
+        <definition>Caractéristique de phénomènes ou d'événements de courte durée.</definition>
+        <definition>Bref et fugace, souvent éphémère dans la nature et dans les expériences humaines.</definition>
+    </word>
+    <word value="holographie">
+        <definition>Technique de photographie en trois dimensions.</definition>
+        <definition>Utilisée pour enregistrer et reproduire des images tridimensionnelles.</definition>
+        <definition>Procédé de création d'images tridimensionnelles en utilisant la lumière laser pour enregistrer une scène sous forme d'interférences sur une plaque photosensible.</definition>
+    </word>
+    <word value="isotherme">
+        <definition>Ligne sur une carte météorologique qui connecte les points de même température.</definition>
+        <definition>Utilisé en climatologie et en études météorologiques.</definition>
+        <definition>Situation où la température est constante, sans variation spatiale significative sur une surface donnée.</definition>
+    </word>
+    <word value="jargon">
+        <definition>Vocabulaire spécialisé propre à une profession ou à un groupe.</definition>
+        <definition>Souvent incompréhensible pour les non-initiés.</definition>
+        <definition>Langage technique ou argot utilisé par un groupe particulier, souvent caractérisé par des termes obscurs ou spécifiques à une activité ou à un domaine.</definition>
+    </word>
+    <word value="kerosene">
+        <definition>Hydrocarbure liquide utilisé comme combustible, notamment pour les avions.</definition>
+        <definition>Essentiel pour le transport aérien moderne.</definition>
+        <definition>Carburant dérivé du pétrole utilisé dans les avions à réaction, les générateurs et les lampes, caractérisé par sa haute densité énergétique et sa stabilité lors du stockage et du transport.</definition>
+    </word>
+    <word value="lucratif">
+        <definition>Qui produit un profit ou un bénéfice.</definition>
+        <definition>Utilisé en économie pour qualifier des activités rentables.</definition>
+        <definition>Relatif à une activité ou à un investissement qui génère un gain financier ou un bénéfice significatif pour ceux qui y participent.</definition>
+    </word>
+    <word value="meandre">
+        <definition>Courbe naturelle formée par le lit d'une rivière.</definition>
+        <definition>Utilisé en géographie pour décrire les sinuosités d'un cours d'eau.</definition>
+        <definition>Série de courbes ou de virages serrés dans le cours d'une rivière ou d'un ruisseau, résultant de l'érosion et du déplacement latéral du lit de la rivière au fil du temps.</definition>
+    </word>
+    <word value="nebuleuse">
+        <definition>Vaste nuage de gaz et de poussière dans l'espace.</definition>
+        <definition>Important en astronomie pour l'étude de la formation des étoiles.</definition>
+        <definition>Région de l'espace interstellaire composée de gaz, de poussière et parfois de matière en fusion, souvent le site de la formation d'étoiles et de systèmes planétaires.</definition>
+    </word>
+    <word value="oxydation">
+        <definition>Réaction chimique où une substance perd des électrons.</definition>
+        <definition>Phénomène impliqué dans la rouille et la combustion.</definition>
+        <definition>Processus chimique dans lequel une substance perd des électrons lorsqu'elle réagit avec une autre substance, souvent associé à la corrosion des métaux et à la combustion des matières organiques.</definition>
+    </word>
+    <word value="perenne">
+        <definition>Qui dure longtemps, persistant.</definition>
+        <definition>Utilisé en botanique pour décrire des plantes qui vivent plusieurs années.</definition>
+        <definition>Plante vivace qui survit et fleurit pendant plusieurs saisons, par opposition aux plantes annuelles ou biennales.</definition>
+    </word>
+    <word value="juxtaposition">
+        <definition>Acte de placer des choses cote a cote, surtout pour comparer ou contraster.</definition>
+        <definition>Technique litteraire ou artistique pour creer un effet.</definition>
+        <definition>Disposition de deux éléments ou plus côte à côte, souvent dans un contexte artistique ou littéraire, pour mettre en évidence leurs similitudes ou leurs différences.</definition>
+    </word>
+    <word value="kinesthesie">
+        <definition>Sens du mouvement du corps et de la position des membres.</definition>
+        <definition>Capacite de sentir le mouvement meme les yeux fermes.</definition>
+        <definition>Sensibilité proprioceptive qui permet à une personne de percevoir la position, le mouvement et la tension de ses muscles et de ses articulations, facilitant ainsi la coordination motrice et l'équilibre.</definition>
+    </word>
+    <word value="lithosphere">
+        <definition>Couche rigide externe de la Terre, comprenant la croute et la partie superieure du manteau.</definition>
+        <definition>Fondation solide sur laquelle reposent les continents.</definition>
+        <definition>En géologie, la partie solide et rigide de la Terre, comprenant la croûte terrestre et la partie supérieure du manteau, qui constitue la surface terrestre sur laquelle reposent les continents, les océans et d'autres formations géologiques.</definition>
+    </word>
+    <word value="metaphore">
+        <definition>Figure de style impliquant une comparaison implicite.</definition>
+        <definition>Outil litteraire pour rendre les descriptions plus evocatrices.</definition>
+        <definition>Figure de rhétorique dans laquelle un mot ou une phrase est utilisé de manière figurative pour représenter quelque chose d'autre, créant ainsi une comparaison implicite qui enrichit le sens et l'impact d'un texte.</definition>
+    </word>
+    <word value="neophyte">
+        <definition>Personne qui est nouvelle dans un domaine ou une religion.</definition>
+        <definition>Debutant ou novice dans une activite.</definition>
+        <definition>Individu novice ou inexpérimenté dans un domaine particulier de connaissance, d'activité ou de croyance, souvent caractérisé par son manque d'expérience ou de familiarité avec les pratiques et les conventions établies.</definition>
+    </word>
+    <word value="biodegradable">
+        <definition>Qui peut être décomposé par des processus naturels.</definition>
+        <definition>Souvent utilisé pour les matériaux respectueux de l'environnement.</definition>
+        <definition>Matériau ou substance susceptible d'être décomposé en éléments simples et non nocifs par des processus biologiques ou chimiques naturels, souvent favorisant la réduction des déchets et la protection de l'environnement.</definition>
+    </word>
+    <word value="cartographie">
+        <definition>Science de la création et de l'utilisation des cartes géographiques.</definition>
+        <definition>Crucial pour la navigation et la planification urbaine.</definition>
+        <definition>Étude et pratique de la représentation graphique et de la création de cartes géographiques, utilisées pour décrire, analyser et naviguer dans l'espace terrestre, ainsi que pour la planification et la gestion des ressources et des infrastructures urbaines.</definition>
+    </word>
+    <word value="decibel">
+        <definition>Unité de mesure du niveau sonore.</definition>
+        <definition>Utilisé pour quantifier le volume des sons.</definition>
+        <definition>Échelle logarithmique utilisée pour quantifier l'intensité du son ou du bruit, mesurant la pression acoustique relative par rapport à un niveau de référence spécifié, souvent utilisée dans l'ingénierie du son, la physique et la protection de l'ouïe.</definition>
+    </word>
+    <word value="ecosysteme">
+        <definition>Communauté d'organismes vivants en interaction avec leur environnement.</definition>
+        <definition>Essentiel pour étudier les impacts écologiques et la biodiversité.</definition>
+        <definition>Environnement écologique composé d'organismes vivants, de leur habitat physique et des interactions complexes entre eux, crucial pour maintenir l'équilibre des écosystèmes naturels et pour comprendre les liens entre la biodiversité, les cycles biogéochimiques et les services écosystémiques.</definition>
+    </word>
+    <word value="fjord">
+        <definition>Longue et étroite entrée de mer bordée de hautes falaises, créée par l'érosion glaciaire.</definition>
+        <definition>Caractéristique des paysages scandinaves et canadiens.</definition>
+        <definition>Vallée glaciaire profonde et en forme de U remplie d'eau de mer, bordée de falaises escarpées, souvent créée par l'érosion glaciaire et caractéristique des régions côtières de montagnes, telles que la Norvège, le Canada et l'Alaska.</definition>
+    </word>
+    <word value="geothermique">
+        <definition>Relatif à la production d'énergie en utilisant la chaleur stockée sous la terre.</definition>
+        <definition>Une source d'énergie renouvelable importante.</definition>
+        <definition>Technologie ou processus utilisant la chaleur naturelle provenant de l'intérieur de la Terre pour produire de l'électricité ou pour le chauffage, souvent utilisé comme source d'énergie renouvelable alternative à faible émission de carbone.</definition>
+    </word>
+    <word value="heliocentrique">
+        <definition>Modèle astronomique dans lequel le Soleil est considéré comme le centre de l'univers.</definition>
+        <definition>Opposé au modèle géocentrique.</definition>
+        <definition>Théorie astronomique qui place le Soleil au centre du système solaire, avec les planètes orbitant autour de lui, en opposition au modèle géocentrique qui place la Terre au centre de l'univers.</definition>
+    </word>
+    <word value="immunologie">
+        <definition>Branche de la médecine qui étudie le système immunitaire.</definition>
+        <definition>Essentielle pour comprendre et combattre les maladies.</definition>
+        <definition>Domaine de la biologie qui se concentre sur l'étude du système immunitaire, y compris ses mécanismes de défense, ses réponses aux agents pathogènes et ses implications dans les maladies auto-immunes et infectieuses.</definition>
+    </word>
+    <word value="juxtaposer">
+        <definition>Placer des choses côte à côte pour les comparer ou créer un effet.</definition>
+        <definition>Utilisé en art et en littérature pour des effets de contraste.</definition>
+        <definition>Disposition de deux éléments ou plus côte à côte, souvent dans un but de comparaison, de contraste ou pour créer une tension visuelle ou narrative, couramment utilisée dans les arts visuels, la littérature et d'autres formes d'expression créative.</definition>
+    </word>
+    <word value="kinesitherapie">
+        <definition>Thérapie utilisant le mouvement pour réhabiliter des muscles et des articulations.</definition>
+        <definition>Essentielle dans les traitements post-traumatiques.</definition>
+        <definition>Forme de thérapie physique qui utilise le mouvement et l'exercice thérapeutique pour réhabiliter les fonctions motrices altérées, améliorer la mobilité et soulager la douleur, souvent utilisée dans le traitement des blessures, des troubles musculo-squelettiques et des maladies neurologiques.</definition>
+    </word>
+    <word value="lithosphere">
+        <definition>Couche externe rigide de la Terre.</definition>
+        <definition>Comprend la croûte terrestre et la partie supérieure du manteau.</definition>
+        <definition>En géologie, la partie externe et rigide de la Terre, composée de la croûte terrestre et de la partie supérieure du manteau, qui forme la surface solide de la planète et joue un rôle crucial dans la tectonique des plaques et d'autres processus géologiques.</definition>
+    </word>
+    <word value="metaphore">
+        <definition>Figure de style où un terme est utilisé pour désigner quelque chose qu'il ne désigne pas littéralement.</definition>
+        <definition>Permet d'illustrer ou de simplifier des concepts complexes.</definition>
+        <definition>Figure de rhétorique qui établit une comparaison implicite entre deux éléments distincts en utilisant un terme ou une expression qui ne désigne pas littéralement l'objet de la comparaison, souvent utilisée pour rendre des idées abstraites plus concrètes ou pour susciter des associations d'idées inattendues.</definition>
+    </word>
+    <word value="neologisme">
+        <definition>Mot nouveau ou sens nouveau donné à un mot existant.</definition>
+        <definition>Utilisé pour s'adapter aux évolutions culturelles ou technologiques.</definition>
+        <definition>Nouveau mot, expression ou sens donné à un mot existant, souvent créé pour refléter des changements culturels, sociaux ou technologiques, ou pour répondre à de nouveaux besoins de communication ou d'expression linguistique.</definition>
+    </word>
+    <word value="oxydation">
+        <definition>Réaction chimique impliquant un transfert d'électrons.</definition>
+        <definition>Essentielle dans les processus comme la rouille ou la combustion.</definition>
+        <definition>Processus chimique dans lequel une substance perd des électrons lorsqu'elle réagit avec une autre substance, souvent associé à des réactions d'oxydation-reduction telles que la corrosion, la rouille et la combustion.</definition>
+    </word>
+    <word value="photosynthese">
+        <definition>Processus par lequel les plantes convertissent la lumière en énergie chimique.</definition>
+        <definition>Fondamental pour la vie sur Terre en produisant de l'oxygène.</definition>
+        <definition>Processus biochimique dans lequel les organismes photosynthétiques, tels que les plantes, les algues et certaines bactéries, convertissent l'énergie lumineuse en énergie chimique sous forme de molécules organiques, essentiel pour la production d'oxygène et le maintien de la biosphère terrestre.</definition>
+    </word>
+    <word value="quasar">
+        <definition>Objet céleste émettant de fortes radiations.</definition>
+        <definition>Considéré comme une phase jeune des galaxies actives.</definition>
+        <definition>Source d'émission intense de rayonnement électromagnétique provenant du noyau d'une galaxie très éloignée, souvent associée à des trous noirs supermassifs et considérée comme une phase jeune ou active de l'évolution des galaxies.</definition>
+    </word>
+    <word value="remanence">
+        <definition>Capacité d'un objet ou d'une image à persister après sa suppression.</definition>
+        <definition>Utilisé en technologie d'écran et en psychologie visuelle.</definition>
+        <definition>Phénomène dans lequel une impression, une image ou une charge magnétique persiste sur un support même après que la source initiale a été retirée, souvent observée dans les technologies d'affichage et dans les processus de perception visuelle.</definition>
+    </word>
+    <word value="sismologie">
+        <definition>Étude des tremblements de terre et des mouvements de la Terre.</definition>
+        <definition>Crucial pour la prévention des risques naturels.</definition>
+        <definition>Brashe de la géophysique qui se concentre sur l'étude des tremblements de terre, des ondes sismiques et des mouvements de la croûte terrestre, essentielle pour comprendre la dynamique de la Terre et pour la prévention et la gestion des risques sismiques.</definition>
+    </word>
+    <word value="turbulence">
+        <definition>Mouvement irrégulier et violent dans un fluide.</definition>
+        <definition>Important en météorologie et en aéronautique.</definition>
+        <definition>Phénomène hydrodynamique caractérisé par des mouvements fluides chaotiques et irréguliers, souvent observé dans les fluides en mouvement tels que l'air et l'eau, crucial en météorologie pour comprendre les phénomènes atmosphériques et en aéronautique pour la sécurité des vols.</definition>
+    </word>
+    <word value="uvulaire">
+        <definition>Relatif à l'uvule, situé à l'arrière de la gorge.</definition>
+        <definition>Utilisé en phonétique pour décrire certains sons du langage.</definition>
+        <definition>Se rapportant à la petite structure en forme de conique située à l'arrière de la gorge, près du voile du palais, souvent utilisée en phonétique pour décrire les sons produits par la vibration de cette structure lors de la parole.</definition>
+    </word>
+    <word value="oscillation">
+        <definition>Mouvement de va-et-vient autour d'un point central ou d'équilibre.</definition>
+        <definition>Fluctuation régulière entre deux extrêmes.</definition>
+        <definition>Mouvement périodique ou alternatif d'un système ou d'une particule autour d'une position ou d'un état d'équilibre, caractérisé par des changements réguliers ou récurrents entre deux états opposés ou extrêmes.</definition>
+    </word>
+    <word value="paradigme">
+        <definition>Modèle ou exemple qui sert de référence.</definition>
+        <definition>Théorie dominante dans un domaine scientifique.</definition>
+        <definition>Modèle, exemple ou cadre conceptuel largement accepté qui guide la pensée, la pratique et la recherche dans un domaine donné, souvent associé à une théorie ou à une vision du monde dominante dans une communauté scientifique ou intellectuelle.</definition>
+    </word>
+    <word value="quartz">
+        <definition>Minéral dur composé de dioxyde de silicium.</definition>
+        <definition>Utilisé en horlogerie pour sa fréquence régulière.</definition>
+        <definition>Minéral cristallin très répandu, constitué de dioxyde de silicium, qui se présente sous forme de cristaux hexagonaux et est largement utilisé dans l'industrie pour la fabrication de composants électroniques, de pierres précieuses et dans l'horlogerie pour ses propriétés piézoélectriques et sa stabilité de fréquence.</definition>
+    </word>
+    <word value="reminiscence">
+        <definition>Acte de se souvenir de quelque chose du passé.</definition>
+        <definition>Souvenir flou ou partiel qui remonte à la surface.</definition>
+        <definition>Processus ou expérience de se souvenir ou de rappeler des événements, des expériences ou des informations passées, souvent caractérisé par des souvenirs vifs, flous ou fragmentés qui remontent à la conscience.</definition>
+    </word>
+
+
+</words>
