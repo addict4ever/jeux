@@ -21,10 +21,6 @@
     </option>
     <option>
         <name>Dc</name>
-        <file>dc.xml</file>
-    </option>
-    <option>
-        <name>Definitions</name>
-        <file>definitions.xml</file>
+        <file>https://raw.githubusercontent.com/addict4ever/jeux/main/dc.xml</file>
     </option>
 </choices>
