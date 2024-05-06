@@ -1,0 +1,248 @@
+<words>
+    <word value="Allosaurus">
+        <definition>Un grand prédateur bipède du Jurassique supérieur, reconnu pour sa mâchoire puissante et ses dents acérées.</definition>
+        <definition>Il était l'un des plus grands carnivores de son époque, capable de chasser de grandes proies herbivores.</definition>
+        <definition>Ses membres antérieurs robustes et ses griffes tranchantes l'aidaient à capturer ses proies.</definition>
+    </word>
+
+    <word value="Ankylosaurus">
+        <definition>Un dinosaure herbivore du Crétacé supérieur, caractérisé par son armure épaisse et sa massue caudale distinctive.</definition>
+        <definition>Il se protégeait des prédateurs grâce à ses plaques osseuses et sa queue robuste.</definition>
+        <definition>Son apparence massive et ses adaptations défensives en font l'un des dinosaures les plus reconnaissables.</definition>
+    </word>
+
+    <word value="Apatosaurus">
+        <definition>Un dinosaure sauropode herbivore du Jurassique supérieur, connu pour sa taille immense et son long cou.</definition>
+        <definition>Il se nourrissait de feuillages en hauteur grâce à son cou flexible et ses mâchoires puissantes.</definition>
+        <definition>Souvent confondu avec le Brontosaure, il fait partie des plus grands animaux ayant jamais existé.</definition>
+    </word>
+
+    <word value="Baryonyx">
+        <definition>Un dinosaure carnivore du Crétacé inférieur, remarquable par son museau allongé et ses griffes puissantes.</definition>
+        <definition>Principalement piscivore, il chassait en utilisant ses mâchoires semblables à celles des crocodiles.</definition>
+        <definition>Son squelette, découvert en Angleterre, a fourni des indices précieux sur sa biologie et ses habitudes alimentaires.</definition>
+    </word>
+
+    <word value="Brachiosaure">
+        <definition>Un herbivore imposant du Jurassique, caractérisé par un long cou, un corps massif et des pattes antérieures plus longues que les postérieures.</definition>
+        <definition>Sa stature particulière lui permettait d'atteindre la cime des arbres pour se nourrir de feuillages.</definition>
+        <definition>Reconnu pour sa taille imposante, il était néanmoins paisible et se nourrissait principalement de plantes.</definition>
+    </word>
+
+    <word value="Camarasaurus">
+        <definition>Un herbivore quadrupède du Jurassique, connu pour son cou court, ses dents robustes et son crâne en forme de boîte.</definition>
+        <definition>Ses dents solides lui permettaient de se nourrir d'une variété de végétation coriace.</definition>
+        <definition>Il était un membre important de la faune du Jurassique et vivait en troupeaux pour se protéger.</definition>
+    </word>
+
+    <word value="Compsognathus">
+        <definition>Un petit dinosaure carnivore du Jurassique supérieur, souvent considéré comme l'un des plus petits dinosaures connus.</definition>
+        <definition>Ses membres postérieurs longs et ses griffes pointues suggèrent qu'il était un chasseur agile.</definition>
+        <definition>On pense qu'il se nourrissait de petits vertébrés et d'insectes.</definition>
+    </word>
+
+    <word value="Dilophosaurus">
+        <definition>Un carnivore du Jurassique précoce, doté de crêtes doubles distinctives sur sa tête.</definition>
+        <definition>Il mesurait environ 6 mètres de long et possédait des membres postérieurs puissants pour la course.</definition>
+        <definition>Ses crêtes ornementales pourraient avoir été utilisées pour la parade ou la reconnaissance entre individus.</definition>
+    </word>
+
+    <word value="Diplodocus">
+        <definition>Ce dinosaure herbivore du Jurassique possédait un long cou et une queue étendue, ce qui lui permettait d'accéder aux feuillages en hauteur.</definition>
+        <definition>L'un des plus longs dinosaures connus, il se déplaçait en troupeaux pour se protéger des prédateurs.</definition>
+        <definition>Ses narines situées sur le dessus de son crâne suggèrent une adaptation à une vie partiellement aquatique.</definition>
+    </word>
+    <word value="Edmontosaurus">
+        <definition>Un dinosaure herbivore du Crétacé supérieur, appartenant au groupe des hadrosauridés, ou "dinosaures à bec de canard".</definition>
+        <definition>Il était un animal grégaire, vivant en grands troupeaux pour se défendre contre les prédateurs.</definition>
+        <definition>Ses puissantes mâchoires, dotées de centaines de dents, lui permettaient de broyer une variété de plantes.</definition>
+    </word>
+
+    <word value="Eoraptor">
+        <definition>Un dinosaure du Trias supérieur, considéré comme l'un des premiers représentants des dinosaures connus.</definition>
+        <definition>Il était un prédateur agile et petit, mesurant environ un mètre de long.</definition>
+        <definition>On pense qu'il se nourrissait d'insectes, de petits animaux et peut-être même de végétation.</definition>
+    </word>
+
+    <word value="Euoplocephalus">
+        <definition>Un dinosaure herbivore du Crétacé supérieur, appartenant à la famille des ankylosauridés et doté d'une armure osseuse complète.</definition>
+        <definition>Il possédait une queue terminée par une massue qu'il utilisait pour la défense contre les prédateurs.</definition>
+        <definition>Ses plaques osseuses réparties sur tout son corps lui offraient une excellente protection.</definition>
+    </word>
+
+    <word value="Fukuiraptor">
+        <definition>Un dinosaure théropode du Crétacé inférieur découvert au Japon, probablement un chasseur actif.</definition>
+        <definition>Ses dents pointues et ses griffes recourbées indiquent qu'il était un prédateur carnivore.</definition>
+        <definition>On pense qu'il chassait de petites proies et pouvait avoir eu des comportements sociaux en groupe.</definition>
+    </word>
+
+    <word value="Gallimimus">
+        <definition>Un dinosaure omnivore du Crétacé tardif, reconnaissable par son apparence ressemblant à celle d'un oiseau coureur.</definition>
+        <definition>Doté de longues pattes et d'une queue équilibrante, il pouvait atteindre des vitesses élevées en courant.</definition>
+        <definition>Son bec dépourvu de dents suggère un régime varié, allant des petits animaux aux plantes.</definition>
+    </word>
+
+    <word value="Giganotosaurus">
+        <definition>Un énorme prédateur du Crétacé supérieur, originaire de l'actuelle Amérique du Sud et l'un des plus grands dinosaures carnivores connus.</definition>
+        <definition>Il possédait une mâchoire puissante remplie de dents tranchantes, capable de s'attaquer aux plus grands herbivores.</definition>
+        <definition>Avec ses membres puissants et sa grande taille, il dominait la chaîne alimentaire de son époque.</definition>
+    </word>
+
+    <word value="Hadrosaurus">
+        <definition>Un dinosaure herbivore du Crétacé supérieur, l'un des premiers fossiles de dinosaures découverts en Amérique du Nord.</definition>
+        <definition>Avec son bec de canard caractéristique, il se nourrissait principalement de feuillages et d'autres végétaux.</definition>
+        <definition>Les restes fossilisés montrent qu'il vivait en grands troupeaux pour se protéger des prédateurs.</definition>
+    </word>
+
+    <word value="Hypsilophodon">
+        <definition>Un petit dinosaure herbivore du Crétacé inférieur, connu pour sa capacité à courir rapidement.</definition>
+        <definition>Ses pattes longues et sa petite taille suggèrent qu'il pouvait échapper facilement aux prédateurs.</definition>
+        <definition>Il se nourrissait principalement de plantes basses et était probablement très social.</definition>
+    </word>
+    <word value="Iguanodon">
+        <definition>Un grand herbivore du Crétacé inférieur, reconnaissable par ses pouces en forme de pointe.</definition>
+        <definition>Il possédait des mains fonctionnelles lui permettant de saisir les branches pour se nourrir.</definition>
+        <definition>L'un des premiers dinosaures à être découverts et étudiés par les scientifiques.</definition>
+    </word>
+
+    <word value="Kentrosaurus">
+        <definition>Un dinosaure herbivore du Jurassique supérieur, appartenant à la famille des stégosauridés, caractérisé par ses épines et plaques sur le dos.</definition>
+        <definition>Il possédait une double rangée d'épines qui longeaient sa colonne vertébrale et servaient probablement à la défense.</definition>
+        <definition>Sa queue était armée de pointes acérées, utilisées pour repousser les prédateurs.</definition>
+    </word>
+
+    <word value="Lambeosaurus">
+        <definition>Un dinosaure herbivore du Crétacé supérieur, appartenant aux hadrosauridés, ou "dinosaures à bec de canard".</definition>
+        <definition>Il possédait une crête creuse distinctive sur la tête, utilisée pour la communication ou la reconnaissance.</definition>
+        <definition>Son bec dépourvu de dents et ses mâchoires puissantes lui permettaient de se nourrir d'une variété de végétaux.</definition>
+    </word>
+
+    <word value="Leptoceratops">
+        <definition>Un dinosaure herbivore du Crétacé supérieur, proche parent du Triceratops mais de taille plus petite.</definition>
+        <definition>Il possédait une frill ou collerette osseuse à l'arrière du crâne pour la protection et peut-être la parade.</definition>
+        <definition>Sa petite taille et sa vitesse lui permettaient d'échapper aux prédateurs.</definition>
+    </word>
+    <word value="Maiasaura">
+        <definition>Un dinosaure herbivore du Crétacé supérieur, célèbre pour sa parentalité et la découverte de fossiles de nids avec des œufs et des jeunes.</definition>
+        <definition>Son nom signifie "mère lézard", soulignant son comportement parental envers ses petits.</definition>
+        <definition>Il vivait en grands troupeaux, construisant des nids au sol pour élever ses petits ensemble.</definition>
+    </word>
+
+    <word value="Megalosaurus">
+        <definition>Un grand dinosaure carnivore du Jurassique moyen, l'un des premiers dinosaures nommés scientifiquement.</definition>
+        <definition>Ses membres robustes et sa mâchoire puissante suggèrent qu'il chassait de grandes proies herbivores.</definition>
+        <definition>Bien que fragmentaires, ses fossiles ont contribué aux premières études sur la nature des dinosaures.</definition>
+    </word>
+
+    <word value="Microraptor">
+        <definition>Un petit dinosaure carnivore du Crétacé inférieur, possédant des plumes sur les pattes antérieures et postérieures.</definition>
+        <definition>Il pouvait planer ou voler sur de courtes distances grâce à ses ailes à quatre membres.</definition>
+        <definition>Ses fossiles sont parmi les mieux préservés, fournissant des indices précieux sur l'évolution des plumes.</definition>
+    </word>
+
+    <word value="Nodosaurus">
+        <definition>Un dinosaure herbivore du Crétacé supérieur, appartenant à la famille des nodosauridés, connus pour leur armure corporelle épaisse.</definition>
+        <definition>Son corps était recouvert de plaques osseuses et de pointes, lui offrant une excellente protection contre les prédateurs.</definition>
+        <definition>Contrairement à d'autres ankylosaures, il ne possédait pas de massue à la queue.</definition>
+    </word>
+    <word value="Ornithomimus">
+        <definition>Un dinosaure théropode du Crétacé supérieur, appartenant au groupe des dinosaures à "mimétisme d'oiseau".</definition>
+        <definition>Il possédait un long cou, des jambes minces et agiles, ainsi qu'un bec dépourvu de dents.</definition>
+        <definition>Ses adaptations suggèrent qu'il était un coureur rapide, se nourrissant de plantes, d'insectes et peut-être d'œufs.</definition>
+    </word>
+    <word value="Oviraptor">
+        <definition>Un petit dinosaure du Crétacé supérieur, dont le nom signifie "voleur d'œufs", bien que ses habitudes alimentaires soient encore débattues.</definition>
+        <definition>Il possédait un bec édenté robuste, peut-être utilisé pour casser les coquilles des mollusques ou des œufs.</definition>
+        <definition>Des fossiles d'adultes ont été trouvés en train d'incuber des nids, indiquant un comportement parental.</definition>
+    </word>
+
+    <word value="Pachycephalosaurus">
+        <definition>Un dinosaure herbivore du Crétacé supérieur, caractérisé par un crâne épais en forme de dôme.</definition>
+        <definition>On pense que son crâne épais servait lors de combats intra-spécifiques ou pour se défendre contre les prédateurs.</definition>
+        <definition>Son nom signifie "lézard à tête épaisse", soulignant la forme particulière de son crâne.</definition>
+    </word>
+
+    <word value="Parasaurolophus">
+        <definition>Un grand dinosaure herbivore du Crétacé supérieur, reconnaissable par sa crête creuse distinctive en forme de tube.</definition>
+        <definition>On pense que sa crête servait pour la communication, la reconnaissance ou la régulation thermique.</definition>
+        <definition>Il appartenait à la famille des hadrosauridés et vivait en troupeaux pour se protéger des prédateurs.</definition>
+    </word>
+    <word value="Protoceratops">
+        <definition>Un petit herbivore du Crétacé, ancêtre des grands cératopsiens, doté d'une collerette osseuse sur sa tête.</definition>
+        <definition>Ses fossiles ont été découverts dans les déserts d'Asie centrale, suggérant qu'il vivait dans des environnements arides.</definition>
+        <definition>Il se nourrissait de végétation coriace et possédait un bec puissant pour mastiquer.</definition>
+    </word>
+    <word value="Quetzalcoatlus">
+        <definition>Un reptile volant du Crétacé supérieur, parmi les plus grands ptérosaures connus.</definition>
+        <definition>Ses ailes atteignaient une envergure de 10 à 11 mètres, ce qui lui permettait de parcourir de grandes distances.</definition>
+        <definition>Bien que principalement charognard, il pouvait également chasser de petits animaux en marchant sur ses quatre membres.</definition>
+    </word>
+
+    <word value="Rhamphorhynchus">
+        <definition>Un ptérosaure du Jurassique supérieur, caractérisé par une longue queue avec une petite voile en forme de losange.</definition>
+        <definition>Il possédait de longues dents acérées, indiquant une alimentation principalement piscivore.</definition>
+        <definition>Ses ailes membraneuses étaient soutenues par un seul doigt allongé, typique des ptérosaures primitifs.</definition>
+    </word>
+    <word value="Spinosaurus">
+        <definition>Un dinosaure carnivore du Crétacé supérieur, célèbre pour sa grande voile vertébrale sur le dos.</definition>
+        <definition>Ses mâchoires semblables à celles des crocodiles suggèrent qu'il était un prédateur semi-aquatique spécialisé dans la chasse au poisson.</definition>
+        <definition>Son nom signifie "lézard épineux", soulignant la structure distincte de sa voile dorsale.</definition>
+    </word>
+
+    <word value="Stegosaurus">
+        <definition>Un grand dinosaure herbivore du Jurassique supérieur, connu pour ses plaques osseuses le long du dos et ses pointes sur la queue.</definition>
+        <definition>Ses plaques dorsales pourraient avoir servi à la régulation thermique ou à la parade sexuelle.</definition>
+        <definition>Sa queue armée de pointes, appelée thagomizer, servait à se défendre contre les prédateurs.</definition>
+    </word>
+
+    <word value="Styracosaurus">
+        <definition>Un dinosaure herbivore du Crétacé supérieur, appartenant à la famille des cératopsidés, avec une grande collerette et des cornes faciales.</definition>
+        <definition>Ses cornes faciales et sa collerette ornementale servaient probablement lors des combats ou pour la parade.</definition>
+        <definition>Sa collerette était ornée de longues pointes acérées pour dissuader les prédateurs.</definition>
+    </word>
+
+    <word value="Therizinosaurus">
+        <definition>Un dinosaure herbivore ou omnivore du Crétacé supérieur, célèbre pour ses griffes massives sur les membres antérieurs.</definition>
+        <definition>Ses griffes pouvaient atteindre plus de 50 cm de long, utilisées pour arracher les branches ou se défendre.</definition>
+        <definition>Son régime alimentaire exact est débattu, mais il se nourrissait probablement de végétaux et d'insectes.</definition>
+    </word>
+
+    <word value="Torosaurus">
+        <definition>Un dinosaure herbivore du Crétacé supérieur, proche parent du Triceratops, avec une collerette particulièrement longue.</definition>
+        <definition>Sa collerette osseuse, la plus longue de tous les cératopsidés, pouvait dépasser 2,5 mètres.</definition>
+        <definition>Ses cornes faciales lui permettaient de se défendre contre les prédateurs ou lors des combats intra-spécifiques.</definition>
+    </word>
+
+    <word value="Troodon">
+        <definition>Un petit dinosaure carnivore du Crétacé supérieur, considéré comme l'un des dinosaures les plus intelligents en raison de son grand cerveau.</definition>
+        <definition>Il possédait des griffes recourbées et des dents pointues, adaptées à un régime omnivore.</definition>
+        <definition>Ses yeux larges et sa vision nocturne suggèrent qu'il chassait la nuit.</definition>
+    </word>
+     <word value="Tyrannosaurus">
+        <definition>L'un des plus célèbres dinosaures carnivores du Crétacé supérieur, caractérisé par sa mâchoire puissante et ses membres antérieurs courts.</definition>
+        <definition>Avec ses dents tranchantes et son odorat développé, il était un chasseur redoutable.</definition>
+        <definition>Il occupait le sommet de la chaîne alimentaire et s'attaquait aux grands herbivores.</definition>
+    </word>
+    <word value="Triceratops">
+        <definition>Un grand dinosaure herbivore du Crétacé supérieur, reconnaissable par ses trois cornes et sa collerette osseuse.</definition>
+        <definition>Il se nourrissait de végétation basse en utilisant son bec puissant pour arracher les plantes.</definition>
+        <definition>Ses cornes et sa collerette servaient probablement à la défense et à l'intimidation.</definition>
+    </word>
+    <word value="Velociraptor">
+        <definition>Un dinosaure carnivore du Crétacé supérieur, connu pour sa petite taille, sa vitesse et son agilité.</definition>
+        <definition>Ses griffes recourbées sur les membres postérieurs lui permettaient de capturer rapidement ses proies.</definition>
+        <definition>Il est souvent représenté en groupes, bien qu'il ne soit pas clair s'il chassait en meute.</definition>
+    </word>
+
+    <word value="Yutyrannus">
+        <definition>Un grand dinosaure carnivore du Crétacé inférieur, proche parent du Tyrannosaurus, mais recouvert de plumes.</definition>
+        <definition>Son plumage suggère qu'il vivait dans un climat plus froid que d'autres théropodes.</definition>
+        <definition>Ses mâchoires puissantes et ses griffes acérées indiquent qu'il était un prédateur redoutable.</definition>
+    </word>
+
+    <word value="Zuniceratops">
+        <definition>Un petit dinosaure herbivore du Crétacé supérieur, l'un des premiers cératopsidés à présenter des cornes faciales.</definition>
+        <definition>Il possédait une collerette osseuse ornée et de petites cornes, servant probablement à la parade ou à la reconnaissance.</definition>
+        <definition>Son régime alimentaire comprenait principalement des plantes basses et des feuillages coriaces.</definition>
+    </word> 
+</words>
