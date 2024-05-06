@@ -13,7 +13,7 @@
     </option>
     <option>
         <name>Disney</name>
-        <file>android.resource://com.pouetpouet.jeuxdemots/R.raw.disney</file>
+        <file>R.raw.disney</file>
     </option>
     <option>
         <name>Marvel</name>
