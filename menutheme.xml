@@ -11,6 +11,10 @@
         <name>Simpson</name>
         <file>https://raw.githubusercontent.com/addict4ever/jeux/main/simpson.xml</file>
     </option>
+     <option>
+        <name>Pokemon</name>
+        <file>https://raw.githubusercontent.com/addict4ever/jeux/main/pokemon.xml</file>
+    </option>
     <option>
         <name>Disney</name>
         <file>https://raw.githubusercontent.com/addict4ever/jeux/main/disney.xml</file>
