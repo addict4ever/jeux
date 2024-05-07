@@ -554,6 +554,540 @@
         <definition>Souvenir flou ou partiel qui remonte à la surface.</definition>
         <definition>Processus ou expérience de se souvenir ou de rappeler des événements, des expériences ou des informations passées, souvent caractérisé par des souvenirs vifs, flous ou fragmentés qui remontent à la conscience.</definition>
     </word>
-
+    <word value="symbiose">
+        <definition>Interaction entre deux organismes differents a benefice mutuel.</definition>
+        <definition>Relation etroite et interdependante.</definition>
+        <definition>Collaboration reciproque pour le bien-être des deux parties.</definition>
+    </word>
+    <word value="turbulence">
+        <definition>Mouvement desordonne dans un fluide, souvent l'air ou l'eau.</definition>
+        <definition>Instabilite ou agitation dans un systeme.</definition>
+        <definition>Phenomene physique caracterise par des tourbillons et des remous.</definition>
+    </word>
+    <word value="utopie">
+        <definition>Societe ideale ou tout fonctionne parfaitement.</definition>
+        <definition>Concept philosophique d'un monde parfait.</definition>
+        <definition>Reve ou vision d'un monde ideal et sans defaut.</definition>
+    </word>
+    <word value="velocite">
+        <definition>Rapidite de mouvement ou d'action.</definition>
+        <definition>Terme scientifique pour la vitesse avec direction.</definition>
+        <definition>Mesure de la rapidite d'un objet en mouvement.</definition>
+    </word>
+    <word value="watt">
+        <definition>Unite de puissance dans le systeme international.</definition>
+        <definition>Mesure de la vitesse a laquelle l'energie est produite ou utilisee.</definition>
+        <definition>Quantite d'energie transferee ou utilisee par seconde.</definition>
+    </word>
+    <word value="xenophile">
+        <definition>Personne attiree par les cultures etrangeres.</definition>
+        <definition>Qui a une affinite pour les etrangers ou ce qui est etranger.</definition>
+        <definition>Amoureux ou passionne par ce qui est etranger ou exotique.</definition>
+    </word>
+    <word value="yin yang">
+        <definition>Principe chinois representant des forces opposees mais complementaires.</definition>
+        <definition>Symbole de l'equilibre entre le bien et le mal.</definition>
+        <definition>Representation du dualisme dans la philosophie chinoise.</definition>
+    </word>
+    <word value="accretion">
+        <definition>Processus de croissance ou d'augmentation par accumulation graduelle.</definition>
+        <definition>Formation de nouveaux terrains par depots de sediments.</definition>
+        <definition>Augmentation progressive par ajout ou accumulation.</definition>
+    </word>
+    <word value="bucolique">
+        <definition>Relatif a la vie champetre et pastorale.</definition>
+        <definition>Qui evoque la simplicite et la tranquillite de la campagne.</definition>
+        <definition>Descriptif de paysages ruraux et pittoresques.</definition>
+    </word>
+    <word value="cryptique">
+        <definition>Difficile a comprendre, enigmatique.</definition>
+        <definition>Qui contient un sens cache ou secret.</definition>
+        <definition>Obscur ou mysterieux dans sa signification.</definition>
+    </word>
+    <word value="decalogue">
+        <definition>Ensemble de dix commandements ou regles.</definition>
+        <definition>Particulierement les dix commandements donnes dans la Bible.</definition>
+        <definition>Regles fondamentales ou preceptes moraux.</definition>
+    </word>
+    <word value="ecliptique">
+        <definition>Le chemin apparent du soleil a travers le ciel.</definition>
+        <definition>Plan de l'orbite terrestre projete dans l'espace celeste.</definition>
+        <definition>Trajectoire apparente du soleil vue de la Terre.</definition>
+    </word>
+    <word value="funiculaire">
+        <definition>Chemin de fer en pente fonctionnant sur cable.</definition>
+        <definition>Utilise pour monter des pentes raides.</definition>
+        <definition>Systeme de transport a cable en montagne.</definition>
+    </word>
+    <word value="gibbeuse">
+        <definition>Phase de la lune entre le premier quartier et la pleine lune.</definition>
+        <definition>Qui presente une bosse ou une protuberance.</definition>
+        <definition>Forme caracteristique de la lune dans certaines phases.</definition>
+    </word>
+    <word value="halcyon">
+        <definition>Periode de calme et de bonheur.</definition>
+        <definition>Oiseau legendaire qui calmait les vagues pour nidifier.</definition>
+        <definition>Temps de paix et de tranquilite.</definition>
+    </word>
+    <word value="iconoclaste">
+        <definition>Personne qui attaque ou rejette les croyances établies.</definition>
+        <definition>Critique des symboles vénérés.</definition>
+        <definition>Individu remettant en question les conventions sociales et religieuses.</definition>
+    </word>
+    <word value="jubilation">
+        <definition>Expression de joie ou de triomphe.</definition>
+        <definition>Célébration enthousiaste.</definition>
+        <definition>Manifestation de bonheur intense et exubérant.</definition>
+    </word>
+    <word value="balistique">
+        <definition>Science du mouvement des projectiles.</definition>
+        <definition>Étude des trajectoires des missiles.</definition>
+        <definition>Domaine de la physique qui analyse le comportement des objets en mouvement soumis aux forces extérieures.</definition>
+    </word>
+    <word value="calcaire">
+        <definition>Type de roche sédimentaire principalement composée de carbonate de calcium.</definition>
+        <definition>Utilisé dans la construction et comme amendement du sol.</definition>
+        <definition>Formé à partir de dépôts marins ou lacustres, souvent utilisé comme matériau de construction et pour neutraliser l'acidité des sols.</definition>
+    </word>
+    <word value="didactique">
+        <definition>Relatif à l'enseignement ou à l'éducation.</definition>
+        <definition>Destiné à instruire ou à informer.</definition>
+        <definition>Qui vise à transmettre des connaissances de manière méthodique et pédagogique.</definition>
+    </word>
+    <word value="echolocalisation">
+        <definition>Système de détection utilisant les échos des sons émis pour localiser les objets.</definition>
+        <definition>Utilisé par certains animaux comme les chauves-souris et les cétacés.</definition>
+        <definition>Capacité biologique de certains organismes à déterminer la position et la distance des objets en émettant des sons et en analysant les échos réfléchis.</definition>
+    </word>
+    <word value="factotum">
+        <definition>Employé ou serviteur qui fait divers types de travaux.</definition>
+        <definition>Personne ayant de nombreuses responsabilités ou occupations.</definition>
+        <definition>Individu polyvalent capable d'accomplir différentes tâches ou fonctions dans divers domaines.</definition>
+    </word>
+    <word value="girouette">
+        <definition>Dispositif pivotant montré en hauteur, indiquant la direction du vent.</definition>
+        <definition>Personne qui change souvent d'opinion.</definition>
+        <definition>Individu influençable dont les opinions fluctuent selon les circonstances ou les influences extérieures.</definition>
+    </word>
+    <word value="ideogramme">
+        <definition>Symbole graphique représentant une idée ou un objet sans indiquer les sons pour le prononcer.</definition>
+        <definition>Utilisé notamment dans les écritures chinoise et japonaise.</definition>
+        <definition>Élément graphique utilisé pour représenter des concepts ou des objets dans des systèmes d'écriture pictographique ou logographique.</definition>
+    </word>
+    <word value="jeremiade">
+        <definition>Complainte lamentable et prolongée.</definition>
+        <definition>Expression de griefs ou de tristesse excessive.</definition>
+        <definition>Lamentation ou plainte prolongée exprimant des sentiments de malheur, de détresse ou de désespoir.</definition>
+    </word>
+    <word value="kaleidoscopique">
+        <definition>Qui change rapidement de manière complexe et colorée.</definition>
+        <definition>Diverse, multicolore et en constante évolution.</definition>
+        <definition>Se dit d'un ensemble ou d'une situation caractérisés par une variété infinie et changeante d'éléments ou d'aspects.</definition>
+    </word>
+    <word value="limnologie">
+        <definition>Étude scientifique des eaux intérieures, notamment des lacs et des étangs.</definition>
+        <definition>Branche de l'écologie qui examine les écosystèmes aquatiques.</definition>
+        <definition>Science qui étudie les propriétés physiques, chimiques, biologiques et géologiques des eaux intérieures et de leurs habitats.</definition>
+    </word>
+    <word value="mnemonique">
+        <definition>Relatif à la mémoire ou aux techniques d'amélioration de la mémoire.</definition>
+        <definition>Aide mémoire ou technique de rappel.</definition>
+        <definition>Ensemble de méthodes ou de dispositifs utilisés pour faciliter la mémorisation et le rappel d'informations.</definition>
+    </word>
+    <word value="nectarivore">
+        <definition>Qui se nourrit principalement de nectar.</definition>
+        <definition>Concernant certains oiseaux, chauves-souris ou insectes.</definition>
+        <definition>Se dit d'un régime alimentaire centré sur la consommation de nectar, souvent observé chez certains insectes, oiseaux et mammifères.</definition>
+    </word>
+    <word value="octogone">
+        <definition>Figure géométrique à huit côtés et huit angles.</definition>
+        <definition>Polygone avec huit sommets.</definition>
+        <definition>Forme géométrique composée de huit côtés de longueurs égales, formant huit angles égaux entre eux.</definition>
+    </word>
+    <word value="paleontologie">
+        <definition>Science qui étudie les formes de vie existant dans les périodes géologiques passées.</definition>
+        <definition>Étude des fossiles et de l'évolution des organismes.</definition>
+        <definition>Domaine scientifique consacré à la recherche et à l'analyse des restes fossiles pour reconstruire l'histoire évolutive de la vie sur Terre.</definition>
+    </word>
+    <word value="quasar">
+        <definition>Objet astronomique très éloigné et lumineux, pensé être un jeune univers.</definition>
+        <definition>Source d'énergie électromagnétique, y compris la lumière, qui dépasse celle des galaxies normales.</definition>
+        <definition>Entité céleste extrêmement lumineuse et éloignée, émettant des quantités massives de radiation et considérée comme l'une des formes les plus énergétiques dans l'univers observable.</definition>
+    </word>
+    <word value="reciproque">
+        <definition>Donné ou fait en retour.</definition>
+        <definition>Qui est mutuel ou partagé entre deux ou plusieurs parties.</definition>
+        <definition>Caractéristique d'une relation ou d'une action où chaque partie impliquée répond à l'autre de manière équivalente ou symétrique.</definition>
+    </word>
+    <word value="siderurgie">
+        <definition>Fabrication et traitement des aciers et des fers.</definition>
+        <definition>Industrie qui produit le fer et ses alliages.</definition>
+        <definition>Ensemble des procédés industriels utilisés pour la production, la transformation et la manipulation des métaux ferreux.</definition>
+    </word>
+    <word value="thermodynamique">
+        <definition>Branche de la physique qui étudie les effets des changements de température, de volume et de pression.</definition>
+        <definition>Science de la chaleur et de l'énergie.</definition>
+        <definition>Domaine de la physique qui examine les relations entre la chaleur, le travail et l'énergie dans les systèmes macroscopiques, en se concentrant sur les lois qui régissent les transformations de l'énergie.</definition>
+    </word>
+    <word value="uranisme">
+        <definition>Terme obsolète pour l'homosexualité, spécifiquement entre hommes.</definition>
+        <definition>Utilisé historiquement dans les études de sexe et de genre.</definition>
+        <definition>Concept dépassé désignant l'attirance sexuelle entre personnes de même sexe, généralement appliqué aux relations homosexuelles masculines.</definition>
+    </word>
+    <word value="volatilite">
+        <definition>Propriété de changer rapidement et de manière imprévisible.</definition>
+        <definition>Capacité d'une substance à se vaporiser facilement à température normale.</definition>
+        <definition>Caractéristique d'une situation ou d'un comportement qui fluctue rapidement et de manière imprévisible, ou de la capacité d'une substance à s'évaporer rapidement à des conditions ambiantes.</definition>
+    </word>
+    <word value="warrant">
+        <definition>Autorisation ou ordre, généralement d'un tribunal.</definition>
+        <definition>Document permettant l'arrestation ou la saisie.</definition>
+        <definition>Mandat officiel délivré par une autorité compétente, tel qu'un tribunal, autorisant une action spécifique, comme l'arrestation d'une personne ou la perquisition d'un lieu.</definition>
+    </word>
+    <word value="xerothermique">
+        <definition>Relatif à un environnement sec et chaud.</definition>
+        <definition>Concernant les conditions climatiques ou écologiques sèches.</definition>
+        <definition>Qui est adapté ou associé à des conditions environnementales caractérisées par une faible humidité et des températures élevées, telles que les habitats désertiques ou semi-arides.</definition>
+    </word>
+    <word value="zeolithe">
+        <definition>Groupe de minéraux microporeux utilisés comme adsorbants et catalyseurs.</definition>
+        <definition>Substance silicatée utilisée pour ses propriétés d'échange d'ions.</definition>
+        <definition>Minéraux cristallins poreux caractérisés par leur capacité à absorber et à libérer des ions et des molécules, largement utilisés dans l'industrie pour le traitement de l'eau, la purification des gaz et d'autres applications chimiques et environnementales.</definition>
+    </word>
+    <word value="aberration">
+        <definition>Deviation de la norme ou ce qui est attendu.</definition>
+        <definition>Erreur due à des défauts dans un système optique.</definition>
+        <definition>Anomalie ou déviation par rapport à la norme ou à l'attendu, souvent causée par des imperfections ou des dysfonctionnements dans un système optique.</definition>
+    </word>
+    <word value="brevipenne">
+        <definition>Qui a des ailes courtes.</definition>
+        <definition>Se dit des oiseaux dont les capacités de vol sont limitées en raison de la taille de leurs ailes.</definition>
+        <definition>Caractéristique des oiseaux possédant des ailes de taille réduite, ce qui restreint leur capacité à voler sur de longues distances ou à des altitudes élevées.</definition>
+    </word>
+    <word value="coalescence">
+        <definition>Processus par lequel deux ou plusieurs particules, gouttelettes, bulles ou corps se rejoignent pour former un seul corps.</definition>
+        <definition>Union ou fusion pour former un tout.</definition>
+        <definition>Phénomène où des éléments distincts se réunissent pour former une entité unique, souvent observé dans les processus de formation de nuages, de précipitations ou de consolidation de matériaux.</definition>
+    </word>
+    <word value="diaphane">
+        <definition>Translucide ou suffisamment transparent pour permettre le passage de la lumière, mais pas de détails visibles.</definition>
+        <definition>Délicat et éthéré.</definition>
+        <definition>Qualifie un matériau ou une substance qui laisse passer la lumière de manière douce et diffuse, sans révéler clairement les détails, souvent associé à une apparence légère et délicate.</definition>
+    </word>
+    <word value="efflorescence">
+        <definition>Processus de floraison ou de développement.</definition>
+        <definition>Formation cristalline sur les surfaces, souvent due à l'évaporation de l'eau dans le mortier, le béton ou le plâtre.</definition>
+        <definition>Phénomène où des cristaux se forment à la surface d'un matériau, généralement causé par la migration d'eau chargée de sels dissous qui cristallisent lorsque l'eau s'évapore, laissant des dépôts visibles.</definition>
+    </word>
+    <word value="galactophore">
+        <definition>Relatif aux conduits qui transportent le lait des glandes mammaires.</definition>
+        <definition>Canal conduisant le lait maternel du mamelon.</definition>
+        <definition>Structure anatomique permettant le transport du lait produit par les glandes mammaires, souvent associée aux processus de lactation chez les mammifères.</definition>
+    </word>
+    <word value="hemerocalle">
+        <definition>Type de plante vivace, connue pour ses fleurs colorées qui ne durent qu'un seul jour.</definition>
+        <definition>Appartenant à la famille des liliacées.</definition>
+        <definition>Plante herbacée caractérisée par ses fleurs éphémères qui s'ouvrent et se fanent en l'espace d'une journée, appartenant à la famille des Liliacées et cultivée pour ses qualités ornementales.</definition>
+    </word>
+    <word value="isotherme">
+        <definition>Ligne ou surface sur une carte météo qui connecte les points ayant la même température.</definition>
+        <definition>Constant en température.</definition>
+        <definition>Caractéristique d'une zone ou d'une condition où la température reste constante, ou représentée sur une carte météorologique par des lignes isothermes reliant des points ayant la même température.</definition>
+    </word>
+    <word value="jovialite">
+        <definition>Caractérisé par une bonne humeur joyeuse et un esprit enjoué.</definition>
+        <definition>Gaieté et convivialité.</definition>
+        <definition>Disposition à être joyeux et amical, souvent exprimée par un comportement enjoué et une attitude positive envers les autres.</definition>
+    </word>
+    <word value="kymographe">
+        <definition>Appareil enregistreur utilisant un stylet pour tracer des courbes représentant des variations de pression.</definition>
+        <definition>Utilisé en médecine et en recherche pour enregistrer des mouvements physiologiques.</definition>
+        <definition>Instrument scientifique qui enregistre graphiquement les variations de pression, de mouvement ou d'autres paramètres physiologiques à l'aide d'un stylet enregistrant sur un support, utilisé dans divers domaines de la médecine et de la recherche.</definition>
+    </word>
+    <word value="cryptogramme">
+        <definition>Texte écrit dans un code secret ou une énigme.</definition>
+        <definition>Utilisé pour la confidentialité des communications.</definition>
+        <definition>Message ou texte encodé de manière à ce qu'il soit illisible sans la connaissance d'un code spécifique, utilisé pour protéger la confidentialité des communications ou pour ajouter un élément de mystère ou de défi à un texte.</definition>
+    </word>
+    <word value="dendrochronologie">
+        <definition>Science de la datation des événements et variations environnementales à travers l'analyse des anneaux de croissance des arbres.</definition>
+        <definition>Méthode pour étudier les changements climatiques passés.</definition>
+        <definition>Discipline scientifique qui utilise les variations dans l'épaisseur et la composition des anneaux de croissance des arbres pour déterminer l'âge des arbres et reconstituer les conditions environnementales passées, notamment les variations climatiques.</definition>
+    </word>
+    <word value="echolalie">
+        <definition>Répétition involontaire des paroles par une personne en parlant à d'autres.</definition>
+        <definition>Observée dans certaines conditions neurologiques comme l'autisme.</definition>
+        <definition>Phénomène où une personne répète involontairement les mots ou les phrases qu'elle entend, souvent associé à des troubles neurologiques tels que l'autisme, et parfois considéré comme une réponse automatique ou un mécanisme d'imitation.</definition>
+    </word>
+    <word value="ferronnerie">
+        <definition>Travail des métaux, en particulier le fer, pour créer des objets ornementaux ou utiles.</definition>
+        <definition>Artisanat de création de grilles, de balustrades et d'autres structures en fer.</definition>
+        <definition>Technique artisanale ou industrielle qui consiste à travailler le fer et d'autres métaux pour créer des objets décoratifs ou fonctionnels, souvent utilisée dans l'architecture pour fabriquer des portes, des fenêtres, des rampes d'escalier et d'autres éléments structurels.</definition>
+    </word>
+    <word value="gerontocratie">
+        <definition>Gouvernement dirigé par des personnes âgées.</definition>
+        <definition>Système où les anciens ont autorité et pouvoir.</definition>
+        <definition>Forme de gouvernement ou de leadership où les individus âgés détiennent le pouvoir politique et exercent une influence dominante sur les décisions et les politiques, souvent basée sur le respect de l'expérience et de la sagesse accumulées avec l'âge.</definition>
+    </word>
+    <word value="heliogravure">
+        <definition>Procédé de reproduction photographique utilisant des plaques traitées à l'acide.</definition>
+        <definition>Technique d'impression haute qualité pour des illustrations détaillées.</definition>
+        <definition>Technique d'impression artistique qui utilise des plaques de métal préparées chimiquement pour reproduire des images avec une grande précision et une gamme tonale étendue, souvent utilisée dans l'impression d'art et la reproduction d'œuvres d'illustration haut de gamme.</definition>
+    </word>
+    <word value="isotherme">
+        <definition>Courbe ou surface représentant des points de même température.</definition>
+        <definition>Utilisé en météorologie et en cartographie.</definition>
+        <definition>Ligne ou surface sur une carte ou un graphique qui connecte des points ou des zones présentant la même température, utilisée pour représenter les variations de température à travers une région ou une zone géographique donnée, souvent utilisée en météorologie pour analyser les systèmes météorologiques et en cartographie pour représenter les conditions climatiques.</definition>
+    </word>
+    <word value="jurisprudence">
+        <definition>Ensemble des décisions des cours et tribunaux.</definition>
+        <definition>Science du droit et interprétation des statuts et des cas légaux.</definition>
+        <definition>Corpus de décisions judiciaires qui établissent des précédents et servent de base à l'interprétation et à l'application du droit, ainsi que l'étude et l'analyse de ces décisions en tant que discipline juridique.</definition>
+    </word>
+    <word value="kymographe">
+        <definition>Appareil enregistrant les variations de pression ou de tout autre phénomène.</definition>
+        <definition>Utilisé en médecine et recherche pour mesurer les fonctions corporelles.</definition>
+        <definition>Instrument scientifique qui enregistre graphiquement les variations de pression, de mouvement ou d'autres phénomènes physiques, souvent utilisé en physiologie pour enregistrer les variations de la pression sanguine, de la respiration ou d'autres fonctions corporelles.</definition>
+    </word>
+    <word value="liposuccion">
+        <definition>Procédure chirurgicale pour enlever la graisse corporelle.</definition>
+        <definition>Technique esthétique pour remodeler spécifiquement des zones du corps.</definition>
+        <definition>Intervention chirurgicale consistant à aspirer la graisse sous-cutanée d'une zone spécifique du corps à des fins esthétiques ou médicales, souvent utilisée pour remodeler et affiner les contours corporels.</definition>
+    </word>
+    <word value="mnemonique">
+        <definition>Relatif aux techniques de mémoire.</definition>
+        <definition>Aide utilisée pour améliorer le rappel des informations.</definition>
+        <definition>Ensemble de techniques ou de dispositifs conçus pour faciliter l'apprentissage et la mémorisation des informations, souvent basés sur des associations mentales, des visualisations ou des schémas mnémotechniques.</definition>
+    </word>
+    <word value="neodyme">
+        <definition>Élément métallique utilisé pour fabriquer des aimants très puissants.</definition>
+        <definition>Utilisé dans les moteurs, les enceintes et les disques durs.</definition>
+        <definition>Métal rare de la famille des terres rares, utilisé pour fabriquer des aimants permanents extrêmement puissants, notamment dans les applications technologiques telles que les moteurs électriques, les haut-parleurs et les dispositifs de stockage magnétique.</definition>
+    </word>
+    <word value="orthopraxie">
+        <definition>Exactitude dans l'observance des rites ou des pratiques.</definition>
+        <definition>Conformité aux normes établies d'une tradition religieuse ou culturelle.</definition>
+        <definition>Pratique religieuse ou culturelle axée sur le respect et la conformité aux rituels, aux pratiques et aux normes établies, mettant l'accent sur la correcte exécution des actes rituels plutôt que sur les croyances ou les dogmes spécifiques.</definition>
+    </word>
+    <word value="palimpseste">
+        <definition>Manuscrit sur lequel le texte original a été effacé pour écrire un nouveau texte.</definition>
+        <definition>Utilisé dans l'antiquité pour réutiliser des matériaux coûteux.</definition>
+        <definition>Document ancien dont le texte original a été gratté ou effacé pour permettre l'écriture d'un nouveau texte, pratiqué fréquemment dans les manuscrits médiévaux sur parchemin en raison de la rareté du support, où des textes religieux ou classiques étaient parfois effacés pour permettre la réutilisation du parchemin.</definition>
+    </word>
+    <word value="reverberation">
+        <definition>Phénomène par lequel un son est réfléchi par une surface et entendu à nouveau.</definition>
+        <definition>Utilisé en acoustique pour analyser la qualité sonore des espaces.</definition>
+        <definition>Phénomène acoustique dans lequel un son est réfléchi plusieurs fois par des surfaces, produisant des répétitions ou des échos distincts de l'original, souvent utilisé en acoustique architecturale pour évaluer la réponse sonore des environnements, tels que les salles de concert ou les studios d'enregistrement.</definition>
+    </word>
+    <word value="sarabande">
+        <definition>Danse lente et majestueuse d'origine espagnole.</definition>
+        <definition>Utilisée traditionnellement dans la musique baroque comme mouvement de suite.</definition>
+        <definition>Ancienne danse d'origine espagnole, lente et majestueuse dans son rythme, souvent intégrée dans des suites de danses baroques et caractérisée par des mouvements amples et gracieux, jouant un rôle important dans la musique instrumentale et orchestrale du XVIIe et XVIIIe siècle.</definition>
+    </word>
+    <word value="tautologie">
+        <definition>Expression qui répète la même idée de manière différente.</definition>
+        <definition>Souvent utilisée pour insister sur un point.</definition>
+        <definition>Figure de style ou énoncé qui exprime la même idée ou la même proposition de manière répétitive ou redondante, souvent pour souligner un concept ou une affirmation de manière emphatique, comme dans l'expression "monter en haut" ou "dire et redire".</definition>
+    </word>
+    <word value="ubiquite">
+        <definition>Capacité d'être présent en plusieurs lieux simultanément.</definition>
+        <definition>Attribut souvent donné à des figures divines ou surnaturelles.</definition>
+        <definition>Attribut théologique ou concept métaphysique attribuant à une entité la capacité d'être présente en plusieurs endroits simultanément, souvent associée dans la tradition chrétienne à la nature divine de Dieu, ou dans les superstitions populaires à des êtres surnaturels ou des fantômes.</definition>
+    </word>
+    <word value="vacillant">
+        <definition>Qui oscille, chancelle ou est instable.</definition>
+        <definition>Manquant de résolution ou de détermination.</definition>
+        <definition>Qui penche ou oscille d'un côté à l'autre, souvent utilisé pour décrire quelque chose de physique ou de symbolique qui est instable ou incertain, ou pour décrire une personne qui manque de fermeté ou de constance dans ses décisions ou ses actions.</definition>
+    </word>
+    <word value="watt">
+        <definition>Unité de mesure de la puissance dans le système international.</definition>
+        <definition>Indique la quantité d'énergie électrique produite ou consommée.</definition>
+        <definition>Unité dérivée du système international utilisée pour mesurer la puissance électrique, équivalant à un joule par seconde, souvent utilisée pour exprimer la quantité d'énergie produite ou consommée par des dispositifs électriques ou des systèmes de production d'électricité.</definition>
+    </word>
+    <word value="xenophile">
+        <definition>Attiré par les cultures étrangères ou qui aime les choses étrangères.</definition>
+        <definition>Personne qui apprécie ou valorise les cultures autres que la sienne.</definition>
+        <definition>Qui manifeste un intérêt ou un attrait particulier pour les coutumes, les langues, ou les traditions étrangères, souvent associé à une ouverture d'esprit et à une curiosité pour les différences culturelles.</definition>
+    </word>
+    <word value="yinyang">
+        <definition>Principe fondamental de la philosophie chinoise, représentant des forces opposées mais complémentaires.</definition>
+        <definition>Symbole de dualité et d'équilibre dans l'univers.</definition>
+        <definition>Concept philosophique chinois représentant la dualité fondamentale de l'univers, où des forces opposées telles que la lumière et l'obscurité, le masculin et le féminin, sont interdépendantes et complémentaires, souvent représenté par un cercle divisé en deux parties contrastantes mais reliées.</definition>
+    </word>
+    <word value="zephyr">
+        <definition>Vent doux et agréable, souvent associé avec l'ouest.</definition>
+        <definition>Brise légère et rafraîchissante.</definition>
+        <definition>Vent de direction ouest, caractérisé par sa douceur et sa légèreté, souvent perçu comme agréable et rafraîchissant, notamment lorsqu'il apporte un soulagement par temps chaud ou étouffant.</definition>
+    </word>
+    <word value="ablution">
+        <definition>Acte de se laver le corps, souvent pour des raisons religieuses ou rituelles.</definition>
+        <definition>Nettoyage ou purification cérémonielle.</definition>
+        <definition>Rituel ou pratique consistant à se laver ou à se purifier, généralement effectué dans un contexte religieux ou rituel, pour symboliser la purification spirituelle ou corporelle avant un acte sacré ou une prière.</definition>
+    </word>
+    <word value="bucolique">
+        <definition>Qui concerne la campagne ou la vie rurale.</definition>
+        <definition>Idyllique, paisible et pastoral.</definition>
+        <definition>Relatif à la vie à la campagne ou aux paysages ruraux, souvent associé à une vision idyllique et paisible de la nature, caractérisé par des scènes pastorales et des éléments de tranquillité et de simplicité.</definition>
+    </word>
+    <word value="conciliabule">
+        <definition>Réunion secrète ou privée entre plusieurs personnes.</definition>
+        <definition>Discussion ou négociation menée en secret.</definition>
+        <definition>Échange confidentiel entre plusieurs personnes, souvent dans un but de concertation ou de délibération sur des sujets sensibles ou stratégiques, éloigné des regards indiscrets.</definition>
+    </word>
+    <word value="dysphorie">
+        <definition>État de malaise ou de dissatisfaction généralisée.</definition>
+        <definition>Sentiment intense de mal-être ou de déprime.</definition>
+        <definition>État émotionnel caractérisé par un profond sentiment de malaise, de tristesse ou de mal-être, souvent associé à une insatisfaction diffuse ou à une difficulté à trouver du plaisir ou du sens dans la vie quotidienne.</definition>
+    </word>
+    <word value="esoterique">
+        <definition>Destiné ou compris seulement par un petit nombre de personnes, généralement initiés.</definition>
+        <definition>Confidentiel ou occulte.</definition>
+        <definition>Qui est réservé à un cercle restreint d'initiés ou de personnes ayant une connaissance spécifique, souvent associé à des enseignements ésotériques, mystiques ou ésotériques qui ne sont pas accessibles au grand public.</definition>
+    </word>
+    <word value="facetie">
+        <definition>Plaisanterie, farce ou blague destinée à amuser.</definition>
+        <definition>Acte ludique ou espiègle.</definition>
+        <definition>Forme d'humour ou de divertissement caractérisée par des plaisanteries légères et souvent ingénieuses, visant à provoquer le rire ou le sourire chez les autres, parfois utilisée pour détendre l'atmosphère ou divertir un public.</definition>
+    </word>
+    <word value="gambit">
+        <definition>Coup d'ouverture aux échecs où un joueur sacrifie un pion pour obtenir un avantage.</definition>
+        <definition>Stratégie ou manœuvre calculée pour obtenir un avantage.</definition>
+        <definition>Technique stratégique utilisée dans divers domaines, notamment aux échecs, où un joueur sacrifie volontairement une ressource mineure pour obtenir un avantage tactique ou positionnel sur son adversaire, souvent utilisé pour déséquilibrer la situation en sa faveur dès le début de la partie.</definition>
+    </word>
+    <word value="hagiographie">
+        <definition>Biographie idéalisante ou laudative, souvent d'une figure sainte.</definition>
+        <definition>Étude ou écriture de la vie des saints.</definition>
+        <definition>Genre littéraire ou historique se concentrant sur la vie et les actes des saints, souvent caractérisé par une représentation idéalisée et édifiante de ces figures religieuses, utilisé dans le cadre de l'exégèse religieuse ou de la vénération des saints dans différentes traditions chrétiennes.</definition>
+    </word>
+    <word value="absorption">
+        <definition>Processus par lequel une substance est absorbée ou intégrée.</definition>
+        <definition>Utilisé en chimie pour décrire la façon dont les matériaux captent certains fluides ou lumières.</definition>
+        <definition>Phénomène physico-chimique où une substance est assimilée ou intégrée par un autre matériau ou milieu, souvent associé à la prise de liquides ou de nutriments par les organismes vivants, ou à l'interaction entre une surface et des molécules ou des photons dans des systèmes matériels.</definition>
+    </word>
+    <word value="barycentre">
+        <definition>Centre de masse de deux ou plusieurs corps, lié par la gravité.</definition>
+        <definition>Point théorique utilisé en physique pour simplifier les systèmes de particules.</definition>
+        <definition>Point mathématique ou physique situé au centre de masse d'un système de corps, où la force gravitationnelle entre les composants est équilibrée, utilisé pour simplifier l'analyse des mouvements et des interactions dans des systèmes complexes, notamment dans le domaine de l'astronomie et de la mécanique céleste.</definition>
+    </word>
+    <word value="catabolisme">
+        <definition>Processus de dégradation des molécules pour libérer de l'énergie.</definition>
+        <definition>Voie métabolique qui décompose les molécules complexes en plus simples.</definition>
+        <definition>Ensemble des réactions métaboliques dans les organismes vivants qui décomposent les molécules complexes, telles que les glucides, les lipides et les protéines, en composés plus simples, libérant de l'énergie utilisable pour les processus cellulaires et la synthèse de nouveaux composés organiques.</definition>
+    </word>
+    <word value="dioptrie">
+        <definition>Unité de mesure de la puissance optique des lentilles.</definition>
+        <definition>Utilisée pour mesurer la correction nécessaire dans les verres correcteurs.</definition>
+        <definition>Mesure de la capacité d'une lentille optique à converger ou diverger la lumière, exprimée en dioptries, utilisée pour évaluer et prescrire des corrections optiques pour les défauts de vision, tels que la myopie, l'hypermétropie ou l'astigmatisme.</definition>
+    </word>
+    <word value="effervescence">
+        <definition>Libération de bulles de gaz dans un liquide.</definition>
+        <definition>Agitation ou excitation vive souvent utilisée pour décrire des réactions chimiques.</definition>
+        <definition>Phénomène physique où des bulles de gaz sont libérées et remontent à la surface d'un liquide, souvent associé à une réaction chimique ou à un processus de fermentation, utilisé en cuisine, en chimie et en œnologie pour décrire l'effet pétillant ou mousseux dans les boissons et les mélanges.</definition>
+    </word>
+    <word value="fluorescence">
+        <definition>Émission de lumière par une substance qui a absorbé de la lumière ou autre radiation électromagnétique.</definition>
+        <definition>Utilisée dans diverses applications scientifiques et artistiques.</definition>
+        <definition>Phénomène optique où une substance absorbe de l'énergie électromagnétique, généralement sous forme de lumière ultraviolette, puis réémet de la lumière visible à une longueur d'onde plus longue, souvent utilisé en spectroscopie, en imagerie médicale et en art pour créer des effets lumineux spéciaux.</definition>
+    </word>
+    <word value="gazogene">
+        <definition>Appareil pour produire du gaz combustible à partir de charbon ou de bois.</definition>
+        <definition>Utilisé historiquement comme source de carburant alternatif pour les véhicules.</definition>
+        <definition>Dispositif mécanique ou chimique utilisé pour générer du gaz combustible, tel que le gaz de ville ou le gaz de bois, à partir de matières premières telles que le charbon, le bois ou la biomasse, utilisé comme source d'énergie pour l'éclairage, le chauffage et la propulsion des véhicules avant l'ère des carburants liquides.</definition>
+    </word>
+    <word value="hemicycle">
+        <definition>Salle ou espace semi-circulaire utilisé pour les réunions et les conférences.</definition>
+        <definition>Design architectural qui favorise la visibilité et l'audibilité.</definition>
+        <definition>Espace ou salle de réunion ayant une disposition semi-circulaire, souvent utilisé dans les parlements et les assemblées politiques pour faciliter la communication entre les participants et améliorer la visibilité des orateurs, caractérisé par une conception architecturale qui concentre l'attention sur une scène centrale ou une tribune.</definition>
+    </word>
+    <word value="immiscible">
+        <definition>Décrit deux liquides qui ne se mélangent pas pour former un mélange homogène.</definition>
+        <definition>Souvent utilisé en chimie pour décrire des liquides comme l'huile et l'eau.</definition>
+        <definition>Propriété de deux liquides qui, lorsqu'ils sont mélangés, ne forment pas de solution homogène mais plutôt des phases distinctes, généralement dues à des différences de polarité ou de composition chimique, utilisée en chimie et en physique pour étudier les propriétés des mélanges et des solutions.</definition>
+    </word>
+    <word value="joule">
+        <definition>Unité de mesure de l'énergie dans le système international.</definition>
+        <definition>Équivaut à la quantité d'énergie dépensée pour appliquer une force d'un newton sur un mètre.</definition>
+        <definition>Unité dérivée du système international de mesure utilisée pour quantifier l'énergie et le travail, définie comme la quantité d'énergie transférée ou consommée lorsqu'une force de un newton est appliquée sur une distance d'un mètre dans la direction de la force, utilisée en physique, en ingénierie et en technologie pour mesurer l'énergie cinétique, potentielle, thermique et électrique.</definition>
+    </word>
+    <word value="kinesitherapie">
+        <definition>Thérapie par le mouvement, utilisée pour restaurer la fonction musculaire et articulaire.</definition>
+        <definition>Pratique utilisée pour rééduquer les patients après blessures ou maladies.</definition>
+        <definition>Domaine médical qui utilise des techniques de mouvement et d'exercice thérapeutiques pour réhabiliter et améliorer la fonction musculaire, articulaire et neurologique chez les patients souffrant de traumatismes, de maladies ou de conditions médicales.</definition>
+    </word>
+    <word value="lucifugous">
+        <definition>Qui évite la lumière, utilisé pour décrire les comportements de certains animaux.</definition>
+        <definition>Adapté aux environnements sombres ou nocturnes.</definition>
+        <definition>Caractéristique des organismes ou des comportements qui évitent la lumière, généralement associés à des habitats sombres ou nocturnes, tels que les cavernes, les sous-bois ou les profondeurs marines, souvent observés chez les animaux ayant des adaptations spéciales pour la vision et la chasse dans des conditions de faible luminosité.</definition>
+    </word>
+    <word value="mecanique">
+        <definition>Étude du mouvement et des forces sur les corps.</definition>
+        <definition>Branche de la physique concernant l'analyse des systèmes physiques.</definition>
+        <definition>Domaine de la physique qui étudie les mouvements et les forces agissant sur les objets, ainsi que les interactions entre les corps en mouvement, utilisé en ingénierie, en science des matériaux et en biophysique pour comprendre le comportement des structures, des machines et des organismes vivants.</definition>
+    </word>
+    <word value="nidification">
+        <definition>Processus de construction d'un nid par les oiseaux pour y pondre leurs œufs.</definition>
+        <definition>Utilisé en biologie pour décrire le comportement reproducteur des oiseaux.</definition>
+        <definition>Comportement instinctif des oiseaux consistant à construire un nid pour abriter et protéger leurs œufs et leurs jeunes, souvent observé chez de nombreuses espèces aviaires comme une étape cruciale du cycle de reproduction, caractérisé par des matériaux spécifiques, des techniques de construction et des emplacements sélectionnés avec soin pour maximiser la sécurité et la réussite de la reproduction.</definition>
+    </word>
+    <word value="oscillographe">
+        <definition>Appareil pour enregistrer les variations de courant électrique.</definition>
+        <definition>Utilisé pour visualiser les oscillations des signaux électriques.</definition>
+        <definition>Instrument de mesure électronique utilisé pour enregistrer graphiquement les variations de tension ou de courant dans un circuit électrique au fil du temps, généralement équipé d'un écran cathodique ou d'une surface d'enregistrement pour afficher les formes d'ondes des signaux électriques, utilisé en électronique, en physique et en ingénierie pour analyser les systèmes électriques et les signaux.</definition>
+    </word>
+    <word value="polarimetre">
+        <definition>Instrument pour mesurer l'angle de rotation polarisée de la lumière.</definition>
+        <definition>Utilisé en chimie pour déterminer la concentration de certaines substances.</definition>
+        <definition>Appareil de laboratoire optique utilisé pour mesurer la rotation de la lumière polarisée lorsqu'elle passe à travers une substance, généralement une solution chimique, utilisé pour analyser les propriétés optiques des composés chirales et déterminer leur concentration ou leur pureté, largement utilisé en chimie, en biochimie et en pharmacologie.</definition>
+    </word>
+    <word value="quasar">
+        <definition>Objet céleste très éloigné et brillant, alimenté par un trou noir supermassif.</definition>
+        <definition>Considéré comme une phase importante dans le développement des galaxies.</definition>
+        <definition>Les quasars, ou quasi-stellaires radio, sont des objets célestes extrêmement lumineux et éloignés, situés aux confins de l'univers observable, dont l'émission intense provient de la matière en chute libre vers un trou noir supermassif au centre d'une galaxie active, jouant un rôle crucial dans la compréhension de l'évolution des galaxies et de la cosmologie.</definition>
+    </word>
+    <word value="retrograde">
+        <definition>Mouvement d'un corps céleste dans la direction opposée à celle des autres corps dans son système.</definition>
+        <definition>Utilisé en astronomie pour décrire le mouvement apparent des planètes.</definition>
+        <definition>Phénomène observé dans le mouvement des planètes du système solaire où, vu de la Terre, une planète semble momentanément reculer par rapport aux étoiles de fond, résultant en une trajectoire en zigzag par rapport au mouvement direct habituel des planètes, un phénomène expliqué par la combinaison des mouvements orbitaux de la Terre et de la planète en question.</definition>
+    </word>
+    <word value="synecdoque">
+        <definition>Figure de style où une partie est utilisée pour représenter le tout.</definition>
+        <definition>Utilisée en littérature pour donner un effet rhétorique.</definition>
+        <definition>Figure de rhétorique couramment utilisée dans la littérature et la poésie où une partie d'un objet ou d'un concept est utilisée pour représenter le tout, ou vice versa, créant ainsi une expression concise et évocatrice qui peut évoquer des associations, des émotions ou des idées complexes en utilisant des éléments familiers et concrets.</definition>
+    </word>
+    <word value="turbidite">
+        <definition>État d'une eau ou d'une solution trouble à cause de particules en suspension.</definition>
+        <definition>Utilisée en géologie pour décrire les sédiments déposés par un courant de turbidité.</definition>
+        <definition>Type de dépôt sédimentaire résultant du transport et du dépôt de matériaux en suspension dans un fluide, généralement de l'eau, en raison de la gravité ou d'autres forces, caractérisé par des couches sédimentaires stratifiées présentant une gradation de taille des particules et une structure distinctive causée par le dépôt rapide de sédiments fins lors de l'arrêt ou de la diminution du courant turbulent.</definition>
+    </word>
+    <word value="amphibologie">
+        <definition>Ambiguïté d'une phrase dont la construction permet plusieurs interprétations.</definition>
+        <definition>Utilisée en linguistique pour décrire une phrase à double sens.</definition>
+        <definition>Figure de style ou structure syntaxique dans laquelle une phrase peut être interprétée de plusieurs manières en raison d'une ambiguïté grammaticale ou sémantique, souvent utilisée pour créer un effet comique, ironique ou énigmatique dans la langue écrite ou parlée, nécessitant souvent un contexte ou une clarification supplémentaire pour une compréhension précise.</definition>
+    </word>
+    <word value="bathymetrie">
+        <definition>Mesure des profondeurs d'eau pour déterminer la topographie du fond marin.</definition>
+        <definition>Technique cartographique utilisée pour représenter les reliefs sous-marins.</definition>
+        <definition>Étude des variations de profondeur des océans, mers, et autres plans d'eau.</definition>
+    </word>
+    <word value="chronometre">
+        <definition>Instrument précis utilisé pour mesurer le temps, souvent avec une grande exactitude.</definition>
+        <definition>Dispositif de mesure temporelle utilisé en sport pour chronométrer les performances.</definition>
+        <definition>Outil de mesure du temps essentiel en astronomie pour enregistrer les événements précisément.</definition>
+    </word>
+    <word value="dynamometre">
+        <definition>Appareil utilisé pour mesurer la force exercée par un objet ou un organisme vivant.</definition>
+        <definition>Dispositif servant à évaluer la puissance développée par un moteur ou un système mécanique.</definition>
+        <definition>Instrument de mesure de la tension ou de la pression, souvent utilisé en physique et en mécanique.</definition>
+    </word>
+    <word value="echolocalisation">
+        <definition>Mécanisme biologique utilisé par certains animaux pour détecter les objets en émettant des sons et en interprétant les échos renvoyés.</definition>
+        <definition>Technique de navigation et de recherche utilisant des ondes sonores émises et reçues par un émetteur-récepteur.</definition>
+        <definition>Processus sensoriel permettant à certaines espèces animales, telles que les chauves-souris et les dauphins, de localiser des proies ou des obstacles par la réflexion des sons.</definition>
+    </word>
+    <word value="floculation">
+        <definition>Processus chimique ou physique dans lequel de petites particules en suspension dans un liquide se regroupent pour former des agrégats plus gros appelés flocs.</definition>
+        <definition>Technique de traitement de l'eau consistant à agréger les particules en suspension pour faciliter leur élimination.</definition>
+        <definition>Méthode de clarification des liquides en favorisant la coagulation des particules en suspension.</definition>
+    </word>
 
 </words>
