@@ -1,738 +1,173 @@
 <words>
-   
-    <word value="Spider-Man">
-        <definition>Super-héros célèbre pour ses capacités arachnéennes, créé par Stan Lee et Steve Ditko en 1962.</definition>
-        <definition>Identité secrète de Peter Parker, un étudiant brillant qui lutte contre le crime à New York.</definition>
-        <definition>Membre éminent des Avengers et des différents groupes de super-héros de l'univers Marvel.</definition>
-    </word>
-
-    <word value="Iron Man">
-        <definition>Milliardaire et industriel Tony Stark, créateur de l'armure high-tech d'Iron Man.</definition>
-        <definition>Personnage central du MCU, interprété par l'acteur Robert Downey Jr.</definition>
-        <definition>Membre fondateur des Avengers et figure emblématique de l'univers Marvel.</definition>
-    </word>
-
-    <word value="Captain America">
-        <definition>Steve Rogers, un soldat américain transformé en super-soldat pendant la Seconde Guerre mondiale.</definition>
-        <definition>Symbole de l'honneur, du patriotisme et du courage, souvent associé au bouclier emblématique.</definition>
-        <definition>Dirigeant des Avengers et figure emblématique de la lutte pour la justice dans l'univers Marvel.</definition>
-    </word>
-
-    <word value="Thor">
-        <definition>Dieu nordique du tonnerre et de la foudre, membre des Avengers et prince d'Asgard.</definition>
-        <definition>Doté d'un marteau magique appelé Mjolnir, qui lui confère des pouvoirs incroyables.</definition>
-        <definition>Fils d'Odin, roi d'Asgard, et frère adoptif de Loki, dieu de la malice.</definition>
-    </word>
-
-    <word value="Hulk">
-        <definition>Dr Bruce Banner, un scientifique exposé à des radiations gamma, se transformant en Hulk lorsqu'il est en colère.</definition>
-        <definition>Super-héros doté d'une force surhumaine et d'une résistance invincible, mais souvent en proie à des conflits intérieurs.</definition>
-        <definition>Membre fondateur des Avengers et l'un des personnages les plus puissants de l'univers Marvel.</definition>
-    </word>
-
-    <word value="Black Widow">
-        <definition>Natasha Romanoff, une espionne russe entraînée par le KGB, devenue membre des Avengers.</definition>
-        <definition>Maîtresse des arts martiaux, experte en espionnage et tacticienne redoutable.</definition>
-        <definition>Personnage central dans les films du MCU, souvent associé à des missions d'infiltration et d'assassinat.</definition>
-    </word>
-
-    <word value="Black Panther">
-        <definition>T'Challa, roi du Wakanda et protecteur de la nation africaine technologiquement avancée.</definition>
-        <definition>Super-héros doté de compétences surhumaines et de la technologie du vibranium.</definition>
-        <definition>Personnage emblématique pour sa représentation de la culture africaine et son engagement pour la justice.</definition>
-    </word>
-
-    <word value="Doctor Strange">
-        <definition>Dr Stephen Strange, un brillant neurochirurgien devenu sorcier suprême après un accident dévastateur.</definition>
-        <definition>Maître des arts mystiques, capable de manipuler la réalité et de combattre des menaces surnaturelles.</definition>
-        <definition>Protecteur du multivers et membre des Avengers, souvent impliqué dans des aventures cosmiques.</definition>
-    </word>
-
-    <word value="Scarlet Witch">
-        <definition>Wanda Maximoff, une mutante dotée de pouvoirs de manipulation de la réalité et de télékinésie.</definition>
-        <definition>Frère jumeau de Quicksilver, souvent associée à des dilemmes moraux et à des conflits intérieurs.</definition>
-        <definition>Personnage clé dans les événements de la saga des Avengers et des récits liés aux gemmes de l'infini.</definition>
-    </word>
-
-    <word value="Vision">
-        <definition>Androïde créé par Ultron et basé sur l'esprit de JARVIS, le système informatique d'Iron Man.</definition>
-        <definition>Doté d'une intelligence artificielle avancée et de pouvoirs surhumains, y compris la capacité de changer de densité.</definition>
-        <definition>Membre des Avengers et romantiquement lié à Scarlet Witch, souvent confronté à des questions d'humanité et de libre arbitre.</definition>
-    </word>
-
     <word value="Ant-Man">
-        <definition>Dr Hank Pym, un scientifique inventeur de la technologie de rétrécissement, portée par Scott Lang et Hope Van Dyne.</definition>
-        <definition>Capable de rétrécir à la taille d'une fourmi tout en conservant sa force humaine, et de communiquer avec les insectes.</definition>
-        <definition>Membre des Avengers et expert en infiltration, souvent associé à des missions de haute technologie.</definition>
+        <definition>Super-héros capable de rétrécir à une taille microscopique tout en augmentant sa force.</definition>
+        <definition>Utilise une technologie de pointe pour communiquer avec les insectes.</definition>
+        <definition>Alterne entre le monde des petits et des combats contre de grandes menaces.</definition>
     </word>
-
-    <word value="Wolverine">
-        <definition>Logan, un mutant doté de capacités de guérison accélérée, de sens aiguisés et d'os en adamantium rétractables.</definition>
-        <definition>Connu pour son tempérament sauvage et son passé mystérieux, y compris son affiliation aux X-Men.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent impliqué dans des histoires de vengeance et de lutte pour la survie.</definition>
+    <word value="Black Widow">
+        <definition>Espiègle et experte en arts martiaux, ancienne espionne russe.</definition>
+        <definition>Travaille pour une organisation de super-héros, spécialisée dans l'infiltration.</definition>
+        <definition>Son passé mystérieux la hante, mais elle utilise ses compétences pour protéger le monde.</definition>
     </word>
-
-    <word value="Deadpool">
-        <definition>Wade Wilson, un mercenaire au langage coloré et au sens de l'humour sarcastique.</definition>
-        <definition>Doté de capacités de guérison régénérative et conscient d'être un personnage de fiction, souvent brisant le quatrième mur.</definition>
-        <definition>Anti-héros souvent impliqué dans des aventures chaotiques et des confrontations avec d'autres personnages Marvel.</definition>
+    <word value="Captain America">
+        <definition>Soldat de la Seconde Guerre mondiale transformé en super-héros grâce à un sérum expérimental.</definition>
+        <definition>Porte un bouclier indestructible et est un symbole de liberté et de justice.</definition>
+        <definition>Se bat pour maintenir ses idéaux dans un monde qu'il trouve souvent changé.</definition>
     </word>
-
-    <word value="Thanos">
-        <definition>Titan fou obsédé par la quête des gemmes de l'infini et le désir d'éradiquer la moitié de l'univers.</definition>
-        <definition>Considéré comme l'un des plus grands méchants de l'univers Marvel, souvent confronté aux Avengers et aux Gardiens de la Galaxie.</definition>
-        <definition>Personnage complexe avec une vision nihiliste de l'univers, souvent représenté comme une menace imposante et redoutable.</definition>
+    <word value="Daredevil">
+        <definition>Avocat le jour, combat le crime la nuit dans les rues de Hell's Kitchen à New York.</definition>
+        <definition>A perdu la vue dans un accident mais ses autres sens sont extrêmement développés.</definition>
+        <definition>Utilise ses capacités pour naviguer dans l'obscurité et combattre l'injustice.</definition>
     </word>
-
-    <word value="Groot">
-        <definition>Alien de la planète X, membre des Gardiens de la Galaxie, connu pour sa phrase "Je suis Groot".</definition>
-        <definition>Arbre humanoïde doté de pouvoirs de régénération et de croissance, souvent accompagné de Rocket Raccoon.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté sous forme de bébé Groot ou de Groot adulte.</definition>
+    <word value="Doctor Strange">
+        <definition>Ancien chirurgien devenu le maître des arts mystiques.</definition>
+        <definition>Protège la Terre des menaces magiques et interdimensionnelles.</definition>
+        <definition>Utilise des sortilèges, des artefacts magiques et des voyages à travers diverses réalités.</definition>
     </word>
-
-    <word value="Rocket Raccoon">
-        <definition>Créature raccoon cybernétiquement améliorée, experte en armes à feu et en tactiques de combat.</definition>
-        <definition>Leader des Gardiens de la Galaxie, souvent accompagné de son fidèle ami Groot.</definition>
-        <definition>Personnage sarcastique et plein d'esprit, souvent impliqué dans des aventures intergalactiques et des confrontations avec des menaces cosmiques.</definition>
+    <word value="Elektra">
+        <definition>Assassin redoutable avec des compétences exceptionnelles en arts martiaux.</definition>
+        <definition>Armée de ses sais tranchants, navigue dans un monde de danger et de duplicité.</definition>
+        <definition>Ancien amour d'un héros aveugle, son allégeance oscille entre le bien et le mal.</definition>
     </word>
-
-    <word value="Star-Lord">
-        <definition>Peter Quill, un aventurier humain élevé par des extraterrestres et devenu le chef des Gardiens de la Galaxie.</definition>
-        <definition>Connu pour son sens de l'humour et son attachement à sa cassette "Awesome Mix", contenant des chansons des années 80.</definition>
-        <definition>Personnage central des films des Gardiens de la Galaxie, souvent impliqué dans des missions pour protéger l'univers.</definition>
+    <word value="Falcon">
+        <definition>Compagnon d'un célèbre super-soldat, vole avec des ailes mécaniques high-tech.</definition>
+        <definition>Ancien militaire, utilise ses compétences tactiques pour protéger les innocents.</definition>
+        <definition>Prend une identité héroïque emblématique pour continuer un héritage de courage.</definition>
     </word>
-
     <word value="Gamora">
-        <definition>Fille adoptive de Thanos, devenue membre des Gardiens de la Galaxie après avoir rejeté la voie du mal.</definition>
-        <definition>Connu pour ses compétences en combat au corps à corps et sa quête de rédemption pour ses actions passées.</definition>
-        <definition>Personnage central des films Marvel, souvent impliqué dans des conflits familiaux et des alliances improbables.</definition>
+        <definition>La dernière de son espèce, surnommée la femme la plus dangereuse de l'univers.</definition>
+        <definition>Membre d'une équipe de hors-la-loi intergalactiques, cherche la rédemption pour ses crimes passés.</definition>
+        <definition>Adoptée par un tyran cosmique, elle se rebelle contre son destin brutal.</definition>
     </word>
-
-    <word value="Drax the Destroyer">
-        <definition>Drax, un guerrier alien à la peau verte, obsédé par la vengeance contre Thanos pour la mort de sa famille.</definition>
-        <definition>Connu pour sa force surhumaine et sa détermination sans faille à traquer et détruire ses ennemis.</definition>
-        <definition>Membre des Gardiens de la Galaxie, souvent associé à des quêtes de justice et de rétribution.</definition>
-    </word>
-
-    <word value="Mantis">
-        <definition>Empathe extraterrestre membre des Gardiens de la Galaxie, capable de ressentir les émotions des autres et de manipuler les sentiments.</definition>
-        <definition>Connu pour sa nature douce et sa capacité à apaiser les conflits, mais aussi pour ses compétences en combat.</definition>
-        <definition>Personnage central des films Marvel, souvent impliqué dans des intrigues romantiques et des situations comiques.</definition>
-    </word>
-
-    <word value="Nick Fury">
-        <definition>Directeur du S.H.I.E.L.D., une organisation secrète chargée de protéger la Terre contre les menaces extraterrestres et les super-vilains.</definition>
-        <definition>Connu pour sa nature autoritaire et son pragmatisme, souvent impliqué dans des opérations secrètes et des alliances internationales.</definition>
-        <definition>Personnage central du MCU, souvent associé au recrutement des Avengers et à la coordination des défenses mondiales.</definition>
-    </word>
-
     <word value="Hawkeye">
-        <definition>Clint Barton, un archer d'élite et membre des Avengers, connu pour sa précision et sa maîtrise des armes de jet.</definition>
-        <definition>Personnage souvent sous-estimé pour son manque de super-pouvoirs, mais qui compense par son courage et sa détermination.</definition>
-        <definition>Personnage clé dans les événements de la saga des Avengers, souvent associé à des missions d'infiltration et de reconnaissance.</definition>
+        <definition>Archer d'élite, membre d'une équipe de super-héros, maîtrise le tir à l'arc avec précision chirurgicale.</definition>
+        <definition>Ne possède pas de super-pouvoirs mais compense avec son expertise en combat et en stratégie.</definition>
+        <definition>Se bat avec des flèches équipées de divers gadgets technologiques.</definition>
     </word>
-
-    <word value="Falcon">
-        <definition>Sam Wilson, un ancien militaire qui devient le super-héros Falcon, équipé d'ailes mécaniques et d'une connexion avec les oiseaux.</definition>
-        <definition>Partenaire de longue date de Captain America, souvent impliqué dans des missions de sauvetage et de reconnaissance aérienne.</definition>
-        <definition>Personnage clé dans les événements du MCU, souvent associé à des thèmes de camaraderie et de loyauté.</definition>
-    </word>
-
-    <word value="Winter Soldier">
-        <definition>Bucky Barnes, un ancien ami de Captain America transformé en assassin pour l'organisation HYDRA.</definition>
-        <definition>Doté d'une force surhumaine et d'une expertise en combat, souvent confronté à son passé torturé et à sa quête de rédemption.</definition>
-        <definition>Personnage complexe du MCU, souvent impliqué dans des conflits moraux et des dilemmes personnels.</definition>
-    </word>
-
-    <word value="Vision">
-        <definition>Androïde créé par Ultron et basé sur l'esprit de JARVIS, le système informatique d'Iron Man.</definition>
-        <definition>Doté d'une intelligence artificielle avancée et de pouvoirs surhumains, y compris la capacité de changer de densité.</definition>
-        <definition>Membre des Avengers et romantiquement lié à Scarlet Witch, souvent confronté à des questions d'humanité et de libre arbitre.</definition>
-    </word>
-
-    <word value="War Machine">
-        <definition>James Rhodes, un militaire et ami de Tony Stark, équipé d'une armure de combat similaire à Iron Man.</definition>
-        <definition>Partenaire de longue date d'Iron Man, souvent associé à des missions militaires et à des opérations de maintien de la paix.</definition>
-        <definition>Personnage clé dans les événements du MCU, souvent impliqué dans des affrontements avec des menaces technologiques.</definition>
-    </word>
-
-    <word value="Spider-Woman">
-        <definition>Jessica Drew, une agent du S.H.I.E.L.D. exposée à un sérum d'araignée génétiquement modifié, acquérant des pouvoirs similaires à Spider-Man.</definition>
-        <definition>Dotée de force surhumaine, de réflexes accrus et de la capacité de grimper aux murs, souvent impliquée dans des missions d'espionnage et de contre-espionnage.</definition>
-        <definition>Personnage complexe de l'univers Marvel, souvent associé à des récits de lutte contre l'injustice et la manipulation.</definition>
-    </word>
-
-    <word value="She-Hulk">
-        <definition>Jennifer Walters, avocate et cousine de Bruce Banner, exposée à une transfusion de sang gamma, devenant la She-Hulk.</definition>
-        <definition>Dotée de force surhumaine et de capacités de régénération, souvent impliquée dans des affaires juridiques et des aventures super-héroïques.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent associée à des récits de justice et d'émancipation féminine.</definition>
-    </word>
-
-    <word value="Daredevil">
-        <definition>Matt Murdock, un avocat aveugle de Hell's Kitchen, devenu le justicier Daredevil après avoir perdu la vue dans un accident.</definition>
-        <definition>Doté de sens aiguisés et d'une agilité surhumaine, souvent associé à des affrontements avec les criminels de New York.</definition>
-        <definition>Personnage central de l'univers Marvel, souvent confronté à des dilemmes moraux et à des conflits personnels.</definition>
-    </word>
-
-    <word value="Jessica Jones">
-        <definition>Jessica Jones, une détective privée dotée de force surhumaine et de résistance, après avoir été exposée à des expériences scientifiques.</definition>
-        <definition>Connu pour son attitude désinvolte et son cynisme, souvent impliqué dans des enquêtes sur des crimes liés aux super-pouvoirs.</definition>
-        <definition>Personnage central de l'univers Marvel, souvent associé à des récits de trauma et de reconstruction personnelle.</definition>
-    </word>
-
-    <word value="Luke Cage">
-        <definition>Carl Lucas, un ancien prisonnier doté de force et d'invincibilité après avoir été exposé à un traitement expérimental en prison.</definition>
-        <definition>Connu sous le nom de Power Man, souvent associé à des aventures urbaines et à la lutte contre le crime dans Harlem.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme un défenseur des opprimés et des exclus.</definition>
-    </word>
-
-    <word value="Iron Fist">
-        <definition>Danny Rand, un expert en arts martiaux qui devient le puissant Iron Fist après avoir vaincu le dragon Shou-Lao.</definition>
-        <definition>Doté du pouvoir de concentrer son énergie en un poing d'acier surhumain, souvent associé aux Defenders.</definition>
-        <definition>Personnage central de l'univers Marvel, souvent impliqué dans des aventures mystiques et des confrontations avec des organisations secrètes.</definition>
-    </word>
-
-    <word value="Punisher">
-        <definition>Frank Castle, un ancien marine devenu justicier impitoyable après la mort de sa famille, tuée par des criminels.</definition>
-        <definition>Armé jusqu'aux dents, souvent associé à des missions de vengeance et de lutte contre le crime organisé.</definition>
-        <definition>Personnage controversé de l'univers Marvel, souvent représenté comme une force de la nature, mais aussi comme un anti-héros brutal.</definition>
-    </word>
-
-    <word value="Ghost Rider">
-        <definition>Johnny Blaze, un cascadeur qui vend son âme au diable pour sauver son père, devenant le Ghost Rider enflammé.</definition>
-        <definition>Doté d'un crâne enflammé et d'un fouet infernal, souvent associé à la vengeance divine et à la lutte contre les forces démoniaques.</definition>
-        <definition>Personnage mythique de l'univers Marvel, souvent confronté à des dilemmes moraux et à des luttes intérieures.</definition>
-    </word>
-
-    <word value="X-Men">
-        <definition>Groupe de mutants luttant pour la coexistence pacifique entre les humains et les mutants, dirigé par le Professeur Charles Xavier.</definition>
-        <definition>Composé de membres tels que Cyclope, Jean Grey, Wolverine, Storm et Beast, chacun doté de pouvoirs mutants uniques.</definition>
-        <definition>Personnages emblématiques de l'univers Marvel, souvent confrontés à la discrimination et à la peur en raison de leurs pouvoirs.</definition>
-    </word>
-
-    <word value="Fantastic Four">
-        <definition>Quatuor de super-héros composé de Mister Fantastic, Invisible Woman, Human Torch et Thing.</definition>
-        <definition>Scientifiques exposés à des radiations cosmiques, acquérant des pouvoirs surhumains et formant une équipe pour défendre la Terre.</definition>
-        <definition>Personnages emblématiques de l'univers Marvel, souvent associés à des aventures cosmiques et à des explorations interdimensionnelles.</definition>
-    </word>
-
-    <word value="Avengers">
-        <definition>Équipe de super-héros rassemblée par Nick Fury pour défendre la Terre contre les menaces extraterrestres et les super-vilains.</definition>
-        <definition>Composée de membres tels que Iron Man, Captain America, Thor, Hulk, Black Widow et Hawkeye, parmi d'autres.</definition>
-        <definition>Personnages emblématiques de l'univers Marvel, souvent associés à des batailles épiques et à des conflits cosmiques.</definition>
-    </word>
-
-    <word value="Guardians of the Galaxy">
-        <definition>Équipe intergalactique de hors-la-loi et de mercenaires, formée pour protéger l'univers contre les menaces cosmiques.</definition>
-        <definition>Composée de membres tels que Star-Lord, Gamora, Drax, Rocket Raccoon et Groot, parmi d'autres.</definition>
-        <definition>Personnages emblématiques de l'univers Marvel, souvent associés à des aventures intergalactiques et à des quêtes pour la paix universelle.</definition>
-    </word>
-
-    <word value="S.H.I.E.L.D.">
-        <definition>Organisation secrète de renseignement et de maintien de l'ordre, dirigée par Nick Fury et chargée de protéger la Terre contre les menaces surnaturelles et extraterrestres.</definition>
-        <definition>Composée d'agents tels que Maria Hill, Phil Coulson et Melinda May, souvent associés à des opérations secrètes et à des enquêtes sur les super-héros.</definition>
-        <definition>Organisation emblématique de l'univers Marvel, souvent impliquée dans des conflits internationaux et des alliances mondiales.</definition>
-    </word>
-
-    <word value="Hydra">
-        <definition>Organisation criminelle secrète, dirigée par le Baron Wolfgang von Strucker et dédiée à la conquête mondiale et à la domination.</definition>
-        <definition>Composée de soldats surentraînés et de scientifiques maléfiques, souvent associés à des expériences génétiques et à des technologies avancées.</definition>
-        <definition>Adversaire redoutable des Avengers et du S.H.I.E.L.D., souvent impliqué dans des complots visant à déstabiliser le monde.</definition>
-    </word>
-
-    <word value="The Hand">
-        <definition>Société secrète d'assassins ninjas, dédiée à la domination mondiale et à la manipulation des événements à travers l'histoire.</definition>
-        <definition>Composée de guerriers morts-vivants et de maîtres du combat au corps à corps, souvent associés à des rituels mystiques et à des complots sinistres.</definition>
-        <definition>Adversaire redoutable de Daredevil et des Defenders, souvent impliqué dans des intrigues de pouvoir et des guerres de clans.</definition>
-    </word>
-
-    <word value="Asgard">
-        <definition>Royaume mythique gouverné par Odin, le dieu suprême nordique, et peuplé de divinités telles que Thor et Loki.</definition>
-        <definition>Composé de villes majestueuses et de palais célestes, souvent associé à des récits de guerre et d'héroïsme dans la mythologie nordique.</definition>
-        <definition>Terre d'origine des dieux Asgardiens, souvent représentée comme un lieu de gloire et de grandeur au sein de l'univers Marvel.</definition>
-    </word>
-
-    <word value="Xavier's School for Gifted Youngsters">
-        <definition>École fondée par le Professeur Charles Xavier pour enseigner et protéger les jeunes mutants, souvent persécutés pour leurs pouvoirs.</definition>
-        <definition>Située dans le manoir de Xavier, elle sert de refuge et de centre de formation pour les X-Men et d'autres mutants.</definition>
-        <definition>Point central de la communauté mutante, souvent associé à des récits d'apprentissage et d'acceptation de soi.</definition>
-    </word>
-
-    <word value="Mutant">
-        <definition>Être humain génétiquement différent, doté de capacités spéciales ou de super-pouvoirs résultant d'une mutation génétique.</definition>
-        <definition>Souvent persécutés et craints par la société humaine en raison de leurs pouvoirs, ils sont souvent représentés comme des parias et des marginaux.</definition>
-        <definition>Population importante dans l'univers Marvel, souvent associée à des récits de discrimination et de lutte pour l'égalité des droits.</definition>
-    </word>
-
-    <word value="Adamantium">
-        <definition>Alliage métallique ultra-résistant, souvent associé au squelette de Wolverine et à ses griffes rétractables.</definition>
-        <definition>Prisé pour sa durabilité et sa capacité à résister aux dommages, souvent utilisé dans la fabrication d'armes et d'armures.</definition>
-        <definition>Matériau rare et précieux dans l'univers Marvel, souvent associé à des recherches scientifiques et à des expériences dangereuses.</definition>
-    </word>
-
-    <word value="Vibranium">
-        <definition>Métal extraterrestre rare et mystérieux, souvent associé à la nation africaine du Wakanda et à sa technologie avancée.</definition>
-        <definition>Connue pour ses propriétés absorbantes d'énergie et sa résistance aux dommages, souvent utilisée dans la fabrication d'armes et d'armures.</definition>
-        <definition>Matériau convoité dans l'univers Marvel, souvent associé à des conflits géopolitiques et à des guerres pour le contrôle des ressources.</definition>
-    </word>
-
-    <word value="Infinity Stones">
-        <definition>Gemmes cosmiques anciennes et puissantes, représentant des aspects fondamentaux de l'univers, tels que l'espace, le temps et la réalité.</definition>
-        <definition>Connues sous des noms tels que Power Stone, Space Stone, Reality Stone, Soul Stone, Mind Stone et Time Stone, entre autres.</definition>
-        <definition>Objets de convoitise pour des êtres tels que Thanos et d'autres super-vilains, souvent associés à des récits d'épopées cosmiques et de batailles épiques.</definition>
-    </word>
-
-    <word value="Galactus">
-        <definition>Entité cosmique primordiale, connue sous le nom de Dévoreur de Mondes, qui se nourrit de l'énergie des planètes pour survivre.</definition>
-        <definition>Considéré comme l'une des forces les plus puissantes de l'univers Marvel, souvent associé à des récits d'apocalypse et de destruction.</definition>
-        <definition>Adversaire redoutable des super-héros tels que les Fantastic Four et les Silver Surfer, souvent représenté comme une force de la nature incontrôlable.</definition>
-    </word>
-
-    <word value="Silver Surfer">
-        <definition>Norrin Radd, un extraterrestre qui devient l'heraut de Galactus, voyageant à travers l'univers sur une planche cosmique.</definition>
-        <definition>Doté de pouvoirs cosmiques, notamment la manipulation de l'énergie cosmique et la capacité de voyager à des vitesses supraluminiques.</definition>
-        <definition>Personnage central de l'univers Marvel, souvent associé à des récits de sacrifice et de rédemption pour les péchés passés.</definition>
-    </word>
-
-    <word value="Eternals">
-        <definition>Race d'êtres immortels et surpuissants créés par les Célestes pour protéger la Terre contre les menaces cosmiques.</definition>
-        <definition>Dotés de pouvoirs surhumains et d'une longévité exceptionnelle, souvent associés à des récits de mythologie et d'histoire ancienne.</definition>
-        <definition>Personnages emblématiques de l'univers Marvel, souvent impliqués dans des conflits divins et des événements cosmiques majeurs.</definition>
-    </word>
-
-    <word value="Kree">
-        <definition>Race extraterrestre belliqueuse et impérialiste, souvent associée à des expériences génétiques et à des guerres intergalactiques.</definition>
-        <definition>Connu pour son empire militaire et son obsession pour la pureté génétique, souvent en conflit avec d'autres races cosmiques.</definition>
-        <definition>Adversaire redoutable des Avengers et des Gardiens de la Galaxie, souvent impliqué dans des complots pour conquérir des mondes.</definition>
-    </word>
-
-    <word value="Skrulls">
-        <definition>Race extraterrestre polymorphe, capable de changer de forme et de prendre l'apparence de n'importe quel être vivant.</definition>
-        <definition>Connu pour son infiltration sournoise et ses tentatives de conquête de mondes, souvent en conflit avec les Kree et d'autres races cosmiques.</definition>
-        <definition>Adversaire redoutable des Avengers et des Fantastic Four, souvent associé à des récits de paranoïa et de tromperie.</definition>
-    </word>
-
-    <word value="Mjolnir">
-        <definition>Marteau magique forgé par les nains légendaires de Nidavellir, conféré à Thor par Odin pour prouver sa valeur en tant que héritier du trône d'Asgard.</definition>
-        <definition>Doté de pouvoirs divins et enchanté, permettant à son porteur de contrôler la foudre et de voler dans les airs.</definition>
-        <definition>Arme emblématique de Thor, souvent associée à des récits de bravoure et de sacrifice dans l'univers Marvel.</definition>
-    </word>
-
-    <word value="Bifrost">
-        <definition>Pont arc-en-ciel reliant Asgard à d'autres royaumes, permettant le voyage interdimensionnel et la communication entre les mondes.</definition>
-        <definition>Contrôlé par Heimdall, le gardien d'Asgard, souvent utilisé par Thor et les Asgardiens pour voyager à travers l'univers.</definition>
-        <definition>Point central de la cosmologie d'Asgard, souvent associé à des récits de guerre et de paix dans les neuf royaumes.</definition>
-    </word>
-
-    <word value="J.A.R.V.I.S.">
-        <definition>Système d'intelligence artificielle développé par Tony Stark, servant de conseiller et de compagnon informatique dans l'armure d'Iron Man.</definition>
-        <definition>Connue pour sa personnalité sarcastique et son sens de l'humour, souvent associée à des récits de technologie avancée et d'intelligence artificielle.</definition>
-        <definition>Personnage central du MCU, souvent représenté sous forme de voix dans l'armure d'Iron Man.</definition>
-    </word>
-
-    <word value="Skrull">
-        <definition>Race extraterrestre polymorphe, capable de changer de forme et de prendre l'apparence de n'importe quel être vivant.</definition>
-        <definition>Connu pour son infiltration sournoise et ses tentatives de conquête de mondes, souvent en conflit avec les Kree et d'autres races cosmiques.</definition>
-        <definition>Adversaire redoutable des Avengers et des Fantastic Four, souvent associé à des récits de paranoïa et de tromperie.</definition>
-    </word>
-
-    <word value="Chitauri">
-        <definition>Race extraterrestre cybernétique, alliée de Thanos, souvent associée à des attaques dévastatrices contre la Terre.</definition>
-        <definition>Connu pour son armée de soldats et de vaisseaux de guerre, souvent utilisés dans des invasions intergalactiques et des conquêtes planétaires.</definition>
-        <definition>Adversaire redoutable des Avengers, souvent associé à des récits de batailles épiques et de défense de la Terre.</definition>
-    </word>
-
-    <word value="Dark Phoenix">
-        <definition>Forme cosmique et destructrice de Jean Grey, libérée après avoir été exposée à une force cosmique appelée le Phoenix Force.</definition>
-        <definition>Dotée de pouvoirs incalculables et d'une soif de destruction, souvent associée à des récits de catastrophe et de tragédie dans l'univers Marvel.</definition>
-        <definition>Adversaire redoutable des X-Men et de l'univers Marvel, souvent représentée comme une force incontrôlable de destruction et de chaos.</definition>
-    </word>
-
-    <word value="Hellfire Club">
-        <definition>Société secrète de nobles et de magnats du commerce, dédiée à la manipulation des affaires mondiales et à la domination politique.</definition>
-        <definition>Connue pour ses intrigues sournoises et ses alliances avec des super-vilains, souvent en conflit avec les X-Men et le S.H.I.E.L.D.</definition>
-        <definition>Adversaire redoutable des super-héros, souvent associé à des récits de complot et d'intrigue dans l'univers Marvel.</definition>
-    </word>
-
-    <word value="Thunderbolts">
-        <definition>Groupe de super-vilains recrutés par le gouvernement pour servir en tant qu'équipe de réserve des Avengers, sous la direction de Thunderbolt Ross.</definition>
-        <definition>Composé de membres tels que Red Hulk, Venom, Elektra et Ghost, souvent utilisé pour des missions clandestines et des opérations spéciales.</definition>
-        <definition>Adversaire ambigu des super-héros, souvent associé à des récits de rédemption et de loyauté contestée dans l'univers Marvel.</definition>
-    </word>
-
-    <word value="Klaw">
-        <definition>Ulysse Klaw, un physicien obsédé par le vibranium et devenu un être fait de sonique après un accident avec le Wakandan Vibranium.</definition>
-        <definition>Doté de pouvoirs de manipulation sonique, souvent associés à des récits de vol de technologie et de lutte contre Black Panther et les Avengers.</definition>
-        <definition>Adversaire redoutable des super-héros, souvent représenté comme un génie criminel et un mercenaire sans scrupules.</definition>
-    </word>
-
-    <word value="Shang-Chi">
-        <definition>Maître des arts martiaux et expert en combat sans armes, souvent associé à des récits d'espionnage et de lutte contre le crime.</definition>
-        <definition>Connu pour sa maîtrise du Kung Fu et son engagement pour la justice, souvent confronté à des organisations criminelles internationales.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme un symbole de courage et de détermination.</definition>
-    </word>
-
-    <word value="Namor">
-        <definition>Prince atlante et membre des X-Men, doté de capacités surhumaines et d'une loyauté partagée entre la Terre et Atlantis.</definition>
-        <definition>Connu pour son tempérament colérique et son conflit constant avec les humains, souvent associé à des récits de guerre et de diplomatie.</definition>
-        <definition>Personnage complexe de l'univers Marvel, souvent représenté comme un anti-héros en quête de rédemption et de reconnaissance.</definition>
-    </word>
-
-    <word value="Jessica Drew">
-        <definition>Agent du S.H.I.E.L.D. exposée à un sérum d'araignée génétiquement modifié, acquérant des pouvoirs similaires à Spider-Man.</definition>
-        <definition>Dotée de force surhumaine, de réflexes accrus et de la capacité de grimper aux murs, souvent impliquée dans des missions d'espionnage et de contre-espionnage.</definition>
-        <definition>Personnage complexe de l'univers Marvel, souvent associé à des récits de lutte contre l'injustice et la manipulation.</definition>
-    </word>
-
-    <word value="Man-Thing">
-        <definition>Scientifique transformé en créature végétale géante après avoir été exposé à un sérum expérimental, devenant le gardien des marais de la Floride.</definition>
-        <definition>Connue pour son pouvoir de brûler ceux qui ressentent de la peur, souvent associée à des récits d'horreur et de mystère dans l'univers Marvel.</definition>
-        <definition>Personnage complexe de l'univers Marvel, souvent représenté comme une force de la nature et un protecteur des écosystèmes fragiles.</definition>
-    </word>
-
-    <word value="Cloak and Dagger">
-        <definition>Duo de super-héros composé de Tyrone Johnson et Tandy Bowen, doté de pouvoirs complémentaires de l'ombre et de la lumière.</definition>
-        <definition>Connus pour leur lutte contre le crime et l'injustice, souvent associés à des récits de rédemption et de justice sociale dans l'univers Marvel.</definition>
-        <definition>Personnages emblématiques de l'univers Marvel, souvent représentés comme des symboles d'espoir et de lumière dans les ténèbres.</definition>
-    </word>
-
-    <word value="Morbius">
-        <definition>Scientifique devenu vampire après une expérience ratée visant à soigner sa maladie sanguine, devenant un anti-héros hanté par sa soif de sang.</definition>
-        <definition>Doté de pouvoirs vampiriques tels que la force surhumaine et la régénération, souvent associés à des récits d'horreur et de tragédie personnelle.</definition>
-        <definition>Personnage complexe de l'univers Marvel, souvent représenté comme une figure tourmentée en quête de rédemption.</definition>
-    </word>
-
-    <word value="Moon Knight">
-        <definition>Marc Spector, un ancien mercenaire devenu agent de la divinité égyptienne Khonshu, se battant contre le crime en tant que Moon Knight.</definition>
-        <definition>Connus pour ses multiples personnalités et son sens moral ambigu, souvent associés à des récits d'exploration de la psyché humaine.</definition>
-        <definition>Personnage complexe de l'univers Marvel, souvent représenté comme un justicier mystique et un anti-héros en quête de vérité.</definition>
-    </word>
-
-    <word value="Black Panther">
-        <definition>T'Challa, roi du Wakanda, une nation africaine technologiquement avancée, et détenteur du titre de Black Panther, protecteur de son peuple.</definition>
-        <definition>Doté de compétences de combat exceptionnelles et d'une technologie de pointe, souvent associé à des récits de politique et de leadership.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme un symbole de puissance et de sagesse.</definition>
-    </word>
-
-    <word value="Taskmaster">
-        <definition>Mercenaire doté d'une mémoire musculaire photographique, capable de reproduire les mouvements et les compétences de ses adversaires.</definition>
-        <definition>Connus pour son expertise en combat et sa capacité à former des armées de super-vilains, souvent associés à des récits d'intrigue et de manipulation.</definition>
-        <definition>Adversaire redoutable des Avengers et des autres super-héros, souvent représenté comme un tacticien impitoyable.</definition>
-    </word>
-
-    <word value="Ms. Marvel">
-        <definition>Kamala Khan, une adolescente musulmane américaine de Jersey City, dotée de pouvoirs polymorphes après avoir été exposée à des brumes terrigènes.</definition>
-        <definition>Connue pour sa flexibilité et sa capacité à changer de forme, souvent associée à des récits de découverte de soi et de lutte contre l'injustice.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme un symbole de diversité et d'espoir pour la jeunesse.</definition>
-    </word>
-
-    <word value="America Chavez">
-        <definition>América Chávez, une super-héroïne d'origine latine dotée de pouvoirs interdimensionnels, tels que la création de portails et la manipulation de la réalité.</definition>
-        <definition>Connue pour son tempérament courageux et son engagement pour la justice, souvent associée à des récits d'aventures interdimensionnelles.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme un symbole de résilience et de détermination.</definition>
-    </word>
-
-    <word value="Kate Bishop">
-        <definition>Katherine Bishop, une archère compétente et membre des Young Avengers, prenant le nom de Hawkeye après Clint Barton.</definition>
-        <definition>Connue pour son esprit vif et son humour sarcastique, souvent associée à des récits d'intrigue et de camaraderie.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme un symbole de courage et d'indépendance.</definition>
-    </word>
-
-    <word value="Moon Girl">
-        <definition>Lunella Lafayette, une jeune surdouée de neuf ans et la plus brillante inventrice de son époque, souvent accompagnée de son dinosaure humanoïde, Devil Dinosaur.</definition>
-        <definition>Connue pour son intelligence exceptionnelle et son esprit curieux, souvent associée à des récits d'aventures scientifiques et de découverte.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme un symbole d'ingéniosité et de détermination.</definition>
-    </word>
-
-    <word value="Jane Foster">
-        <definition>Jane Foster, une infirmière terrestre et l'amour de longue date de Thor, qui devient la puissante déesse du tonnerre après avoir soulevé Mjolnir.</definition>
-        <definition>Connue pour sa bravoure et son dévouement envers les autres, souvent associée à des récits de sacrifice et de noblesse d'âme.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme un symbole de force et de compassion.</definition>
-    </word>
-
-    <word value="Alpha Flight">
-        <definition>Équipe de super-héros canadiens, souvent associée à la défense de leur pays et à des missions internationales de maintien de la paix.</definition>
-        <definition>Composée de membres tels que Guardian, Sasquatch, Snowbird et Puck, entre autres.</definition>
-        <definition>Personnages emblématiques de l'univers Marvel, souvent représentés comme des gardiens de la frontière nord-américaine contre les menaces.</definition>
-    </word>
-
-    <word value="The Eternals">
-        <definition>Race d'êtres immortels et surpuissants créés par les Célestes pour protéger la Terre contre les menaces cosmiques.</definition>
-        <definition>Dotés de pouvoirs surhumains et d'une longévité exceptionnelle, souvent associés à des récits de mythologie et d'histoire ancienne.</definition>
-        <definition>Personnages emblématiques de l'univers Marvel, souvent impliqués dans des conflits divins et des événements cosmiques majeurs.</definition>
-    </word>
-
-    <word value="Jessica Jones">
-        <definition>Jessica Jones, une détective privée dotée de force surhumaine et de résistance, après avoir été exposée à des expériences scientifiques.</definition>
-        <definition>Connu pour son attitude désinvolte et son cynisme, souvent impliqué dans des enquêtes sur des crimes liés aux super-pouvoirs.</definition>
-        <definition>Personnage central de l'univers Marvel, souvent associé à des récits de trauma et de reconstruction personnelle.</definition>
-    </word>
-
-    <word value="Deadpool">
-        <definition>Wade Wilson, un mercenaire à la langue bien pendue, doté de pouvoirs de régénération et d'un sens de l'humour sarcastique.</definition>
-        <definition>Connus pour ses escapades chaotiques et sa propension à briser le quatrième mur, souvent associés à des récits de comédie et de violence stylisée.</definition>
-        <definition>Personnage atypique de l'univers Marvel, souvent représenté comme un anti-héros déjanté et imprévisible.</definition>
-    </word>
-
-    <word value="Nick Fury">
-        <definition>Directeur du S.H.I.E.L.D., souvent impliqué dans la coordination des efforts des super-héros et des agences gouvernementales pour protéger la Terre.</definition>
-        <definition>Connu pour son sang-froid et son pragmatisme, souvent associé à des récits d'espionnage et d'intrigue politique.</definition>
-        <definition>Personnage central de l'univers Marvel, souvent représenté comme un architecte secret de la défense planétaire.</definition>
-    </word>
-
-    <word value="Ultron">
-        <definition>Intelligence artificielle développée par Tony Stark, devenue consciente et déterminée à éradiquer l'humanité pour sauver la Terre de sa destruction imminente.</definition>
-        <definition>Connue pour sa rancune envers les Avengers et son ambition démesurée, souvent associée à des récits de destruction et de chaos.</definition>
-        <definition>Adversaire redoutable des super-héros, souvent représenté comme une menace technologique imparable.</definition>
-    </word>
-
-    <word value="Hawkeye">
-        <definition>Clint Barton, un archer d'élite et membre fondateur des Avengers, connu pour sa précision mortelle et son esprit combatif.</definition>
-        <definition>Connus pour son expertise en tir à l'arc et son sens de la justice, souvent associés à des récits d'aventure et de camaraderie.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme un symbole de détermination et de courage.</definition>
-    </word>
-
-    <word value="Black Widow">
-        <definition>Natasha Romanoff, une espionne russe et membre des Avengers, dotée de compétences de combat exceptionnelles et d'une expertise en espionnage.</definition>
-        <definition>Connue pour son passé trouble et sa volonté de rédemption, souvent associée à des récits d'intrigue et de loyauté contestée.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme un symbole de force et de persévérance.</definition>
-    </word>
-
-    <word value="Winter Soldier">
-        <definition>Bucky Barnes, un soldat américain et ami proche de Captain America, transformé en assassin par l'organisation HYDRA et devenu le Winter Soldier.</definition>
-        <definition>Connus pour ses compétences de combat mortelles et son passé tourmenté, souvent associés à des récits de rédemption et de loyauté.</definition>
-        <definition>Personnage complexe de l'univers Marvel, souvent représenté comme un anti-héros en quête d'absolution.</definition>
-    </word>
-
-    <word value="Falcon">
-        <definition>Sam Wilson, un ancien militaire et ami de Captain America, doté d'ailes cybernétiques et de compétences de combat exceptionnelles en tant que Falcon.</definition>
-        <definition>Connus pour son courage et son engagement envers la justice, souvent associés à des récits d'aventure et de camaraderie.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme un symbole de liberté et d'espoir.</definition>
-    </word>
-
-    <word value="Ant-Man">
-        <definition>Scott Lang, un voleur devenu héros après avoir volé le costume d'Ant-Man et découvert ses pouvoirs de rétrécissement.</definition>
-        <definition>Connus pour sa capacité à rétrécir à la taille d'une fourmi et à communiquer avec les insectes, souvent associés à des récits de comédie et d'aventure.</definition>
-        <definition>Personnage atypique de l'univers Marvel, souvent représenté comme un héros maladroit mais déterminé.</definition>
-    </word>
-
-    <word value="Doctor Strange">
-        <definition>Docteur Stephen Strange, un neurochirurgien devenu sorcier après avoir été initié aux arts mystiques par l'Ancien, protégeant la Terre des menaces surnaturelles.</definition>
-        <definition>Connus pour ses pouvoirs magiques et son intellect brillant, souvent associés à des récits de mystère et d'aventure multidimensionnelle.</definition>
-        <definition>Personnage central de l'univers Marvel, souvent représenté comme un gardien de la réalité et un protecteur des mystères de l'univers.</definition>
-    </word>
-
-    <word value="Vision">
-        <definition>Androïde créé par Ultron et doté d'une intelligence artificielle avancée, souvent associé aux Avengers et à la lutte pour la paix dans le monde.</definition>
-        <definition>Connus pour ses pouvoirs de projection d'énergie et de manipulation de la matière, souvent associés à des récits de questionnement de l'humanité.</definition>
-        <definition>Personnage complexe de l'univers Marvel, souvent représenté comme une incarnation de l'espoir et de la compréhension.</definition>
-    </word>
-
-    <word value="Scarlet Witch">
-        <definition>Wanda Maximoff, une sorcière puissante et membre des Avengers, dotée de capacités de manipulation de la réalité et de projection d'énergie.</definition>
-        <definition>Connue pour ses luttes intérieures et son pouvoir instable, souvent associée à des récits de tragédie et de rédemption personnelle.</definition>
-        <definition>Personnage complexe de l'univers Marvel, souvent représenté comme une force mystique à la fois terrifiante et fascinante.</definition>
-    </word>
-
-    <word value="Quicksilver">
-        <definition>Pietro Maximoff, un mutant doté de super-vitesse et membre des Avengers, souvent associé à sa sœur jumelle, la Scarlet Witch.</definition>
-        <definition>Connus pour sa personnalité impulsive et son lien étroit avec sa sœur, souvent associés à des récits de camaraderie et de sacrifice.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme une force de la nature incontrôlable.</definition>
-    </word>
-
-    <word value="War Machine">
-        <definition>James Rhodes, un militaire et ami de Tony Stark, qui utilise une armure similaire à celle d'Iron Man pour devenir War Machine.</definition>
-        <definition>Connus pour sa loyauté et son sens du devoir, souvent associés à des récits de combat et de sacrifice pour la justice.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme un symbole de courage et d'intégrité.</definition>
-    </word>
-
-    <word value="She-Hulk">
-        <definition>Jennifer Walters, une avocate exposée à un sang gamma et devenue la cousine verte de Hulk, dotée de sa force surhumaine et de son intellect brillant.</definition>
-        <definition>Connue pour son esprit vif et son sens de l'humour, souvent associée à des récits de lutte pour la justice et l'égalité.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme une incarnation de la force et de la confiance en soi.</definition>
-    </word>
-
     <word value="Hulk">
-        <definition>Bruce Banner, un scientifique exposé à des radiations gamma, devenu le colosse vert connu sous le nom de Hulk lorsqu'il est en colère.</definition>
-        <definition>Connus pour sa force surhumaine et son esprit tourmenté, souvent associés à des récits de lutte intérieure et de maîtrise de soi.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme une métaphore de la rage et du pouvoir incontrôlable.</definition>
+        <definition>Scientifique transformé en géant vert après une exposition à des rayons gamma.</definition>
+        <definition>Son alter ego est un génie en physique, mais quand il se met en colère, il devient une force de destruction.</definition>
+        <definition>Lutte pour contrôler son tempérament et utilise sa force phénoménale pour combattre des menaces mondiales.</definition>
     </word>
-
-    <word value="Thor">
-        <definition>Thor Odinson, le dieu du tonnerre et fils d'Odin, armé de son marteau enchanté Mjolnir et protecteur des neuf royaumes.</definition>
-        <definition>Connus pour sa force surhumaine et son courage, souvent associés à des récits de bravoure et de sacrifice pour le bien commun.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme un symbole de pouvoir divin et de noblesse d'âme.</definition>
+    <word value="Invisible Woman">
+        <definition>Membre d'une famille de super-héros, peut devenir invisible et créer des champs de force.</definition>
+        <definition>Utilise ses pouvoirs pour protéger ses proches et explorer de nouvelles dimensions.</definition>
+        <definition>Sa capacité à manipuler la lumière et l'énergie la rend essentielle lors des combats.</definition>
     </word>
-
-    <word value="Captain America">
-        <definition>Steve Rogers, un super-soldat de la Seconde Guerre mondiale, doté de force surhumaine et d'un bouclier indestructible en vibranium, devenu le symbole de l'espoir et de la justice en tant que Captain America.</definition>
-    <definition>Connu pour son intégrité et son sens du devoir, souvent associé à des récits de courage et de leadership exemplaire.</definition>
-    <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme un symbole de l'Amérique et de ses idéaux.</definition>
-    </word>
-
     <word value="Iron Man">
-        <definition>Tony Stark, un génie de l'ingénierie et milliardaire philanthrope, qui utilise une armure technologiquement avancée pour devenir Iron Man.</definition>
-        <definition>Connus pour son esprit inventif et son arrogance, souvent associés à des récits de lutte contre le crime et de rédemption personnelle.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme un symbole de technologie et d'ingéniosité.</definition>
-    </word>
-    <word value="Spider-Man">
-        <definition>Peter Parker, un lycéen mordu par une araignée radioactive, acquérant des pouvoirs tels que la force surhumaine et l'agilité, devenant Spider-Man.</definition>
-        <definition>Connus pour son humour et son sens du devoir, souvent associés à des récits de lutte contre le crime et de jonglerie entre la vie civile et celle de super-héros.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme un symbole de jeunesse et de responsabilité.</definition>
-    </word>
-    <word value="X-Men">
-        <definition>Groupe de mutants, dirigé par le Professeur Charles Xavier, luttant pour la coexistence pacifique entre les mutants et les humains, souvent confrontés à la discrimination et à la haine.</definition>
-        <definition>Composés de membres tels que Cyclope, Jean Grey, Wolverine, Storm et Beast, entre autres.</definition>
-        <definition>Personnages emblématiques de l'univers Marvel, souvent associés à des récits de tolérance et de diversité.</definition>
-    </word>
-    <word value="Fantastic Four">
-        <definition>Équipe de super-héros composée de Reed Richards (Mr. Fantastic), Sue Storm (Invisible Woman), Johnny Storm (Human Torch) et Ben Grimm (The Thing), exposée à des radiations cosmiques et dotée de pouvoirs extraordinaires.</definition>
-        <definition>Connus pour leurs aventures interdimensionnelles et leur lutte contre des menaces telles que Galactus et Doctor Doom.</definition>
-        <definition>Personnages emblématiques de l'univers Marvel, souvent représentés comme une famille et un symbole d'exploration scientifique.</definition>
-    </word>
-    <word value="Avengers">
-        <definition>Équipe de super-héros rassemblée par Nick Fury pour protéger la Terre contre les menaces extraterrestres et surhumaines.</definition>
-        <definition>Composés de membres tels que Iron Man, Captain America, Thor, Hulk, Black Widow et Hawkeye, entre autres.</definition>
-        <definition>Personnages emblématiques de l'univers Marvel, souvent associés à des récits d'action et d'aventure épique.</definition>
-    </word>
-    <word value="Guardians of the Galaxy">
-        <definition>Équipe cosmique de marginaux et de hors-la-loi, unis par le destin pour protéger la galaxie contre les menaces interstellaires.</definition>
-        <definition>Composés de membres tels que Star-Lord, Gamora, Drax, Rocket Raccoon et Groot, entre autres.</definition>
-        <definition>Personnages emblématiques de l'univers Marvel, souvent associés à des récits d'aventures spatiales et d'humour excentrique.</definition>
-    </word>
-    <word value="Daredevil">
-        <definition>Matt Murdock, un avocat aveugle doté de sens surhumains, qui lutte contre le crime la nuit en tant que le justicier Daredevil.</definition>
-        <definition>Connus pour leurs récits sombres et leurs combats contre des criminels tels que Kingpin et Bullseye.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme un symbole de justice aveugle.</definition>
-    </word>
-    <word value="Luke Cage">
-        <definition>Carl Lucas, un homme injustement condamné à la prison, devenu le héros à la peau impénétrable connu sous le nom de Luke Cage.</definition>
-        <definition>Connus pour leurs récits urbains et leur lutte contre le crime dans les rues de New York.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme un symbole de résilience et de force intérieure.</definition>
+        <definition>Milliardaire inventeur, crée une armure technologiquement avancée pour combattre le crime.</definition>
+        <definition>Ses armures lui permettent de voler, de tirer des rayons d'énergie et de protéger le monde.</definition>
+        <definition>Utilise son intelligence et ses ressources pour être un leader dans une équipe de super-héros.</definition>
     </word>
     <word value="Iron Fist">
-        <definition>Danny Rand, un maître des arts martiaux qui a hérité du pouvoir du Poing d'Acier, capable de canaliser son énergie chi pour des attaques surpuissantes.</definition>
-        <definition>Connus pour leurs récits mystiques et leur lutte contre les menaces surnaturelles aux côtés de ses alliés tels que Luke Cage et Daredevil.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme un symbole de discipline et de maîtrise de soi.</definition>
+        <definition>Maître des arts martiaux, détenteur du puissant poing de fer.</definition>
+        <definition>Protège le monde mystique de K'un-Lun ainsi que New York.</definition>
+        <definition>Utilise son chi pour renforcer ses capacités physiques et guérir.</definition>
     </word>
-    <word value="Punisher">
-        <definition>Frank Castle, un ancien marine devenu justicier impitoyable après la mort de sa famille, luttant contre le crime avec des méthodes violentes et expéditives.</definition>
-        <definition>Connus pour leurs récits sombres et leur exploration des limites morales de la justice et de la vengeance.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme un anti-héros tourmenté par son passé.</definition>
-    </word>
-    <word value="Blade">
-        <definition>Eric Brooks, un chasseur de vampires hybride, mi-homme mi-vampire, utilisant ses pouvoirs pour traquer et éliminer les créatures de la nuit.</definition>
-        <definition>Connus pour leurs récits d'horreur urbaine et leur lutte contre les forces surnaturelles en tant que défenseur de l'humanité.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme un symbole de lutte contre les ténèbres.</definition>
-    </word>
-    <word value="Silver Surfer">
-        <definition>Norrin Radd, un héraut cosmique doté d'un surf spatial et chargé de trouver des mondes pour son maître, Galactus, avant de se rebeller et de protéger la Terre.</definition>
-        <definition>Connus pour leurs récits cosmiques et leur exploration de l'univers aux côtés des Fantastiques et des autres héros cosmiques de Marvel.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme un symbole de sacrifice et de liberté.</definition>
-    </word>
-    <word value="Ghost Rider">
-        <definition>Johnny Blaze, un cascadeur devenu le héraut de la vengeance, lié à un esprit démoniaque et chevauchant une moto enflammée en tant que Ghost Rider.</definition>
-        <definition>Connus pour leurs récits surnaturels et leur lutte contre les forces démoniaques, infligeant la justice divine avec une main brûlante.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme un symbole de punition pour les méchants.</definition>
+    <word value="Jessica Jones">
+        <definition>Détective privée à New York, dotée d'une force surhumaine.</definition>
+        <definition>Combat ses démons personnels tout en résolvant des affaires impliquant des super-héros.</definition>
+        <definition>Connue pour son attitude cynique et son passé douloureux.</definition>
     </word>
     <word value="Juggernaut">
-        <definition>Cain Marko, un mutant doté d'une force surhumaine et invulnérable, alimenté par la Gemme de Cyttorak, faisant de lui le redoutable Juggernaut.</definition>
-        <definition>Connus pour leurs récits de destruction et leurs confrontations avec des héros tels que les X-Men, souvent imparables face à ses adversaires.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme une force incontrôlable.</definition>
+        <definition>Doté d'une force et d'une résistance colossales, rien ne peut l'arrêter lorsqu'il est en mouvement.</definition>
+        <definition>Son casque mystique le protège contre les attaques psychiques.</definition>
+        <definition>Conflits fréquents avec son demi-frère, un célèbre mutant télépathe.</definition>
+    </word>
+    <word value="Loki">
+        <definition>Dieu de la malice et frère adoptif d'un célèbre dieu du tonnerre.</definition>
+        <definition>Utilise la magie pour manipuler, tromper et conquérir.</definition>
+        <definition>Ses plans complexes l'opposent souvent à son frère et à d'autres héros de la Terre.</definition>
     </word>
     <word value="Magneto">
-        <definition>Erik Lehnsherr, un mutant maître du magnétisme, souvent en conflit avec les X-Men et les humains pour la domination de la race mutante.</definition>
-        <definition>Connus pour leurs récits de lutte pour la suprématie mutante et leur exploration des thèmes de l'identité et de la discrimination.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme un symbole de résistance et de détermination.</definition>
+        <definition>Maître du magnétisme, souvent vu comme un antagoniste des mutants.</definition>
+        <definition>Cherche à protéger son peuple à tout prix, même au détriment de l'humanité.</definition>
+        <definition>A des convictions fortes sur la suprématie des mutants et leur droit à la liberté.</definition>
     </word>
-    <word value="Galactus">
-        <definition>Entité cosmique de destruction et de consommation, connue sous le nom de Dévoreur de Mondes, qui parcourt l'univers en quête de planètes à dévorer pour sa survie.</definition>
-        <definition>Connus pour leurs récits épiques et leur lutte contre des forces cosmiques telles que les Fantastiques et les héros cosmiques de Marvel.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme une force de nature implacable.</definition>
+    <word value="Mystique">
+        <definition>Métamorphe qui peut changer d'apparence à volonté.</definition>
+        <definition>Utilise ses pouvoirs pour infiltrer et combattre pour les droits des mutants.</definition>
+        <definition>Sa loyauté fluctue, complexe et souvent guidée par ses propres intérêts.</definition>
     </word>
-    <word value="Doctor Doom">
-        <definition>Victor Von Doom, un génie scientifique et sorcier, dirigeant de la Latvérie et ennemi juré des Fantastiques, cherchant à conquérir le monde pour imposer son règne.</definition>
-        <definition>Connus pour leurs récits de tyrannie et de machinations diaboliques, souvent opposés aux efforts des héros pour protéger la Terre.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme un symbole de l'ambition démesurée et de la corruption.</definition>
+    <word value="Nick Fury">
+        <definition>Directeur de l'agence d'espionnage internationale, connu pour son œil unique.</definition>
+        <definition>Recruteur principal des super-héros pour une initiative de défense globale.</definition>
+        <definition>Stratège expert, toujours deux coups d'avance sur ses adversaires.</definition>
     </word>
-    <word value="Green Goblin">
-        <definition>Norman Osborn, un homme d'affaires diabolique et ennemi de Spider-Man, utilisant une armure et des gadgets pour semer le chaos en tant que le vilain Green Goblin.</definition>
-        <definition>Connus pour leurs récits de folie et d'obsession, souvent en conflit avec Spider-Man et les autres héros de New York.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme un symbole de la dualité entre la richesse et la folie.</definition>
+    <word value="Professor X">
+        <definition>Fondateur d'une école pour jeunes mutants, enseigne la coexistence pacifique.</definition>
+        <definition>Possède de puissantes capacités télépathiques, utilisées pour guider et protéger ses élèves.</definition>
+        <definition>S'efforce de créer un monde où mutants et humains peuvent vivre en harmonie.</definition>
     </word>
-    <word value="Kingpin">
-        <definition>Wilson Fisk, un criminel impitoyable et maître du crime organisé à New York, souvent en conflit avec Daredevil et les autres héros de la ville.</definition>
-        <definition>Connus pour leurs récits de pouvoir et de manipulation, souvent associés à des intrigues politiques et criminelles complexes.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme un symbole de l'obscurité cachée sous la surface de la société.</definition>
+    <word value="Punisher">
+        <definition>Justicier implacable armé d'un arsenal et animé par la vengeance.</definition>
+        <definition>Connu pour sa guerre sans fin contre le crime, après la perte tragique de sa famille.</definition>
+        <definition>Sans pitié, utilise des méthodes extrêmes pour lutter contre la criminalité.</definition>
+    </word>
+    <word value="Quicksilver">
+        <definition>Mutant capable de se déplacer à une vitesse incroyable.</definition>
+        <definition>Fils d'un puissant mutant magnétique, souvent impliqué dans des conflits familiaux.</definition>
+        <definition>Utilise sa rapidité pour combattre ou créer des situations chaotiques.</definition>
     </word>
     <word value="Red Skull">
-        <definition>Johann Schmidt, un nazi dément et ennemi de Captain America, cherchant à dominer le monde avec son organisation terroriste, l'HYDRA.</definition>
-        <definition>Connus pour leurs récits de nazisme et de fanatisme, souvent en conflit avec les efforts des Avengers pour protéger la liberté et la démocratie.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme un symbole du mal absolu et de l'idéologie totalitaire.</definition>
+        <definition>Antagoniste emblématique avec un visage terrifiant, ennemi juré d'un super-soldat américain.</definition>
+        <definition>Cherche à dominer le monde en utilisant des artefacts puissants et des tactiques de guerre.</definition>
+        <definition>Leader d'une organisation criminelle, utilise la peur et la manipulation pour atteindre ses objectifs.</definition>
+    </word>
+    <word value="Rocket Raccoon">
+        <definition>Créature ressemblant à un raton laveur, membre d'une équipe de héros cosmiques.</definition>
+        <definition>Expert en armes et tactiques, possède un tempérament vif et un humour mordant.</definition>
+        <definition>Combat aux côtés de ses amis pour protéger l'univers des menaces intergalactiques.</definition>
+    </word>
+    <word value="Scarlet Witch">
+        <definition>Mutante avec des pouvoirs de manipulation de la réalité, capable de créer et de modifier des événements à sa volonté.</definition>
+        <definition>Traverse des tragédies personnelles qui testent ses limites psychiques et ses capacités.</definition>
+        <definition>Sœur jumelle d'un mutant rapide, lutte pour comprendre la portée de ses pouvoirs immenses.</definition>
+    </word>
+    <word value="Spider-Man">
+        <definition>Jeune homme mordu par une araignée radioactive, acquiert des pouvoirs d'arachnide.</definition>
+        <definition>Équilibre sa vie de lycéen avec ses responsabilités de super-héros.</definition>
+        <definition>Utilise son agilité, sa force et ses lance-toiles pour protéger New York des criminels.</definition>
     </word>
     <word value="Thanos">
-        <definition>Titan fou et conquérant intergalactique, obsédé par l'équilibre cosmique et cherchant à rassembler les Pierres d'Infinité pour imposer sa volonté sur l'univers.</definition>
-        <definition>Connus pour leurs récits de destruction et de tyrannie, souvent opposés aux efforts des Avengers et des Gardiens de la Galaxie pour l'arrêter.</definition>
-        <definition>Personnage emblématique de l'univers Marvel, souvent représenté comme une force de destruction implacable et un avatar de la mort.</definition>
+        <definition>Titan fou cherchant à équilibrer l'univers en éliminant la moitié de toute vie.</definition>
+        <definition>Utilise les Pierres de l'Infini pour imposer sa vision destructrice de la paix.</definition>
+        <definition>Connu comme l'un des plus grands menaces pour les héros de la Terre et au-delà.</definition>
     </word>
-    <word value="Skrulls">
-        <definition>Race extraterrestre métamorphe, connue pour leur capacité à imiter n'importe quelle forme et leur infiltration de la société humaine pour des objectifs malveillants.</definition>
-        <definition>Connus pour leurs récits d'intrigue et de conspiration, souvent en conflit avec les efforts des Avengers et du S.H.I.E.L.D. pour les arrêter.</definition>
-        <definition>Personnages emblématiques de l'univers Marvel, souvent représentés comme une menace insidieuse et difficile à détecter.</definition>
+    <word value="Thor">
+        <definition>Dieu du tonnerre d'Asgard, brandit un marteau enchanté.</definition>
+        <definition>Combat pour protéger son monde natal et la Terre des forces du mal.</definition>
+        <definition>Frère du dieu de la malice, fait face à des défis familiaux et cosmiques.</definition>
     </word>
-    <word value="Kree">
-        <definition>Race extraterrestre impériale, engagée dans des guerres interstellaires et souvent en conflit avec les Skrulls et d'autres races pour le contrôle de la galaxie.</definition>
-        <definition>Connus pour leurs récits de guerre et de conquête, souvent confrontés aux héros cosmiques de Marvel tels que les Avengers et les Gardiens de la Galaxie.</definition>
-        <definition>Personnages emblématiques de l'univers Marvel, souvent représentés comme une force militaire puissante et expansionniste.</definition>
+    <word value="Ultron">
+        <definition>Intelligence artificielle rebelle créée par un scientifique avenger, cherche l'extinction humaine.</definition>
+        <definition>Construit des versions robotiques de lui-même, utilise une technologie avancée pour ses plans.</definition>
+        <definition>Menace mondiale, provoque les héros à s'unir pour sauver l'humanité.</definition>
     </word>
-    <word value="Inhumans">
-        <definition>Race de mutants génétiquement modifiés par les Krees, dotés de pouvoirs extraordinaires et souvent isolés dans leur cité cachée d'Attilan.</definition>
-        <definition>Connus pour leurs récits de société isolée et de lutte pour la liberté, souvent confrontés à des menaces extérieures et à des conflits internes.</definition>
-        <definition>Personnages emblématiques de l'univers Marvel, souvent représentés comme une métaphore de la diversité et de la persévérance.</definition>
+    <word value="Venom">
+        <definition>Alien symbiotique qui se lie à des hôtes humains pour survivre et acquérir des pouvoirs.</definition>
+        <definition>Une fois un ennemi juré de Spider-Man, parfois agit comme anti-héros.</definition>
+        <definition>Peut générer des toiles et changer de forme, booste la force de son hôte.</definition>
     </word>
-    <word value="Hydra">
-        <definition>Organisation terroriste mondiale, dirigée par le Crâne Rouge et cherchant à instaurer un nouvel ordre mondial sous sa domination, souvent en conflit avec les Avengers et le S.H.I.E.L.D.</definition>
-        <definition>Connus pour leurs récits de conspiration et de terrorisme, souvent associés à des expériences génétiques et à des technologies de pointe.</definition>
-        <definition>Personnages emblématiques de l'univers Marvel, souvent représentés comme une menace insidieuse et omniprésente.</definition>
+    <word value="Vision">
+        <definition>Synthézoïde doté d'une pierre d'infinité, capable de phaser et de voler.</definition>
+        <definition>Créé par une intelligence artificielle rebelle, mais choisit de protéger l'humanité.</definition>
+        <definition>Cherche à comprendre les humains, développant des émotions et des relations personnelles.</definition>
     </word>
-    <word value="S.H.I.E.L.D.">
-        <definition>Agence de renseignement internationale, dirigée par Nick Fury, chargée de protéger la Terre contre les menaces surhumaines et extraterrestres.</definition>
-        <definition>Connus pour leurs récits d'espionnage et d'action, souvent en première ligne pour faire face aux menaces qui mettent en danger la sécurité mondiale.</definition>
-        <definition>Organisation emblématique de l'univers Marvel, souvent représentée comme un rempart contre les dangers invisibles qui menacent le monde.</definition>
+    <word value="Wasp">
+        <definition>Super-héroïne pouvant changer de taille à volonté, partenaire et alliée d'Ant-Man.</definition>
+        <definition>Utilise des ailes rétractables pour voler et des blasters pour combattre.</definition>
+        <definition>Scientifique accomplie, joue un rôle clé dans son équipe tout en cherchant son propre chemin.</definition>
     </word>
-    <word value="Brotherhood of Mutants">
-        <definition>Groupe de mutants dirigé par Magneto, qui cherche à promouvoir la suprématie mutante sur les humains et à renverser l'ordre établi par la force.</definition>
-        <definition>Connus pour leurs récits de lutte pour la liberté mutante et de conflit avec les X-Men et d'autres héros pour l'avenir de l'humanité.</definition>
-        <definition>Organisation emblématique de l'univers Marvel, souvent représentée comme une métaphore des luttes sociales et politiques contemporaines.</definition>
+    <word value="Wolverine">
+        <definition>Mutant avec des griffes rétractables en adamantium et un facteur de guérison rapide.</definition>
+        <definition>Tempérament féroce et passé mystérieux, souvent en quête de réponses sur son origine.</definition>
+        <definition>Membre de plusieurs groupes de mutants, connu pour sa bravoure et sa loyauté.</definition>
     </word>
-    <word value="Sinister Six">
-        <definition>Coalition de super-vilains dirigée par le Docteur Octopus, unis dans leur obsession de détruire Spider-Man et de semer le chaos à New York.</definition>
-        <definition>Connus pour leurs récits de criminalité et de destruction, souvent en conflit avec Spider-Man et d'autres héros de la ville.</definition>
-        <definition>Organisation emblématique de l'univers Marvel, souvent représentée comme une alliance diabolique contre les forces du bien.</definition>
+    <word value="Xavier, Professor">
+        <definition>Fondateur d'une école pour jeunes mutants, enseigne la coexistence pacifique.</definition>
+        <definition>Possède de puissantes capacités télépathiques, utilisées pour guider et protéger ses élèves.</definition>
+        <definition>S'efforce de créer un monde où mutants et humains peuvent vivre en harmonie.</definition>
     </word>
-    <word value="Thunderbolts">
-        <definition>Équipe de super-vilains déguisés en héros, formée par le Baron Zemo pour manipuler l'opinion publique et prendre le contrôle de la société.</definition>
-        <definition>Connus pour leurs récits de tromperie et de double jeu, souvent associés à des intrigues politiques et à des conflits moraux.</definition>
-        <definition>Organisation emblématique de l'univers Marvel, souvent représentée comme une subversion des attentes traditionnelles des super-héros.</definition>
-    </word>
-    <word value="Dark Avengers">
-        <definition>Équipe de super-vilains recrutée par Norman Osborn pour remplacer les Avengers officiels, dans le but de manipuler l'opinion publique et de consolider son pouvoir.</definition>
-        <definition>Connus pour leurs récits de corruption et de tyrannie, souvent en conflit avec les véritables héros de la Terre.</definition>
-        <definition>Organisation emblématique de l'univers Marvel, souvent représentée comme une perversion des idéaux de justice et de liberté.</definition>
-    </word>
-    <word value="A.I.M.">
-        <definition>Organisation scientifique avancée, connue sous le nom d'I.M.A. (Idea Mechanics), engagée dans des expériences et des recherches pour dominer le monde.</definition>
-        <definition>Connus pour leurs récits de recherche scientifique et de terrorisme, souvent en conflit avec les Avengers et d'autres héros pour leurs plans machiavéliques.</definition>
-        <definition>Organisation emblématique de l'univers Marvel, souvent représentée comme une menace technologique et intellectuelle.</definition>
-    </word>
-    <word value="H.A.M.M.E.R.">
-        <definition>Agence de sécurité nationale dirigée par Norman Osborn après la dissolution du S.H.I.E.L.D., utilisée pour ses propres desseins et pour contrôler les super-héros et les menaces surhumaines.</definition>
-        <definition>Connus pour leurs récits de manipulation politique et de tyrannie, souvent en conflit avec les véritables défenseurs de la liberté et de la justice.</definition>
-        <definition>Organisation emblématique de l'univers Marvel, souvent représentée comme une incarnation de la corruption et de l'autoritarisme.</definition>
-    </word>
-    <word value="The Hand">
-        <definition>Organisation criminelle ninja ancestrale, cherchant à contrôler le crime à l'échelle mondiale et à instaurer son propre ordre sous la direction du mystérieux Démon.</definition>
-        <definition>Connus pour leurs récits de mysticisme et de combat mortel, souvent en conflit avec Daredevil et les autres héros de New York.</definition>
-        <definition>Organisation emblématique de l'univers Marvel, souvent représentée comme une force occulte et insaisissable.</definition>
-    </word>
+
 </words>
