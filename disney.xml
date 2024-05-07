@@ -1,447 +1,233 @@
 <words>
-    <word value="Mickey Mouse">
-        <definition>Personnage emblématique de Disney, créé en 1928 par Walt Disney et Ub Iwerks.</definition>
-        <definition>Connaisseur de nombreux métiers, tel que pilote, détective et même magicien.</definition>
-        <definition>Avec son fidèle ami Pluto, il est au cœur de nombreuses aventures drôles et touchantes.</definition>
-    </word>
-    <word value="Donald Duck">
-        <definition>Canard colérique et maladroit, membre de la famille de Mickey Mouse.</definition>
-        <definition>Porte souvent une tenue de marin et est connu pour son célèbre langage incompréhensible.</definition>
-        <definition>A un tempérament volcanique mais a un grand cœur et est toujours prêt à aider ses amis.</definition>
-    </word>
-    <word value="Goofy">
-        <definition>Chien anthropomorphe et ami de longue date de Mickey Mouse et Donald Duck.</definition>
-        <definition>Connaisseur de gaffes, il est maladroit mais toujours optimiste et de bonne humeur.</definition>
-        <definition>Souvent accompagné de son fils Max, il est prêt à vivre toutes sortes d'aventures loufoques.</definition>
-    </word>
-    <word value="Cendrillon">
-        <definition>Héroïne de l'un des contes de fées les plus populaires, connue pour sa gentillesse et sa beauté.</definition>
-        <definition>Forcée de travailler comme domestique par sa marâtre et ses demi-sœurs, elle rêve d'une vie meilleure.</definition>
-        <definition>Aidée par sa marraine la fée, elle assiste au bal royal où elle rencontre le prince charmant.</definition>
-    </word>
-    <word value="Simba">
-        <definition>Jeune lion courageux et héritier du trône de la Terre des Lions dans le Roi Lion.</definition>
-        <definition>Après la mort de son père Mufasa, il est exilé par son oncle Scar et doit retrouver son chemin pour réclamer son héritage.</definition>
-        <definition>Avec l'aide de ses amis Timon et Pumbaa, il apprend à devenir le leader qu'il est destiné à être.</definition>
-    </word>
-    <word value="Belle">
-        <definition>Protagoniste de La Belle et la Bête, connue pour sa beauté, son intelligence et son amour pour la lecture.</definition>
-        <definition>Emprisonnée dans le château de la Bête, elle parvient à voir au-delà de son apparence pour découvrir sa véritable nature.</definition>
-        <definition>Grâce à son amour, elle brise le sort qui a transformé la Bête en monstre et lui rend son apparence humaine.</definition>
-    </word>
-    <word value="Elsa">
-        <definition>Reine de glace dotée de pouvoirs magiques de création de la glace et de la neige, protagoniste de La Reine des neiges.</definition>
-        <definition>Après avoir accidentellement plongé son royaume dans un hiver éternel, elle s'exile pour apprendre à contrôler ses pouvoirs.</definition>
-        <definition>Avec l'aide de sa sœur Anna, elle parvient à vaincre la tempête qu'elle a déclenchée et à restaurer l'harmonie dans son royaume.</definition>
-    </word>
-    <word value="Anna">
-        <definition>Sœur cadette d'Elsa, courageuse et déterminée, elle entreprend un voyage pour retrouver sa sœur et sauver son royaume dans La Reine des neiges.</definition>
-        <definition>Optimiste et pleine de vie, elle refuse d'abandonner sa sœur même lorsque tout semble perdu.</definition>
-        <definition>Avec l'aide de Kristoff, Sven et Olaf, elle découvre le pouvoir de l'amour et parvient à ramener la chaleur dans le cœur d'Elsa et dans son royaume.</definition>
+    <word value="Aladdin">
+        <definition>Voleur débrouillard au grand cœur, rêve d'une vie meilleure.</definition>
+        <definition>Découvre une lampe magique qui change radicalement son destin.</definition>
+        <definition>Tombe amoureux d'une princesse et utilise son astuce pour conquérir son cœur et vaincre un vilain.</definition>
     </word>
     <word value="Ariel">
-        <definition>Jeune sirène aventurière et rêveuse, protagoniste de La Petite Sirène.</definition>
-        <definition>Fascinée par le monde des humains, elle fait un pacte avec la sorcière Ursula pour devenir humaine et gagner le cœur du prince Eric.</definition>
-        <definition>Malgré les obstacles et les dangers, elle reste fidèle à ses rêves et parvient à trouver le véritable amour et sa place dans les deux mondes.</definition>
+        <definition>Princesse sirène curieuse fascinée par le monde humain.</definition>
+        <definition>Échange sa voix contre des jambes auprès d'une sorcière des mers pour vivre sur terre.</definition>
+        <definition>Lutte pour protéger sa famille et son amour avec l'aide de ses amis sous-marins.</definition>
     </word>
-    <word value="Blanche-Neige">
-        <definition>Protagoniste du premier long métrage d'animation de Disney, Blanche-Neige et les Sept Nains.</definition>
-        <definition>Condamnée à mort par sa belle-mère, la méchante reine, elle trouve refuge chez les sept nains et devient leur amie.</definition>
-        <definition>Grâce au baiser d'amour du prince charmant, elle échappe au sortilège de la méchante reine et trouve son bonheur éternel.</definition>
+    <word value="Bambi">
+        <definition>Faon timide qui grandit pour devenir le prince de la forêt.</definition>
+        <definition>Apprend les rudiments de la vie avec ses amis, un lapin et une mouffette.</definition>
+        <definition>Affronte des défis et des tragédies en grandissant dans la nature sauvage.</definition>
     </word>
-    <word value="Aladdin">
-        <definition>Jeune voleur des rues de Agrabah, protagoniste d'Aladdin.</definition>
-        <definition>Avec l'aide du génie de la lampe magique, il tente de gagner le cœur de la princesse Jasmine et de vaincre le sorcier maléfique Jafar.</definition>
-        <definition>Malgré son humble origine, il prouve qu'il a un cœur d'or et mérite d'être un prince grâce à son courage et à son honnêteté.</definition>
+    <word value="Belle">
+        <definition>Jeune femme intelligente et passionnée de littérature, vit dans un petit village.</definition>
+        <definition>Cherche à échapper à la routine quotidienne et à un prétendant narcissique.</definition>
+        <definition>Devient prisonnière dans un château enchanté et apprend à connaître un prince maudit.</definition>
     </word>
-    <word value="Jasmine">
-        <definition>Princesse rebelle et indépendante de Agrabah, protagoniste d'Aladdin.</definition>
-        <definition>Refusant de se marier par devoir et de choisir son époux, elle recherche l'amour véritable et la liberté de choisir son propre destin.</definition>
-        <definition>Attirée par l'humilité et la sincérité d'Aladdin, elle trouve en lui l'amour et le partenaire idéal pour partager ses aventures.</definition>
+    <word value="Buzz Lightyear">
+        <definition>Astronaute-jouet confiant, croit qu'il est un vrai ranger de l'espace.</definition>
+        <definition>Travaille avec un cowboy-jouet pour surmonter ses illusions et devenir un héros.</definition>
+        <definition>Protège ses amis jouets des dangers, en utilisant ses gadgets futuristes.</definition>
     </word>
-    <word value="Pocahontas">
-        <definition>Jeune Amérindienne de la tribu Powhatan, protagoniste de Pocahontas.</definition>
-        <definition>Connectée à la nature et à l'esprit de la Terre-Mère, elle cherche la paix et l'harmonie entre son peuple et les colons anglais.</definition>
-        <definition>Guidée par son cœur et son esprit, elle défend ses convictions et parvient à trouver un terrain d'entente entre deux mondes en conflit.</definition>
+    <word value="Cendrillon">
+        <definition>Jeune fille douce vivant avec sa belle-mère et ses demi-sœurs envieuses.</definition>
+        <definition>Transformée par une marraine fée pour assister à un bal royal.</definition>
+        <definition>Laisse derrière elle une pantoufle de verre lors d'une fuite précipitée à minuit.</definition>
     </word>
-    <word value="Mulan">
-        <definition>Jeune fille courageuse et déterminée qui se déguise en homme pour prendre la place de son père malade dans l'armée impériale chinoise, protagoniste de Mulan.</definition>
-        <definition>Avec l'aide de ses amis Mushu et Cri-Kee, elle défend la Chine contre l'invasion des Huns et gagne le respect de ses camarades et de son pays.</definition>
-        <definition>Reconnaissant ses qualités et sa bravoure, l'empereur lui offre sa gratitude et l'honneur qu'elle mérite en tant que véritable héroïne.</definition>
+    <word value="Cruella de Vil">
+        <definition>Femme mondaine obsédée par la mode, en particulier les fourrures.</definition>
+        <definition>Cherche à obtenir les peaux de certains chiots pour créer un manteau luxueux.</definition>
+        <definition>Connu pour son rire maniaque et son apparence iconique en noir et blanc.</definition>
     </word>
-    <word value="Tiana">
-        <definition>Jeune femme ambitieuse et déterminée à réaliser son rêve de posséder son propre restaurant, protagoniste de La Princesse et la Grenouille.</definition>
-        <definition>Travaillant dur et surmontant de nombreux obstacles, elle prouve que rien n'est impossible avec du travail acharné et de la détermination.</definition>
-        <definition>Avec l'aide du prince Naveen et de ses amis Louis et Ray, elle réalise son rêve et trouve l'amour et le bonheur qu'elle mérite.</definition>
+    <word value="Daisy Duck">
+        <definition>Canard sophistiqué connu pour son tempérament fougueux et son amour de la mode.</definition>
+        <definition>Compagne du meilleur ami d'une célèbre souris, souvent impliquée dans ses aventures.</definition>
+        <definition>Elle gère son impulsivité et montre une grande loyauté envers ses amis.</definition>
     </word>
-    <word value="Merida">
-        <definition>Jeune princesse rebelle et experte en tir à l'arc, protagoniste de Rebelle.</definition>
-        <definition>Refusant de se plier aux traditions et aux attentes de sa famille, elle défend son droit de choisir son propre destin et sa façon de vivre.</definition>
-        <definition>En brisant le sortilège qu'elle a déclenché, elle apprend l'importance de l'amour et du respect dans sa relation avec sa mère et son royaume.</definition>
+    <word value="Donald Duck">
+        <definition>Canard au tempérament explosif, célèbre pour son uniforme de marin et son bégaiement.</definition>
+        <definition>Vit des aventures chaotiques souvent dues à sa malchance légendaire.</definition>
+        <definition>Oncle de trois petits canards malicieux, il s'efforce souvent de maintenir l'ordre.</definition>
     </word>
-    <word value="Rapunzel">
-        <definition>Jeune princesse aux cheveux magiques, emprisonnée dans une tour par la sorcière Gothel, protagoniste de Raiponce.</definition>
-        <definition>Curieuse et avide de découvrir le monde extérieur, elle fait équipe avec Flynn Rider pour s'échapper de sa prison et retrouver sa véritable identité.</definition>
-        <definition>Grâce à sa détermination et à son courage, elle parvient à vaincre Gothel et à retrouver sa famille et sa place dans le monde.</definition>
+    <word value="Dumbo">
+        <definition>Éléphanteau de cirque doté de grandes oreilles lui permettant de voler.</definition>
+        <definition>Utilise son attribut unique pour surmonter les railleries et les adversités.</definition>
+        <definition>Accompagné d'une souris qui l'aide à découvrir son talent spécial.</definition>
+    </word>
+    <word value="Elsa">
+        <definition>Reine d'Arendelle avec le pouvoir de créer de la glace et de la neige.</definition>
+        <definition>Se cache du monde pour protéger les autres de ses pouvoirs qu'elle peine à contrôler.</definition>
+        <definition>Son périple pour l'acceptation de soi l'amène à découvrir la vérité sur son passé.</definition>
+    </word>
+    <word value="Fee Clochette">
+        <definition>Petite fée avec des pouvoirs de poussière de fée, amie d'un garçon qui ne grandit jamais.</definition>
+        <definition>Connue pour sa jalousie mais aussi pour son dévouement indéfectible envers ses amis.</definition>
+        <definition>S'occupe de la nature et aide à changer les saisons avec ses talents magiques.</definition>
+    </word>
+    <word value="Gaston">
+        <definition>Chasseur vaniteux et musclé, désire épouser la plus intelligente des habitantes du village.</definition>
+        <definition>Son ego le pousse à traquer une bête pour prouver sa valeur.</definition>
+        <definition>Admiré par beaucoup pour sa force, mais critiqué pour son manque de sensibilité.</definition>
+    </word>
+    <word value="Genie">
+        <definition>Esprit exubérant prisonnier d'une lampe, peut exaucer trois vœux.</definition>
+        <definition>Utilise ses pouvoirs magiques de manière comique et spectaculaire.</definition>
+        <definition>Cherche à gagner sa liberté tout en aidant son maître à trouver le vrai amour.</definition>
     </word>
     <word value="Hercule">
-        <definition>Fils de Zeus et d'Héra, demi-dieu doté de superpuissances et protagoniste de Hercule.</definition>
-        <definition>Envoyé sur Terre en tant que bébé, il doit prouver sa valeur pour devenir un vrai héros et retrouver sa place sur le mont Olympe.</definition>
-        <definition>Avec l'aide de ses amis Philoctète et Pégase, il défend la Grèce contre les forces du mal et découvre le véritable sens du courage et de l'héroïsme.</definition>
-    </word>
-    <word value="Aurore">
-        <definition>Princesse douce et rêveuse, connue sous le nom de Belle au bois dormant, protagoniste du film éponyme.</definition>
-        <definition>Maudite par la sorcière Maléfique, elle est plongée dans un sommeil profond jusqu'à ce qu'un prince courageux vienne la réveiller d'un baiser d'amour.</definition>
-        <definition>Grâce à l'amour de ses parents et à la bravoure de son prince, elle échappe au sortilège et trouve son bonheur éternel.</definition>
-    </word>
-    <word value="Peter Pan">
-        <definition>Jeune garçon aventurier qui refuse de grandir et vit au Pays Imaginaire, protagoniste de Peter Pan.</definition>
-        <definition>Avec l'aide de sa fée marraine Clochette, il emmène les enfants Darling dans un voyage magique au Pays Imaginaire où ils vivent des aventures inoubliables.</definition>
-        <definition>Connu pour son esprit libre et son esprit rebelle, il incarne le désir de rester jeune et insouciant pour toujours.</definition>
-    </word>
-    <word value="Tinker Bell">
-        <definition>Fée espiègle et jalouse, amie de Peter Pan et gardienne de la poussière de fée, protagoniste de Peter Pan.</definition>
-        <definition>Connue pour son tempérament vif et sa loyauté envers Peter Pan, elle veille sur lui et l'aide dans ses aventures au Pays Imaginaire.</definition>
-        <definition>Malgré ses querelles avec Wendy et sa jalousie envers les autres filles, elle reste une amie fidèle et un membre indispensable de l'équipe de Peter Pan.</definition>
-    </word>
-    <word value="Jessie">
-        <definition>Poupée cow-girl qui est une membre dévouée de l'équipe de Woody dans Toy Story.</definition>
-        <definition>Originaire de la série télévisée "Woody's Roundup", elle est courageuse, aventureuse et pleine d'énergie.</definition>
-        <definition>Malgré ses peurs et ses doutes, elle trouve sa place et son rôle dans la famille de jouets de Andy et aide ses amis à surmonter de nombreux défis.</definition>
-    </word>
-    <word value="Woody">
-        <definition>Poupée cowboy en chef et jouet préféré de Andy dans Toy Story.</definition>
-        <definition>Fier de son rôle de leader, il est courageux, loyal et dévoué à ses amis, en particulier à Buzz l'Éclair.</definition>
-        <definition>Malgré ses imperfections et ses doutes, il reste un ami fidèle et un protecteur de sa famille de jouets, prêt à tout pour les aider et les soutenir.</definition>
-    </word>
-    <word value="Buzz Lightyear">
-        <definition>Figurine d'action de l'espace extra-atmosphérique et nouvel arrivant dans la famille de jouets de Andy dans Toy Story.</definition>
-        <definition>Ancien personnage de la série de télévision "Buzz l'Éclair", il croit être un véritable gardien de la paix intergalactique et prend son rôle très au sérieux.</definition>
-        <definition>Malgré son arrogance et ses illusions, il apprend à s'adapter à sa nouvelle vie de jouet et à découvrir la valeur de l'amitié et du travail d'équipe.</definition>
-    </word>
-    <word value="Elastigirl">
-        <definition>Super-héroïne dotée de pouvoirs d'élasticité et membre de la famille Parr dans Les Indestructibles.</definition>
-        <definition>Après des années de retraite forcée, elle reprend son rôle de super-héros pour sauver le monde et protéger sa famille.</definition>
-        <definition>Confrontée à de nombreux défis et dangers, elle montre sa force, son courage et son intelligence pour vaincre les forces du mal et protéger ceux qu'elle aime.</definition>
-    </word>
-    <word value="Bob Razowski">
-        <definition>Monstre drôle et attachant travaillant chez Monstres & Cie dans le monde des monstres, protagoniste de Monstres & Cie et Monstres Academy.</definition>
-        <definition>Meilleur ami de Sulli, il est connu pour son optimisme, son enthousiasme et son désir de devenir le meilleur scarer de Monstropolis.</definition>
-        <definition>Avec l'aide de Sulli et de Boo, il parvient à résoudre la crise énergétique de Monstropolis et à sauver l'entreprise de Monstres & Cie.</definition>
-    </word>
-    <word value="Sulli">
-        <definition>Monstre poilu et gentil travaillant chez Monstres & Cie dans le monde des monstres, protagoniste de Monstres & Cie et Monstres Academy.</definition>
-        <definition>Meilleur ami de Bob Razowski, il est connu pour sa gentillesse, sa loyauté et son sens de l'humour.</definition>
-        <definition>Malgré sa peur des enfants, il découvre que l'amour et l'amitié sont plus puissants que la peur et qu'ils peuvent changer le monde.</definition>
-    </word>
-    <word value="Nemo">
-        <definition>Petit poisson-clown courageux et aventurier, protagoniste de Le Monde de Nemo et Le Monde de Dory.</definition>
-        <definition>Perdu dans l'océan, il doit surmonter de nombreux dangers et obstacles pour retrouver son chemin vers son père Marlin.</definition>
-        <definition>Avec l'aide de ses nouveaux amis, il apprend à surmonter ses peurs et à croire en lui-même pour réaliser l'impossible et retrouver sa famille.</definition>
-    </word>
-    <word value="Dory">
-        <definition>Poisson chirurgien bleu avec des problèmes de mémoire à court terme, protagoniste de Le Monde de Nemo et Le Monde de Dory.</definition>
-        <definition>Optimiste et pleine de vie, elle accompagne Marlin dans sa quête pour retrouver son fils Nemo malgré ses problèmes de mémoire.</definition>
-        <definition>Malgré ses défis, elle découvre sa force intérieure et son courage pour surmonter les obstacles et retrouver sa propre famille et son passé.</definition>
-    </word>
-    <word value="Merlin">
-        <definition>Magicien sage et puissant, mentor du jeune Arthur, protagoniste de Merlin l'Enchanteur.</definition>
-        <definition>Connu pour sa sagesse, son humour et sa magie, il guide Arthur sur le chemin de devenir un grand roi.</definition>
-        <definition>Malgré ses défauts et ses erreurs, il reste un ami fidèle et un protecteur du royaume de Camelot et de son roi.</definition>
-    </word>
-    <word value="Dumbo">
-        <definition>Jeune éléphant aux grandes oreilles et au cœur tendre, protagoniste de Dumbo.</definition>
-        <definition>Moqué et ridiculisé pour ses oreilles, il découvre qu'elles lui permettent de voler et de devenir une star du cirque.</definition>
-        <definition>Avec l'aide de son ami Timothée, il surmonte sa timidité et ses doutes pour réaliser son potentiel et retrouver sa mère.</definition>
-    </word>
-    <word value="Bambi">
-        <definition>Jeune cerf courageux et innocent, protagoniste de Bambi.</definition>
-        <definition>Découvrant les merveilles de la forêt et les dangers qui l'entourent, il apprend les leçons de la vie et de l'amour grâce à ses amis Panpan et Fleur.</definition>
-        <definition>Malgré les défis et les pertes qu'il rencontre, il reste fidèle à lui-même et à son cœur pur, devenant ainsi le prince de la forêt.</definition>
-    </word>
-    <word value="Bagheera">
-        <definition>Panthère noire sage et protectrice, amie de Mowgli dans Le Livre de la jungle.</definition>
-        <definition>Adoptant Mowgli comme son propre fils, elle veille sur lui et le guide à travers la jungle, le protégeant des dangers et des menaces.</definition>
-        <definition>Malgré ses réserves envers Baloo et ses méthodes d'éducation, elle reconnaît l'amour et le lien spécial entre lui et Mowgli.</definition>
-    </word>
-    <word value="Baloo">
-        <definition>Ours paresseux et bon vivant, ami de Mowgli dans Le Livre de la jungle.</definition>
-        <definition>Adoptant Mowgli comme son propre fils, il lui apprend les lois de la jungle et la philosophie de la vie.</definition>
-        <definition>Malgré ses différences avec Bagheera et ses méthodes d'éducation non conventionnelles, il prouve qu'il est un ami loyal et un protecteur courageux.</definition>
-    </word>
-    <word value="Mowgli">
-        <definition>Jeune garçon humain élevé par des loups dans la jungle indienne, protagoniste du Livre de la jungle.</definition>
-        <definition>Protégé et aimé par sa famille de loups, il apprend les lois de la jungle et découvre sa propre identité.</definition>
-        <definition>Avec l'aide de ses amis Baloo et Bagheera, il affronte le tigre Shere Khan et trouve sa place dans le monde des hommes.</definition>
-    </word>
-    <word value="Robin des Bois">
-        <definition>Renard courageux et habile archer qui vole aux riches pour donner aux pauvres, protagoniste de Robin des Bois.</definition>
-        <definition>Connu pour son esprit vif et son sens de la justice, il se bat pour les opprimés et défie le shérif de Nottingham et le prince Jean.</definition>
-        <definition>Accompagné de son fidèle ami Petit Jean, il mène une bande de hors-la-loi pour combattre l'injustice et restaurer la paix dans la forêt de Sherwood.</definition>
-    </word>
-    <word value="Pinocchio">
-        <definition>Marionnette de bois créée par Geppetto et transformée en vrai garçon par la Fée Bleue, protagoniste de Pinocchio.</definition>
-        <definition>Guidé par Jiminy Cricket, sa conscience, il cherche à devenir un vrai garçon en surmontant les tentations et les dangers du monde.</definition>
-        <definition>Apprenant les leçons de l'honnêteté, du courage et de l'altruisme, il prouve qu'il mérite de devenir un véritable enfant et de retrouver son père Geppetto.</definition>
-    </word>
-    <word value="Duchesse">
-        <definition>Élégante chatte blanche et mère attentionnée de trois chatons, protagoniste de Les Aristochats.</definition>
-        <definition>Élevée dans le luxe et le raffinement, elle doit faire face à l'adversité lorsque ses enfants sont enlevés et qu'elle doit les ramener à la maison en toute sécurité.</definition>
-        <definition>Malgré les obstacles et les dangers, elle reste forte et déterminée, prête à tout pour protéger sa famille et retrouver leur foyer.</definition>
-    </word>
-    <word value="Marie">
-        <definition>Chaton blanc espiègle et coquet, fille de Duchesse dans Les Aristochats.</definition>
-        <definition>Connaissant le confort et l'amour de sa mère, elle fait preuve de courage et de détermination lorsque sa famille est en danger.</definition>
-        <definition>Avec l'aide de ses frères Berlioz et Toulouse et de leurs nouveaux amis, elle montre sa force et son ingéniosité pour surmonter les obstacles et retrouver leur foyer.</definition>
-    </word>
-    <word value="Rémy">
-        <definition>Rat passionné de cuisine et protagoniste de Ratatouille.</definition>
-        <definition>Rejeté par sa famille pour son amour de la gastronomie, il se lie d'amitié avec le jeune cuisinier Linguini et le guide pour devenir un grand chef.</definition>
-        <definition>Malgré les défis et les obstacles, il prouve que tout est possible avec de la passion, de la persévérance et de l'amitié, et réalise son rêve de cuisine.</definition>
-    </word>
-    <word value="Mufasa">
-        <definition>Roi lion sage et aimant, père de Simba et roi de la Terre des Lions dans Le Roi Lion.</definition>
-        <definition>Guidant son fils sur le chemin de devenir un grand roi, il lui enseigne les valeurs de l'honneur, de la responsabilité et du courage.</definition>
-        <definition>Malgré sa mort tragique, son esprit et ses conseils continuent d'inspirer Simba à suivre son destin et à protéger leur royaume.</definition>
-    </word>
-    <word value="Scar">
-        <definition>Frère maléfique de Mufasa et antagoniste principal dans Le Roi Lion.</definition>
-        <definition>Envieux du pouvoir de son frère, il trahit Mufasa et tente de prendre le contrôle de la Terre des Lions en manipulant Simba et en éliminant ses rivaux.</definition>
-        <definition>Malgré ses plans diaboliques, il est finalement vaincu par Simba et la justice est rétablie dans le royaume.</definition>
-    </word>
-    <word value="Ursula">
-        <definition>Sorcière des mers maléfique et rusée, antagoniste principal de La Petite Sirène.</definition>
-        <definition>Usant de ruse et de magie noire, elle piège Ariel dans un pacte pour devenir humaine en échange de sa voix.</definition>
-        <definition>Malgré ses plans, elle est finalement vaincue par Ariel et Eric et punie pour ses crimes contre le royaume sous-marin.</definition>
+        <definition>Demi-dieu de la mythologie grecque cherchant à devenir un vrai héros.</definition>
+        <definition>S'entraîne avec un satyre pour prouver sa valeur sur Terre.</definition>
+        <definition>Combat des monstres mythiques et découvre sa véritable place parmi les dieux et les hommes.</definition>
     </word>
     <word value="Jafar">
-        <definition>Conseiller maléfique du sultan d'Agrabah et antagoniste principal dans Aladdin.</definition>
-        <definition>Assoiffé de pouvoir, il tente de s'emparer du trône en manipulant le sultan et en cherchant la lampe magique pour réaliser ses sombres désirs.</definition>
-        <definition>Malgré ses plans perfides, il est finalement vaincu par Aladdin et emprisonné pour ses crimes contre le royaume.</definition>
+        <definition>Vizir royal manipulateur aspirant à contrôler une ville antique du désert.</definition>
+        <definition>Utilise la magie noire et la tromperie pour parvenir à ses fins.</definition>
+        <definition>Obsédé par la quête de pouvoir absolu, il cherche à s'emparer d'une lampe magique.</definition>
     </word>
-    <word value="Maléfique">
-        <definition>Sorcière maléfique et vindicative, antagoniste principal de La Belle au bois dormant.</definition>
-        <definition>Maudissant la princesse Aurore à mourir le jour de ses 16 ans, elle est déterminée à se venger du royaume pour ne pas l'avoir invitée à la naissance de l'enfant.</definition>
-        <definition>Malgré ses plans, elle est finalement vaincue par l'amour et la magie de la fée marraine et condamnée à un sommeil éternel.</definition>
+    <word value="Jasmine">
+        <definition>Princesse audacieuse luttant contre les contraintes de la vie royale.</definition>
+        <definition>Rêve de vivre au-delà des murs du palais et de choisir sa propre destinée.</definition>
+        <definition>Se lie d'amitié avec un jeune homme des rues dans sa quête de liberté.</definition>
     </word>
-    <word value="Cruella">
-        <definition>Femme excentrique obsédée par la mode et antagoniste principal de Les 101 Dalmatiens.</definition>
-        <definition>Désireuse de fabriquer une robe de fourrure à partir des chiots de dalmatiens, elle met en œuvre des plans diaboliques pour les capturer.</definition>
-        <definition>Malgré ses tentatives, elle est finalement vaincue par les chiens et arrêtée pour ses crimes contre les animaux.</definition>
+    <word value="Kaa">
+        <definition>Serpent hypnotiseur dans la jungle, utilise ses yeux pour contrôler ses proies.</definition>
+        <definition>Tente souvent de capturer un jeune garçon élevé par des loups.</definition>
+        <definition>Sa voix sinueuse et ses mouvements ondulants en font un prédateur redouté.</definition>
     </word>
-    <word value="Hades">
-        <definition>Dieu des Enfers et antagoniste principal de Hercule.</definition>
-        <definition>Envieux de la renommée de son frère Zeus, il cherche à renverser l'ordre olympien en manipulant Hercule pour libérer les Titans.</definition>
-        <definition>Malgré ses plans, il est finalement vaincu par Hercule et précipité dans le Tartare pour ses crimes contre les dieux et les mortels.</definition>
+    <word value="Kenai">
+        <definition>Jeune homme transformé en ours par les esprits pour apprendre une leçon vitale.</definition>
+        <definition>Voyage à travers les forêts pour retrouver sa forme humaine, apprenant sur la fraternité et la nature.</definition>
+        <definition>Forme des liens improbables avec les animaux de la forêt, découvrant un nouveau point de vue sur la vie.</definition>
     </word>
-    <word value="Cendrillon">
-        <definition>Jeune fille douce et courageuse, protagoniste de Cendrillon.</definition>
-        <definition>Maltraitée par sa belle-mère et ses demi-sœurs, elle rêve d'échapper à sa vie de servitude et de trouver le véritable amour.</definition>
-        <definition>Grâce à l'aide de sa marraine la fée, elle assiste au bal royal où elle rencontre le prince charmant et trouve son bonheur éternel.</definition>
+    <word value="Kristoff">
+        <definition>Montagnard robuste et fournisseur de glace, ami des trolls.</definition>
+        <definition>Accompagne une jeune femme dans sa quête pour retrouver sa sœur.</definition>
+        <definition>Ami proche d'un renne qui lui sert de monture et de compagnon.</definition>
     </word>
-    <word value="Le Génie">
-        <definition>Entité magique et farfelue qui accorde des vœux à ceux qui possèdent la lampe magique dans Aladdin.</definition>
-        <definition>Doté de pouvoirs illimités, il se lie d'amitié avec Aladdin et lui offre des vœux pour gagner le cœur de la princesse Jasmine.</definition>
-        <definition>Malgré sa liberté désirée, il reste un ami fidèle et un allié précieux pour Aladdin dans sa quête contre Jafar.</definition>
+    <word value="Kuzco">
+        <definition>Empereur égocentrique transformé en lama par une potion.</definition>
+        <definition>Doit apprendre l'humilité et gagner le respect d'un villageois pour retrouver son trône.</definition>
+        <definition>Voyage à travers la jungle pour renverser un coup d'État orchestré par son conseiller.</definition>
     </word>
-    <word value="Les Trois Petits Cochons">
-        <definition>Frères porcins protagonistes du court métrage Disney et du conte traditionnel.</definition>
-        <definition>Construisant chacun leur propre maison en paille, en bois et en briques, ils sont confrontés au loup qui cherche à les dévorer.</definition>
-        <definition>Malgré leurs différences, ils découvrent l'importance du travail acharné et de la solidarité pour surmonter les défis et protéger leur foyer.</definition>
+    <word value="Lady">
+        <definition>Épagneul cocker raffinée vivant une vie confortable jusqu'à l'arrivée de visiteurs indésirables.</definition>
+        <definition>Explore le monde extérieur avec l'aide d'un chien errant audacieux.</definition>
+        <definition>Découvre l'amour et l'aventure au-delà des limites de son foyer soigné.</definition>
     </word>
-    <word value="Peter Pan">
-        <definition>Jeune garçon aventurier qui refuse de grandir et vit au Pays Imaginaire, protagoniste de Peter Pan.</definition>
-        <definition>Avec l'aide de sa fée marraine Clochette, il emmène les enfants Darling dans un voyage magique au Pays Imaginaire où ils vivent des aventures inoubliables.</definition>
-        <definition>Connu pour son esprit libre et son esprit rebelle, il incarne le désir de rester jeune et insouciant pour toujours.</definition>
+    <word value="Lilo">
+        <definition>Petite fille hawaïenne passionnée de photographie et de culture Elvis.</definition>
+        <definition>Adopte ce qu'elle pense être un chien, mais qui est en fait un extraterrestre.</definition>
+        <definition>Cherche à préserver sa famille avec son nouveau compagnon malgré les défis et les différences.</definition>
     </word>
-    <word value="Tinker Bell">
-        <definition>Fée espiègle et jalouse, amie de Peter Pan et gardienne de la poussière de fée, protagoniste de Peter Pan.</definition>
-        <definition>Connue pour son tempérament vif et sa loyauté envers Peter Pan, elle veille sur lui et l'aide dans ses aventures au Pays Imaginaire.</definition>
-        <definition>Malgré ses querelles avec Wendy et sa jalousie envers les autres filles, elle reste une amie fidèle et un membre indispensable de l'équipe de Peter Pan.</definition>
+    <word value="Maleficent">
+        <definition>Fée puissante devenue la protectrice de son royaume après une trahison.</definition>
+        <definition>Lance un sort à une princesse en raison d'une vengeance, mais développe ensuite un lien avec elle.</definition>
+        <definition>Contrôle les forces de la nature et combat pour protéger les terres qu'elle aime.</definition>
     </word>
-    <word value="Jessie">
-        <definition>Poupée cow-girl qui est une membre dévouée de l'équipe de Woody dans Toy Story.</definition>
-        <definition>Originaire de la série télévisée "Woody's Roundup", elle est courageuse, aventureuse et pleine d'énergie.</definition>
-        <definition>Malgré ses peurs et ses doutes, elle trouve sa place et son rôle dans la famille de jouets de Andy et aide ses amis à surmonter de nombreux défis.</definition>
-    </word>
-    <word value="Woody">
-        <definition>Poupée cowboy en chef et jouet préféré de Andy dans Toy Story.</definition>
-        <definition>Fier de son rôle de leader, il est courageux, loyal et dévoué à ses amis, en particulier à Buzz l'Éclair.</definition>
-        <definition>Malgré ses imperfections et ses doutes, il reste un ami fidèle et un protecteur de sa famille de jouets, prêt à tout pour les aider et les soutenir.</definition>
-    </word>
-    <word value="Buzz Lightyear">
-        <definition>Figurine d'action de l'espace extra-atmosphérique et nouvel arrivant dans la famille de jouets de Andy dans Toy Story.</definition>
-        <definition>Ancien personnage de la série de télévision "Buzz l'Éclair", il croit être un véritable gardien de la paix intergalactique et prend son rôle très au sérieux.</definition>
-        <definition>Malgré son arrogance et ses illusions, il apprend à s'adapter à sa nouvelle vie de jouet et à découvrir la valeur de l'amitié et du travail d'équipe.</definition>
-    </word>
-    <word value="Elastigirl">
-        <definition>Super-héroïne dotée de pouvoirs d'élasticité et membre de la famille Parr dans Les Indestructibles.</definition>
-        <definition>Après des années de retraite forcée, elle reprend son rôle de super-héros pour sauver le monde et protéger sa famille.</definition>
-        <definition>Confrontée à de nombreux défis et dangers, elle montre sa force, son courage et son intelligence pour vaincre les forces du mal et protéger ceux qu'elle aime.</definition>
-    </word>
-    <word value="Bob Razowski">
-        <definition>Monstre drôle et attachant travaillant chez Monstres & Cie dans le monde des monstres, protagoniste de Monstres & Cie et Monstres Academy.</definition>
-        <definition>Meilleur ami de Sulli, il est connu pour son optimisme, son enthousiasme et son désir de devenir le meilleur scarer de Monstropolis.</definition>
-        <definition>Avec l'aide de Sulli et de Boo, il parvient à résoudre la crise énergétique de Monstropolis et à sauver l'entreprise de Monstres & Cie.</definition>
-    </word>
-    <word value="Sulli">
-        <definition>Monstre poilu et gentil travaillant chez Monstres & Cie dans le monde des monstres, protagoniste de Monstres & Cie et Monstres Academy.</definition>
-        <definition>Meilleur ami de Bob Razowski, il est connu pour sa gentillesse, sa loyauté et son sens de l'humour.</definition>
-        <definition>Malgré sa peur des enfants, il découvre que l'amour et l'amitié sont plus puissants que la peur et qu'ils peuvent changer le monde.</definition>
-    </word>
-    <word value="Nemo">
-        <definition>Petit poisson-clown courageux et aventurier, protagoniste de Le Monde de Nemo et Le Monde de Dory.</definition>
-        <definition>Perdu dans l'océan, il doit surmonter de nombreux dangers et obstacles pour retrouver son chemin vers son père Marlin.</definition>
-        <definition>Avec l'aide de ses nouveaux amis, il apprend à surmonter ses peurs et à croire en lui-même pour réaliser l'impossible et retrouver sa famille.</definition>
-    </word>
-    <word value="Dory">
-        <definition>Poisson chirurgien bleu avec des problèmes de mémoire à court terme, protagoniste de Le Monde de Nemo et Le Monde de Dory.</definition>
-        <definition>Optimiste et pleine de vie, elle accompagne Marlin dans sa quête pour retrouver son fils Nemo malgré ses problèmes de mémoire.</definition>
-        <definition>Malgré ses défis, elle découvre sa force intérieure et son courage pour surmonter les obstacles et retrouver sa propre famille et son passé.</definition>
-    </word>
-    <word value="Merlin">
-        <definition>Magicien sage et puissant, mentor du jeune Arthur, protagoniste de Merlin l'Enchanteur.</definition>
-        <definition>Connu pour sa sagesse, son humour et sa magie, il guide Arthur sur le chemin de devenir un grand roi.</definition>
-        <definition>Malgré ses défauts et ses erreurs, il reste un ami fidèle et un protecteur du royaume de Camelot et de son roi.</definition>
-    </word>
-    <word value="Dumbo">
-        <definition>Jeune éléphant aux grandes oreilles et au cœur tendre, protagoniste de Dumbo.</definition>
-        <definition>Moqué et ridiculisé pour ses oreilles, il découvre qu'elles lui permettent de voler et de devenir une star du cirque.</definition>
-        <definition>Avec l'aide de son ami Timothée, il surmonte sa timidité et ses doutes pour réaliser son potentiel et retrouver sa mère.</definition>
-    </word>
-    <word value="Bambi">
-        <definition>Jeune cerf courageux et innocent, protagoniste de Bambi.</definition>
-        <definition>Découvrant les merveilles de la forêt et les dangers qui l'entourent, il apprend les leçons de la vie et de l'amour grâce à ses amis Panpan et Fleur.</definition>
-        <definition>Malgré les défis et les pertes qu'il rencontre, il reste fidèle à lui-même et à son cœur pur, devenant ainsi le prince de la forêt.</definition>
-    </word>
-    <word value="Bagheera">
-        <definition>Panthère noire sage et protectrice, amie de Mowgli dans Le Livre de la jungle.</definition>
-        <definition>Adoptant Mowgli comme son propre fils, elle veille sur lui et le guide à travers la jungle, le protégeant des dangers et des menaces.</definition>
-        <definition>Malgré ses réserves envers Baloo et ses méthodes d'éducation, elle reconnaît l'amour et le lien spécial entre lui et Mowgli.</definition>
-    </word>
-    <word value="Baloo">
-        <definition>Ours paresseux et bon vivant, ami de Mowgli dans Le Livre de la jungle.</definition>
-        <definition>Adoptant Mowgli comme son propre fils, il lui apprend les lois de la jungle et la philosophie de la vie.</definition>
-        <definition>Malgré ses différences avec Bagheera et ses méthodes d'éducation non conventionnelles, il prouve qu'il est un ami loyal et un protecteur courageux.</definition>
+    <word value="Merida">
+        <definition>Princesse écossaise rebelle avec une maîtrise exceptionnelle du tir à l'arc.</definition>
+        <definition>Cherche à contrôler son propre destin plutôt que de suivre les traditions.</definition>
+        <definition>Son désir d'indépendance provoque un chaos magique qui nécessite courage et habileté pour être résolu.</definition>
     </word>
     <word value="Mowgli">
-        <definition>Jeune garçon humain élevé par des loups dans la jungle indienne, protagoniste du Livre de la jungle.</definition>
-        <definition>Protégé et aimé par sa famille de loups, il apprend les lois de la jungle et découvre sa propre identité.</definition>
-        <definition>Avec l'aide de ses amis Baloo et Bagheera, il affronte le tigre Shere Khan et trouve sa place dans le monde des hommes.</definition>
+        <definition>Garçon élevé par des loups dans la jungle, curieux de ses origines humaines.</definition>
+        <definition>Apprend les lois de la jungle grâce à un ours et une panthère protectrice.</definition>
+        <definition>Doit éviter les menaces d'un tigre rancunier et d'un serpent hypnotique.</definition>
     </word>
-    <word value="Robin des Bois">
-        <definition>Renard courageux et habile archer qui vole aux riches pour donner aux pauvres, protagoniste de Robin des Bois.</definition>
-        <definition>Connu pour son esprit vif et son sens de la justice, il se bat pour les opprimés et défie le shérif de Nottingham et le prince Jean.</definition>
-        <definition>Accompagné de son fidèle ami Petit Jean, il mène une bande de hors-la-loi pour combattre l'injustice et restaurer la paix dans la forêt de Sherwood.</definition>
+    <word value="Mulan">
+        <definition>Jeune femme qui se déguise en homme pour sauver son père et combattre les envahisseurs.</definition>
+        <definition>Utilise son intelligence et ses compétences en combat pour protéger son pays.</definition>
+        <definition>Révèle son identité et gagne le respect de ses compagnons et de sa nation.</definition>
     </word>
-    <word value="Pinocchio">
-        <definition>Marionnette de bois créée par Geppetto et transformée en vrai garçon par la Fée Bleue, protagoniste de Pinocchio.</definition>
-        <definition>Guidé par Jiminy Cricket, sa conscience, il cherche à devenir un vrai garçon en surmontant les tentations et les dangers du monde.</definition>
-        <definition>Apprenant les leçons de l'honnêteté, du courage et de l'altruisme, il prouve qu'il mérite de devenir un véritable enfant et de retrouver son père Geppetto.</definition>
+    <word value="Nemo">
+        <definition>Poisson-clown aventureux capturé loin de son récif et de son père protecteur.</definition>
+        <definition>Vit des aventures dans un aquarium d'un cabinet dentaire tout en planifiant son évasion.</definition>
+        <definition>Son père brave de nombreux dangers pour le retrouver et le ramener chez eux.</definition>
     </word>
-    <word value="Duchesse">
-        <definition>Élégante chatte blanche et mère attentionnée de trois chatons, protagoniste de Les Aristochats.</definition>
-        <definition>Élevée dans le luxe et le raffinement, elle doit faire face à l'adversité lorsque ses enfants sont enlevés et qu'elle doit les ramener à la maison en toute sécurité.</definition>
-        <definition>Malgré les obstacles et les dangers, elle reste forte et déterminée, prête à tout pour protéger sa famille et retrouver leur foyer.</definition>
+    <word value="Olaf">
+        <definition>Bonhomme de neige jovial créé par magie, rêve de découvrir l'été.</definition>
+        <definition>Ami fidèle et optimiste qui apporte du réconfort et des rires dans les moments difficiles.</definition>
+        <definition>Curieux du monde, adore les étreintes chaleureuses malgré sa nature glacée.</definition>
     </word>
-    <word value="Marie">
-        <definition>Chaton blanc espiègle et coquet, fille de Duchesse dans Les Aristochats.</definition>
-        <definition>Connaissant le confort et l'amour de sa mère, elle fait preuve de courage et de détermination lorsque sa famille est en danger.</definition>
-        <definition>Avec l'aide de ses frères Berlioz et Toulouse et de leurs nouveaux amis, elle montre sa force et son ingéniosité pour surmonter les obstacles et retrouver leur foyer.</definition>
+    <word value="Pocahontas">
+        <definition>Fille d'un chef amérindien, elle est connue pour son esprit libre et aventureux.</definition>
+        <definition>Rencontre un explorateur de l'Angleterre et lui montre la beauté de la nature.</definition>
+        <definition>Défend la paix et l'harmonie entre son peuple et les nouveaux venus.</definition>
     </word>
-    <word value="Rémy">
-        <definition>Rat passionné de cuisine et protagoniste de Ratatouille.</definition>
-        <definition>Rejeté par sa famille pour son amour de la gastronomie, il se lie d'amitié avec le jeune cuisinier Linguini et le guide pour devenir un grand chef.</definition>
-        <definition>Malgré les défis et les obstacles, il prouve que tout est possible avec de la passion, de la persévérance et de l'amitié, et réalise son rêve de cuisine.</definition>
+    <word value="Prince Eric">
+        <definition>Jeune prince royal qui aime explorer les océans avec son navire.</definition>
+        <definition>Sauvé de la noyade par une princesse sirène, tombe amoureux sans connaître sa véritable identité.</definition>
+        <definition>Combat une sorcière des mers pour sauver son amour et son royaume.</definition>
     </word>
-    <word value="Mufasa">
-        <definition>Roi lion sage et aimant, père de Simba et roi de la Terre des Lions dans Le Roi Lion.</definition>
-        <definition>Guidant son fils sur le chemin de devenir un grand roi, il lui enseigne les valeurs de l'honneur, de la responsabilité et du courage.</definition>
-        <definition>Malgré sa mort tragique, son esprit et ses conseils continuent d'inspirer Simba à suivre son destin et à protéger leur royaume.</definition>
+    <word value="Quasimodo">
+        <definition>Sonnetteur de Notre-Dame, marqué par une difformité physique depuis sa naissance.</definition>
+        <definition>Rêve de liberté pour échapper à la solitude et à l'isolement de sa tour.</definition>
+        <definition>Protège une jeune femme réfugiée, montrant sa grande bonté malgré son apparence.</definition>
+    </word>
+    <word value="Rapunzel">
+        <definition>Princesse à la longue chevelure magique, enfermée dans une tour isolée.</definition>
+        <definition>Utilise ses cheveux pour guérir et comme outil polyvalent dans ses aventures.</definition>
+        <definition>Cherche la liberté et découvre sa véritable identité avec l'aide d'un voleur charmant.</definition>
+    </word>
+    <word value="Robin Hood">
+        <definition>Renard rusé et habile archer, vole aux riches pour donner aux pauvres.</definition>
+        <definition>Combat l'injustice dans son royaume avec son groupe de joyeux compagnons.</definition>
+        <definition>Utilise son intelligence et son adresse au tir à l'arc pour déjouer le shérif.</definition>
     </word>
     <word value="Scar">
-        <definition>Frère maléfique de Mufasa et antagoniste principal dans Le Roi Lion.</definition>
-        <definition>Envieux du pouvoir de son frère, il trahit Mufasa et tente de prendre le contrôle de la Terre des Lions en manipulant Simba et en éliminant ses rivaux.</definition>
-        <definition>Malgré ses plans diaboliques, il est finalement vaincu par Simba et la justice est rétablie dans le royaume.</definition>
+        <definition>Félidé machiavélique avec une cicatrice, aspire au trône de la savane.</definition>
+        <definition>Conspire contre son frère pour prendre le pouvoir par tous les moyens nécessaires.</definition>
+        <definition>Caractérisé par son sarcasme et son mépris pour les règles de son royaume.</definition>
+    </word>
+    <word value="Simba">
+        <definition>Jeune lion destiné à être roi, fuit son passé après une tragédie familiale.</definition>
+        <definition>Retourne pour réclamer le royaume conquis par un membre ambitieux de sa famille.</definition>
+        <definition>Apprend la responsabilité et l'importance de l'équilibre naturel sous la guidance de ses amis.</definition>
+    </word>
+    <word value="Stitch">
+        <definition>Créature extraterrestre conçue pour semer le chaos, arrive sur Terre par accident.</definition>
+        <definition>Adopté par une petite fille hawaïenne, apprend ce que signifie avoir une famille.</definition>
+        <definition>Malgré sa tendance à la destruction, montre un grand cœur et un esprit protecteur.</definition>
+    </word>
+    <word value="Sully">
+        <definition>Grand monstre bleu et pelucheux, meilleur atterreur d'une usine de cris.</definition>
+        <definition>Découvre qu'il préfère faire rire les enfants plutôt que de les effrayer.</definition>
+        <definition>Change les méthodes de sa compagnie et devient un leader aimé pour sa gentillesse.</definition>
+    </word>
+    <word value="Tarzan">
+        <definition>Élevé par des gorilles dans la jungle, maître des lianes et de la vie sauvage.</definition>
+        <definition>Découvre son origine humaine et tombe amoureux d'une exploratrice venue d'ailleurs.</definition>
+        <definition>Protège sa famille adoptive et son habitat naturel des menaces extérieures.</definition>
+    </word>
+    <word value="Tiana">
+        <definition>Jeune femme déterminée, rêve d'ouvrir son propre restaurant à La Nouvelle-Orléans.</definition>
+        <definition>Transformée en grenouille après un baiser magique, cherche à retrouver sa forme humaine.</definition>
+        <definition>Apprend l'importance de l'équilibre entre ses aspirations et sa vie personnelle.</definition>
+    </word>
+    <word value="Timon">
+        <definition>Suricate bavard et plein d'esprit, adopte un style de vie sans souci.</definition>
+        <definition>Meilleur ami d'un phacochère, ensemble ils adoptent un lionceau exilé.</definition>
+        <definition>Favorise la philosophie "Hakuna Matata" pour éviter les tracas de la vie.</definition>
     </word>
     <word value="Ursula">
-        <definition>Sorcière des mers maléfique et rusée, antagoniste principal de La Petite Sirène.</definition>
-        <definition>Usant de ruse et de magie noire, elle piège Ariel dans un pacte pour devenir humaine en échange de sa voix.</definition>
-        <definition>Malgré ses plans, elle est finalement vaincue par Ariel et Eric et punie pour ses crimes contre le royaume sous-marin.</definition>
+        <definition>Sorcière de la mer qui manipule une princesse pour contrôler les océans.</definition>
+        <definition>Utilise des pouvoirs magiques pour transformer son apparence et tromper les autres.</definition>
+        <definition>Cherche à détrôner le roi des mers et à régner sur les créatures aquatiques.</definition>
     </word>
-    <word value="Jafar">
-        <definition>Conseiller maléfique du sultan d'Agrabah et antagoniste principal dans Aladdin.</definition>
-        <definition>Assoiffé de pouvoir, il tente de s'emparer du trône en manipulant le sultan et en cherchant la lampe magique pour réaliser ses sombres désirs.</definition>
-        <definition>Malgré ses plans perfides, il est finalement vaincu par Aladdin et emprisonné pour ses crimes contre le royaume.</definition>
+    <word value="Vanellope von Schweetz">
+        <definition>Glitch dans un jeu de course, rêve de devenir une vraie pilote de course.</definition>
+        <definition>Se lie d'amitié avec un géant des jeux d'arcade pour réparer son propre jeu.</definition>
+        <definition>Découvre qu'elle est en fait la véritable héroïne et princesse de son jeu vidéo.</definition>
     </word>
-    <word value="Maléfique">
-        <definition>Sorcière maléfique et vindicative, antagoniste principal de La Belle au bois dormant.</definition>
-        <definition>Maudissant la princesse Aurore à mourir le jour de ses 16 ans, elle est déterminée à se venger du royaume pour ne pas l'avoir invitée à la naissance de l'enfant.</definition>
-        <definition>Malgré ses plans, elle est finalement vaincue par l'amour et la magie de la fée marraine et condamnée à un sommeil éternel.</definition>
-    </word>
-    <word value="Cruella">
-        <definition>Femme excentrique obsédée par la mode et antagoniste principal de Les 101 Dalmatiens.</definition>
-        <definition>Désireuse de fabriquer une robe de fourrure à partir des chiots de dalmatiens, elle met en œuvre des plans diaboliques pour les capturer.</definition>
-        <definition>Malgré ses tentatives, elle est finalement vaincue par les chiens et arrêtée pour ses crimes contre les animaux.</definition>
-    </word>
-    <word value="Hades">
-        <definition>Dieu des Enfers et antagoniste principal de Hercule.</definition>
-        <definition>Envieux de la renommée de son frère Zeus, il cherche à renverser l'ordre olympien en manipulant Hercule pour libérer les Titans.</definition>
-        <definition>Malgré ses plans, il est finalement vaincu par Hercule et précipité dans le Tartare pour ses crimes contre les dieux et les mortels.</definition>
-    </word>
-    <word value="Cendrillon">
-        <definition>Jeune fille douce et courageuse, protagoniste de Cendrillon.</definition>
-        <definition>Maltraitée par sa belle-mère et ses demi-sœurs, elle rêve d'échapper à sa vie de servitude et de trouver le véritable amour.</definition>
-        <definition>Grâce à l'aide de sa marraine la fée, elle assiste au bal royal où elle rencontre le prince charmant et trouve son bonheur éternel.</definition>
-    </word>
-    <word value="Le Génie">
-        <definition>Entité magique et farfelue qui accorde des vœux à ceux qui possèdent la lampe magique dans Aladdin.</definition>
-        <definition>Doté de pouvoirs illimités, il se lie d'amitié avec Aladdin et lui offre des vœux pour gagner le cœur de la princesse Jasmine.</definition>
-        <definition>Malgré sa liberté désirée, il reste un ami fidèle et un allié précieux pour Aladdin dans sa quête contre Jafar.</definition>
-    </word>
-    <word value="Les Trois Petits Cochons">
-        <definition>Frères porcins protagonistes du court métrage Disney et du conte traditionnel.</definition>
-        <definition>Construisant chacun leur propre maison en paille, en bois et en briques, ils sont confrontés au loup qui cherche à les dévorer.</definition>
-        <definition>Malgré leurs différences, ils découvrent l'importance du travail acharné et de la solidarité pour surmonter les défis et protéger leur foyer.</definition>
-    </word>
-    <word value="Peter Pan">
-        <definition>Jeune garçon aventurier qui refuse de grandir et vit au Pays Imaginaire, protagoniste de Peter Pan.</definition>
-        <definition>Avec l'aide de sa fée marraine Clochette, il emmène les enfants Darling dans un voyage magique au Pays Imaginaire où ils vivent des aventures inoubliables.</definition>
-        <definition>Connu pour son esprit libre et son esprit rebelle, il incarne le désir de rester jeune et insouciant pour toujours.</definition>
-    </word>
-    <word value="Tinker Bell">
-        <definition>Fée espiègle et jalouse, amie de Peter Pan et gardienne de la poussière de fée, protagoniste de Peter Pan.</definition>
-        <definition>Connue pour son tempérament vif et sa loyauté envers Peter Pan, elle veille sur lui et l'aide dans ses aventures au Pays Imaginaire.</definition>
-        <definition>Malgré ses querelles avec Wendy et sa jalousie envers les autres filles, elle reste une amie fidèle et un membre indispensable de l'équipe de Peter Pan.</definition>
-    </word>
-    <word value="Jessie">
-        <definition>Poupée cow-girl qui est une membre dévouée de l'équipe de Woody dans Toy Story.</definition>
-        <definition>Originaire de la série télévisée "Woody's Roundup", elle est courageuse, aventureuse et pleine d'énergie.</definition>
-        <definition>Malgré ses peurs et ses doutes, elle trouve sa place et son rôle dans la famille de jouets de Andy et aide ses amis à surmonter de nombreux défis.</definition>
+    <word value="Wendy">
+        <definition>Jeune fille londonienne qui vole vers le Pays Imaginaire avec ses frères.</definition>
+        <definition>Raconte des histoires merveilleuses et part à l'aventure avec un garçon qui ne grandit pas.</definition>
+        <definition>Rencontre des pirates et des sirènes tout en explorant des îles mystérieuses.</definition>
     </word>
     <word value="Woody">
-        <definition>Poupée cowboy en chef et jouet préféré de Andy dans Toy Story.</definition>
-        <definition>Fier de son rôle de leader, il est courageux, loyal et dévoué à ses amis, en particulier à Buzz l'Éclair.</definition>
-        <definition>Malgré ses imperfections et ses doutes, il reste un ami fidèle et un protecteur de sa famille de jouets, prêt à tout pour les aider et les soutenir.</definition>
+        <definition>Cow-boy jouet, leader bien-aimé parmi les jouets d'un garçon.</definition>
+        <definition>Se sent menacé par l'arrivée d'un nouveau jouet astronaute, mais finit par se lier d'amitié.</definition>
+        <definition>Montre courage et loyauté envers ses amis lors de nombreuses aventures périlleuses.</definition>
     </word>
-    <word value="Buzz Lightyear">
-        <definition>Figurine d'action de l'espace extra-atmosphérique et nouvel arrivant dans la famille de jouets de Andy dans Toy Story.</definition>
-        <definition>Ancien personnage de la série de télévision "Buzz l'Éclair", il croit être un véritable gardien de la paix intergalactique et prend son rôle très au sérieux.</definition>
-        <definition>Malgré son arrogance et ses illusions, il apprend à s'adapter à sa nouvelle vie de jouet et à découvrir la valeur de l'amitié et du travail d'équipe.</definition>
+    <word value="Zazu">
+        <definition>Majordome-oiseau d'un roi lion, chargé de surveiller le royaume.</definition>
+        <definition>Offre des conseils sages bien qu'il soit souvent ignoré par les plus jeunes.</definition>
+        <definition>Assiste le roi dans la gestion du royaume et la médiation des problèmes.</definition>
     </word>
-    <word value="Elastigirl">
-        <definition>Super-héroïne dotée de pouvoirs d'élasticité et membre de la famille Parr dans Les Indestructibles.</definition>
-        <definition>Après des années de retraite forcée, elle reprend son rôle de super-héros pour sauver le monde et protéger sa famille.</definition>
-        <definition>Confrontée à de nombreux défis et dangers, elle montre sa force, son courage et son intelligence pour vaincre les forces du mal et protéger ceux qu'elle aime.</definition>
-    </word>
-    <word value="Bob Razowski">
-        <definition>Monstre drôle et attachant travaillant chez Monstres & Cie dans le monde des monstres, protagoniste de Monstres & Cie et Monstres Academy.</definition>
-        <definition>Meilleur ami de Sulli, il est connu pour son optimisme, son enthousiasme et son désir de devenir le meilleur scarer de Monstropolis.</definition>
-        <definition>Avec l'aide de Sulli et de Boo, il parvient à résoudre la crise énergétique de Monstropolis et à sauver l'entreprise de Monstres & Cie.</definition>
-    </word>
-    <word value="Sulli">
-        <definition>Monstre poilu et gentil travaillant chez Monstres & Cie dans le monde des monstres, protagoniste de Monstres & Cie et Monstres Academy.</definition>
-        <definition>Meilleur ami de Bob Razowski, il est connu pour sa gentillesse, sa loyauté et son sens de l'humour.</definition>
-        <definition>Malgré sa peur des enfants, il découvre que l'amour et l'amitié sont plus puissants que la peur et qu'ils peuvent changer le monde.</definition>
-    </word>
-<words>  
+
+</words>
