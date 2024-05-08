@@ -1,15 +1,15 @@
 <words>
-    <word value="Ant-Man">
+    <word value="AntMan">
         <definition>Super-héros capable de rétrécir à une taille microscopique tout en augmentant sa force.</definition>
         <definition>Utilise une technologie de pointe pour communiquer avec les insectes.</definition>
         <definition>Alterne entre le monde des petits et des combats contre de grandes menaces.</definition>
     </word>
-    <word value="Black Widow">
+    <word value="BlackWidow">
         <definition>Espiègle et experte en arts martiaux, ancienne espionne russe.</definition>
         <definition>Travaille pour une organisation de super-héros, spécialisée dans l'infiltration.</definition>
         <definition>Son passé mystérieux la hante, mais elle utilise ses compétences pour protéger le monde.</definition>
     </word>
-    <word value="Captain America">
+    <word value="CaptainAmerica">
         <definition>Soldat de la Seconde Guerre mondiale transformé en super-héros grâce à un sérum expérimental.</definition>
         <definition>Porte un bouclier indestructible et est un symbole de liberté et de justice.</definition>
         <definition>Se bat pour maintenir ses idéaux dans un monde qu'il trouve souvent changé.</definition>
@@ -19,7 +19,7 @@
         <definition>A perdu la vue dans un accident mais ses autres sens sont extrêmement développés.</definition>
         <definition>Utilise ses capacités pour naviguer dans l'obscurité et combattre l'injustice.</definition>
     </word>
-    <word value="Doctor Strange">
+    <word value="DoctorStrange">
         <definition>Ancien chirurgien devenu le maître des arts mystiques.</definition>
         <definition>Protège la Terre des menaces magiques et interdimensionnelles.</definition>
         <definition>Utilise des sortilèges, des artefacts magiques et des voyages à travers diverses réalités.</definition>
@@ -49,22 +49,22 @@
         <definition>Son alter ego est un génie en physique, mais quand il se met en colère, il devient une force de destruction.</definition>
         <definition>Lutte pour contrôler son tempérament et utilise sa force phénoménale pour combattre des menaces mondiales.</definition>
     </word>
-    <word value="Invisible Woman">
+    <word value="InvisibleWoman">
         <definition>Membre d'une famille de super-héros, peut devenir invisible et créer des champs de force.</definition>
         <definition>Utilise ses pouvoirs pour protéger ses proches et explorer de nouvelles dimensions.</definition>
         <definition>Sa capacité à manipuler la lumière et l'énergie la rend essentielle lors des combats.</definition>
     </word>
-    <word value="Iron Man">
+    <word value="IronMan">
         <definition>Milliardaire inventeur, crée une armure technologiquement avancée pour combattre le crime.</definition>
         <definition>Ses armures lui permettent de voler, de tirer des rayons d'énergie et de protéger le monde.</definition>
         <definition>Utilise son intelligence et ses ressources pour être un leader dans une équipe de super-héros.</definition>
     </word>
-    <word value="Iron Fist">
+    <word value="IronFist">
         <definition>Maître des arts martiaux, détenteur du puissant poing de fer.</definition>
         <definition>Protège le monde mystique de K'un-Lun ainsi que New York.</definition>
         <definition>Utilise son chi pour renforcer ses capacités physiques et guérir.</definition>
     </word>
-    <word value="Jessica Jones">
+    <word value="JessicaJones">
         <definition>Détective privée à New York, dotée d'une force surhumaine.</definition>
         <definition>Combat ses démons personnels tout en résolvant des affaires impliquant des super-héros.</definition>
         <definition>Connue pour son attitude cynique et son passé douloureux.</definition>
@@ -89,12 +89,12 @@
         <definition>Utilise ses pouvoirs pour infiltrer et combattre pour les droits des mutants.</definition>
         <definition>Sa loyauté fluctue, complexe et souvent guidée par ses propres intérêts.</definition>
     </word>
-    <word value="Nick Fury">
+    <word value="NickFury">
         <definition>Directeur de l'agence d'espionnage internationale, connu pour son œil unique.</definition>
         <definition>Recruteur principal des super-héros pour une initiative de défense globale.</definition>
         <definition>Stratège expert, toujours deux coups d'avance sur ses adversaires.</definition>
     </word>
-    <word value="Professor X">
+    <word value="ProfessorX">
         <definition>Fondateur d'une école pour jeunes mutants, enseigne la coexistence pacifique.</definition>
         <definition>Possède de puissantes capacités télépathiques, utilisées pour guider et protéger ses élèves.</definition>
         <definition>S'efforce de créer un monde où mutants et humains peuvent vivre en harmonie.</definition>
@@ -109,22 +109,22 @@
         <definition>Fils d'un puissant mutant magnétique, souvent impliqué dans des conflits familiaux.</definition>
         <definition>Utilise sa rapidité pour combattre ou créer des situations chaotiques.</definition>
     </word>
-    <word value="Red Skull">
+    <word value="RedSkull">
         <definition>Antagoniste emblématique avec un visage terrifiant, ennemi juré d'un super-soldat américain.</definition>
         <definition>Cherche à dominer le monde en utilisant des artefacts puissants et des tactiques de guerre.</definition>
         <definition>Leader d'une organisation criminelle, utilise la peur et la manipulation pour atteindre ses objectifs.</definition>
     </word>
-    <word value="Rocket Raccoon">
+    <word value="RocketRaccoon">
         <definition>Créature ressemblant à un raton laveur, membre d'une équipe de héros cosmiques.</definition>
         <definition>Expert en armes et tactiques, possède un tempérament vif et un humour mordant.</definition>
         <definition>Combat aux côtés de ses amis pour protéger l'univers des menaces intergalactiques.</definition>
     </word>
-    <word value="Scarlet Witch">
+    <word value="ScarletWitch">
         <definition>Mutante avec des pouvoirs de manipulation de la réalité, capable de créer et de modifier des événements à sa volonté.</definition>
         <definition>Traverse des tragédies personnelles qui testent ses limites psychiques et ses capacités.</definition>
         <definition>Sœur jumelle d'un mutant rapide, lutte pour comprendre la portée de ses pouvoirs immenses.</definition>
     </word>
-    <word value="Spider-Man">
+    <word value="SpiderMan">
         <definition>Jeune homme mordu par une araignée radioactive, acquiert des pouvoirs d'arachnide.</definition>
         <definition>Équilibre sa vie de lycéen avec ses responsabilités de super-héros.</definition>
         <definition>Utilise son agilité, sa force et ses lance-toiles pour protéger New York des criminels.</definition>
@@ -164,7 +164,7 @@
         <definition>Tempérament féroce et passé mystérieux, souvent en quête de réponses sur son origine.</definition>
         <definition>Membre de plusieurs groupes de mutants, connu pour sa bravoure et sa loyauté.</definition>
     </word>
-    <word value="Xavier, Professor">
+    <word value="ProfesseurX">
         <definition>Fondateur d'une école pour jeunes mutants, enseigne la coexistence pacifique.</definition>
         <definition>Possède de puissantes capacités télépathiques, utilisées pour guider et protéger ses élèves.</definition>
         <definition>S'efforce de créer un monde où mutants et humains peuvent vivre en harmonie.</definition>
