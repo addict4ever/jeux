@@ -1,10 +1,10 @@
 <words>
-    <word value="Abra">
+    <word value="abra">
         <definition>Pokémon de type psy connu pour sa capacité à se téléporter lorsqu'il est en danger.</definition>
         <definition>Évolue en un puissant Pokémon capable de manipuler des forces psychiques.</definition>
         <definition>Préfère dormir tout le temps et utilise ses pouvoirs pour éviter le combat.</definition>
     </word>
-    <word value="Bulbizarre">
+    <word value="bulbizarre">
         <definition>Petit Pokémon de type plante, porte une graine sur son dos qui grandit avec lui.</definition>
         <definition>Évolue en un grand Pokémon avec une large fleur.</definition>
         <definition>Peut lancer des attaques comme Fouet Lianes et Lance-Soleil.</definition>
@@ -14,17 +14,17 @@
         <definition>Évolue en une forme puissante crachant du feu et capable de voler.</definition>
         <definition>Si la flamme de sa queue s'éteint, il disparaîtrait.</definition>
     </word>
-    <word value="Dracaufeu">
+    <word value="dracaufeu">
         <definition>Grand Pokémon de type feu et vol, résultat de l'évolution d'un populaire Pokémon de départ.</definition>
         <definition>Peut cracher un feu brûlant capable de fondre des rochers.</definition>
         <definition>S'envole dans le ciel pour chercher des adversaires à la hauteur de sa puissance.</definition>
     </word>
-    <word value="Doduo">
+    <word value="doduo">
         <definition>Pokémon avec deux têtes qui court à grande vitesse malgré l'absence de bonnes ailes.</definition>
         <definition>Chaque tête a son propre cerveau et sa propre personnalité.</definition>
         <definition>Évolue en une forme à trois têtes qui peut courir encore plus vite.</definition>
     </word>
-    <word value="Ectoplasma">
+    <word value="ectoplasma">
         <definition>Pokémon de type spectre et poison, il est l'évolution finale d'une célèbre chaîne évolutive de fantômes.</definition>
         <definition>Peut traverser les murs et effrayer les gens, très apprécié dans les compétitions pour sa puissance et sa rapidité.</definition>
         <definition>Se cache dans les ombres et peut créer des illusions pour se protéger ou effrayer ses adversaires.</definition>
@@ -34,172 +34,172 @@
         <definition>Peut évoluer en formes adaptées à l'eau, à l'électricité, au feu, et plus encore.</definition>
         <definition>Sa capacité à s'adapter en fait un choix populaire parmi les dresseurs.</definition>
     </word>
-    <word value="Feunard">
+    <word value="feunard">
         <definition>Pokémon de type feu avec neuf queues majestueuses, évolue à partir d'une petite forme vulpine.</definition>
         <definition>Selon la légende, ses queues détiennent des pouvoirs magiques qui lui permettent de vivre pendant des millénaires.</definition>
         <definition>Utilise des attaques de feu puissantes et peut hypnotiser ses adversaires avec ses yeux brillants.</definition>
     </word>
-    <word value="Florizarre">
+    <word value="florizarre">
         <definition>Pokémon de type plante et poison, il est la forme finale d'une chaîne évolutive débutant par un petit Pokémon vert.</definition>
         <definition>Porte une grande fleur sur son dos qui absorbe les rayons du soleil pour convertir en énergie.</definition>
         <definition>Peut utiliser des attaques comme Poudre Dodo pour endormir ses adversaires.</definition>
     </word>
-    <word value="Gardevoir">
+    <word value="gardevoir">
         <definition>Pokémon de type psy et fée, reconnu pour sa grande loyauté envers son dresseur.</definition>
         <definition>Capable de percevoir l'avenir et de créer un champ de protection qui dévie les attaques.</definition>
         <definition>Sacrifierait sa propre vie pour protéger celle de son dresseur en cas de danger.</definition>
     </word>
-    <word value="Goupix">
+    <word value="goupix">
         <definition>Petit Pokémon de type feu, possède six élégantes queues qui ondulent magnifiquement en se déplaçant.</definition>
         <definition>Évolue dans un climat chaud pour devenir un renard de feu avec encore plus de queues.</definition>
         <definition>Peut contrôler le feu pour attaquer ses adversaires et échapper à des situations périlleuses.</definition>
     </word>
-    <word value="Herbizarre">
+    <word value="herbizarre">
         <definition>Évolution d'un petit Pokémon plante, porte un bourgeon sur son dos prêt à fleurir.</definition>
         <definition>Capable de manipuler la nature, utilise des lianes pour capturer ou attaquer.</definition>
         <definition>Prépare sa prochaine évolution où le bourgeon deviendra une grande fleur.</definition>
     </word>
-    <word value="Hyporoi">
+    <word value="hyporoi">
         <definition>Pokémon aquatique et dragon, possède une apparence majestueuse et élégante.</definition>
         <definition>Utilise des attaques puissantes d'eau et de dragon pour dominer les combats.</definition>
         <definition>Évolue à partir d'une forme moins imposante lorsqu'exposé à une certaine échelle.</definition>
     </word>
-    <word value="Insecateur">
+    <word value="insecateur">
         <definition>Pokémon insecte avec de grandes lames comme bras, parfait pour le combat rapproché.</definition>
         <definition>Son apparence effrayante et ses mouvements rapides le rendent redoutable en bataille.</definition>
         <definition>Capable de trancher des objets épais avec ses bras-lames acérés.</definition>
     </word>
-    <word value="Joliflor">
+    <word value="joliflor">
         <definition>Pokémon de type plante avec une grande fleur sur sa tête, attire ses proies avec son doux parfum.</definition>
         <definition>Ses grandes lèvres semblent sourire, mais il peut être très dangereux.</definition>
         <definition>Utilise le soleil pour charger ses attaques et restaurer sa santé.</definition>
     </word>
-    <word value="Kabutops">
+    <word value="kabutops">
         <definition>Pokémon préhistorique ressuscité, a des lames tranchantes pour des bras.</definition>
         <definition>Chasseur aquatique rapide, il était autrefois le prédateur dominant des mers anciennes.</definition>
         <definition>Évolue à partir d'une forme fossile une fois exposé à une pierre particulière.</definition>
     </word>
-    <word value="Leviator">
+    <word value="leviator">
         <definition>Pokémon de type eau et vol, redouté pour sa nature féroce et sa puissance destructrice.</definition>
         <definition>Peut être terrifiant lorsqu'il est en colère, capable de créer d'immenses tempêtes.</definition>
         <definition>Évolue d'une forme beaucoup plus petite et inoffensive lorsqu'il gagne en expérience.</definition>
     </word>
-    <word value="Lugia">
+    <word value="lugia">
         <definition>Légendaire Pokémon capable de calmer les tempêtes et considéré comme le gardien des mers.</definition>
         <definition>Peut voler malgré sa taille imposante et possède des pouvoirs psychiques.</definition>
         <definition>Ses ailes ressemblent à celles d'un dragon et il peut plonger dans de profondes abysses marines.</definition>
     </word>
-    <word value="Machoc">
+    <word value="machoc">
         <definition>Pokémon de type combat, reconnu pour sa force physique impressionnante.</definition>
         <definition>Capable de soulever des charges lourdes, il aide les humains dans des travaux de construction.</definition>
         <definition>S'entraîne constamment pour devenir encore plus fort et évolue en utilisant une ceinture de force.</definition>
     </word>
-    <word value="Magicarpe">
+    <word value="magicarpe">
         <definition>Pokémon de type eau, souvent moqué pour sa faiblesse apparente et son utilité limitée.</definition>
         <definition>Capable de faire seulement des bonds hors de l'eau, il promet pourtant une évolution surprenante.</definition>
         <definition>Évolue en un redoutable et majestueux Pokémon lorsqu'il gagne suffisamment d'expérience.</definition>
     </word>
-    <word value="Mewtwo">
+    <word value="mewtwo">
         <definition>Puissant Pokémon de type psy, créé génétiquement à partir de l'ADN d'un ancêtre mythique.</definition>
         <definition>Doté d'une intelligence et de pouvoirs psychiques extraordinaires, il questionne sa propre existence.</definition>
         <definition>Souvent en quête de sens et de but, il peut communiquer télépathiquement et lancer des attaques dévastatrices.</definition>
     </word>
-    <word value="Noctali">
+    <word value="noctali">
         <definition>Pokémon de type ténèbres, une des évolutions possibles d'un célèbre renard à multiples queues.</definition>
         <definition>Se distingue par ses grands yeux lumineux et son pelage sombre.</definition>
         <definition>Utilise les ombres pour se camoufler durant la nuit et attaquer ses adversaires.</definition>
     </word>
-    <word value="Onix">
+    <word value="onix">
         <definition>Grand Pokémon de type roche et sol, ressemble à une chaîne de rochers animée.</definition>
         <definition>Creuse à grande vitesse dans le sol et peut provoquer des secousses.</definition>
         <definition>Son corps massif et sa capacité à se fondre dans les environnements rocheux le rendent difficile à capturer.</definition>
     </word>
-    <word value="Pikachu">
+    <word value="pikachu">
         <definition>Célèbre Pokémon de type électrique, connu pour ses joues rouges capables de stocker de l'électricité.</definition>
         <definition>Très amical et souvent vu comme le visage de sa série.</definition>
         <definition>Utilise des attaques électriques comme Tonnerre pour vaincre ses adversaires.</definition>
     </word>
-    <word value="Ptera">
+    <word value="ptera">
         <definition>Pokémon préhistorique de type roche et vol, ressuscité à partir d'un fossile.</definition>
         <definition>Doté de grandes ailes et d'une mâchoire puissante, il était autrefois le roi des cieux.</definition>
         <definition>Utilise des attaques de vol et peut souvent échapper aux détecteurs grâce à sa vitesse impressionnante.</definition>
     </word>
-    <word value="Queulorior">
+    <word value="queulorior">
         <definition>Pokémon de type normal, connu pour sa capacité à utiliser sa queue comme un pinceau.</definition>
         <definition>Peint avec des fluides corporels spéciaux qui changent de couleur selon son humeur.</definition>
         <definition>Ses œuvres sont uniques et peuvent être très recherchées par les connaisseurs d'art Pokémon.</definition>
     </word>
-    <word value="Raichu">
+    <word value="raichu">
         <definition>Évolution d'un célèbre Pokémon électrique, possède une queue en forme d'éclair.</definition>
         <definition>Plus grand et plus fort que sa forme précédente, peut stocker une immense quantité d'électricité.</definition>
         <definition>Utilise des attaques électriques plus puissantes et peut générer des ondes de choc impressionnantes.</definition>
     </word>
-    <word value="Rayquaza">
+    <word value="rayquaza">
         <definition>Pokémon légendaire de type dragon et vol, maître des cieux et des atmosphères supérieures.</definition>
         <definition>Capable de calmer d'autres créatures légendaires, vit dans la couche d'ozone.</definition>
         <definition>Utilise des attaques extrêmement puissantes pour protéger son territoire des menaces.</definition>
     </word>
-    <word value="Ronflex">
+    <word value="ronflex">
         <definition>Pokémon massif de type normal, célèbre pour son sommeil profond et sa grande faim.</definition>
         <definition>Bloque souvent les routes dans son sommeil, nécessitant une flûte spéciale pour le réveiller.</definition>
         <definition>Capable d'avaler de grandes quantités de nourriture, son ventre peut digérer presque tout.</definition>
     </word>
-    <word value="Salameche">
+    <word value="salameche">
         <definition>Petit Pokémon de type feu, caractérisé par une flamme qui brûle au bout de sa queue.</definition>
         <definition>Sa flamme symbolise sa force vitale, brûlant plus fort lorsqu'il est en bonne santé.</definition>
         <definition>Évolue en une forme plus grande et plus puissante, capable de cracher des flammes dévastatrices.</definition>
     </word>
-    <word value="Scarabrute">
+    <word value="scarabrute">
         <definition>Pokémon de type insecte, ses cornes puissantes rivalisent avec celles d'autres Pokémon pour le territoire.</definition>
         <definition>Utilise ses cornes pour creuser le sol à la recherche de nourriture ou pour combattre.</definition>
         <definition>Très territorial, il charge ses adversaires avec une force impressionnante.</definition>
     </word>
-    <word value="Smogo">
+    <word value="smogo">
         <definition>Petit Pokémon de type poison, ressemble à un nuage de gaz toxique.</definition>
         <definition>Se déplace en flottant dans l'air, peut empoisonner ses ennemis en les enveloppant.</definition>
         <definition>Évolue en une forme plus grande et plus dense, augmentant sa capacité à produire des toxines.</definition>
     </word>
-    <word value="Tentacruel">
+    <word value="tentacruel">
         <definition>Pokémon aquatique avec de nombreux tentacules, capable de lancer des attaques d'eau empoisonnée.</definition>
         <definition>Dominant dans son habitat, il peut utiliser ses tentacules pour capturer des proies ou se défendre.</definition>
         <definition>Sa présence dans les eaux peut être un signe de danger pour les navigateurs.</definition>
     </word>
-    <word value="Tortank">
+    <word value="tortank">
         <definition>Évolution finale d'un Pokémon de type eau, possède de puissants canons à eau sur sa carapace.</definition>
         <definition>Peut tirer des jets d'eau avec une force suffisante pour percer l'acier.</definition>
         <definition>Très protecteur de son environnement, il utilise sa force pour défendre son territoire.</definition>
     </word>
-    <word value="Tyranocif">
+    <word value="tyranocif">
         <definition>Pokémon de type roche et ténèbres, évolue après de nombreuses batailles et montre une force implacable.</definition>
         <definition>Son corps peut repousser les attaques et il est capable de changer le climat en rugissant.</definition>
         <definition>Reconnu pour sa nature agressive et sa capacité à détruire tout obstacle sur son chemin.</definition>
     </word>
-    <word value="Ursaring">
+    <word value="ursaring">
         <definition>Pokémon de type normal ressemblant à un ours, connu pour sa force brute et son comportement territorial.</definition>
         <definition>Très protecteur envers son espace et ses petits, il utilise ses griffes puissantes pour défendre et attaquer.</definition>
         <definition>Vit principalement dans les forêts où il chasse avec une efficacité redoutable.</definition>
     </word>
-    <word value="Voltali">
+    <word value="voltali">
         <definition>Une des évolutions possibles d'un renard à plusieurs queues, ce Pokémon de type électrique peut charger l'électricité.</definition>
         <definition>Utilise des attaques de haute tension pour paralyser ses adversaires et se défendre.</definition>
         <definition>Sa crinière brille d'électricité statique lorsqu'il est chargé ou excité.</definition>
     </word>
-    <word value="Wailord">
+    <word value="wailord">
         <definition>Plus grand Pokémon de type eau, ressemblant à une baleine, il peut flotter en émergeant à la surface.</definition>
         <definition>Capable de sauter hors de l'eau malgré sa taille gigantesque.</definition>
         <definition>Très sociable, il forme souvent des groupes et peut communiquer sur de longues distances.</definition>
     </word>
-    <word value="Xatu">
+    <word value="xatu">
         <definition>Pokémon de type psy et vol, réputé pour sa capacité à voir à la fois le passé et l'avenir.</definition>
         <definition>Reste souvent immobile toute la journée pour observer le soleil et prédire les mouvements ennemis.</definition>
         <definition>Ses plumes colorées ont un aspect mystique et sont souvent utilisées dans les rituels tribaux.</definition>
     </word>
-    <word value="Yanmega">
+    <word value="yanmega">
         <definition>Pokémon de type insecte et vol, évolue à partir d'une petite libellule en une version beaucoup plus grande et intimidante.</definition>
         <definition>Utilise sa vitesse et ses ailes tranchantes pour surprendre ses adversaires et se défendre.</definition>
         <definition>Ses yeux composés lui permettent de détecter des mouvements minuscules, ce qui en fait un chasseur redoutable.</definition>
     </word>
-    <word value="Zoroark">
+    <word value="zoroark">
         <definition>Pokémon de type ténèbres connu pour sa capacité à créer des illusions indiscernables de la réalité.</definition>
         <definition>Protège son clan en trompant les ennemis avec des visions effrayantes.</definition>
         <definition>Très loyal envers ceux qu'il considère comme sa famille, il utilise son intelligence pour contrer ses adversaires.</definition>
