@@ -1,12 +1,14 @@
 <words>
-    <word value="Bortus">
-        <definition>Moclan de l'Orville</definition>
-        <definition>Caracterise par son serieux </definition>
-        <definition>Les histoires autour de Bortus explorent des themes de genre</definition>
+    <word value="trident">
+        <definition>Arme à trois pointes utilisée notamment par les pêcheurs et mythologiquement par Neptune.</definition>
+        <definition>Symbole de souveraineté sur les mers.</definition>
     </word>
-    <word value="Bruidgate">
-        <definition>Delegue de la race extraterrestre des Bruidians</definition>
-        <definition>Represente les interets politiques de sa race dans des affaires interstellaires </definition>
-        <definition>Participe a des de mediation dans l'univers de la serie.</definition>
+    <word value="cascade">
+        <definition>Chute d'eau rapide et abondante, souvent en plusieurs paliers.</definition>
+        <definition>Mouvement rapide et fluide de quelque chose qui s'écoule en abondance.</definition>
+    </word>
+    <word value="labyrinthe">
+        <definition>Construction complexe formée de galeries, de détours, de nœuds, et destinée à égarer ou à perdre ceux qui s'y aventurent.</definition>
+        <definition>Situation complexe et difficile à comprendre ou à démêler.</definition>
     </word>
 </words>
