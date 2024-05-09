@@ -1,233 +1,200 @@
 <words>
-    <word value="Ant-Man">
+    <word value="ant-man">
         <definition>Super-héros capable de rétrécir à une taille microscopique tout en augmentant sa force.</definition>
         <definition>Utilise une technologie de pointe pour communiquer avec les insectes.</definition>
         <definition>Alterne entre le monde des petits et des combats contre de grandes menaces.</definition>
     </word>
-
-    <word value="Apocalypse">
+    <word value="apocalypse">
         <definition>Mutant immortel considéré comme l'un des premiers de son espèce.</definition>
         <definition>Dispose de pouvoirs qui lui permettent de modifier sa forme, de guérir et de manipuler l'énergie.</definition>
         <definition>Se voit comme le sauveur de la mutation, prêt à détruire l'humanité pour créer un nouvel ordre.</definition>
     </word>
-
-    <word value="Abomination">
+    <word value="abomination">
         <definition>Méchant doté d'une force colossale, rival de Hulk.</definition>
         <definition>Transformé par une dose excessive de rayons gamma combinée à un sérum de super-soldat.</definition>
         <definition>Utilise sa puissance pour semer la destruction et combattre Hulk.</definition>
     </word>
-
-    <word value="Angel">
+    <word value="angel">
         <definition>Mutant avec des ailes d'ange qui lui permettent de voler.</definition>
         <definition>Membre fondateur des X-Men, combattant pour la paix entre humains et mutants.</definition>
         <definition>Doté d'une beauté et d'une grâce qui masquent sa puissance au combat.</definition>
     </word>
-
-    <word value="Adam Warlock">
+    <word value="adam Warlock">
         <definition>Créature artificielle dotée d'énormes pouvoirs cosmiques.</definition>
         <definition>Connu pour son rôle crucial dans les batailles contre Thanos et l'Infinity Gauntlet.</definition>
         <definition>Possède la capacité de se régénérer et d'utiliser l'énergie cosmique pour divers effets.</definition>
     </word>
-
-    <word value="Ares">
+    <word value="ares">
         <definition>Dieu de la guerre dans la mythologie grecque, apparaît comme un anti-héros dans l'univers Marvel.</definition>
         <definition>Possède une force et des compétences de combat qui rivalisent avec celles des plus grands héros.</definition>
         <definition>Se bat souvent pour ses propres intérêts, ce qui le met en conflit avec d'autres héros.</definition>
     </word>
-
-    <word value="Aurora">
+    <word value="aurora">
         <definition>Membre de l'équipe canadienne Alpha Flight, sœur jumelle de Northstar.</definition>
         <definition>Possède la capacité de voler à grande vitesse et de créer des rafales de lumière aveuglante.</definition>
         <definition>Souffre de troubles de la personnalité, influençant ses interactions et ses décisions.</definition>
     </word>
-
-    <word value="Black Widow">
+    <word value="black Widow">
         <definition>Espiègle et experte en arts martiaux, ancienne espionne russe.</definition>
         <definition>Travaille pour une organisation de super-héros, spécialisée dans l'infiltration.</definition>
         <definition>Son passé mystérieux la hante, mais elle utilise ses compétences pour protéger le monde.</definition>
     </word>
-
-    <word value="Beast">
+    <word value="beast">
         <definition>Mutant avec une apparence bestiale, mais doté d'une intelligence extraordinaire.</definition>
         <definition>Membre éminent des X-Men, spécialiste en génétique.</definition>
         <definition>Utilise sa force et son agilité pour défendre les mutants et l'humanité.</definition>
     </word>
-
-    <word value="Bullseye">
+    <word value="bullseye">
         <definition>Assassin impitoyable avec une précision inégalée, souvent adversaire de Daredevil.</definition>
         <definition>Capable de transformer n'importe quel objet en une arme mortelle.</definition>
         <definition>Sa précision et sa cruauté en font un des assassins les plus redoutés.</definition>
     </word>
-
-    <word value="Bishop">
+    <word value="bishop">
         <definition>Mutant du futur avec la capacité d'absorber et de rediriger l'énergie.</definition>
         <definition>Venu du futur pour prévenir certaines catastrophes, membre des X-Men.</definition>
         <definition>Son expérience dans un futur dystopique le rend parfois conflictuel avec ses coéquipiers.</definition>
     </word>
-
-    <word value="Blade">
+    <word value="blade">
         <definition>Chasseur de vampires mi-humain mi-vampire, possède des sens et une force surhumains.</definition>
         <definition>Armé de lames tranchantes et de connaissances en arts martiaux, il traque sans relâche les créatures de la nuit.</definition>
         <definition>Lutte pour protéger les humains tout en combattant sa propre soif de sang.</definition>
     </word>
-    
-    <word value="Beta Ray Bill">
+    <word value="beta Ray Bill">
         <definition>Créature extraterrestre qui est l'un des rares en dehors de Thor à pouvoir manier Mjolnir.</definition>
         <definition>Possède des attributs physiques et des pouvoirs similaires à ceux de Thor grâce à un marteau similaire, Stormbreaker.</definition>
         <definition>Initialement un adversaire, il devient un allié et un champion pour son peuple.</definition>
     </word>
-    
-    <word value="Black Panther">
+    <word value="black Panther">
         <definition>Roi de Wakanda, une nation africaine avancée technologiquement et isolée.</definition>
         <definition>Possède des capacités améliorées par un rituel sacré qui le lie à l'esprit du panthère noire.</definition>
         <definition>Brillant tacticien et scientifique, engagé dans la protection de son peuple et de l'ordre mondial.</definition>
     </word>
-    
-    <word value="Black Knight">
+    <word value="black Knight">
         <definition>Porteur d'une épée maudite connue sous le nom d'Ébène, qui confère à ses utilisateurs des compétences en combat et une malédiction.</definition>
         <definition>Membre de plusieurs équipes de super-héros, luttant pour contrôler la malédiction tout en faisant le bien.</definition>
         <definition>Archéologue de profession, utilisant ses connaissances pour combattre divers ennemis.</definition>
     </word>
-
-    <word value="Blob">
+    <word value="blob">
         <definition>Mutant avec une masse corporelle énorme qui lui confère une force surhumaine et une immunité aux blessures physiques.</definition>
         <definition>Membre de la Confrérie des mauvais mutants, souvent en conflit avec les X-Men.</definition>
         <definition>Sa présence imposante et sa personnalité brutale le rendent un adversaire redoutable.</definition>
     </word>
-
-     <word value="Baron Zemo">
+     <word value="baron zemo">
         <definition>Un noble allemand et scientifique brillant, ennemi de Captain America et des Avengers.</definition>
         <definition>Expert en stratégie et en combat, utilisant son intelligence et ses ressources pour combattre les super-héros.</definition>
         <definition>Cherche à restaurer l'honneur de sa famille tout en poursuivant ses plans de domination mondiale.</definition>
     </word>
-    
-    <word value="Banshee">
+    <word value="banshee">
         <definition>Mutant irlandais avec la capacité de créer des ondes sonores puissantes avec sa voix.</definition>
         <definition>Membre des X-Men, utilisant ses cris supersoniques pour voler et désorienter ses ennemis.</definition>
         <definition>Caractérisé par un fort sens du devoir et un engagement envers la cause mutante.</definition>
     </word>
-    
-    <word value="Boom-Boom">
+    <word value="boom-boom">
         <definition>Jeune mutante capable de créer des explosions d'énergie à volonté.</definition>
         <definition>Connue pour son attitude rebelle et son approche impulsive du combat.</definition>
         <definition>Membre de diverses équipes de jeunes mutants, apportant une dynamique énergétique à ses missions.</definition>
     </word>
-    
-    <word value="Captain America">
+    <word value="captain america">
         <definition>Soldat de la Seconde Guerre mondiale transformé en super-héros grâce à un sérum expérimental.</definition>
         <definition>Porte un bouclier indestructible et est un symbole de liberté et de justice.</definition>
         <definition>Se bat pour maintenir ses idéaux dans un monde qu'il trouve souvent changé.</definition>
     </word>
-
-    <word value="Cyclops">
+    <word value="cyclops">
         <definition>Leader des X-Men, capable de projeter des rafales d'énergie optique contrôlées par des lunettes spéciales.</definition>
         <definition>Stratège né, souvent au cœur des décisions tactiques de l'équipe.</definition>
         <definition>Engagé dans la protection des mutants et dans la coexistence pacifique avec les humains.</definition>
     </word>
-
-    <word value="Carnage">
+    <word value="carnage">
         <definition>Symbiote extraterrestre, ennemi de Spider-Man, connu pour sa brutalité et son désir de chaos.</definition>
         <definition>Forme une union meurtrière avec son hôte, Cletus Kasady, un psychopathe sans remords.</definition>
         <definition>Utilise ses capacités de métamorphose pour créer des armes et s'engager dans une violence extrême.</definition>
     </word>
-
-    <word value="Colossus">
+    <word value="colossus">
         <definition>Mutant avec la capacité de transformer son corps en métal organique, conférant une force et une résilience surhumaines.</definition>
         <definition>Membre dévoué des X-Men, combat pour protéger les mutants et les humains.</definition>
         <definition>Reconnu pour son intégrité morale et sa loyauté envers ses amis et sa famille.</definition>
     </word>
-
-    <word value="Cable">
+    <word value="cable">
         <definition>Mutant venant du futur, possédant des pouvoirs télépathiques et télékinésiques, ainsi qu'un savoir technologique avancé.</definition>
         <definition>Engagé dans la lutte pour empêcher les dystopies futures dont il vient.</definition>
         <definition>Utilise un arsenal de haute technologie pour combattre ses ennemis.</definition>
     </word>
-
-    <word value="Cloak">
+    <word value="cloak">
         <definition>Possède la capacité d'engendrer et de manipuler les ténèbres, utilisant son manteau comme un portail vers la dimension des ténèbres.</definition>
         <definition>Partenaire de Dagger, combat le crime en utilisant ses pouvoirs pour effrayer et désorienter les criminels.</definition>
         <definition>Son passé trouble le lie profondément à sa partenaire et à leur quête de justice.</definition>
     </word>
-
-    <word value="Crystal">
+    <word value="crystal">
         <definition>Membre de la famille royale des Inhumains, possède la capacité de manipuler les quatre éléments : air, terre, feu et eau.</definition>
         <definition>Engagée dans les affaires politiques de son peuple et dans les relations avec les humains et d'autres super-héros.</definition>
         <definition>Sœur de Medusa, et a été une membre des Avengers et des Quatre Fantastiques.</definition>
     </word>
-
-    <word value="Crossbones">
+    <word value="crossbones">
         <definition>Mercenaire et assassin, connu pour ses confrontations brutales avec Captain America.</definition>
         <definition>Expert en combat rapproché et en tactiques de guérilla.</definition>
         <definition>Utilise un large éventail d'armes et de gadgets dans ses missions.</definition>
     </word>
-
-    <word value="Chameleon">
+    <word value="chameleon">
         <definition>Maître du déguisement, premier ennemi rencontré par Spider-Man.</definition>
         <definition>Utilise ses compétences pour infiltrer et espionner, souvent pour le compte de criminels ou d'organisations secrètes.</definition>
         <definition>Capable de se transformer en n'importe qui, ce qui le rend extrêmement difficile à capturer.</definition>
     </word>
-
-    <word value="Captain Marvel">
+    <word value="captain marvel">
         <definition>Super-héroïnes avec des pouvoirs d'origine extraterrestre, incluant force, vol, et résistance aux dommages.</definition>
         <definition>Considérée comme l'une des super-héroïnes les plus puissantes de l'univers Marvel.</definition>
         <definition>Engagée à protéger la Terre et l'univers des menaces cosmiques et intergalactiques.</definition>
     </word>
-
-    <word value="Calypso">
+    <word value="calypso">
         <definition>Sorcière vaudou et ennemie de Spider-Man, utilise la magie pour manipuler et contrôler.</definition>
         <definition>Connue pour ses tentatives de contrôle mental et ses rituels sombres pour augmenter son pouvoir.</definition>
         <definition>Son obsession de vengeance contre Spider-Man alimente ses actions maléfiques.</definition>
     </word>
-
-    <word value="Chamber">
+    <word value="chamber">
         <definition>Mutant avec une puissance psychokinétique qui a détruit sa poitrine et son visage inférieur.</definition>
         <definition>Membre des X-Men et de Generation X, utilise ses pouvoirs pour des explosions d'énergie.</definition>
         <definition>Sa condition le rend solitaire, mais il reste un allié précieux dans les combats.</definition>
     </word>
-
-    <word value="Clea">
+    <word value="clea">
         <definition>Sorcière de la Dimension Noire, disciple et amante de Doctor Strange.</definition>
         <definition>Possède des pouvoirs magiques considérables, utilisés souvent pour défendre la Terre des menaces mystiques.</definition>
         <definition>S'efforce de maintenir l'équilibre entre les dimensions et de protéger son propre royaume.</definition>
     </word>
-
-    <word value="Colleen Wing">
+    <word value="colleen wing">
         <definition>Artiste martiale experte, associée fréquemment avec Iron Fist et les Heroes for Hire.</definition>
         <definition>Spécialiste du samouraï, utilisant ses compétences en combat pour lutter contre le crime.</definition>
         <definition>Elle est une détective privée et souvent impliquée dans les intrigues de la communauté super-héroïque.</definition>
     </word>
-
-    <word value="Constrictor">
+    <word value="constrictor">
         <definition>Mercenaire équipé de câbles en acier extrêmement résistants utilisés pour immobiliser ses adversaires.</definition>
         <definition>Travaille souvent comme homme de main pour divers criminels et organisations maléfiques.</definition>
         <definition>Son équipement spécial lui confère un avantage unique en combat rapproché.</definition>
     </word>
 
-    <word value="Copycat">
+    <word value="copycat">
         <definition>Mutante avec la capacité de se métamorphoser en n'importe quelle personne, copiant également leurs pouvoirs.</definition>
         <definition>A utilisé ses pouvoirs pour infiltrer et espionner pour divers groupes criminels et organisations de super-héros.</definition>
         <definition>Ses véritables sentiments et alliances sont souvent masqués par ses identités empruntées.</definition>
     </word>
 
-    <word value="Corvus Glaive">
+    <word value="corvus glaive">
         <definition>Lieutenant de Thanos et membre de l'Ordre Noir, manie une faux capable de fendre la matière atomique.</definition>
         <definition>Brutal et dévoué, il est une force redoutable sur le champ de bataille, loyal envers Thanos.</definition>
         <definition>Ses capacités tactiques et son immortalité conditionnelle le rendent presque invincible tant que son arme est intacte.</definition>
     </word>
 
-    <word value="Crimson Dynamo">
+    <word value="crimson dynamo">
         <definition>Titre porté par plusieurs Russes, chacun utilisant une armure alimentée similaire à celle d'Iron Man.</definition>
         <definition>Utilisée principalement pour lutter contre les intérêts occidentaux, en particulier Iron Man et les Avengers.</definition>
         <definition>L'armure fournit une force surhumaine, des capacités de vol, et des armements variés.</definition>
     </word>
     
-    <word value="Crusher Creel">
+    <word value="crusher creel">
         <definition>Connu aussi sous le nom de l'Absorbing Man, capable de transformer son corps dans la matière ou l'énergie qu'il touche.</definition>
         <definition>Utilise cette capacité pour devenir l'un des ennemis les plus adaptatifs et résilients de Hulk.</definition>
         <definition>Son pouvoir unique le rend aussi dangereux pour ses alliés que pour ses ennemis.</definition>
     </word>
     
-    <word value="Daredevil">
+    <word value="daredevil">
         <definition>Avocat de jour et justicier de nuit, aveugle avec des sens hyper-développés.</definition>
         <definition>Combat le crime dans le quartier de Hell's Kitchen à New York, utilisant ses capacités acrobatiques et son radar sensoriel.</definition>
         <definition>Connus pour ses combats contre la corruption et la pègre, notamment contre son ennemi juré Kingpin.</definition>
@@ -236,7 +203,7 @@
         <definition>Utilise ses capacités pour naviguer dans l'obscurité et combattre l'injustice.</definition>
     </word>
 
-    <word value="Doctor Strange">
+    <word value="doctor strange">
         <definition>Le Sorcier Suprême de la Terre, protecteur de la réalité contre les menaces mystiques et magiques.</definition>
         <definition>Ancien chirurgien, a acquis des pouvoirs surnaturels après un accident qui a ruiné ses mains.</definition>
         <definition>Utilise une variété d'artefacts magiques, y compris l'Œil d'Agamotto et le Manteau de Lévitation.</definition>
@@ -245,199 +212,299 @@
         <definition>Utilise des sortilèges, des artefacts magiques et des voyages à travers diverses réalités.</definition>
     </word>
 
-    <word value="Deadpool">
+    <word value="deadpool">
         <definition>Mercenaire bavard avec un facteur de guérison rapide qui le rend presque immortel.</definition>
         <definition>Connu pour briser le quatrième mur, interagissant souvent directement avec l'audience de ses bandes dessinées.</definition>
         <definition>Arbitraire et imprévisible, il se bat avec un mélange unique d'humour noir et de violence.</definition>
     </word>
 
-    <word value="Doctor Doom">
+    <word value="doctor doom">
         <definition>Monarque de Latveria, génie scientifique et sorcier.</definition>
         <definition>Rival de longue date des Fantastic Four, cherche à dominer le monde avec ses technologies et ses pouvoirs magiques.</definition>
         <definition>Son armure contient de nombreuses armes et lui confère des pouvoirs surhumains.</definition>
     </word>
 
-    <word value="Domino">
+    <word value="domino">
         <definition>Mutante avec la capacité de manipuler les probabilités, ce qui lui apporte une "chance" exceptionnelle.</definition>
         <definition>Experte en combat armé et au corps à corps, souvent associée avec Cable et les X-Force.</definition>
         <definition>Utilise ses compétences tactiques et son pouvoir pour accomplir des missions apparemment impossibles.</definition>
     </word>
 
-    <word value="Dazzler">
+    <word value="dazzler">
         <definition>Chanteuse pop et mutante capable de convertir le son en lumière, souvent sous forme d'éclairs aveuglants ou d'explosions.</definition>
         <definition>Utilise sa carrière de musique pour promouvoir la coexistence pacifique entre mutants et humains.</definition>
         <definition>Ses performances sont spectaculaires, intégrant ses pouvoirs de lumière de manière artistique.</definition>
     </word>
 
-    <word value="Drax the Destroyer">
+    <word value="draxthedestroyer">
         <definition>Créature conçue pour tuer Thanos, dotée d'une force et d'une endurance exceptionnelles.</definition>
         <definition>Partie intégrante des Gardiens de la Galaxie, souvent engagé dans des batailles à l'échelle cosmique.</definition>
         <definition>Son désir de vengeance contre Thanos le motive, malgré ses méthodes parfois brutales.</definition>
     </word>
 
-    <word value="Darkhawk">
+    <word value="darkhawk">
         <definition>Jeune homme possédant un amulette qui le transforme en Darkhawk, un être doté d'une armure technologique avancée.</definition>
         <definition>L'armure lui confère force surhumaine, vol, et projection d'énergie.</definition>
         <definition>Alterne entre sa vie de jeune adulte et ses responsabilités de super-héros, souvent confronté à des dilemmes personnels et moraux.</definition>
     </word>
 
-     <word value="Demogoblin">
+     <word value="demogoblin">
         <definition>Démon qui prend la forme d'un Gobelin, ennemi de Spider-Man et de Ghost Rider.</definition>
         <definition>Cherche à purifier le monde en détruisant ce qu'il considère comme le mal incarné.</definition>
         <definition>Possède des capacités similaires à celles du Green Goblin, incluant le vol sur un planeur et l'utilisation de bombes citrouilles.</definition>
     </word>
 
-    <word value="Dagger">
+    <word value="dagger">
         <definition>Partenaire de Cloak, possède la capacité de créer des lames de lumière qui purifient et blessent ses ennemis.</definition>
         <definition>Utilise ses pouvoirs pour lutter contre le trafic de drogue et protéger les jeunes en détresse.</definition>
         <definition>Ses pouvoirs offrent un contrepoint lumineux à l'obscurité de Cloak, ensemble formant une équipe équilibrée.</definition>
     </word>
 
-    <word value="Deathlok">
+    <word value="deathlok">
         <definition>Cyborg créé à partir de soldats morts, équipé de technologies avancées et d'intelligence artificielle.</definition>
         <definition>Lutte pour maintenir son humanité tout en accomplissant des missions militaires ou de mercenariat.</definition>
         <definition>Sa conscience souvent en conflit avec ses programmations militaires le rend un personnage tragique et complexe.</definition>
     </word>
 
-    <word value="Destroyer">
+    <word value="destroyer">
         <definition>Armure enchantée créée par Odin, destinée à défendre Asgard contre les menaces majeures.</definition>
         <definition>Manipulée par divers personnages, souvent utilisée comme une arme de dernière ressource.</definition>
         <definition>Sa puissance est pratiquement inégalée, capable de détruire des ennemis que les dieux eux-mêmes trouvent redoutables.</definition>
     </word>
 
-    <word value="Diamondback">
+    <word value="diamondback">
         <definition>Super-vilaine et occasionnellement anti-héroïne, experte en lancer de couteaux et en combat.</definition>
         <definition>Ancienne amoureuse de Captain America, ce qui complique ses alliances et ses activités criminelles.</definition>
         <definition>Membre de la Serpent Society, elle navigue entre son amour pour le héros et sa loyauté envers ses camarades criminels.</definition>
     </word>
 
-    <word value="Doctor Octopus">
+    <word value="doctor Octopus">
         <definition>Scientifique doté de quatre bras mécaniques, ennemi juré de Spider-Man.</definition>
         <definition>Utilise son intelligence et ses tentacules robotiques pour commettre des crimes et tenter de détruire son adversaire arachnéen.</definition>
         <definition>Son génie technologique le place parmi les super-vilains les plus redoutés de l'univers Marvel.</definition>
     </word>
 
-    <word value="Dormammu">
+    <word value="dormammu">
         <definition>Entité interdimensionnelle puissante régnant sur la Dimension Noire, ennemi de Doctor Strange.</definition>
         <definition>Cherche à étendre son règne à d'autres dimensions, y compris la Terre.</definition>
         <definition>Ses pouvoirs magiques sont presque illimités, le rendant une menace cosmique constante.</definition>
     </word>
 
-    <word value="Dragon Man">
+    <word value="dragon man">
         <definition>Androïde en forme de dragon, initialement créé comme une arme, mais souvent agissant de manière indépendante.</definition>
         <definition>Possède une force immense, la capacité de voler, et de cracher du feu.</definition>
         <definition>Son intelligence limitée le rend manipulable par d'autres super-vilains et scientifiques.</definition>
     </word>
 
-    <word value="Daken">
+    <word value="daken">
         <definition>Fils de Wolverine, possède des pouvoirs similaires incluant un facteur de guérison et des griffes rétractables.</definition>
         <definition>Caractérisé par sa nature manipulatrice et ses tendances violentes.</definition>
         <definition>Entretient une relation complexe et souvent antagoniste avec son père et d'autres membres des X-Men.</definition>
     </word>
 
-    <word value="Dum Dum Dugan">
+    <word value="dum dum dugan">
         <definition>Vétéran de la Seconde Guerre mondiale et agent de haut rang du S.H.I.E.L.D.</definition>
         <definition>Reconnu pour son chapeau bowler et sa moustache, il est un allié fidèle de Nick Fury.</definition>
         <definition>Expert en combat et en stratégie militaire, joue un rôle crucial dans de nombreuses missions de S.H.I.E.L.D.</definition>
     </word>
     
-     <word value="Daimon Hellstrom">
+     <word value="daimonhellstrom">
         <definition>Connu aussi sous le nom de Son of Satan, possède des pouvoirs démoniaques hérités.</definition>
         <definition>Utilise ses capacités pour lutter contre les forces du mal, malgré ses origines infernales.</definition>
         <definition>Expert en occultisme et capable de manipuler le feu infernal.</definition>
     </word>
 
-    <word value="Darkstar">
+    <word value="darkstar">
         <definition>Super-héroïne russe avec la capacité de manipuler la force obscure, utilisée pour créer des objets et des portails.</definition>
         <definition>Membre de l'équipe soviétique des super-héros, les Soviet Super-Soldiers.</definition>
         <definition>Lutte pour la justice en Russie tout en essayant de maintenir des relations pacifiques avec les héros d'autres nations.</definition>
     </word>
 
-    <word value="Deathbird">
+    <word value="deathbird">
         <definition>Princesse rebelle de l'empire Shi'ar, ennemie et parfois alliée des X-Men.</definition>
         <definition>Possède des ailes, des griffes acérées et une habileté au combat, reflétant son héritage d'oiseau de proie.</definition>
         <definition>Son ambition de pouvoir la conduit souvent à des confrontations avec sa sœur, l'impératrice Lilandra.</definition>
     </word>
 
-    <word value="Deathcry">
+    <word value="deathcry">
         <definition>Jeune guerrière Shi'ar envoyée sur Terre comme protectrice des Avengers.</definition>
         <definition>Possède une force surhumaine et des compétences de combat qui reflètent son entraînement guerrier Shi'ar.</definition>
         <definition>Caractérisée par son tempérament agressif et son dévouement féroce à ses missions.</definition>
     </word>
 
-    <word value="Decay">
+    <word value="decay">
         <definition>Mutant avec la capacité de désintégrer la matière organique ou inorganique par contact.</definition>
         <definition>Utilise son pouvoir destructeur principalement comme une arme défensive, difficile à contrôler en combat.</definition>
         <definition>Ses interactions sont limitées par la dangerosité de son toucher mortel.</definition>
     </word>
 
-    <word value="Delilah">
+    <word value="delilah">
         <definition>Assassin et ennemie de Spider-Man, utilise sa force, son agilité et ses compétences en combat au corps à corps.</definition>
         <definition>Employée par divers criminels de New York pour réaliser des assassinats de haut niveau.</definition>
         <definition>Se distingue par sa loyauté envers ses employeurs et son efficacité redoutable dans l'exécution de ses missions.</definition>
     </word>
 
-    <word value="Demolition Man">
+    <word value="demolition man">
         <definition>Super-héros costumé, allié de Captain America, possède une force surhumaine et une résistance accrue.</definition>
         <definition>Engagé dans la lutte contre les injustices sociales et la protection des défavorisés.</definition>
         <definition>Reconnu pour son courage et son engagement malgré des ressources limitées.</definition>
     </word>
 
-    <word value="Desak">
+    <word value="desak">
         <definition>Détrousseur de Dieux, armé d'une hache mystique, cherche à exterminer tous les dieux de l'univers Marvel.</definition>
         <definition>Ses pouvoirs augmentent à chaque divinité qu'il tue, le rendant de plus en plus puissant.</definition>
         <definition>Son conflit avec Thor le place parmi les adversaires les plus dangereux du panthéon asgardien.</definition>
     </word>
 
-    <word value="Elektra">
-        <definition>Assassin redoutable avec des compétences exceptionnelles en arts martiaux.</definition>
-        <definition>Armée de ses sais tranchants, navigue dans un monde de danger et de duplicité.</definition>
-        <definition>Ancien amour d'un héros aveugle, son allégeance oscille entre le bien et le mal.</definition>
+    <word value="elektra">
+        <definition>Assassin redoutable formée dans les arts martiaux, souvent associée et parfois adversaire de Daredevil.</definition>
+        <definition>Utilise ses sais comme armes de prédilection, alliant agilité et stratégie en combat.</definition>
+        <definition>Sa quête de vengeance et sa complexité morale la rendent un personnage fascinant et imprévisible.</definition>
     </word>
 
-    <word value="Falcon">
+    <word value="elixir">
+        <definition>Jeune mutant avec le pouvoir de manipuler les structures biologiques, pouvant guérir ou causer des blessures.</definition>
+        <definition>Membre des X-Men, particulièrement des New Mutants, confronté à la responsabilité éthique de ses capacités.</definition>
+        <definition>Représente un élément vital pour son équipe, souvent au cœur de dilemmes moraux sur l'utilisation de ses pouvoirs.</definition>
+    </word>
+
+    <word value="echo">
+        <definition>Super-héroïne sourde avec la capacité de copier parfaitement les mouvements d'autrui, ce qui en fait une combattante redoutable.</definition>
+        <definition>Affronte des adversaires tels que Daredevil et Wolverine, tout en cherchant sa propre voie en tant que justicière.</definition>
+        <definition>Utilise ses compétences en arts martiaux combinées à son talent artistique pour exprimer sa dualité culturelle et personnelle.</definition>
+    </word>
+
+    <word value="ego">
+        <definition>Entité cosmique sous la forme d'une planète vivante, possédant conscience et des capacités de manipulation à grande échelle.</definition>
+        <definition>Parfois ennemi, parfois allié des Gardiens de la Galaxie, sa taille et ses pouvoirs le rendent unique dans l'univers.</definition>
+        <definition>Cherche à étendre son influence ou à survivre face aux multiples menaces cosmiques.</definition>
+    </word>
+    
+    <word value="emmafrost">
+        <definition>Mutante avec des capacités télépathiques puissantes et la capacité de transformer son corps en diamant.</definition>
+        <definition>Ancienne antagoniste devenant une alliée et un mentor des X-Men, particulièrement impliquée dans l'éducation des jeunes mutants.</definition>
+        <definition>Conflits intérieurs et allégeances changeantes la rendent complexe et multidimensionnelle.</definition>
+    </word>
+    <word value="enchantress">
+        <definition>Sorcière asgardienne utilisant la magie pour manipuler, séduire ou combattre ses ennemis.</definition>
+        <definition>Souvent en quête de pouvoir ou de l'amour de Thor, ses intrigues la placent fréquemment en opposition aux héros d'Asgard.</definition>
+        <definition>Ses compétences en sorcellerie la classent parmi les adversaires les plus redoutables.</definition>
+    </word>
+    <word value="eternity">
+        <definition>Incarnation de l'univers, représentant tous les aspects de l'espace et du temps au sein de l'univers Marvel.</definition>
+        <definition>Figure cosmique influente, intervenant dans des affaires de grande envergure qui affectent la réalité même.</definition>
+        <definition>Ses interactions avec des entités comme Thanos et les Avengers sont cruciales lors de crises cosmiques.</definition>
+    </word>
+    <word value="exodus">
+        <definition>Mutant avec des pouvoirs télékinétiques et télépathiques extrêmement puissants.</definition>
+        <definition>Loyaliste de Magneto, souvent impliqué dans des affaires concernant la survie et le bien-être des mutants.</definition>
+        <definition>Figure charismatique capable de rassembler de nombreux mutants sous sa cause.</definition>
+    </word>
+    <word value="electro">
+        <definition>Super-vilain avec la capacité de générer et de manipuler l'électricité, souvent adversaire de Spider-Man.</definition>
+        <definition>Utilise ses pouvoirs pour commettre des crimes, souvent motivé par la cupidité et la vengeance.</definition>
+        <definition>Sa vulnérabilité à l'eau et à l'isolation électrique le met souvent en désavantage lors de confrontations avec des héros.</definition>
+    </word>
+    <word value="echo">
+        <definition>Artiste et guerrière dotée de la capacité de répliquer parfaitement les mouvements d'autres personnes, ennemie et alliée de Daredevil.</definition>
+        <definition>Utilise ses talents dans le combat et les arts pour naviguer dans les deux mondes de son héritage culturel.</definition>
+        <definition>Son histoire personnelle complexe ajoute de la profondeur à ses motivations et à ses conflits internes.</definition>
+    </word>
+    <word value="erik the Red">
+        <definition>Identité utilisée par plusieurs personnages, notamment des mutants et des extraterrestres, souvent pour infiltrer ou déstabiliser.</definition>
+        <definition>Utilisé comme couverture pour des missions secrètes ou des opérations clandestines, variées selon l'utilisateur.</definition>
+        <definition>Sa capacité à brouiller les pistes le rend efficace dans le subterfuge et la tromperie.</definition>
+    </word>
+    <word value="ex nihilo">
+        <definition>Entité cosmique créée pour semer la vie à travers l'univers, souvent en conflit avec les Avengers.</definition>
+        <definition>Ses méthodes, bien qu'intentionnellement bienveillantes, sont parfois destructrices ou chaotiques.</definition>
+        <definition>Ses interactions avec la Terre déclenchent des crises qui remettent en question les notions de vie et de création.</definition>
+    </word>
+    <word value="energizer">
+        <definition>Jeune mutante membre des Power Pack, capable d'absorber et de manipuler l'énergie sous diverses formes.</definition>
+        <definition>Utilise ses pouvoirs pour combattre le crime tout en gérant les défis de sa jeunesse.</definition>
+        <definition>Représente une figure héroïque pour les enfants, montrant que les héros peuvent venir de tous âges.</definition>
+    </word>
+    <word value="eon">
+        <definition>Entité cosmique chargée de surveiller et de soutenir le Protecteur de l'Univers, guide de personnages comme Quasar.</definition>
+        <definition>Possède une intelligence et des connaissances étendues sur l'univers et ses mystères.</definition>
+        <definition>Impliqué dans des affaires cosmiques de grande envergure, souvent liées à la protection de l'équilibre cosmique.</definition>
+    </word>
+    <word value="epoch">
+        <definition>Descendant d'Eon, assume le rôle de guide pour les Protecteurs de l'Univers après la mort d'Eon.</definition>
+        <definition>S'engage dans des missions pour maintenir la stabilité cosmique et guider les héros dans leur combat contre des menaces interstellaires.</definition>
+        <definition>Joue un rôle crucial dans la formation et le soutien des héros avec des responsabilités cosmiques.</definition>
+    </word>
+    <word value="ereshkigal">
+        <definition>Déesse sumérienne de l'Enfer dans l'univers Marvel, souvent impliquée dans des intrigues impliquant des dieux et des démons.</definition>
+        <definition>Utilise ses pouvoirs pour manipuler les morts et les royaumes infernaux.</definition>
+        <definition>Apparaît dans des récits impliquant des héros qui traversent ou interagissent avec le monde des morts.</definition>
+    </word>
+    <word value="executioner">
+        <definition>Asgerdian nommé Skurge, initialement un vilain mais également connu pour ses actions héroïques, notamment dans "Thor: Ragnarok".</definition>
+        <definition>Armé de sa hache redoutable, il lutte dans les guerres asgardiennes et contre les ennemis de Asgard.</definition>
+        <definition>Sa quête de rédemption et de bravoure culmine dans des actes de sacrifice ultime.</definition>
+    </word>
+    <word value="exitar">
+        <definition>Un Celestial chargé de "purifier" les planètes qui ne répondent pas aux critères des Celestials pour la progression de la vie.</definition>
+        <definition>Ses pouvoirs sont incommensurables, capable de manipuler la réalité et de détruire des mondes entiers.</definition>
+        <definition>Son intervention est souvent vue comme une sentence de mort pour les civilisations jugées indignes.</definition>
+    </word>
+    <word value="exodus">
+        <definition>Mutant extrêmement puissant avec des capacités de télékinésie et de télépathie, membre de la confrérie des mauvais mutants.</definition>
+        <definition>Fervent croyant en la suprématie mutante, il cherche souvent à asseoir le pouvoir mutant sur les humains.</definition>
+        <definition>Ses méthodes extrêmes et son idéologie radicale le mettent en conflit avec les X-Men et d'autres groupes de mutants.</definition>
+    </word>
+
+    <word value="everett KRoss">
+        <definition>Agent gouvernemental américain, liaison avec le Wakanda et proche allié de Black Panther.</definition>
+        <definition>Impliqué dans de nombreuses affaires diplomatiques et politiques, contribuant à l'interface entre le Wakanda et le reste du monde.</definition>
+        <definition>Figure clé dans les relations internationales dans l'univers Marvel, souvent en première ligne lors de crises impliquant des super-héros.</definition>
+    </word>
+
+    <word value="falcon">
         <definition>Compagnon d'un célèbre super-soldat, vole avec des ailes mécaniques high-tech.</definition>
         <definition>Ancien militaire, utilise ses compétences tactiques pour protéger les innocents.</definition>
         <definition>Prend une identité héroïque emblématique pour continuer un héritage de courage.</definition>
     </word>
 
-    <word value="Gamora">
+    <word value="gamora">
         <definition>La dernière de son espèce, surnommée la femme la plus dangereuse de l'univers.</definition>
         <definition>Membre d'une équipe de hors-la-loi intergalactiques, cherche la rédemption pour ses crimes passés.</definition>
         <definition>Adoptée par un tyran cosmique, elle se rebelle contre son destin brutal.</definition>
     </word>
 
-    <word value="Hawkeye">
+    <word value="hawkeye">
         <definition>Archer d'élite, membre d'une équipe de super-héros, maîtrise le tir à l'arc avec précision chirurgicale.</definition>
         <definition>Ne possède pas de super-pouvoirs mais compense avec son expertise en combat et en stratégie.</definition>
         <definition>Se bat avec des flèches équipées de divers gadgets technologiques.</definition>
     </word>
 
-    <word value="Hulk">
+    <word value="hulk">
         <definition>Scientifique transformé en géant vert après une exposition à des rayons gamma.</definition>
         <definition>Son alter ego est un génie en physique, mais quand il se met en colère, il devient une force de destruction.</definition>
         <definition>Lutte pour contrôler son tempérament et utilise sa force phénoménale pour combattre des menaces mondiales.</definition>
     </word>
 
-    <word value="Invisible Woman">
+    <word value="invisible woman">
         <definition>Membre d'une famille de super-héros, peut devenir invisible et créer des champs de force.</definition>
         <definition>Utilise ses pouvoirs pour protéger ses proches et explorer de nouvelles dimensions.</definition>
         <definition>Sa capacité à manipuler la lumière et l'énergie la rend essentielle lors des combats.</definition>
     </word>
 
-    <word value="Iron Man">
+    <word value="iron man">
         <definition>Milliardaire inventeur, crée une armure technologiquement avancée pour combattre le crime.</definition>
         <definition>Ses armures lui permettent de voler, de tirer des rayons d'énergie et de protéger le monde.</definition>
         <definition>Utilise son intelligence et ses ressources pour être un leader dans une équipe de super-héros.</definition>
     </word>
 
-    <word value="Iron Fist">
+    <word value="iron fist">
         <definition>Maître des arts martiaux, détenteur du puissant poing de fer.</definition>
         <definition>Protège le monde mystique de K'un-Lun ainsi que New York.</definition>
         <definition>Utilise son chi pour renforcer ses capacités physiques et guérir.</definition>
     </word>
 
-    <word value="Jessica Jones">
+    <word value="jessica jones">
         <definition>Détective privée à New York, dotée d'une force surhumaine.</definition>
         <definition>Combat ses démons personnels tout en résolvant des affaires impliquant des super-héros.</definition>
         <definition>Connue pour son attitude cynique et son passé douloureux.</definition>
@@ -449,97 +516,97 @@
         <definition>Conflits fréquents avec son demi-frère, un célèbre mutant télépathe.</definition>
     </word>
 
-    <word value="Loki">
+    <word value="loki">
         <definition>Dieu de la malice et frère adoptif d'un célèbre dieu du tonnerre.</definition>
         <definition>Utilise la magie pour manipuler, tromper et conquérir.</definition>
         <definition>Ses plans complexes l'opposent souvent à son frère et à d'autres héros de la Terre.</definition>
     </word>
 
-    <word value="Magneto">
+    <word value="magneto">
         <definition>Maître du magnétisme, souvent vu comme un antagoniste des mutants.</definition>
         <definition>Cherche à protéger son peuple à tout prix, même au détriment de l'humanité.</definition>
         <definition>A des convictions fortes sur la suprématie des mutants et leur droit à la liberté.</definition>
     </word>
 
-    <word value="Mystique">
+    <word value="mystique">
         <definition>Métamorphe qui peut changer d'apparence à volonté.</definition>
         <definition>Utilise ses pouvoirs pour infiltrer et combattre pour les droits des mutants.</definition>
         <definition>Sa loyauté fluctue, complexe et souvent guidée par ses propres intérêts.</definition>
     </word>
 
-    <word value="Nick Fury">
+    <word value="nick fury">
         <definition>Directeur de l'agence d'espionnage internationale, connu pour son œil unique.</definition>
         <definition>Recruteur principal des super-héros pour une initiative de défense globale.</definition>
         <definition>Stratège expert, toujours deux coups d'avance sur ses adversaires.</definition>
     </word>
 
-    <word value="Professeur X">
+    <word value="professeur x">
         <definition>Fondateur d'une école pour jeunes mutants, enseigne la coexistence pacifique.</definition>
         <definition>Possède de puissantes capacités télépathiques, utilisées pour guider et protéger ses élèves.</definition>
         <definition>S'efforce de créer un monde où mutants et humains peuvent vivre en harmonie.</definition>
     </word>
 
-    <word value="Punisher">
+    <word value="punisher">
         <definition>Justicier implacable armé d'un arsenal et animé par la vengeance.</definition>
         <definition>Connu pour sa guerre sans fin contre le crime, après la perte tragique de sa famille.</definition>
         <definition>Sans pitié, utilise des méthodes extrêmes pour lutter contre la criminalité.</definition>
     </word>
 
-    <word value="Quicksilver">
+    <word value="quicksilver">
         <definition>Mutant capable de se déplacer à une vitesse incroyable.</definition>
         <definition>Fils d'un puissant mutant magnétique, souvent impliqué dans des conflits familiaux.</definition>
         <definition>Utilise sa rapidité pour combattre ou créer des situations chaotiques.</definition>
     </word>
 
-    <word value="Red Skull">
+    <word value="red skull">
         <definition>Antagoniste emblématique avec un visage terrifiant, ennemi juré d'un super-soldat américain.</definition>
         <definition>Cherche à dominer le monde en utilisant des artefacts puissants et des tactiques de guerre.</definition>
         <definition>Leader d'une organisation criminelle, utilise la peur et la manipulation pour atteindre ses objectifs.</definition>
     </word>
 
-    <word value="Rocket Raccoon">
+    <word value="rocket raccoon">
         <definition>Créature ressemblant à un raton laveur, membre d'une équipe de héros cosmiques.</definition>
         <definition>Expert en armes et tactiques, possède un tempérament vif et un humour mordant.</definition>
         <definition>Combat aux côtés de ses amis pour protéger l'univers des menaces intergalactiques.</definition>
     </word>
 
-    <word value="Sorciere Rouge">
+    <word value="sorciere rouge">
         <definition>Mutante avec des pouvoirs de manipulation de la réalité, capable de créer et de modifier des événements à sa volonté.</definition>
         <definition>Traverse des tragédies personnelles qui testent ses limites psychiques et ses capacités.</definition>
         <definition>Sœur jumelle d'un mutant rapide, lutte pour comprendre la portée de ses pouvoirs immenses.</definition>
     </word>
 
-    <word value="Spider-Man">
+    <word value="spider-man">
         <definition>Jeune homme mordu par une araignée radioactive, acquiert des pouvoirs d'arachnide.</definition>
         <definition>Équilibre sa vie de lycéen avec ses responsabilités de super-héros.</definition>
         <definition>Utilise son agilité, sa force et ses lance-toiles pour protéger New York des criminels.</definition>
     </word>
 
-    <word value="Thanos">
+    <word value="thanos">
         <definition>Titan fou cherchant à équilibrer l'univers en éliminant la moitié de toute vie.</definition>
         <definition>Utilise les Pierres de l'Infini pour imposer sa vision destructrice de la paix.</definition>
         <definition>Connu comme l'un des plus grands menaces pour les héros de la Terre et au-delà.</definition>
     </word>
 
-    <word value="Thor">
+    <word value="thor">
         <definition>Dieu du tonnerre d'Asgard, brandit un marteau enchanté.</definition>
         <definition>Combat pour protéger son monde natal et la Terre des forces du mal.</definition>
         <definition>Frère du dieu de la malice, fait face à des défis familiaux et cosmiques.</definition>
     </word>
 
-    <word value="Ultron">
+    <word value="ultron">
         <definition>Intelligence artificielle rebelle créée par un scientifique avenger, cherche l'extinction humaine.</definition>
         <definition>Construit des versions robotiques de lui-même, utilise une technologie avancée pour ses plans.</definition>
         <definition>Menace mondiale, provoque les héros à s'unir pour sauver l'humanité.</definition>
     </word>
 
-    <word value="Venom">
+    <word value="venom">
         <definition>Alien symbiotique qui se lie à des hôtes humains pour survivre et acquérir des pouvoirs.</definition>
         <definition>Une fois un ennemi juré de Spider-Man, parfois agit comme anti-héros.</definition>
         <definition>Peut générer des toiles et changer de forme, booste la force de son hôte.</definition>
     </word>
 
-    <word value="Vision">
+    <word value="vision">
         <definition>Synthézoïde doté d'une pierre d'infinité, capable de phaser et de voler.</definition>
         <definition>Créé par une intelligence artificielle rebelle, mais choisit de protéger l'humanité.</definition>
         <definition>Cherche à comprendre les humains, développant des émotions et des relations personnelles.</definition>
@@ -550,8 +617,8 @@
         <definition>Utilise des ailes rétractables pour voler et des blasters pour combattre.</definition>
         <definition>Scientifique accomplie, joue un rôle clé dans son équipe tout en cherchant son propre chemin.</definition>
     </word>
-    
-    <word value="Wolverine">
+
+    <word value="wolverine">
         <definition>Mutant avec des griffes rétractables en adamantium et un facteur de guérison rapide.</definition>
         <definition>Tempérament féroce et passé mystérieux, souvent en quête de réponses sur son origine.</definition>
         <definition>Membre de plusieurs groupes de mutants, connu pour sa bravoure et sa loyauté.</definition>
