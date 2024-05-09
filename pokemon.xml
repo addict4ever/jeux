@@ -4,17 +4,323 @@
         <definition>Évolue en un puissant Pokémon capable de manipuler des forces psychiques.</definition>
         <definition>Préfère dormir tout le temps et utilise ses pouvoirs pour éviter le combat.</definition>
     </word>
+    <word value="absol">
+        <definition>Pokémon de type ténèbres qui a la capacité de sentir les catastrophes naturelles avant qu'elles ne se produisent.</definition>
+        <definition>Évolue en Mega Absol, augmentant considérablement sa puissance et changeant légèrement d'apparence.</definition>
+        <definition>Son apparence rappelle celle d'un ange gardien ou d'un porteur de malheur selon les cultures.</definition>
+    </word>
+    <word value="galeking">
+        <definition>Pokémon de type acier et roche, il évolue de Lairon et est la forme finale d'Aron.</definition>
+        <definition>Connu pour sa capacité à absorber des métaux pour renforcer sa carapace métallique.</definition>
+        <definition>Peut Mega Évoluer, devenant encore plus massif et résistant.</definition>
+    </word>
+    <word value="capumain">
+        <definition>Pokémon de type normal avec une longue queue préhensile qu'il utilise pour se suspendre aux branches.</definition>
+        <definition>Évolue en Ambipom quand il maîtrise une certaine capacité tout en tenant une double queue.</definition>
+        <definition>Très agile et ludique, souvent trouvé en train de faire des bêtises pour attirer l'attention.</definition>
+    </word>
+    <word value="alakazam">
+        <definition>Pokémon de type psy, évolution finale de Abra et Kadabra.</definition>
+        <definition>Connu pour son intelligence extrêmement développée et ses pouvoirs psychiques.</definition>
+        <definition>Porte deux cuillères, amplifiant ses capacités psychiques pour déplacer des objets ou projeter des forces.</definition>
+    </word>
+    <word value="altaria">
+        <definition>Pokémon de type dragon et vol, évolution de Swablu.</definition>
+        <definition>Connu pour ses plumes semblables à des nuages qui lui permettent de chanter de manière mélodieuse.</definition>
+        <definition>Peut Mega Évoluer, gagnant le type fée et renforçant ses capacités vocales et aériennes.</definition>
+    </word>
+    <word value="amagara">
+        <definition>Pokémon préhistorique de type roche et glace ressuscité à partir de fossiles.</definition>
+        <definition>Évolue en Aurorus quand il atteint un certain niveau la nuit.</definition>
+        <definition>Ses cristaux glaciaux peuvent contrôler la température autour de lui, causant des chutes de neige.</definition>
+    </word>
+    <word value="anorith">
+        <definition>Pokémon préhistorique de type roche et insecte, ressuscité à partir d'un fossile.</definition>
+        <definition>Ressemble à une créature marine primitive avec des pinces tranchantes.</definition>
+        <definition>Évolue en Armaldo, qui a des capacités défensives et offensives améliorées.</definition>
+    </word>
+    <word value="applin">
+        <definition>Pokémon de type plante et dragon, ressemble à une pomme contenant un petit dragon.</definition>
+        <definition>Vit principalement à l'intérieur de pommes tombées, se camouflant des prédateurs.</definition>
+        <definition>Peut évoluer en Flapple ou Appletun selon le type de pomme utilisé.</definition>
+    </word>
+    <word value="araquanid">
+        <definition>Pokémon de type eau et insecte, évolue de Dewpider.</definition>
+        <definition>Connu pour sa bulle d'eau géante sur la tête, utilisée pour respirer et piéger ses ennemis.</definition>
+        <definition>Peut utiliser des attaques comme Bulles d'O pour attaquer tout en se défendant.</definition>
+    </word>
+    <word value="arbok">
+        <definition>Pokémon de type poison, évolution de Ekans.</definition>
+        <definition>Ressemble à un grand cobra avec un motif terrifiant sur sa poitrine qui peut effrayer ses ennemis.</definition>
+        <definition>Utilise des attaques comme Étreinte pour immobiliser et empoisonner ses proies.</definition>
+    </word>
+    <word value="arcanin">
+        <definition>Pokémon de type feu, évolution de Growlithe lorsqu'exposé à une Pierre Feu.</definition>
+        <definition>Ressemble à un grand chien légendaire, avec une crinière imposante et des flammes qu'il peut cracher.</definition>
+        <definition>Connu pour sa loyauté et sa vitesse, il est souvent utilisé par les services d'urgence pour des missions de sauvetage.</definition>
+    </word>
+    <word value="arceus">
+        <definition>Considéré comme le Pokémon créateur de l'univers dans la mythologie Pokémon.</definition>
+        <definition>Possède une capacité unique de changer de type en fonction de la plaque ou du joyau qu'il porte.</definition>
+        <definition>Peut utiliser des attaques de type extrêmement variées, le rendant très versatile au combat.</definition>
+    </word>
+    <word value="archen">
+        <definition>Pokémon préhistorique de type roche et vol, ressuscité à partir d'un fossile.</definition>
+        <definition>Considéré comme l'ancêtre de tous les Pokémon oiseaux.</definition>
+        <definition>Évolue en Archeops, devenant extrêmement rapide et puissant au combat aérien.</definition>
+    </word>
+    <word value="archeops">
+        <definition>Pokémon de type roche et vol, évolution d'Archen.</definition>
+        <definition>Très rapide et puissant, mais souffre d'une faiblesse due à sa capacité Défaite.</definition>
+        <definition>Capable de lancer des attaques aériennes et rocheuses avec une grande efficacité.</definition>
+    </word>
+    <word value="artikodin">
+        <definition>Pokémon légendaire de type glace et vol, l'un des trois oiseaux légendaires de la région de Kanto.</definition>
+        <definition>Capable de manipuler le froid pour créer des blizzards pour protéger son territoire.</definition>
+        <definition>Émet un chant mélodieux qui est dit pour calmer et soigner ceux qui l'entendent.</definition>
+    </word>
+    <word value="bagon">
+        <definition>Pokémon de type dragon qui rêve de pouvoir voler. Il saute des falaises pour essayer de battre des ailes.</definition>
+        <definition>Sa tête est dure comme de la pierre, il l'utilise pour briser des rochers en se cognant contre eux.</definition>
+        <definition>Évolue en Shelgon, puis en Salamence, un puissant Pokémon dragon capable de voler.</definition>
+    </word>
+    <word value="baltoy">
+        <definition>Pokémon de type sol et psy qui ressemble à une poupée d'argile animée. Il tourne sur lui-même pour se déplacer.</definition>
+        <definition>Il utilise des mouvements psychiques pour se défendre et attaquer ses adversaires.</definition>
+        <definition>Évolue en Claydol, un Pokémon antique avec des pouvoirs psychiques plus développés.</definition>
+    </word>
+    <word value="banette">
+        <definition>Pokémon de type spectre qui est une poupée possédée recherchant le propriétaire qui l'a abandonnée.</definition>
+        <definition>Utilise des attaques sombres comme Ball'Ombre pour attaquer ses ennemis.</definition>
+        <definition>Peut Mega Évoluer, amplifiant ses pouvoirs spectraux et sa rancune.</definition>
+    </word>
+    <word value="barbaracle">
+        <definition>Pokémon de type roche et eau constitué de plusieurs Binacle. Il utilise ses multiples bras pour escalader les rochers et attaquer.</definition>
+        <definition>Chaque bras possède une tête et une conscience propres, ce qui lui permet de lancer des attaques coordonnées.</definition>
+        <definition>Très efficace pour saisir ses proies et les broyer avec ses robustes pinces.</definition>
+    </word>
+    <word value="barboach">
+        <definition>Pokémon de type eau et sol qui utilise ses antennes pour détecter ses proies dans des eaux boueuses.</definition>
+        <definition>Résiste bien à l'électricité grâce à son type sol, le rendant moins vulnérable que d'autres Pokémon aquatiques.</definition>
+        <definition>Évolue en Whiscash, un Pokémon plus grand et robuste capable de créer des tremblements de terre.</definition>
+    </word>
+    <word value="basculin">
+        <definition>Pokémon de type eau connu pour son agressivité. Il existe en deux formes, rayée bleue et rayée rouge, qui se battent souvent entre elles.</definition>
+        <definition>Utilise des attaques comme Aqua-Jet pour frapper rapidement ses adversaires.</definition>
+        <definition>Ses formes différentes ont des stratégies de combat légèrement variées, bien que toutes deux soient très territoriales.</definition>
+    </word>
+    <word value="bastiodon">
+        <definition>Pokémon de type roche et acier, évolution de Shieldon. Il a une face ressemblant à un mur de bouclier pour se défendre contre les attaques.</definition>
+        <definition>Ses défenses sont extrêmement élevées, le rendant difficile à battre en combat de face.</definition>
+        <definition>Utilise des attaques comme Mur de Fer pour augmenter encore plus sa défense.</definition>
+    </word>
+    <word value="bayleef">
+        <definition>Pokémon de type plante, évolution de Chikorita. Il a une feuille autour du cou qui dégage un parfum apaisant.</definition>
+        <definition>Le parfum de sa feuille peut apaiser les personnes et les Pokémon qui se trouvent à proximité.</definition>
+        <definition>Évolue en Meganium, un grand Pokémon avec une fleur qui a des capacités curatives.</definition>
+    </word>
+    <word value="beartic">
+        <definition>Pokémon de type glace qui se forme en Cubchoo. Il ressemble à un ours polaire et est redoutable au combat avec des attaques de glace puissantes.</definition>
+        <definition>Peut créer des grêlons et des tempêtes de neige pour ralentir ses adversaires.</definition>
+        <definition>Utilise souvent des attaques comme Blizzard pour infliger des dégâts et parfois geler ses rivaux.</definition>
+    </word>
+    <word value="beautifly">
+        <definition>Pokémon de type insecte et vol, évolution de Silcoon. Il a de belles ailes colorées et se nourrit du nectar des fleurs.</definition>
+        <definition>Aggressif dans la défense de son territoire, il n'hésite pas à utiliser ses aiguilles pointues pour repousser les intrus.</definition>
+        <definition>Utilise des attaques comme Vent Argenté pour combattre ses adversaires.</definition>
+    </word>
     <word value="bulbizarre">
         <definition>Petit Pokémon de type plante, porte une graine sur son dos qui grandit avec lui.</definition>
         <definition>Évolue en un grand Pokémon avec une large fleur.</definition>
         <definition>Peut lancer des attaques comme Fouet Lianes et Lance-Soleil.</definition>
     </word>
-    <word value="salameche">
-        <definition>Pokémon de type feu avec une flamme sur la queue qui indique sa santé et ses émotions.</definition>
-        <definition>Évolue en une forme puissante crachant du feu et capable de voler.</definition>
-        <definition>Si la flamme de sa queue s'éteint, il disparaîtrait.</definition>
+    <word value="beedrill">
+        <definition>Pokémon de type insecte et poison, évolution de Kakuna. Ressemble à une guêpe armée de longues lances.</definition>
+        <definition>Très agressif et territorial, attaque sans prévenir avec ses puissantes aiguilles venimeuses.</definition>
+        <definition>Peut Mega Évoluer en Mega-Beedrill, augmentant considérablement sa vitesse et sa puissance d'attaque.</definition>
+    </word>
+    <word value="beldum">
+        <definition>Pokémon de type acier et psy, composé principalement de fer et communique en utilisant des champs magnétiques.</definition>
+        <definition>Se déplace en lévitant et attaque en se projetant vers ses ennemis à grande vitesse.</definition>
+        <definition>Évolue en Metang, puis en Metagross, un puissant Pokémon avec des capacités intellectuelles et physiques élevées.</definition>
+    </word>
+    <word value="bellossom">
+        <definition>Pokémon de type plante, évolution de Gloom lorsqu'exposé à une Pierre Soleil. Ressemble à une petite danseuse de hula.</definition>
+        <definition>Favorise les climats chauds et ensoleillés où il peut danser toute la journée.</definition>
+        <definition>Utilise des attaques comme Feuille Magik pour infliger des dégâts tout en évitant les contres.</definition>
+    </word>
+    <word value="bellsprout">
+        <definition>Pokémon de type plante et poison, possède un corps mince et flexible qui lui permet de se balancer pour éviter les attaques.</definition>
+        <definition>Attrape ses proies avec sa grande bouche et les dissout avec un acide spécial.</definition>
+        <definition>Évolue en Weepinbell, puis en Victreebel, augmentant en taille et en capacités de chasse.</definition>
+    </word>
+    <word value="bergmite">
+        <definition>Pokémon de type glace, ressemble à un petit iceberg. Utilise sa carapace glacée pour se protéger des attaques.</definition>
+        <definition>Très résistant aux températures basses, il peut survivre même dans des environnements extrêmement froids.</definition>
+        <definition>Évolue en Avalugg, un Pokémon massif et résistant qui agit comme un brise-glace dans son habitat naturel.</definition>
+    </word>
+    <word value="bewear">
+        <definition>Pokémon de type normal et combat, ressemble à un ours en peluche très grand et fort.</definition>
+        <definition>Même s'il a une apparence douce et câline, ses étreintes peuvent être incroyablement dangereuses.</definition>
+        <definition>Utilise sa force surprenante pour protéger ses amis et combattre ses ennemis avec des mouvements comme Câlinerie.</definition>
+    </word>
+    <word value="bibarel">
+        <definition>Pokémon de type normal et eau, évolution de Bidoof. Ressemble à un gros castor et est excellent pour construire des barrages.</definition>
+        <definition>Utilise ses dents robustes pour couper des arbres et manipuler son environnement.</definition>
+        <definition>Peut apprendre des attaques comme Amnésie pour augmenter sa résistance contre les attaques spéciales.</definition>
+    </word>
+    <word value="bidoof">
+        <definition>Pokémon de type normal qui ressemble à un petit castor. Connu pour son attitude travailleuse et sa capacité à construire des barrages.</definition>
+        <definition>Ses incisives continuent de croître, nécessitant de ronger constamment pour les maintenir à une taille gérable.</definition>
+        <definition>Évolue en Bibarel, qui gagne le type eau et devient plus habile dans la construction de structures aquatiques.</definition>
+    </word>
+    <word value="binacle">
+        <definition>Pokémon de type roche et eau, constitué de deux créatures vivant ensemble sur un rocher.</definition>
+        <definition>Chacune des deux têtes contrôle un bras pour combattre et chercher de la nourriture.</definition>
+        <definition>Évolue en Barbaracle, où les deux entités gagnent plusieurs nouveaux bras et une puissance considérablement accrue.</definition>
+    </word>
+    <word value="bisharp">
+        <definition>Pokémon de type ténèbres et acier, évolution de Pawniard. Ressemble à un chevalier ou un gladiateur avec des lames pour les bras.</definition>
+        <definition>Très stratégique et commandant, mène souvent des groupes de Pawniard au combat.</definition>
+        <definition>Utilise des attaques comme Tranche-Nuit pour infliger des dégâts critiques à ses adversaires.</definition>
+    </word>
+    <word value="cabriolaine">
+        <definition>Pokémon de type plante, il ressemble à un mouton recouvert de coton et de mousse.</definition>
+        <definition>Utilise son pelage pour absorber les chocs et réduire les dégâts pendant les combats.</definition>
+        <definition>Évolue en Chevroum, un Pokémon plus grand et plus fort qui utilise sa laine pour protéger ses compagnons.</definition>
+    </word>
+    <word value="cacnea">
+        <definition>Pokémon de type plante, ressemble à un cactus bipède. Utilise des épines venimeuses pour attaquer à distance.</definition>
+        <definition>Survit dans des environnements désertiques très arides, tirant le minimum d'eau nécessaire pour vivre.</definition>
+        <definition>Évolue en Cacturne, qui devient encore plus résistant et capable de supporter les conditions extrêmes du désert.</definition>
+    </word>
+    <word value="cacturne">
+        <definition>Pokémon de type plante et ténèbres, évolution de Cacnea. Ressemble à un épouvantail cactus.</definition>
+        <definition>Prédateur nocturne, il suit ses proies dans le désert la nuit, profitant de sa discrétion naturelle.</definition>
+        <definition>Utilise des attaques comme Tempêtesable pour aveugler ses adversaires et les attaquer sans être vu.</definition>
+    </word>
+    <word value="camerupt">
+        <definition>Pokémon de type feu et sol, évolue de Chamallot. Ressemble à un chameau avec deux volcans sur le dos.</definition>
+        <definition>Peut éclater en éruptions volcaniques lorsqu'il est en colère ou stressé.</definition>
+        <definition>Peut Mega Évoluer, où les volcans sur son dos deviennent plus actifs, augmentant sa puissance de feu.</definition>
+    </word>
+    <word value="canarticho">
+        <definition>Pokémon de type normal, souvent trouvé en train de brandir un poireau comme une épée.</definition>
+        <definition>Très fier, engage souvent des combats pour défendre son territoire ou prouver sa force.</definition>
+        <definition>Utilise des attaques comme Boutefeu pour infliger des dégâts tout en se sacrifiant.</definition>
+    </word>
+    <word value="caninos">
+        <definition>Pokémon de type feu, ressemble à un jeune chiot. Il est loyal et courageux, même face à des adversaires plus grands.</definition>
+        <definition>Utilise des attaques comme Flammèche dès son plus jeune âge pour se défendre.</definition>
+        <definition>Évolue en Arcanin, un grand chien légendaire connu pour sa vitesse et sa puissance.</definition>
+    </word>
+    <word value="capidextre">
+        <definition>Pokémon de type normal, évolution de Capumain. Ressemble à un singe avec une grande dextérité et coordination.</definition>
+        <definition>Utilise ses longs bras pour saisir des objets à distance et les lancer avec précision sur ses ennemis.</definition>
+        <definition>Très intelligent, il est capable de créer des stratégies complexes pendant les combats.</definition>
+    </word>
+    <word value="capumain">
+        <definition>Pokémon de type normal, ressemble à un petit singe très agile qui vit dans les arbres.</definition>
+        <definition>Aime collecter des objets brillants qu'il trouve dans la nature et les garde cachés.</definition>
+        <definition>Évolue en Capidextre, qui utilise ses habiletés pour manipuler des objets lors des combats.</definition>
+    </word>
+    <word value="carabaffe">
+        <definition>Pokémon de type eau, évolution de Carapuce. Ressemble à une tortue un peu plus grande avec une queue touffue.</definition>
+        <definition>Utilise des attaques comme Pistolet à O pour attaquer à distance et Hydrocanon après une autre évolution.</definition>
+        <definition>Évolue en Tortank, un Pokémon très résistant avec des canons à eau intégrés dans sa carapace.</definition>
+    </word>
+    <word value="carapuce">
+        <definition>Pokémon de type eau, ressemble à une petite tortue bleue. Très populaire comme choix de Pokémon de départ dans la région de Kanto.</definition>
+        <definition>Se rétracte dans sa coquille pour se protéger lorsqu'il se sent menacé.</definition>
+        <definition>Évolue en Carabaffe, puis en Tortank, gagnant en taille et en puissance à chaque étape.</definition>
+    </word>
+    <word value="carmache">
+        <definition>Pokémon de type dragon et sol, pré-évolution de Carchacrok. Ressemble à un petit dragon terrestre.</definition>
+        <definition>Ses instincts de chasseur sont éveillés dès son plus jeune âge, attaquant avec des mouvements comme Dracogriffe.</definition>
+        <definition>Évolue en Carchacrok, devenant un redoutable Pokémon dragon capable de vols transsoniques.</definition>
+    </word>
+    <word value="carchacrok">
+        <definition>Pokémon de type dragon et sol, évolution finale de Griknot. Ressemble à un grand requin terrestre.</definition>
+        <definition>Peut voler à des vitesses supersoniques, créant de puissantes bourrasques avec ses mouvements.</definition>
+        <definition>Utilise des attaques comme Séisme pour infliger de lourds dégâts à ses adversaires au sol.</definition>
+    </word>
+    <word value="carvanha">
+        <definition>Pokémon de type eau et ténèbres, ressemble à un petit piranha féroce.</definition>
+        <definition>Agressif et rapide, il attaque en bandes pour submerger ses proies et ennemis.</definition>
+        <definition>Évolue en Sharpedo, un Pokémon ressemblant à un requin, encore plus rapide et dangereux.</definition>
+    </word>
+    <word value="castorno">
+        <definition>Pokémon de type normal et eau, évolution de Keunotor. Ressemble à un castor beaucoup plus grand et robuste.</definition>
+        <definition>Excellent bâtisseur, il crée des barrages dans les rivières pour protéger sa famille.</definition>
+        <definition>Utilise des attaques comme Hydroqueue pour combattre tout en manipulant son environnement aquatique.</definition>
+    </word>
+    <word value="celebi">
+        <definition>Pokémon légendaire de type psy et plante, connu comme le 'Gardien de la forêt'.</definition>
+        <definition>Capable de voyager à travers le temps, il apparaît lors de périodes de paix ou de grands bouleversements écologiques.</definition>
+        <definition>Utilise des attaques comme Soin pour restaurer sa santé et celle de ses alliés.</definition>
+    </word>
+    <word value="cerfrousse">
+        <definition>Pokémon de type normal, ressemble à un grand cerf. Il est très rapide et agile dans les forêts où il vit.</definition>
+        <definition>Ses bois grandissent continuellement et peuvent être utilisés comme des armes défensives ou offensives pendant les combats.</definition>
+        <definition>Utilise des attaques comme Éclate Griffe pour infliger des dégâts rapides et précis.</definition>
+    </word>
+    <word value="ceribou">
+        <definition>Pokémon de type plante, ressemble à un petit cerf avec des bourgeons sur le dos qui ressemblent à des baies.</definition>
+        <definition>Les bourgeons fleurissent en fonction des saisons, offrant des avantages variés au Pokémon.</definition>
+        <definition>Utilise des attaques comme Feuille Magik pour attaquer à distance tout en restant camouflé dans son environnement naturel.</definition>
+    </word>
+    <word value="chacripan">
+        <definition>Pokémon de type ténèbres, ressemble à un petit chat noir avec un regard malicieux.</definition>
+        <definition>Utilise sa malice pour déjouer ses adversaires et attaquer quand ils s'y attendent le moins.</definition>
+        <definition>Évolue en Léopardus, qui possède des capacités de furtivité et d'attaque accrues.</definition>
+    </word>
+    <word value="chaobu">
+        <definition>Pokémon de type feu et combat, évolution de Gruikui. Ressemble à un petit cochon devenu bipède et prêt au combat.</definition>
+        <definition>Combine des techniques de lutte avec des flammes pour créer des attaques puissantes comme Déflagration.</definition>
+        <definition>Évolue en Roitiflam, devenant un combattant encore plus puissant et résilient.</definition>
+    </word>
+    <word value="charmina">
+        <definition>Pokémon de type psy, connu pour ses capacités de guérison et de soutien en combat.</definition>
+        <definition>Utilise des ondes psychiques pour apaiser et soigner ses alliés tout en désorientant ses ennemis.</definition>
+        <definition>Peut utiliser des attaques comme Choc Psy pour infliger des dégâts tout en restant défensif.</definition>
+    </word>
+    <word value="chartor">
+        <definition>Pokémon de type feu, connu pour son large corps et sa capacité à émettre de la chaleur intense.</definition>
+        <definition>Utilise des attaques comme Lance-Flammes pour contrôler le champ de bataille avec des zones de chaleur brûlante.</definition>
+        <definition>Très lent, mais compensé par sa haute défense et sa puissance d'attaque élevée.</definition>
+    </word>
+    <word value="chenipan">
+        <definition>Pokémon de type insecte, connu pour être l'un des Pokémon insectes les plus basiques et faciles à attraper.</definition>
+        <definition>Se nourrit de feuilles, ce qui lui permet de croître rapidement et d'évoluer rapidement en Chrysacier.</definition>
+        <definition>Utilise des attaques comme Sécrétion pour ralentir ses ennemis en combat.</definition>
+    </word>
+    <word value="chenipotte">
+        <definition>Pokémon de type insecte, commence souvent sa vie en se cachant des prédateurs parmi les feuilles et les branches.</definition>
+        <definition>Capable d'évoluer rapidement en fonction de son environnement, menant à Silcoon ou Cascoon.</definition>
+        <definition>Utilise des attaques comme Charge pour se défendre lorsqu'il est menacé.</definition>
+    </word>
+    <word value="cheniti">
+        <definition>Pokémon de type insecte, peut changer de forme en fonction des conditions climatiques et environnementales.</definition>
+        <definition>Évolue en Papilord ou en Cheniselle selon son sexe et les conditions de son habitat.</definition>
+        <definition>Utilise des attaques comme Tornade pour repousser les adversaires et créer des opportunités d'attaque.</definition>
+    </word>
+    <word value="chien-dent">
+        <definition>Pokémon de type roche, ressemble à un petit chien fait de pierres avec des dents acérées.</definition>
+        <definition>Utilise sa mâchoire robuste pour mordre et écraser les minéraux qu'il consomme et utilise pour son métabolisme.</definition>
+        <definition>Évolue en Roc-Boum, qui utilise des vibrations sonores pour attaquer ses adversaires à distance.</definition>
+    </word>
+    <word value="chimpenfeu">
+        <definition>Pokémon de type feu et combat, évolution de Ouisticram. Il combine agilité et techniques de combat dans ses attaques.</definition>
+        <definition>Peut lancer des flammes et des coups de pied enflammés à ses adversaires lors des combats.</definition>
+        <definition>Évolue en Simiabraz, qui est encore plus puissant et maîtrise des attaques de feu et de combat.</definition>
+    </word>
+    <word value="chinchidou">
+        <definition>Pokémon de type normal, connu pour sa fourrure douce et épaisse qui accumule l'électricité statique.</definition>
+        <definition>Utilise des attaques comme Étincelle pour infliger des dégâts tout en paralysant ses adversaires.</definition>
+        <definition>Très sociable, aime se blottir contre les humains et autres Pokémon pour partager sa chaleur.</definition>
     </word>
     <word value="dracaufeu">
+        <definition>Capable de cracher des flammes capables de fondre des rochers et de carboniser des forêts entières.</definition>
         <definition>Grand Pokémon de type feu et vol, résultat de l'évolution d'un populaire Pokémon de départ.</definition>
         <definition>Peut cracher un feu brûlant capable de fondre des rochers.</definition>
         <definition>S'envole dans le ciel pour chercher des adversaires à la hauteur de sa puissance.</definition>
@@ -23,6 +329,11 @@
         <definition>Pokémon avec deux têtes qui court à grande vitesse malgré l'absence de bonnes ailes.</definition>
         <definition>Chaque tête a son propre cerveau et sa propre personnalité.</definition>
         <definition>Évolue en une forme à trois têtes qui peut courir encore plus vite.</definition>
+    </word>
+    <word value="dratatin">
+        <definition>Pokémon de type plante et dragon, évolue de Applin quand exposé à une Pomme sucrée.</definition>
+        <definition>Ressemble à une tarte aux pommes, avec une coquille protectrice en forme de tarte.</definition>
+        <definition>Connu pour sa nature douce et sa capacité à produire une crème apaisante qu'il partage avec ses amis.</definition>
     </word>
     <word value="ectoplasma">
         <definition>Pokémon de type spectre et poison, il est l'évolution finale d'une célèbre chaîne évolutive de fantômes.</definition>
@@ -79,6 +390,11 @@
         <definition>Chasseur aquatique rapide, il était autrefois le prédateur dominant des mers anciennes.</definition>
         <definition>Évolue à partir d'une forme fossile une fois exposé à une pierre particulière.</definition>
     </word>
+    <word value="limaspeed">
+        <definition>Pokémon de type insecte connu pour sa vitesse extrême qui dépasse celle de la plupart des autres Pokémon.</definition>
+        <definition>Évolue de Shelmet lorsqu'il est échangé contre un Karrablast avec un autre dresseur.</definition>
+        <definition>Utilise la vitesse pour surprendre ses ennemis et échapper à des situations dangereuses.</definition>
+    </word>
     <word value="leviator">
         <definition>Pokémon de type eau et vol, redouté pour sa nature féroce et sa puissance destructrice.</definition>
         <definition>Peut être terrifiant lorsqu'il est en colère, capable de créer d'immenses tempêtes.</definition>
@@ -88,6 +404,11 @@
         <definition>Légendaire Pokémon capable de calmer les tempêtes et considéré comme le gardien des mers.</definition>
         <definition>Peut voler malgré sa taille imposante et possède des pouvoirs psychiques.</definition>
         <definition>Ses ailes ressemblent à celles d'un dragon et il peut plonger dans de profondes abysses marines.</definition>
+    </word>
+    <word value="mamanbo">
+        <definition>Pokémon de type eau qui ressemble à un poisson rose en forme de cœur.</definition>
+        <definition>Connue pour ses soins envers d'autres Pokémon en utilisant ses ailettes pour les envelopper et accélérer leur guérison.</definition>
+        <definition>Peut utiliser des attaques comme Soin pour récupérer des PV pendant un combat.</definition>
     </word>
     <word value="machoc">
         <definition>Pokémon de type combat, reconnu pour sa force physique impressionnante.</definition>
@@ -145,6 +466,12 @@
         <definition>Capable d'avaler de grandes quantités de nourriture, son ventre peut digérer presque tout.</definition>
     </word>
     <word value="salameche">
+        <definition>Pokémon de type feu, connu en français sous le nom de Reptincel. Il est l'évolution de Salamèche.</definition>
+        <definition>Agressif et belliqueux, il utilise sa queue enflammée et ses griffes tranchantes pour attaquer ses adversaires.</definition>
+        <definition>Évolue en dracaufeu, augmentant considérablement en taille et en puissance, et acquérant la capacité de voler.</definition>
+        <definition>Pokémon de type feu avec une flamme sur la queue qui indique sa santé et ses émotions.</definition>
+        <definition>Évolue en une forme puissante crachant du feu et capable de voler.</definition>
+        <definition>Si la flamme de sa queue s'éteint, il disparaîtrait.</definition>
         <definition>Petit Pokémon de type feu, caractérisé par une flamme qui brûle au bout de sa queue.</definition>
         <definition>Sa flamme symbolise sa force vitale, brûlant plus fort lorsqu'il est en bonne santé.</definition>
         <definition>Évolue en une forme plus grande et plus puissante, capable de cracher des flammes dévastatrices.</definition>
