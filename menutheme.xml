@@ -35,4 +35,8 @@
         <name>Stargate</name>
         <file>https://raw.githubusercontent.com/addict4ever/jeux/main/stargate.xml</file>
     </option>
+    <option>
+        <name>Orville</name>
+        <file>https://raw.githubusercontent.com/addict4ever/jeux/main/orville.xml</file>
+    </option>
 </choices>
