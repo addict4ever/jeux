@@ -894,11 +894,102 @@
         <definition>Chasseur vaniteux et musclé, désire épouser la plus intelligente des habitantes du village.</definition>
         <definition>Son ego le pousse à traquer une bête pour prouver sa valeur.</definition>
         <definition>Admiré par beaucoup pour sa force, mais critiqué pour son manque de sensibilité.</definition>
+        <definition>Antagoniste vaniteux et égocentrique de "La Belle et la Bête", désireux d'épouser l'héroïne principale par tous les moyens.</definition>
+        <definition>Utilise sa popularité pour manipuler les habitants du village, montrant un manque de respect flagrant pour le consentement d'autrui.</definition>
+        <definition>Incarnant l'obsession et le danger de la vanité masculine extrême, sa propre arrogance précipite sa chute.</definition>
     </word>
     <word value="genie">
         <definition>Esprit exubérant prisonnier d'une lampe, peut exaucer trois vœux.</definition>
         <definition>Utilise ses pouvoirs magiques de manière comique et spectaculaire.</definition>
         <definition>Cherche à gagner sa liberté tout en aidant son maître à trouver le vrai amour.</definition>
+        <definition>Être magique de "Aladdin" capable d'exaucer trois vœux pour son maître, enfermé dans une lampe magique.</definition>
+        <definition>Apporte humour et légèreté à l'histoire avec ses métamorphoses et son esprit vif.</definition>
+        <definition>Emblème de la quête de liberté et du pouvoir transformateur de l'amitié véritable.</definition>
+    </word>
+    <word value="gaston">
+        <definition>Antagoniste vaniteux et égocentrique de "La Belle et la Bête", désireux d'épouser l'héroïne principale par tous les moyens.</definition>
+        <definition>Utilise sa popularité pour manipuler les habitants du village, montrant un manque de respect flagrant pour le consentement d'autrui.</definition>
+        <definition>Incarnant l'obsession et le danger de la vanité masculine extrême, sa propre arrogance précipite sa chute.</definition>
+    </word>
+    <word value="gus">
+        <definition>Souris timide de "Cendrillon", caractérisée par sa loyauté envers l'héroïne et ses autres amis animaux.</definition>
+        <definition>Impliqué dans des missions périlleuses pour aider son amie à atteindre ses objectifs malgré ses propres peurs.</definition>
+        <definition>Démontre que même les plus petits êtres peuvent faire une grande différence grâce à leur grand cœur.</definition>
+    </word>
+    <word value="goofy">
+        <definition>Chien maladroit et optimiste, proche ami de Mickey Mouse, connu pour ses gaffes et son rire contagieux.</definition>
+        <definition>Ses mésaventures entraînent souvent des situations comiques, bien que son bon cœur soit toujours évident.</definition>
+        <definition>Incarne la positivité et l'acceptation de soi, rappelant l'importance de l'humour face aux imperfections.</definition>
+    </word>
+    <word value="grumpy">
+        <definition>Nain bougon de "Blanche-Neige et les Sept Nains", reconnaissable à son attitude souvent réticente envers les événements et les personnes autour de lui.</definition>
+        <definition>Malgré une façade revêche, son affection profonde pour ses compagnons et pour Blanche-Neige se révèle finalement.</definition>
+        <definition>Symbolise que derrière une apparence dure peut se cacher un cœur tendre et protecteur.</definition>
+    </word>
+    <word value="gizmoduck">
+        <definition>Super-héros de "La Bande à Picsou", ce canard en armure robotique est souvent appelé pour gérer des crises importantes.</definition>
+        <definition>Malgré une apparence intimidante, son côté maladroit ajoute une touche d'humour à ses interventions.</definition>
+        <definition>Représente l'ingéniosité humaine et l'utilisation de la technologie pour le bien commun.</definition>
+    </word>
+    <word value="guido">
+        <definition>Petit chariot élévateur italien dans "Cars", spécialiste du changement de pneus rapide lors des courses automobiles.</definition>
+        <definition>Passionné par son métier et par le sport automobile, il montre que chaque rôle, même de soutien, est essentiel au succès.</definition>
+        <definition>Emblème de la passion et du professionnalisme, rappelant l'importance du travail d'équipe et de la dévotion.</definition>
+    </word>
+    <word value="gurgi">
+        <definition>Créature de "Taram et le chaudron magique", connue pour sa timidité et sa nature maladroite.</definition>
+        <definition>Son attachement aux protagonistes le pousse à des actes courageux, prouvant sa valeur malgré ses insécurités.</definition>
+        <definition>Incarnation du thème que le véritable héroïsme peut émerger des endroits les plus inattendus.</definition>
+    </word>
+    <word value="gamma">
+        <definition>Doberman dans "Là-haut", membre du groupe de chiens de garde sous les ordres d'un aventurier obsédé par une légende exotique.</definition>
+        <definition>Portant un collier lui permettant de parler, il illustre la loyauté parfois aveugle envers ses maîtres.</definition>
+        <definition>Souligne les risques de la fidélité sans questionnement et la nécessité de choisir où placer sa loyauté.</definition>
+    </word>
+    <word value="georgette">
+        <definition>Caniche dans "Oliver et Compagnie", vivant une vie de luxe et initialement jalouse du personnage titre, un chat orphelin.</definition>
+        <definition>Elle subit une transformation, aidant finalement Oliver, ce qui montre son développement personnel.</definition>
+        <definition>Reflète le thème de la transformation personnelle et la capacité à changer pour le mieux.</definition>
+    </word>
+    <word value="gusteau">
+        <definition>Chef étoilé devenu guide spirituel dans "Ratatouille", apparaît à un jeune rat aspirant à devenir cuisinier dans la capitale gastronomique du monde.</definition>
+        <definition>Inspire le protagoniste à ne pas limiter ses aspirations malgré les obstacles apparemment insurmontables.</definition>
+        <definition>Représente l'inspiration et le courage de suivre sa passion, affirmant que "tout le monde peut cuisiner".</definition>
+    </word>
+    <word value="gill">
+        <definition>Leader taciturne des poissons dans le tank du dentiste dans "Le Monde de Nemo".</definition>
+        <definition>Porte des cicatrices des tentatives passées d'évasion, symbolisant son désir de liberté et son refus de capituler.</definition>
+        <definition>Guide Nemo à travers un plan audacieux pour s'échapper, illustrant la persévérance et la résilience.</definition>
+    </word>
+    <word value="gloria">
+        <definition>Hippopotame dans "Fantasia" qui danse gracieusement dans la séquence "Dance of the Hours".</definition>
+        <definition>Son élégance inattendue défie les attentes typiques pour un animal de sa taille.</definition>
+        <definition>Représente l'harmonie et la beauté dans la diversité, montrant que la grâce peut être trouvée dans toutes les formes.</definition>
+    </word>
+    <word value="gazeem">
+        <definition>Un des premiers personnages à apparaître dans "Aladdin", ce voleur est engagé pour récupérer la lampe magique mais trouve un sort funeste.</definition>
+        <definition>Sa cupidité et sa tentative de trahir ses instructions mettent en lumière les dangers des quêtes motivées par l'avidité.</definition>
+        <definition>Sert de mise en garde contre la trahison et l'importance de choisir des alliés fiables.</definition>
+    </word>
+    <word value="grandmere fa">
+        <definition>Personnage sage et aimant dans "Mulan", elle est une source de conseils et de soutien pour l'héroïne.</definition>
+        <definition>Ses actions et ses mots encouragent l'héroïne à trouver sa propre voie et à protéger sa famille à tout prix.</definition>
+        <definition>Symbolise la force des traditions et le rôle crucial des anciens dans le guidage des jeunes générations.</definition>
+    </word>
+    <word value="gopher">
+        <definition>Sous-chef du chef de la construction dans "Winnie l'Ourson", connu pour son amour du travail et ses phrases mémorables.</definition>
+        <definition>Apporte un aspect comique avec ses explosions accidentelles et ses tunnels effondrés.</definition>
+        <definition>Représente l'importance du travail acharné et les conséquences parfois humoristiques de la surconsidération.</definition>
+    </word>
+    <word value="greasy">
+        <definition>Un des méchants acolytes dans "Qui veut la peau de Roger Rabbit", caractérisé par ses cheveux luisants et son attitude louche.</definition>
+        <definition>Utilise des gadgets et des astuces pour mener à bien les plans du principal antagoniste.</definition>
+        <definition>Symbolise les stéréotypes des films noirs et rappelle que même les petits rôles peuvent avoir un impact majeur sur l'intrigue.</definition>
+    </word>
+    <word value="grimsby">
+        <definition>Conseiller royal et ami fidèle du prince dans "La Petite Sirène", souvent préoccupé par le bien-être et le bonheur de ce dernier.</definition>
+        <definition>Malgré ses manières strictes, il montre une affection profonde et un soutien inébranlable à travers ses conseils.</definition>
+        <definition>Représente la loyauté et l'importance du conseil sage dans la recherche du véritable amour et du bonheur.</definition>
     </word>
     <word value="hercule">
         <definition>Demi-dieu de la mythologie grecque cherchant à devenir un vrai héros.</definition>
