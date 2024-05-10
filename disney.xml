@@ -74,7 +74,7 @@
         <definition>Montre un amour et un soutien inconditionnels à Hercule, malgré sa force surhumaine.</definition>
         <definition>Incarnation de la bonté et de la simplicité paysanne, contrastant avec le monde des dieux.</definition>
     </word>
-    <word value="abigail">
+    <word value="amelie">
         <definition>Une des oies sœurs dans "Les Aristochats", amie des protagonistes.</definition>
         <definition>Participe à l'aventure pour aider les chats à retourner chez eux à Paris.</definition>
         <definition>Caractérisée par sa nature amicale et son accent charmant.</definition>
@@ -119,8 +119,8 @@
         <definition>Apporte une touche de créativité et d'humour à son groupe d'amis.</definition>
         <definition>Symbolise l'importance de l'individualité et de l'expression personnelle.</definition>
     </word>
-    <word value="aurora">
-        <definition>Alias de la princesse Aurore de "La Belle au Bois Dormant", connue pour sa beauté et sa grâce.</definition>
+    <word value="aurore">
+        <definition>Personnage principal de "La Belle au Bois Dormant", connue pour sa beauté et sa grâce.</definition>
         <definition>Victime d'une malédiction qui la plonge dans un sommeil profond, en attente de l'amour véritable.</definition>
         <definition>Emblématique des contes de fées classiques, représentant les thèmes de l'amour et du destin.</definition>
     </word>
@@ -164,11 +164,6 @@
         <definition>Cherche à échapper à la routine quotidienne et à un prétendant narcissique.</definition>
         <definition>Devient prisonnière dans un château enchanté et apprend à connaître un prince maudit.</definition>
     </word>
-    <word value="buzz lightyear">
-        <definition>Astronaute-jouet confiant, croit qu'il est un vrai ranger de l'espace.</definition>
-        <definition>Travaille avec un cowboy-jouet pour surmonter ses illusions et devenir un héros.</definition>
-        <definition>Protège ses amis jouets des dangers, en utilisant ses gadgets futuristes.</definition>
-    </word>
     <word value="baloo">
         <definition>Ours jovial et insouciant de "Le Livre de la Jungle".</definition>
         <definition>Enseigne à Mowgli les lois de la jungle et l'art de vivre libre.</definition>
@@ -179,7 +174,10 @@
         <definition>Cherche à échapper à sa vie provinciale et trouve l'amour avec une Bête mystérieuse.</definition>
         <definition>Symbole de la beauté intérieure et de la compassion.</definition>
     </word>
-    <word value="buzz l'éclair">
+    <word value="buzz leclair">
+        <definition>Astronaute-jouet confiant, croit qu'il est un vrai ranger de l'espace.</definition>
+        <definition>Travaille avec un cowboy-jouet pour surmonter ses illusions et devenir un héros.</definition>
+        <definition>Protège ses amis jouets des dangers, en utilisant ses gadgets futuristes.</definition>
         <definition>Astronaute jouet du film "Toy Story", célèbre pour ses phrases cultes et son courage.</definition>
         <definition>Apprend à accepter sa nature de jouet tout en restant un héros pour ses amis.</definition>
         <definition>Représente l'aventure et le dépassement de soi.</definition>
