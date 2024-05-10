@@ -1,12 +1,55 @@
 <words>
-    <word value="bortus">
-        <definition>Officier Moclan de l'Orville caractérisé par sa force physique et son sérieux.</definition>
-        <definition>Il fait face à des défis personnels et culturels liés à ses origines Moclan.</definition>
-        <definition>Les épisodes centrés sur Bortus explorent des thèmes de genre.</definition>
+    <word value="alara kitan">
+        <definition>Officier de sécurité xelayan de l'Orville, caractérisée par sa force physique exceptionnelle due à la gravité élevée de sa planète natale.</definition>
+        <definition>Elle lutte avec les attentes de sa famille et les responsabilités de son poste.</definition>
+        <definition>Son départ de l'Orville est motivé par un désir de se rapprocher de sa famille et de s'engager davantage dans sa vie personnelle.</definition>
     </word>
-    <word value="brutus">
-        <definition>Officier Moclan de l'Orville caractérisé par sa force physique et son sérieux.</definition>
-        <definition>Il fait face à des défis personnels et culturels liés à ses origines Moclan.</definition>
-        <definition>Les épisodes centrés sur Bortus explorent des thèmes de genre.</definition>
+    <word value="admiral ozawa">
+        <definition>Amiral de l'Union Planétaire, elle apparaît dans divers épisodes donnant des ordres ou des conseils à l'équipage de l'Orville.</definition>
+        <definition>Joue un rôle dans la gestion des affaires interstellaires et les décisions stratégiques au sein de l'Union.</definition>
+    </word>
+    <word value="avis">
+        <definition>Dans l'univers de The Orville, Avis est vénéré par la race extraterrestre des Moclans comme leur dieu principal.</definition>
+        <definition>Sa croyance influence fortement la culture et les politiques moclans, notamment leurs pratiques de genre et leur jurisprudence.</definition>
+    </word>
+     <word value="bortus">
+        <definition>Officier Moclan de l'Orville, caractérisé par sa force physique et son sérieux.</definition>
+        <definition>Il fait face à des défis personnels et culturels liés à ses origines Moclan, souvent en contradiction avec les valeurs de l'Union Planétaire.</definition>
+        <definition>Les épisodes centrés sur Bortus explorent des thèmes de genre, d'identité et de droits individuels.</definition>
+    </word>
+    <word value="bruidian belegate">
+        <definition>Délégué de la race extraterrestre des Bruidians, impliqué dans des négociations de paix clés facilitées par l'équipage de l'Orville.</definition>
+        <definition>Représente les intérêts politiques de sa race dans des affaires interstellaires qui ont des répercussions à grande échelle.</definition>
+        <definition>Participe à des épisodes qui mettent en lumière les tensions diplomatiques et les efforts de médiation dans l'univers de la série.</definition>
+    </word>
+    <word value="bruidian ambassador">
+        <definition>Ambassadeur de la race Bruidian, participant à des discussions diplomatiques et à des accords de paix dans la série.</definition>
+        <definition>Joue un rôle crucial dans l'illustration des complexités des relations interstellaires et des conflits politiques.</definition>
+        <definition>Son personnage aide à approfondir les enjeux géopolitiques dans l'univers de The Orville.</definition>
+    </word>
+    <word value="kelly grayson">
+        <definition>Commandant et premier officier de l'Orville, ancienne épouse du capitaine Ed Mercer.</definition>
+        <definition>Elle est compétente, professionnelle et joue un rôle clé dans les décisions de l'équipage.</definition>
+        <definition>Ses relations avec Ed ajoutent une dynamique complexe et personnelle à leurs interactions professionnelles.</definition>
+    </word>
+    <word value="clyden">
+        <definition>Époux de Bortus, membre de la race Moclan de l'Orville.</definition>
+        <definition>Il est impliqué dans plusieurs intrigues majeures, notamment celles concernant les droits des femmes Moclans et les questions de genre.</definition>
+        <definition>Ses convictions et ses choix personnels ont souvent des répercussions significatives sur l'équipage et les cultures de l'Union Planétaire.</definition>
+    </word>
+    <word value="cassius">
+        <definition>Enseignant à bord de l'Orville et intérêt amoureux temporaire de Kelly Grayson.</definition>
+        <definition>Il est impliqué dans des histoires qui explorent les défis des relations dans un environnement de travail spatial.</definition>
+        <definition>Son personnage aide à explorer les interactions personnelles au sein de l'équipage en dehors des missions officielles.</definition>
+    </word>
+    <word value="claire finn">
+        <definition>Médecin en chef à bord de l'Orville, jouée par Penny Johnson Jerald.</definition>
+        <definition>Elle est responsable de la santé de tout l'équipage et joue un rôle crucial dans de nombreux épisodes traitant de questions médicales et éthiques.</definition>
+        <definition>Elle est mère de deux fils et ses interactions avec eux et les autres membres de l'équipage ajoutent une profondeur à son personnage.</definition>
+    </word>
+    <word value="ed mercer">
+        <definition>Capitaine de l'Orville, joué par Seth MacFarlane.</definition>
+        <definition>Il est le personnage principal de la série, luttant pour équilibrer sa vie personnelle compliquée avec son rôle de commandant.</definition>
+        <definition>Ses interactions avec son ex-femme Kelly Grayson et son équipage apportent à la fois de l'humour et du drame à la série.</definition>
     </word>
 </words>
