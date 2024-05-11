@@ -1,1 +1,247 @@
-
+<words>
+    <word value="ash ketchum">
+        <definition>Dresseur Pokémon déterminé du dessin animé Pokémon, originaire de la ville de Bourg Palette, qui rêve de devenir un Maître Pokémon.</definition>
+        <definition>Connu pour son inépuisable enthousiasme et son engagement envers ses Pokémon, il voyage à travers diverses régions pour capturer et entraîner des créatures.</definition>
+        <definition>Représente la persévérance et l'amitié, montrant que le travail d'équipe et un cœur déterminé sont clés pour réaliser ses rêves.</definition>
+    </word>
+    <word value="amy rose">
+        <definition>Personnage de la série Sonic the Hedgehog, célèbre pour sa robe rouge et son marteau gigantesque.</definition>
+        <definition>Elle est éperdument amoureuse de Sonic et use souvent de sa force et de son marteau pour le protéger ou attirer son attention.</definition>
+        <definition>Symbolise la passion et l'audace, montrant que la détermination peut parfois frôler l'obsession, mais toujours avec un cœur bien intentionné.</definition>
+    </word>
+    <word value="animal crossing">
+        <definition>Habitants d'un village dans le jeu "Animal Crossing", chacun avec des personnalités et des intérêts uniques, contribuant à la vie communautaire du village.</definition>
+        <definition>Les joueurs interagissent avec eux en participant à des activités quotidiennes, en échangeant des objets, ou en aidant à résoudre leurs petits problèmes.</definition>
+        <definition>Représentent la diversité et le charme de la vie communautaire, soulignant l'importance des petites actions et des relations interpersonnelles.</definition>
+    </word>
+    <word value="axel">
+        <definition>Membre de l'Organisation XIII dans la série "Kingdom Hearts", connu pour manipuler le feu et pour ses phrases mémorables.</definition>
+        <definition>Son évolution de personnage ambigu à un véritable allié met en avant des thèmes de rédemption et de fidélité.</definition>
+        <definition>Symbolise le conflit interne et le changement, explorant comment les liens formés peuvent transformer des intentions initiales.</definition>
+    </word>
+    <word value="arden">
+        <definition>Personnage dans "Fire Emblem", connu pour sa robustesse en bataille et son dévouement envers ses compagnons.</definition>
+        <definition>Malgré sa vitesse limitée, sa force et sa résilience en font un puissant défenseur sur le champ de bataille.</definition>
+        <definition>Représente la ténacité et la fiabilité, illustrant que chaque rôle, même moins glamour, est vital pour le succès de l'ensemble.</definition>
+    </word>
+    <word value="alucard">
+        <definition>Personnage emblématique de "Castlevania", fils du célèbre Dracula, qui se bat contre son père pour protéger l'humanité.</definition>
+        <definition>Ses capacités vampiriques combinées à son équipement de chasseur de démons en font un combattant redoutable.</definition>
+        <definition>Représente le conflit intérieur et la rédemption, luttant contre sa nature pour forger son propre chemin de héros.</definition>
+    </word>
+    <word value="andross">
+        <definition>Scientifique fou et principal antagoniste de la série "Star Fox", connu pour ses attaques destructrices contre le système Lylat.</definition>
+        <definition>Ses ambitions de domination le transforment en une gigantesque entité maléfique, souvent représentée comme un visage flottant ou un cerveau.</definition>
+        <definition>Symbolise la démesure des ambitions scientifiques et les conséquences de la quête de pouvoir sans éthique.</definition>
+    </word>
+    <word value="arwing">
+        <definition>Vaisseau spatial utilisé par les membres de l'équipe "Star Fox", essentiel pour leurs missions de défense dans la série de jeux.</definition>
+        <definition>Caractérisé par sa grande maniabilité et sa puissance de feu, il est un élément clé dans la bataille contre Andross et d'autres menaces.</definition>
+        <definition>Représente l'ingénierie avancée et la bravoure, symbolisant la lutte incessante entre le bien et le mal à travers la technologie.</definition>
+    </word>
+    <word value="aurora">
+        <definition>Princesse protagoniste dans "Child of Light", une jeune fille qui se réveille dans le royaume de Lemuria après avoir été empoisonnée dans son monde d'origine.</definition>
+        <definition>Elle voyage pour récupérer les sources de lumière volées et sauver le royaume des ténèbres.</definition>
+        <definition>Symbolise la croissance et l'éveil, illustrant un voyage initiatique où la quête personnelle se transforme en une mission de sauvetage.</definition>
+    </word>
+    <word value="ashley robbins">
+        <definition>Jeune enquêtrice dans "Another Code", utilisant des gadgets pour résoudre des mystères concernant son passé et l'héritage familial.</definition>
+        <definition>Elle est connue pour son intelligence et sa détermination à découvrir la vérité sur la disparition de ses parents.</definition>
+        <definition>Représente la persévérance et l'acuité mentale, soulignant le pouvoir de la résilience et de l'ingéniosité chez les jeunes.</definition>
+    </word>
+    <word value="adeleine">
+        <definition>Artiste talentueuse de "Kirby", capable de donner vie à ses créations en les peignant, utilisée pour aider Kirby dans ses aventures.</definition>
+        <definition>Sa douceur et son imagination la rendent précieuse pour combattre les ennemis avec créativité.</definition>
+        <definition>Symbolise l'art comme forme de magie et de pouvoir, montrant que la créativité peut être une force pour le bien.</definition>
+    </word>
+    <word value="agitha">
+        <definition>Jeune fille obsessionnelle des insectes dans "The Legend of Zelda: Twilight Princess", se proclame la princesse des insectes.</definition>
+        <definition>Elle collectionne les insectes dorés et récompense Link pour chaque couple qu'il lui apporte.</definition>
+        <definition>Représente l'excentricité et la passion, illustrant comment les hobbies peuvent prendre une importance capitale dans la vie d'une personne.</definition>
+    </word>
+    <word value="anju">
+        <definition>Propriétaire d'une auberge dans "The Legend of Zelda: Majora’s Mask", célèbre pour son rôle central dans une quête annexe complexe impliquant un mariage.</definition>
+        <definition>Ses interactions avec Link dévoilent une histoire d'amour et de fidélité malgré les circonstances troublantes de la ville de Clock Town.</definition>
+        <definition>Représente l'espoir et la loyauté, démontrant la force des relations humaines même face à l'adversité.</definition>
+    </word>
+    <word value="adeline">
+        <definition>Jeune artiste et peintre dans "Kirby 64: The Crystal Shards", capable de donner vie à ses dessins pour aider ou combattre.</definition>
+        <definition>Son talent unique lui permet de créer des alliés ou des obstacles à partir de ses peintures, jouant un rôle clé dans l'aventure de Kirby.</definition>
+        <definition>Symbolise la créativité et l'imagination comme outils littéraux et figuratifs pour résoudre des problèmes et surmonter des défis.</definition>
+    </word>
+    <word value="akira">
+        <definition>Personnage jouable dans "Virtua Fighter", apparaissant également dans divers jeux Nintendo comme "Super Smash Bros."</definition>
+        <definition>Connu pour son style de combat basé sur le Bajiquan, il est l'un des combattants les plus emblématiques de sa série.</definition>
+        <definition>Représente la discipline et la puissance, illustrant la maîtrise de soi et la précision dans l'art martial.</definition>
+    </word>
+    <word value="bowser">
+        <definition>Roi des Koopas et ennemi juré de Mario, souvent impliqué dans des plans pour kidnapper la princesse Peach et conquérir le Royaume Champignon.</definition>
+        <definition>Sa taille imposante, ses épines, et son souffle de feu le rendent un antagoniste mémorable et redouté.</definition>
+        <definition>Symbolise l'obstacle ultime que Mario doit surmonter, représentant la persévérance face à l'adversité.</definition>
+    </word>
+    <word value="birdo">
+        <definition>Créature rose avec un bec en forme de tube, connue pour lancer des œufs comme projectiles à partir de sa bouche.</definition>
+        <definition>Apparaît initialement comme un ennemi dans "Super Mario Bros. 2", mais est devenue plus tard une participante régulière dans les jeux Mario Party et Mario Kart.</definition>
+        <definition>Symbolise la transformation des personnages de vilains à alliés, montrant la fluidité des rôles dans l'univers de Mario.</definition>
+    </word>
+    <word value="boo">
+        <definition>Fantôme timide qui disparaît quand on le regarde mais poursuit les joueurs lorsqu'ils se détournent.</definition>
+        <definition>Apparaît dans de nombreux jeux Mario, offrant des défis uniques dans les maisons hantées et autres niveaux.</definition>
+        <definition>Représente l'insaisissabilité et l'incertitude, mettant en scène les peurs enfantines de manière ludique.</definition>
+    </word>
+    <word value="bowser jr.">
+        <definition>Fils de Bowser, souvent vu en train de concocter ses propres plans pour combattre Mario et aider son père.</definition>
+        <definition>Caractérisé par sa détermination juvénile et son ingéniosité pour créer des machines et des gadgets.</definition>
+        <definition>Symbolise la jeunesse et l'imitation des figures parentales, explorant les thèmes de l'héritage et de l'indépendance.</definition>
+    </word>
+    <word value="blooper">
+        <definition>Créature marine ressemblant à une seiche, connue pour ses mouvements imprévisibles et ses jets d'encre dans les jeux Mario.</definition>
+        <definition>Fréquemment un obstacle dans les niveaux aquatiques, ajoutant une couche de difficulté et d'urgence.</definition>
+        <definition>Représente les défis naturels et l'adaptation nécessaire pour naviguer dans des environnements inconnus ou inconfortables.</definition>
+    </word>
+    <word value="blue shell">
+        <definition>Objet emblématique dans les jeux "Mario Kart", cible le joueur en première position et explose à son contact.</definition>
+        <definition>Redouté par les joueurs en tête, il est souvent vu comme un grand égalisateur dans les courses.</definition>
+        <definition>Symbolise la chance et l'inattendu dans la compétition, rappelant que la victoire peut toujours être contestée jusqu'à la dernière seconde.</definition>
+    </word>
+    <word value="bullet bill">
+        <definition>Projectile en forme de balle avec des yeux et des bras, lancé généralement depuis des canons pour atteindre Mario dans sa course.</definition>
+        <definition>Sa trajectoire directe et sa grande vitesse en font un défi constant dans les niveaux de plateforme.</definition>
+        <definition>Représente l'obstination et le danger direct, mettant en avant l'importance de la réaction rapide et de la précision dans les jeux Mario.</definition>
+    </word>
+    <word value="bob-omb">
+        <definition>Petite bombe anthropomorphe avec des pieds et une mèche, qui marche vers Mario avant d'exploser après un court délai.</definition>
+        <definition>Utilisés stratégiquement, ils peuvent détruire des obstacles ou des ennemis, mais peuvent aussi se retourner contre le joueur.</definition>
+        <definition>Symbolise les risques calculés et l'impact des décisions sous pression, défiant les joueurs à utiliser judicieusement les ressources à disposition.</definition>
+    </word>
+    <word value="baby mario">
+        <definition>Version enfantine de Mario, apparaissant pour la première fois dans "Super Mario World 2: Yoshi's Island" où Yoshi doit le protéger des ennemis.</definition>
+        <definition>Caractérisé par sa détermination même en bas âge, il incarne la persistance des traits héroïques à travers le temps.</definition>
+        <definition>Symbolise l'innocence et la vulnérabilité, tout en mettant en avant la continuité des caractères héroïques dès le plus jeune âge.</definition>
+    </word>
+    <word value="baby luigi">
+        <definition>Version enfantine de Luigi, frère jumeau de Baby Mario, souvent impliqué dans des aventures où il doit être secouru.</definition>
+        <definition>Son caractère timide et craintif contraste avec la bravoure de son frère, ajoutant de la profondeur à leur dynamique.</definition>
+        <definition>Représente la timidité et la prudence, soulignant que même les héros peuvent avoir des débuts humbles et effrayés.</definition>
+    </word>
+    <word value="baby peach">
+        <definition>Version bébé de la Princesse Peach, apparaissant dans divers jeux de course et de sport de l'univers Mario.</definition>
+        <definition>Elle montre déjà des traits de royauté et de grâce, même dans sa jeunesse.</definition>
+        <definition>Symbolise la noblesse innée et la grâce, illustrant que certains traits de caractère sont présents dès la naissance.</definition>
+    </word>
+    <word value="baby daisy">
+        <definition>Version bébé de la Princesse Daisy, participant également à des jeux de kart et de sport avec les autres personnages bébés de l'univers Mario.</definition>
+        <definition>Reflète l'énergie et la personnalité enjouée de sa version adulte dès son plus jeune âge.</definition>
+        <definition>Symbolise la joie et la vivacité, mettant en avant l'importance de la jeunesse et de l'enthousiasme dans le sport et la compétition.</definition>
+    </word>
+    <word value="baby rosalina">
+        <definition>Version enfantine de Rosalina, apparue pour la première fois dans les titres de course comme "Mario Kart 8".</definition>
+        <definition>Sa présence ajoute une dimension cosmique même aux versions juvéniles, gardant son lien avec les étoiles et le cosmos.</definition>
+        <definition>Symbolise le mystère et l'émerveillement, rappelant que certains liens avec l'univers sont intemporels.</definition>
+    </word>
+    <word value="baby wario">
+        <definition>Version bébé de Wario, apparaissant dans "Yoshi's Island DS", déjà motivé par la richesse et les trésors même à un jeune âge.</definition>
+        <definition>Utilise des aimants pour attirer des objets métalliques, démontrant son ingéniosité précoce et son amour pour l'accumulation de richesses.</definition>
+        <definition>Représente l'avarice et l'ingéniosité, illustrant comment les traits de caractère peuvent se manifester tôt dans la vie.</definition>
+    </word>
+    <word value="big bob-omb">
+        <definition>Roi des Bob-ombs, apparaissant comme un boss dans "Super Mario 64" et d'autres jeux, portant une couronne et une moustache.</definition>
+        <definition>Il défie les joueurs à le battre en le saisissant et en le lançant, testant leur habileté à manœuvrer dans un environnement 3D.</definition>
+        <definition>Symbolise la puissance et l'autorité, mettant en scène la stratégie et la précision comme clés pour surmonter les défis.</definition>
+    </word>
+    <word value="buzzy beetle">
+        <definition>Creature portant une carapace dure, souvent trouvée dans les grottes ou les environnements souterrains dans les jeux Mario.</definition>
+        <definition>Immune aux attaques de feu de Mario, elle oblige les joueurs à utiliser des stratégies alternatives pour les vaincre.</definition>
+        <definition>Représente la résilience et l'adaptation, soulignant la nécessité d'ajuster les tactiques en fonction de l'adversaire.</definition>
+    </word>
+    <word value="blooper nannies">
+        <definition>Variante des Bloopers qui apparaît accompagnée de petits Bloopers, augmentant la difficulté des niveaux aquatiques.</definition>
+        <definition>Leur présence en groupe crée des défis de navigation supplémentaires pour les joueurs, encombrant l'espace avec plusieurs obstacles simultanés.</definition>
+        <definition>Symbolise les défis et la protection, illustrant comment les obstacles peuvent parfois venir en multiples et requérir une attention divisée.</definition>
+    </word>
+    <word value="beanbean kingdom">
+        <definition>Royaume fictif dans "Mario & Luigi: Superstar Saga", lieu principal de l'aventure des frères Mario dans ce jeu de rôle.</definition>
+        <definition>Caractérisé par ses habitants uniques et ses défis humoristiques, il offre un contraste avec le Royaume Champignon traditionnel.</definition>
+        <definition>Représente la diversité et l'exploration, encourageant les joueurs à découvrir de nouveaux mondes et cultures même au sein d'un univers familier.</definition>
+    </word>
+    <word value="meta knight">
+        <definition>Guerrier mystérieux et parfois antagoniste dans la série "Kirby", reconnaissable à son armure et son masque.</definition>
+        <definition>Malgré ses apparences menaçantes, il agit souvent avec honneur et cherche à tester Kirby plutôt qu'à le détruire.</definition>
+        <definition>Symbolise le concept de rival noble, illustrant comment les adversaires peuvent aussi être des mentors ou des catalyseurs de croissance.</definition>
+    </word>
+    <word value="medli">
+        <definition>Membre de la tribu Rito et sage du vent dans "The Legend of Zelda: The Wind Waker".</definition>
+        <definition>Ses compétences à jouer de la harpe et à voler l'aident à assister Link dans sa quête pour vaincre le mal.</definition>
+        <definition>Représente la bravoure et l'importance de la musique dans les récits épiques, symbolisant la paix et l'harmonie.</definition>
+    </word>
+    <word value="malon">
+        <definition>Jeune fille qui travaille à la Lon Lon Ranch dans "The Legend of Zelda: Ocarina of Time", enseigne à Link à monter à cheval.</definition>
+        <definition>Connue pour son amour des chevaux et son chant doux, elle joue un rôle clé dans l'apprentissage de la chanson d'Epona.</definition>
+        <definition>Symbolise la gentillesse et l'innocence rurale, montrant l'importance de l'amitié et de l'apprentissage des compétences traditionnelles.</definition>
+    </word>
+    <word value="magnus">
+        <definition>Robuste guerrier humain dans "Kid Icarus: Uprising", allié temporaire de Pit dans la lutte contre les forces du mal.</definition>
+        <definition>Son caractère gruff et ses compétences au combat complètent les aptitudes plus aériennes de Pit.</definition>
+        <definition>Représente la force brute et la détermination, illustrant que la coopération entre différents alliés peut surmonter de grands défis.</definition>
+    </word>
+    <word value="mr game watch">
+        <definition>Personnage emblématique de la série de jeux Game & Watch, et combattant dans "Super Smash Bros."</definition>
+        <definition>Son design plat et monochrome est un hommage aux premières consoles portables de Nintendo.</definition>
+        <definition>Symbolise les origines du jeu vidéo, rappelant l'innovation et la simplicité des premiers jours de Nintendo.</definition>
+    </word>
+    <word value="mii">
+        <definition>Avatars personnalisables créés par les joueurs sur les consoles Wii, Wii U et Nintendo Switch, utilisés dans divers jeux Nintendo.</definition>
+        <definition>Ils permettent une personnalisation poussée et participent à des jeux allant du sport à la stratégie.</definition>
+        <definition>Représentent l'individualité et l'interaction sociale dans le jeu vidéo, montrant comment les technologies modernes peuvent connecter les personnes.</definition>
+    </word>
+    <word value="morton koopa jr">
+        <definition>Un des sept enfants de Bowser dans la série "Super Mario", connu pour sa taille imposante et ses motifs uniques sur le visage.</definition>
+        <definition>Il apparaît souvent comme un boss que Mario doit vaincre, utilisant des stratégies basées sur sa force physique.</definition>
+        <definition>Symbolise la force brute et la fidélité familiale, mettant en scène les défis récurrents que Mario doit surmonter pour sauver la princesse Peach.</definition>
+    </word>
+    <word value="mipha">
+        <definition>Princesse Zora dans "The Legend of Zelda: Breath of the Wild", l'une des quatre Champions.</definition>
+        <definition>Connue pour ses capacités de guérison et son amour profond pour Link, sa présence est cruciale pour la restauration de Hyrule.</definition>
+        <definition>Symbolise le sacrifice et le dévouement, montrant l'impact durable des liens d'amour et d'amitié.</definition>
+    </word>
+    <word value="marx">
+        <definition>Antagoniste charismatique dans "Kirby Super Star", se transforme d'un personnage joyeux en un puissant ennemi après avoir trompé Kirby pour obtenir du pouvoir.</definition>
+        <definition>Son double jeu révèle ses véritables intentions de contrôler Popstar, utilisant des pouvoirs acquis par tromperie.</definition>
+        <definition>Symbolise la trahison et les dangers de l'ambition démesurée, illustrant comment la quête de pouvoir peut corrompre.</definition>
+    </word>
+    <word value="moon knight">
+        <definition>Personnage mystique dans "Zelda: Majora’s Mask", habitant de la lune et gardien des masques puissants.</definition>
+        <definition>Incarnation de mystère et de puissance, il défie Link à résoudre des énigmes pour prouver sa valeur.</definition>
+        <definition>Représente l'épreuve et la réflexion, mettant en lumière les défis intérieurs et extérieurs dans la quête du héros.</definition>
+    </word>
+    <word value="mina majikina">
+        <definition>Combattante d'arcs dans la série de jeux "Samurai Shodown", apparue également dans des collaborations avec des titres Nintendo.</definition>
+        <definition>Elle utilise ses compétences d'archère pour combattre des adversaires en maintenant une distance, ajoutant une stratégie de précision à ses combats.</definition>
+        <definition>Symbolise la précision et la discipline, soulignant l'importance de la maîtrise de soi et de la stratégie dans la confrontation.</definition>
+    </word>
+    <word value="morton">
+        <definition>Chef cuisinier dans la série "Cooking Mama", où il enseigne aux joueurs à préparer divers plats à travers des mini-jeux interactifs.</definition>
+        <definition>Son caractère encourageant et patient aide les joueurs à apprendre et à expérimenter en cuisine sans crainte de l'échec.</definition>
+        <definition>Représente l'apprentissage et la créativité culinaire, illustrant la joie de cuisiner et la satisfaction de maîtriser de nouvelles compétences.</definition>
+    </word>
+    <word value="marth">
+        <definition>Prince d'Altea et personnage central dans la série "Fire Emblem", reconnu pour son épée légendaire Falchion et son rôle de leader héroïque.</definition>
+        <definition>Il lutte pour restaurer la paix dans son royaume et unir les peuples contre les forces maléfiques.</definition>
+        <definition>Symbolise le leadership et le courage, mettant en avant les thèmes du sacrifice et de l'unité face à l'adversité.</definition>
+    </word>
+    <word value="madame flurry">
+        <definition>Personnage dans "Paper Mario: The Thousand-Year Door", une ancienne actrice qui aide Mario avec ses compétences uniques.</definition>
+        <definition>Sa capacité à souffler de puissants vents peut révéler des passages secrets et repousser les ennemis.</definition>
+        <definition>Représente la retraite active et la redécouverte des talents, encourageant l'utilisation des dons personnels pour aider les autres.</definition>
+    </word>
+    <word value="melly">
+        <definition>Personnage dans "Animal Crossing", une secrétaire dévouée qui assiste le joueur dans la gestion de la ville.</definition>
+        <definition>Son efficacité et sa nature amicale font d'elle un pilier dans la communauté du jeu, facilitant les tâches quotidiennes et les événements spéciaux.</definition>
+        <definition>Représente le dévouement et le soutien communautaire, illustrant l'importance de la coopération et de l'assistance mutuelle.</definition>
+    </word>
+    <word value="mimi">
+        <definition>Personnage transformiste dans "Super Paper Mario", capable de changer de forme pour tromper les autres ou gagner des combats.</definition>
+        <definition>Ses transformations sont à la fois comiques et parfois inquiétantes, ajoutant une dimension unique aux défis que Mario doit affronter.</definition>
+        <definition>Représente la dualité et la tromperie, explorant les thèmes de l'identité et de la manipulation.</definition>
+    </word>
+</words>
