@@ -989,10 +989,100 @@
         <definition>Malgré ses manières strictes, il montre une affection profonde et un soutien inébranlable à travers ses conseils.</definition>
         <definition>Représente la loyauté et l'importance du conseil sage dans la recherche du véritable amour et du bonheur.</definition>
     </word>
-    <word value="hercule">
-        <definition>Demi-dieu de la mythologie grecque cherchant à devenir un vrai héros.</definition>
-        <definition>S'entraîne avec un satyre pour prouver sa valeur sur Terre.</definition>
-        <definition>Combat des monstres mythiques et découvre sa véritable place parmi les dieux et les hommes.</definition>
+   <word value="hercule">
+        <definition>Héros demi-dieu dans le film portant son nom, il cherche à prouver sa valeur pour rejoindre les dieux de l'Olympe.</definition>
+        <definition>Se distingue par sa force incroyable et son parcours pour devenir un vrai héros, démontrant que la vraie grandeur vient du cœur.</definition>
+        <definition>Symbolise le voyage du héros, la quête d'identité et la découverte de la véritable héroïsme qui va au-delà de la force physique.</definition>
+    </word>
+    <word value="hades">
+        <definition>Dieu des enfers dans "Hercule", connu pour son tempérament flamboyant et ses plans pour renverser Zeus.</definition>
+        <definition>Utilise son charisme et son intelligence pour manipuler les autres, y compris Hercule.</definition>
+        <definition>Représente l'antagonisme charismatique, la ruse et le conflit éternel entre le bien et le mal.</definition>
+    </word>
+    <word value="hakuna matata">
+        <definition>Phrase emblématique de "Le Roi Lion" utilisée par Timon et Pumbaa pour enseigner à Simba une philosophie sans soucis.</definition>
+        <definition>Symbolise l'adoption d'une attitude décontractée face aux adversités de la vie.</definition>
+        <definition>Encourage à vivre le moment présent et à laisser derrière soi les tracas du passé.</definition>
+    </word>
+    <word value="hook">
+        <definition>Capitaine pirate dans "Peter Pan", obsédé par sa vengeance contre Peter pour avoir coupé sa main et l'avoir donnée à un crocodile.</definition>
+        <definition>Caractérisé par son élégance, son crochet en remplacement de sa main et sa peur du crocodile tic-tac.</definition>
+        <definition>Symbolise les thèmes de la vengeance, la peur de l'obsolescence et les défis de l'adversité.</definition>
+    </word>
+    <word value="hamm">
+        <definition>Tirelire cochon dans "Toy Story", ami des autres jouets de Andy.</definition>
+        <definition>Affiche un sens de l'humour cynique et sert souvent de voix de la raison parmi ses amis jouets.</definition>
+        <definition>Représente la sagesse pratique et l'humour sec, apportant équilibre et perspective aux dynamiques du groupe.</definition>
+    </word>
+    <word value="honey lemon">
+        <definition>Chercheuse talentueuse et membre de l'équipe de super-héros dans "Les Nouveaux Héros".</definition>
+        <definition>Utilise ses connaissances en chimie pour créer des capsules pouvant produire divers effets pour combattre le crime.</definition>
+        <definition>Symbolise l'intelligence féminine dans les STEM et l'importance de la créativité et de l'innovation dans la résolution de problèmes.</definition>
+    </word>
+    <word value="horace">
+        <definition>Un des deux acolytes de Cruella de Vil dans "Les 101 Dalmatiens", chargé d'enlever les chiots.</definition>
+        <definition>Bien qu'il soit moins brillant que son comparse, son interaction comique avec Jasper ajoute de l'humour à leurs méfaits.</definition>
+        <definition>Représente la maladresse et le manque de réflexion, souvent menant à l'échec de leurs plans.</definition>
+    </word>
+    <word value="hector">
+        <definition>Personnage de "Coco", musicien talentueux mais oublié, rencontré par Miguel dans le monde des morts.</definition>
+        <definition>Recherche la rédemption et une chance de se reconnecter avec les vivants pour se souvenir de lui.</definition>
+        <definition>Symbolise les thèmes de la mémoire, de la réconciliation et de l'importance des racines familiales.</definition>
+    </word>
+    <word value="huey">
+        <definition>L'un des triplés canards dans "La Bande à Picsou", connu pour son esprit aventureux et son bon sens.</definition>
+        <definition>Porte toujours un chandail rouge, se distinguant de ses frères par son attitude souvent plus réfléchie.</definition>
+        <definition>Représente la jeunesse curieuse et la quête constante de nouvelles aventures et découvertes.</definition>
+    </word>
+    <word value="hyacinth hippo">
+        <definition>Hippopotame danseur dans la séquence "Dance of the Hours" de "Fantasia".</definition>
+        <definition>Elle performe avec grâce et élégance, ajoutant une touche de légèreté et de comédie à la performance classique.</definition>
+        <definition>Représente le contraste entre l'apparence et la capacité, démontrant que la grâce n'est pas limitée par la taille.</definition>
+    </word>
+    <word value="hector barbossa">
+        <definition>Pirate rusé et parfois allié, parfois ennemi de Jack Sparrow dans la saga "Pirates des Caraïbes".</definition>
+        <definition>Connu pour sa trahison initiale et ses tentatives ultérieures de récupérer le Black Pearl.</definition>
+        <definition>Symbolise la nature changeante de la loyauté et la recherche incessante de pouvoir et de rédemption.</definition>
+    </word>
+    <word value="henwen">
+        <definition>Cochon devin dans "Taram et le chaudron magique", possède la clé pour localiser un artefact dangereux.</definition>
+        <definition>Sa capacité à voir l'avenir en fait une cible pour les forces du mal, déclenchant une série d'événements héroïques.</definition>
+        <definition>Représente l'innocence en possession d'un grand pouvoir, et l'importance de protéger les vulnérables.</definition>
+    </word>
+    <word value="happy">
+        <definition>Un des sept nains de "Blanche-Neige", toujours joyeux et optimiste, quelles que soient les circonstances.</definition>
+        <definition>Apporte un sourire constant et une attitude positive, équilibrant souvent l'atmosphère tendue créée par ses frères plus sérieux ou inquiets.</definition>
+        <definition>Symbolise le bonheur inébranlable et l'effet positif d'une disposition joyeuse sur les autres.</definition>
+    </word>
+    <word value="hopper">
+        <definition>Antagoniste principal dans "1001 Pattes", une sauterelle intimidante qui exploite les fourmis pour obtenir de la nourriture.</definition>
+        <definition>Utilise la peur pour maintenir le contrôle sur ses subordonnés et sur la colonie de fourmis.</definition>
+        <definition>Symbolise la tyrannie, l'abus de pouvoir et les dynamiques de peur utilisées pour contrôler les masses.</definition>
+    </word>
+    <word value="hans">
+        <definition>Prince charmant avec des intentions sombres dans "La Reine des Neiges", révèle sa véritable nature manipulatrice dans un tournant crucial de l'intrigue.</definition>
+        <definition>Initialement présenté comme un allié potentiel et intérêt amoureux, mais ses actions trahissent un dessein plus sinistre.</definition>
+        <definition>Représente la tromperie et les dangers des apparences trompeuses, soulignant l'importance de la prudence dans les relations.</definition>
+    </word>
+    <word value="horace">
+        <definition>Personnage classique de l'univers de Mickey Mouse, souvent vu comme un ami et parfois comme un rival de Mickey.</definition>
+        <definition>Participe à diverses aventures et mésaventures, apportant un mélange de compétence et de maladresse comique.</definition>
+        <definition>Symbolise la camaraderie de longue date et la variabilité des relations, illustrant comment les amis peuvent aussi être des compétiteurs.</definition>
+    </word>
+    <word value="hector">
+        <definition>Musicien talentueux et charmant du "Monde des morts" dans "Coco", se révèle être lié de manière inattendue au jeune protagoniste.</definition>
+        <definition>Cherche désespérément à se connecter avec les vivants pour ne pas être oublié, montrant les thèmes de mémoire et de patrimoine.</definition>
+        <definition>Symbolise la rédemption, la complexité des relations familiales et l'importance des souvenirs partagés.</definition>
+    </word>
+    <word value="hiro hamada">
+        <definition>Jeune prodige et créateur de robots dans "Les Nouveaux Héros", transforme sa douleur en inspiration pour devenir un héros.</definition>
+        <definition>Mène son groupe d'amis dans des aventures pour combattre une menace technologique menaçant leur ville futuriste.</definition>
+        <definition>Symbolise l'innovation, le passage de la perte à l'action, et la puissance de la résilience et de l'amitié.</definition>
+    </word>
+    <word value="honey best">
+        <definition>Femme d'Élastigirl dans "Les Indestructibles", célèbre pour sa réplique culte à son mari voulant enfiler son costume de super-héros.</definition>
+        <definition>Bien qu'elle n'apparaisse jamais à l'écran, sa voix offre un aperçu humoristique de la vie domestique des super-héros.</definition>
+        <definition>Représente les personnages périphériques qui, bien que hors-champ, contribuent de manière significative à l'enrichissement des protagonistes principaux.</definition>
     </word>
     <word value="jafar">
         <definition>Vizir royal manipulateur aspirant à contrôler une ville antique du désert.</definition>
@@ -1004,35 +1094,505 @@
         <definition>Rêve de vivre au-delà des murs du palais et de choisir sa propre destinée.</definition>
         <definition>Se lie d'amitié avec un jeune homme des rues dans sa quête de liberté.</definition>
     </word>
+    <word value="jasmin">
+        <definition>Princesse de "Aladdin", célèbre pour son esprit indépendant et son refus de se marier sans amour.</definition>
+        <definition>Défend sa liberté de choix et aide Aladdin à déjouer les plans du méchant sorcier.</definition>
+        <definition>Symbolise l'émancipation féminine et le combat contre les conventions sociales oppressives.</definition>
+    </word>
+    <word value="jafar">
+        <definition>Vizir royal et principal antagoniste dans "Aladdin", connu pour ses pouvoirs magiques et sa quête de contrôle absolu.</definition>
+        <definition>Utilise une combinaison de magie noire et de manipulation pour atteindre ses objectifs.</definition>
+        <definition>Représente la soif de pouvoir et les dangers de la corruption et de l'ambition démesurée.</definition>
+    </word>
+    <word value="jiminy cricket">
+        <definition>Petit grillon et conscience de "Pinocchio", il guide le jeune héros à faire les bons choix.</definition>
+        <definition>Emblématique pour sa devise "Laissez votre conscience être votre guide".</definition>
+        <definition>Symbolise la sagesse, la moralité et le rôle essentiel d'une conscience interne pour guider les choix de vie.</definition>
+    </word>
+    <word value="john smith">
+        <definition>Explorateur anglais dans "Pocahontas", connu pour son rôle dans l'établissement des premières relations avec les Amérindiens.</definition>
+        <definition>Développe une relation complexe avec Pocahontas, challengeant ses propres vues culturelles.</definition>
+        <definition>Représente l'ouverture culturelle et les difficultés des relations interculturelles.</definition>
+    </word>
+    <word value="jane">
+        <definition>Scientifique britannique dans "Tarzan", elle vient en Afrique pour étudier les gorilles et tombe amoureuse de Tarzan.</definition>
+        <definition>Curieuse et intelligente, elle s'adapte rapidement à la jungle tout en apportant un peu de sa culture britannique.</definition>
+        <definition>Symbolise la découverte et l'adaptation, montrant comment l'amour peut transcender les différences culturelles.</definition>
+    </word>
+    <word value="jessie">
+        <definition>Cow-girl énergique et personnage clé de "Toy Story 2" et suite.</definition>
+        <definition>Traumatisée par l'abandon de son ancienne propriétaire, elle trouve une nouvelle famille avec Woody et Buzz.</definition>
+        <definition>Représente la peur de l'abandon et la joie de trouver de nouveaux départs et de l'acceptation.</definition>
+    </word>
+    <word value="joy">
+        <definition>Une des cinq émotions dans "Vice-Versa", elle est l'incarnation de la joie et de l'optimisme dans l'esprit de la jeune Riley.</definition>
+        <definition>Travaille constamment pour s'assurer que Riley reste heureuse, mais apprend l'importance des autres émotions dans la vie.</definition>
+        <definition>Symbolise la recherche du bonheur et la complexité des émotions humaines.</definition>
+    </word>
+    <word value="judge frollo">
+        <definition>Antagoniste sévère de "Le Bossu de Notre-Dame", il est le juge austère de Paris avec une obsession sombre pour Esmeralda.</definition>
+        <definition>Sa quête de pureté et de contrôle révèle une profonde hypocrisie et cruauté.</definition>
+        <definition>Incarnation de la tyrannie sous couvert de vertu, montrant comment le pouvoir et la piété peuvent être pervertis.</definition>
+    </word>
+    <word value="jack sparrow">
+        <definition>Pirate excentrique et charismatique dans "Pirates des Caraïbes", connu pour ses évasions spectaculaires et sa ruse.</definition>
+        <definition>Navigue dans les eaux troubles entre héroïsme et piraterie, souvent avec un sens moral ambigu.</definition>
+        <definition>Représente la liberté, l'aventure sans fin et la complexité morale des héros non conventionnels.</definition>
+    </word>
+    <word value="jack-jack">
+        <definition>Le plus jeune membre de la famille Parr dans "Les Indestructibles", célèbre pour ses multiples pouvoirs imprévisibles.</definition>
+        <definition>Ses capacités surprennent même sa famille, qui ne connaissait pas son potentiel.</definition>
+        <definition>Symbolise le potentiel inattendu et les surprises que peuvent réserver même les plus petits membres de la famille.</definition>
+    </word>
+     <word value="jumba">
+        <definition>Scientifique excentrique de l'espace, créateur de Stitch dans "Lilo & Stitch".</definition>
+        <definition>Arrivé sur Terre en poursuivant sa création, il devient finalement une figure paternelle pour Stitch.</definition>
+        <definition>Symbolise la rédemption et la transformation d'un vilain en protecteur grâce à l'amour et à l'acceptation familiaux.</definition>
+    </word>
+    <word value="jim hawkins">
+        <definition>Jeune aventurier de "La Planète au trésor", rêve de découvertes et d'aventures à travers l'univers.</definition>
+        <definition>Cherche un trésor légendaire tout en découvrant des vérités sur lui-même et sur son père absent.</definition>
+        <definition>Représente la quête de soi et l'importance de choisir son propre chemin, malgré les incertitudes.</definition>
+    </word>
+    <word value="john silver">
+        <definition>Cuisinier de vaisseau et pirate cyborg dans "La Planète au trésor", mentor de Jim Hawkins.</definition>
+        <definition>Cache un secret qui teste la confiance et la loyauté entre lui et Jim.</definition>
+        <definition>Symbolise la dualité de la nature humaine et la complexité des relations mentor-protégé.</definition>
+    </word>
+    <word value="jenny">
+        <definition>Jeune fille attentionnée qui adopte Oliver dans "Oliver et Compagnie".</definition>
+        <definition>Malgré sa jeunesse, montre une grande maturité en prenant soin de son nouvel ami chat et en affrontant les dangers de la ville.</definition>
+        <definition>Représente l'amour inconditionnel et le courage face aux adversités.</definition>
+    </word>
+    <word value="jangles">
+        <definition>Clown de "Vice-Versa", habite dans l'esprit de Riley et symbolise ses peurs les plus sombres.</definition>
+        <definition>Figure effrayante pour Riley, illustrant comment les enfants perçoivent et gèrent leurs peurs.</definition>
+        <definition>Représente les défis de surmonter les traumatismes infantiles et l'importance de faire face à ses peurs.</definition>
+    </word>
+    <word value="jafar's parrot">
+        <definition>Perroquet bavard et compagnon du méchant dans "Aladdin", connu pour sa loyauté envers son maître maléfique.</definition>
+        <definition>Sert d'assistant et de partenaire dans les plans diaboliques, souvent avec une touche d'humour noir.</definition>
+        <definition>Symbolise la complicité et la malice, montrant que les animaux dans les contes peuvent être tout aussi complexes que les humains.</definition>
+    </word>
+    <word value="josephine">
+        <definition>Personnage dans "La Belle et la Bête", une des habitantes enchantées du château sous forme d'objet.</definition>
+        <definition>Participe à l'accueil et à la prise en charge de Belle, montrant l'esprit de communauté parmi les enchantés.</definition>
+        <definition>Symbolise la résilience et l'espoir des personnages secondaires qui contribuent à enrichir le récit principal.</definition>
+    </word>
+    <word value="jeb">
+        <definition>Chien de berger grincheux dans "La Ferme se rebelle", mécontent de la nouvelle gestion de la ferme.</definition>
+        <definition>Affiche un scepticisme constant envers les nouveaux venus et les changements, préférant les méthodes traditionnelles.</definition>
+        <definition>Représente la résistance au changement et les tensions générées par les nouvelles dynamiques dans les communautés établies.</definition>
+    </word>
+    <word value="jock">
+        <definition>Terrier écossais dans "La Belle et le Clochard", voisin et ami de Lady.</definition>
+        <definition>Protecteur et parfois bourru, il soutient Lady à travers ses épreuves avec Tramp.</definition>
+        <definition>Symbolise la loyauté et l'amitié durable, prouvant que le soutien des amis est crucial dans les moments difficiles.</definition>
+    </word>
+    <word value="juju">
+        <definition>Animal de compagnie magique dans "La Princesse et la Grenouille", compagnon de la prêtresse vaudou Mama Odie.</definition>
+        <definition>Participe à la magie et aux rituels de guérison, souvent avec des résultats comiques ou inattendus.</definition>
+        <definition>Représente les aides mystiques qui, bien que secondaires, jouent des rôles clés dans le développement spirituel des protagonistes.</definition>
+    </word>
+    <word value="jungle book vultures">
+        <definition>Quatuor de vautours dans "Le Livre de la Jungle", connus pour leur chanson réconfortante envers Mowgli.</definition>
+        <definition>Offrent amitié et conseils au jeune garçon, aidant à alléger son humeur dans des moments critiques.</definition>
+        <definition>Symbolisent l'amitié inattendue et le soutien moral, rappelant que l'aide peut venir des sources les plus improbables.</definition>
+    </word>
+    <word value="jacques">
+        <definition>Nettoyeur de réservoir dans "Le Monde de Nemo", une crevette obsédée par la propreté.</definition>
+        <definition>S'efforce de maintenir l'ordre et la propreté dans le réservoir, souvent frustré par le chaos causé par les nouveaux arrivants.</definition>
+        <definition>Représente l'ordre et la discipline dans des environnements chaotiques, illustrant l'importance de la responsabilité personnelle.</definition>
+    </word>
+    <word value="jeff gorvette">
+        <definition>Voiture de course célèbre dans "Cars 2", basée sur une véritable icône de la course automobile.</definition>
+        <definition>Participe au Grand Prix Mondial, offrant à Flash McQueen des conseils précieux sur les courses internationales.</definition>
+        <definition>Symbolise le sportivisme et l'importance des mentors dans le développement des compétences et des carrières.</definition>
+    </word>
+    <word value="julia">
+        <definition>Élève douée dans une prestigieuse école de cuisine de "Ratatouille", montre un grand talent culinaire et une détermination sans faille.</definition>
+        <definition>Face aux défis du machisme dans la cuisine professionnelle, elle prouve sa valeur et inspire les autres à briser les barrières.</definition>
+        <definition>Représente la persévérance et l'égalité des sexes dans des milieux traditionnellement dominés par les hommes.</definition>
+    </word>
+    <word value="jitters">
+        <definition>Personnage nerveux dans "Monstres & Cie", travaille à la centrale électrique et est facilement effrayé par les bruits soudains.</definition>
+        <definition>Son comportement anxieux ajoute une touche d'humour au milieu de travail déjà chaotique.</definition>
+        <definition>Symbolise les défis de gérer l'anxiété au travail, mettant en lumière l'importance du soutien des collègues et de la gestion du stress.</definition>
+    </word>
+    <word value="john darling">
+        <definition>Frère aîné dans "Peter Pan", part avec ses frères et sœurs au Pays Imaginaire.</definition>
+        <definition>Souvent plus pragmatique et réfléchi, il cherche des explications logiques même dans ce monde magique.</definition>
+        <definition>Représente la transition entre l'enfance et la maturité, illustrant le conflit entre imagination et réalité.</definition>
+    </word>
+    <word value="judge doom">
+        <definition>Antagoniste terrifiant dans "Qui veut la peau de Roger Rabbit", cherche à détruire Toontown avec un plan diabolique.</definition>
+        <definition>Cache un secret qui est la clé de ses motivations et de ses méthodes destructrices.</definition>
+        <definition>Symbolise la menace ultime pour la créativité et la liberté, incarnant les dangers de la corruption et du pouvoir absolu.</definition>
+    </word>
+    <word value="jumba">
+        <definition>Création électrique de Jumba dans "Lilo & Stitch", connue pour causer des pannes de courant massives.</definition>
+        <definition>Malgré sa programmation pour le chaos, il montre des moments de gentillesse et d'adaptabilité.</definition>
+        <definition>Représente la dualité entre la nature intentionnée et la capacité à changer, mettant en avant les thèmes de la nature contre la culture.</definition>
+    </word>
+    <word value="jake long">
+        <definition>Adolescent américano-chinois qui peut se transformer en dragon, protégeant le monde magique et le monde humain.</definition>
+        <definition>Équilibre les défis de l'adolescence avec ses responsabilités de gardien mythique dans une série animée.</definition>
+        <definition>Symbolise la fusion des cultures et les défis de grandir avec des secrets extraordinaires.</definition>
+    </word>
+    <word value="james">
+        <definition>Jeune garçon orphelin qui voyage dans une pêche géante avec des insectes anthropomorphes dans "James et la pêche géante".</definition>
+        <definition>Son aventure extraordinaire l'aide à surmonter sa timidité et à trouver une nouvelle famille.</definition>
+        <definition>Représente le pouvoir de l'imagination et la recherche de l'appartenance à travers des aventures fantastiques.</definition>
+    </word>
+    <word value="junior">
+        <definition>Jeune chien aspirant à devenir un "chien de chasse" dans "Les 101 Dalmatiens".</definition>
+        <definition>Figure parmi les nombreux chiots enlevés, sa curiosité et son enthousiasme le rendent mémorable.</definition>
+        <definition>Symbolise l'innocence et l'optimisme de la jeunesse, mettant en lumière l'espoir et la détermination face aux défis.</definition>
+    </word>
+    <word value="john ratcliffe">
+        <definition>Antagoniste dans "Pocahontas", gouverneur avide cherchant à exploiter les richesses du Nouveau Monde sans égard pour ses habitants originels.</definition>
+        <definition>Représente l'avarice et la conquête impérialiste, dépeignant les conflits historiques entre les explorateurs européens et les populations indigènes.</definition>
+        <definition>Incarnation de l'oppression et de l'ignorance, son personnage sert de critique aux pratiques coloniales destructrices.</definition>
+    </word>
+    <word value="jangles the clown">
+        <definition>Clown terrifiant de l'un des souvenirs de Riley dans "Vice-Versa", incarnant l'une de ses peurs enfantines les plus marquantes.</definition>
+        <definition>Sa présence dans le film sert à illustrer comment les enfants traitent et stockent les souvenirs traumatisants.</definition>
+        <definition>Symbolise les peurs irrationnelles et la manière dont elles peuvent influencer le comportement et les émotions bien après leur première apparition.</definition>
+    </word>
+    <word value="jasper">
+        <definition>Un des deux maladroits voleurs de chiots dans "Les 101 Dalmatiens", partenaire de Horace.</definition>
+        <definition>Caractérisé par son approche grossière et son manque de subtilité dans la réalisation des plans de Cruella De Vil.</definition>
+        <definition>Représente l'idée que les méchants ne sont pas toujours compétents ou maléfiques par nature, mais souvent guidés par des motivations mal placées.</definition>
+    </word>
+    <word value="jose carioca">
+        <definition>Perroquet brésilien de "Saludos Amigos" et "Les Trois Caballeros", connu pour son amour de la samba et son caractère joyeux.</definition>
+        <definition>Agit comme un guide culturel pour Donald Duck lors de ses aventures en Amérique du Sud.</definition>
+        <definition>Symbolise la joie de vivre et l'importance de l'amitié interculturelle, mettant en avant les échanges culturels positifs.</definition>
+    </word>
+    <word value="judge frollo">
+        <definition>Figure d'autorité corrompue dans "Le Bossu de Notre-Dame", obsédé par la chasse aux gitans et par sa propre pureté morale.</definition>
+        <definition>Ses actions sont motivées par un mélange toxique de désir, de peur et de fanatisme religieux.</definition>
+        <definition>Représente les dangers de l'extrémisme et la corruption du pouvoir, surtout lorsqu'il est justifié par des convictions apparemment morales.</definition>
+    </word>
+    <word value="joyce">
+        <definition>Personnage mineur dans le monde de "Toy Story", une des mères qui assistent à la fête d'anniversaire de Bonnie.</definition>
+        <definition>Bien qu'elle n'apparaisse que brièvement, elle contribue à l'ambiance joyeuse et festive de la scène.</definition>
+        <definition>Représente les personnages de soutien qui, bien que périphériques, aident à créer un contexte réaliste pour les événements principaux.</definition>
+    </word>
+    <word value="jim dear">
+        <definition>Propriétaire humain et figure paternelle de Lady dans "La Belle et le Clochard".</definition>
+        <definition>Son traitement aimant et responsable de Lady montre la forte connexion entre les humains et leurs animaux de compagnie.</definition>
+        <definition>Représente la bienveillance et l'amour familial qui transcendent les espèces, illustrant les liens profonds que les animaux peuvent former avec leurs propriétaires.</definition>
+    </word>
+    <word value="jane porter">
+        <definition>Compagne de Tarzan et chercheuse passionnée, elle explore la jungle africaine pour étudier les gorilles.</definition>
+        <definition>Sa curiosité scientifique et son ouverture d'esprit l'aident à s'adapter à la vie dans la jungle et à comprendre Tarzan.</definition>
+        <definition>Symbolise la quête de connaissance et le respect de la nature, montrant comment l'amour peut émerger de la compréhension mutuelle et du respect.</definition>
+    </word>
     <word value="kaa">
         <definition>Serpent hypnotiseur dans la jungle, utilise ses yeux pour contrôler ses proies.</definition>
         <definition>Tente souvent de capturer un jeune garçon élevé par des loups.</definition>
         <definition>Sa voix sinueuse et ses mouvements ondulants en font un prédateur redouté.</definition>
     </word>
-    <word value="kenai">
-        <definition>Jeune homme transformé en ours par les esprits pour apprendre une leçon vitale.</definition>
-        <definition>Voyage à travers les forêts pour retrouver sa forme humaine, apprenant sur la fraternité et la nature.</definition>
-        <definition>Forme des liens improbables avec les animaux de la forêt, découvrant un nouveau point de vue sur la vie.</definition>
-    </word>
     <word value="kristoff">
-        <definition>Montagnard robuste et fournisseur de glace, ami des trolls.</definition>
-        <definition>Accompagne une jeune femme dans sa quête pour retrouver sa sœur.</definition>
-        <definition>Ami proche d'un renne qui lui sert de monture et de compagnon.</definition>
+        <definition>Montagnard robuste et ami des rennes dans "La Reine des Neiges", qui aide une princesse à sauver sa sœur.</definition>
+        <definition>Initialement un solitaire, il devient un allié précieux grâce à son expérience de la survie en montagne.</definition>
+        <definition>Symbolise la force tranquille et le dévouement, montrant que les vrais héros peuvent aussi être des personnages de soutien.</definition>
+    </word>
+    <word value="kronk">
+        <definition>Assistant musclé et naïf du méchant principal dans "Kuzco, l'empereur mégalo", célèbre pour sa bonne nature et ses talents culinaires.</definition>
+        <definition>Bien qu'il travaille pour le côté obscur, son innocence et son cœur pur le mettent souvent en conflit avec ses ordres.</definition>
+        <definition>Représente la lutte intérieure entre suivre les ordres et écouter sa conscience, illustrant les nuances de moralité.</definition>
+    </word>
+    <word value="kenai">
+        <definition>Jeune homme transformé en ours dans "Frère des Ours", apprenant des leçons de vie, de pardon et de fraternité.</definition>
+        <definition>À travers son voyage, il découvre l'importance de voir le monde à travers les yeux des autres.</definition>
+        <definition>Symbolise la croissance personnelle et le changement de perspective, crucial pour comprendre et accepter les différences.</definition>
+    </word>
+    <word value="kida">
+        <definition>Princesse atlante dans "Atlantide, l'empire perdu", qui lutte pour sauver sa civilisation et en découvrir plus sur son passé.</definition>
+        <definition>Combine la sagesse ancienne avec un esprit de guerrière, cherchant à redécouvrir les technologies perdues de son peuple.</definition>
+        <definition>Représente le lien entre le passé et le futur, montrant que la connaissance et la culture sont essentielles à la survie.</definition>
     </word>
     <word value="kuzco">
-        <definition>Empereur égocentrique transformé en lama par une potion.</definition>
-        <definition>Doit apprendre l'humilité et gagner le respect d'un villageois pour retrouver son trône.</definition>
-        <definition>Voyage à travers la jungle pour renverser un coup d'État orchestré par son conseiller.</definition>
+        <definition>Empereur égocentrique transformé en lama dans "Kuzco, l'empereur mégalo", qui doit apprendre l'humilité et l'amitié pour retrouver son trône.</definition>
+        <definition>Son voyage de retour au palais est un parcours comique d'auto-découverte et de changement de caractère.</definition>
+        <definition>Symbolise la rédemption et l'importance des secondes chances dans le développement personnel.</definition>
     </word>
-    <word value="lady">
-        <definition>Épagneul cocker raffinée vivant une vie confortable jusqu'à l'arrivée de visiteurs indésirables.</definition>
-        <definition>Explore le monde extérieur avec l'aide d'un chien errant audacieux.</definition>
-        <definition>Découvre l'amour et l'aventure au-delà des limites de son foyer soigné.</definition>
+    <word value="kiara">
+        <definition>Fille de Simba dans "Le Roi Lion 2", curieuse et rebelle, elle cherche à trouver sa propre voie loin de l'ombre de son père.</definition>
+        <definition>Elle défie les ordres et les attentes, finissant par jouer un rôle clé dans l'unification de deux groupes rivaux.</definition>
+        <definition>Symbolise la recherche d'indépendance et la force de réconciliation, prouvant que la paix est possible grâce à la compréhension et l'amour.</definition>
+    </word>
+    <word value="king triton">
+        <definition>Puissant souverain des océans dans "La Petite Sirène", père protecteur qui lutte pour garder sa fille proche tout en contrôlant son royaume sous-marin.</definition>
+        <definition>Sa désapprobation des humains est mise à l'épreuve par l'amour de sa fille pour le monde terrestre.</definition>
+        <definition>Représente le conflit entre le devoir et le désir familial, illustrant les défis de la paternité.</definition>
+    </word>
+    <word value="kala">
+        <definition>Mère adoptive de Tarzan, qui l'élève comme son propre enfant malgré les différences évidentes.</definition>
+        <definition>Son amour inconditionnel pour Tarzan montre que la famille ne se définit pas par le sang mais par les liens du cœur.</definition>
+        <definition>Symbolise l'acceptation et l'amour maternel, prouvant l'universalité de l'amour parental.</definition>
+    </word>
+    <word value="king candy">
+        <definition>Roi sournois de Sugar Rush dans "Les Mondes de Ralph", qui cache un secret sombre sur ses origines et le fonctionnement de son jeu.</definition>
+        <definition>Utilise son charme et sa ruse pour manipuler les perceptions et maintenir son contrôle.</definition>
+        <definition>Représente les dangers de la tromperie et les conséquences de manipuler les autres pour son propre gain.</definition>
+    </word>
+    <word value="kerchak">
+        <definition>Le chef strict mais juste de la famille de gorilles dans "Tarzan", qui peine à accepter Tarzan comme un des leurs.</definition>
+        <definition>Sa méfiance envers les humains et leur monde est mise à l'épreuve par l'amour qu'il porte à sa famille, y compris Tarzan.</definition>
+        <definition>Symbolise la protection, la loyauté et les défis de l'acceptation familiale face aux différences.</definition>
+    </word>
+    <word value="kron">
+        <definition>Dinosaure autoritaire et dirigeant du groupe dans "Dinosaure", priorise la survie du plus fort.</definition>
+        <definition>Son leadership est contesté en raison de ses méthodes rigides et parfois cruelles.</definition>
+        <definition>Représente les défis de l'autorité en temps de crise et les dilemmes moraux dans la gestion de la communauté.</definition>
+    </word>
+    <word value="kabuto">
+        <definition>Antagoniste sournois dans "Cars 2", une voiture de course japonaise qui cache un lourd secret.</definition>
+        <definition>Connu pour sa double vie, mélangeant le glamour des courses et des activités plus sombres en coulisse.</definition>
+        <definition>Symbolise la dualité et la corruption, démontrant que l'apparence extérieure peut souvent tromper.</definition>
+    </word>
+    <word value="king hubert">
+        <definition>Père du prince Philippe dans "La Belle au Bois Dormant", désireux d'unir les royaumes par le mariage de son fils.</definition>
+        <definition>Son personnage apporte une touche d'humour et de légèreté dans les discussions sérieuses sur le futur des royaumes.</definition>
+        <definition>Représente l'importance des alliances politiques et familiales dans les contes de fées classiques.</definition>
+    </word>
+    <word value="krakauer">
+        <definition>Personnage mineur dans "Monstres & Cie", un des employés de l'usine travaillant souvent en arrière-plan.</definition>
+        <definition>Participe à l'entretien quotidien de l'usine, assurant que la production de cris reste efficace.</definition>
+        <definition>Symbolise les travailleurs de l'ombre dont le rôle, bien que moins visible, est vital pour le succès de l'entreprise.</definition>
+    </word>
+    <word value="kai">
+        <definition>Esprit puissant et antagoniste dans "Kung Fu Panda 3", cherche à voler le chi des maîtres de kung fu.</definition>
+        <definition>Sa force et sa capacité à manipuler l'énergie spirituelle en font un adversaire redoutable.</definition>
+        <definition>Représente la quête de pouvoir et les dangers de l'abus de ce pouvoir pour dominer les autres.</definition>
+    </word>
+    <word value="knick">
+        <definition>Surnom donné à un des jouets de "Toy Story", connu pour être un peu cassé mais aimé malgré ses défauts.</definition>
+        <definition>Montre que même les jouets usés ou endommagés peuvent apporter de la joie et avoir une valeur.</definition>
+        <definition>Symbolise l'acceptation et la valeur intrinsèque de tous les individus, quelles que soient leurs imperfections.</definition>
+    </word>
+    <word value="kabuki">
+        <definition>Vilain masqué dans "Les Nouveaux Héros", utilise la technologie pour créer le chaos dans la ville de San Fransokyo.</definition>
+        <definition>Ses motifs sont personnels, enracinés dans un drame familial qui le pousse vers la vengeance.</definition>
+        <definition>Représente la douleur transformée en colère et les conséquences destructrices de la vengeance non contrôlée.</definition>
+    </word>
+    <word value="king leonidas">
+        <definition>Roi lion dans "Bedknobs and Broomsticks", règne sur une île peuplée d'animaux qui jouent au football.</definition>
+        <definition>Son personnage combine noblesse et excentricité, montrant la diversité des rôles royaux dans les films Disney.</definition>
+        <definition>Symbolise l'amusement et la fantaisie, rappelant que même dans un contexte de leadership, la joie et le jeu sont essentiels.</definition>
+    </word>
+    <word value="katie">
+        <definition>Jeune résidente de Radiator Springs dans "Cars", représente la nouvelle génération dans la ville revitalisée.</definition>
+        <definition>Optimiste et énergique, elle voit un avenir prometteur pour sa communauté.</definition>
+        <definition>Représente l'espoir et le renouveau, symbolisant la capacité d'une communauté à se régénérer et à s'adapter aux nouveaux temps.</definition>
+    </word>
+    <word value="kessie">
+        <definition>Jeune oiseau dans "Winnie l'Ourson", adopté et élevé par Rabbit, elle apprend à voler avec l'aide de ses amis de la forêt.</definition>
+        <definition>Son parcours d'apprentissage montre l'importance du soutien et de l'encouragement dans le développement des jeunes.</definition>
+        <definition>Symbolise la croissance, l'autonomie et la gratitude envers ceux qui nous aident à atteindre nos objectifs.</definition>
+    </word>
+    <word value="king frederic">
+        <definition>Père aimant et protecteur de Rapunzel dans "Raiponce", il lutte avec l'idée de laisser sa fille explorer le monde au-delà de leur royaume.</definition>
+        <definition>Son personnage montre le conflit intérieur entre protéger ses proches et leur permettre de grandir.</definition>
+        <definition>Symbolise le dilemme parental entre sécurité et liberté, illustrant les défis de lâcher prise.</definition>
+    </word>
+    <word value="kanga">
+        <definition>Mère attentionnée de Roo dans l'univers de "Winnie l'Ourson", elle offre un refuge sûr et des conseils maternels aux autres personnages.</definition>
+        <definition>Elle incarne la figure maternelle classique, toujours prête à aider et à soigner les autres résidents de la forêt.</definition>
+        <definition>Représente la bonté inconditionnelle et le rôle des parents dans la fourniture de soins et de soutien émotionnel.</definition>
+    </word>
+    <word value="kermit">
+        <definition>Célèbre grenouille et leader du "Muppet Show", connu pour sa personnalité calme et son charisme discret.</definition>
+        <definition>Il navigue dans le chaos des coulisses avec une patience presque infinie et un sens de l'humour sec.</definition>
+        <definition>Symbolise le leadership sous pression et la capacité de rester serein face à l'adversité.</definition>
+    </word>
+    <word value="kronos">
+        <definition>Figure mythologique évoquée dans "Hercule", connue comme le puissant précurseur des dieux olympiques.</definition>
+        <definition>Représenté comme une force primordiale de la nature, il incarne le passé tumultueux que les héros doivent souvent affronter pour façonner l'avenir.</definition>
+        <definition>Symbolise les racines profondes et les anciens conflits qui façonnent les sociétés, même dans les récits fantastiques.</definition>
+    </word>
+    <word value="kristofferson">
+        <definition>Jeune renard sophistiqué et cousin de Ash dans "Fantastic Mr. Fox", connu pour son talent naturel dans de nombreux domaines.</definition>
+        <definition>Son arrivée crée des dynamiques familiales complexes, mais il reste un personnage admirable et compétent.</definition>
+        <definition>Symbolise le thème de l'outsider qui, malgré les jalousies qu'il suscite, prouve sa valeur par ses compétences et son intégrité.</definition>
+    </word>
+    <word value="kocoum">
+        <definition>Guerréier stoïque dans "Pocahontas", connu pour son sérieux et son dévouement à sa tribu.</definition>
+        <definition>Proposé comme mari pour Pocahontas, il symbolise les traditions et les attentes communautaires.</definition>
+        <definition>Représente la loyauté et le conflit entre les devoirs personnels et les désirs du cœur.</definition>
+    </word>
+    <word value="kubo">
+        <definition>Jeune conteur et musicien dans "Kubo et l'Armure magique", qui utilise un shamisen magique pour animer des origamis et combattre le mal.</definition>
+        <definition>Son voyage épique est une quête pour découvrir son héritage familial tout en protégeant ses proches.</definition>
+        <definition>Symbolise le pouvoir des histoires et de la musique pour révéler la vérité, surmonter les épreuves et connecter les gens.</definition>
+    </word>
+    <word value="klaus">
+        <definition>Vieux sage dans "Elena d'Avalor", guide spirituel et mentor qui aide la jeune princesse à comprendre ses pouvoirs.</definition>
+        <definition>Sa connaissance des anciennes traditions et des mystères magiques guide les personnages principaux dans leurs quêtes.</definition>
+        <definition>Représente la sagesse ancienne et l'importance de transmettre le savoir aux nouvelles générations pour leur permettre de réussir.</definition>
+    </word>
+    <word value="king agnarr">
+        <definition>Père de Elsa et Anna dans "La Reine des Neiges", roi d'Arendelle qui cache les pouvoirs de sa fille aînée par crainte de rejet.</definition>
+        <definition>Son règne est marqué par le secret et la peur, mais il aime profondément ses filles et cherche à les protéger.</definition>
+        <definition>Symbolise le conflit entre la protection et la restriction, montrant comment les secrets de famille peuvent affecter les générations.</definition>
+    </word>
+    <word value="kendall">
+        <definition>Styliste dans "Z-O-M-B-I-E-S", elle est une étudiante zombie avec un flair pour la mode et un désir d'intégration.</definition>
+        <definition>Travaille pour briser les barrières entre zombies et humains à travers ses créations uniques qui mélangent les styles des deux mondes.</definition>
+        <definition>Représente l'innovation et la rupture des préjugés à travers l'expression personnelle et l'art.</definition>
+    </word>
+    <word value="lumiere">
+        <definition>Chandelier français charmant et hospitalier dans "La Belle et la Bête", célèbre pour son numéro musical accueillant.</definition>
+        <definition>Sert de maître de cérémonie au château, illuminant littéralement et figurativement la vie de ceux autour de lui.</definition>
+        <definition>Symbolise la chaleur et la lumière dans l'obscurité, rappelant que l'hospitalité et la joie peuvent transformer les environnements les plus sombres.</definition>
+    </word>
+    <word value="le fou">
+        <definition>Compagnon comique et loyal du principal antagoniste dans "La Belle et la Bête", connu pour sa dévotion maladroite.</definition>
+        <definition>Malgré ses tentatives de soutien, ses actions entraînent souvent des conséquences inattendues ou des échecs comiques.</definition>
+        <definition>Représente la loyauté aveugle et les complications que peut engendrer le fait de suivre une mauvaise influence.</definition>
+    </word>
+    <word value="li shang">
+        <definition>Capitaine vaillant et stratège dans "Mulan", responsable de l'entraînement des nouvelles recrues pour combattre l'invasion.</definition>
+        <definition>Son respect pour le courage et la compétence lui permet de voir au-delà des apparences, changeant ses perceptions initiales.</definition>
+        <definition>Symbolise l'intégrité et le leadership, montrant l'importance de l'équité et du mérite dans le commandement.</definition>
     </word>
     <word value="lilo">
-        <definition>Petite fille hawaïenne passionnée de photographie et de culture Elvis.</definition>
-        <definition>Adopte ce qu'elle pense être un chien, mais qui est en fait un extraterrestre.</definition>
-        <definition>Cherche à préserver sa famille avec son nouveau compagnon malgré les défis et les différences.</definition>
+        <definition>Jeune fille hawaïenne dans "Lilo & Stitch" avec un grand cœur pour les créatures égarées, formant une famille avec des aliens.</definition>
+        <definition>Son amour pour le hula et les croyances hawaïennes imprègne sa quête de trouver et de préserver sa famille élargie.</definition>
+        <definition>Représente l'innocence et la persistance, enseignant que la famille peut être choisie et créée avec ceux qui ont besoin d'amour.</definition>
+    </word>
+    <word value="lady tremaine">
+        <definition>Belle-mère cruelle et calculatrice de "Cendrillon", connue pour sa froideur et son favoritisme envers ses propres filles.</definition>
+        <definition>Emploie la manipulation psychologique pour réprimer et contrôler Cendrillon, incarnant l'archétype de la marâtre maléfique.</definition>
+        <definition>Symbolise la jalousie et la méchanceté, illustrant comment l'envie et la cruauté peuvent corrompre et détruire.</definition>
+    </word>
+    <word value="lotso">
+        <definition>Ours en peluche qui semble doux et câlin dans "Toy Story 3", mais cache une nature tyrannique envers les autres jouets.</definition>
+        <definition>Son apparence agréable masque un cœur brisé par le passé, le conduisant à régner sur la garderie comme un dictateur.</definition>
+        <definition>Symbolise les dangers de laisser le ressentiment guider les actions, et les conséquences de la trahison de la confiance.</definition>
+    </word>
+    <word value="linguini">
+        <definition>Jeune homme maladroit et héritier d'un célèbre restaurant français dans "Ratatouille", qui forme un partenariat improbable avec un rat chef.</definition>
+        <definition>Apprend à faire confiance à ses amis et à trouver sa voie dans le monde de la haute cuisine, malgré son manque initial de compétences culinaires.</definition>
+        <definition>Représente le dépassement de soi et la croissance personnelle, démontrant que le succès peut venir de la collaboration et de l'acceptation de l'aide.</definition>
+    </word>
+    <word value="louis">
+        <definition>Alligator passionné de jazz dans "La Princesse et la Grenouille", qui rêve de jouer de la trompette sur scène avec des humains.</definition>
+        <definition>Malgré sa nature intimidante, son amour pour la musique et ses amis montre un cœur tendre et une âme artistique.</definition>
+        <definition>Symbolise les rêves et les aspirations, rappelant que l'extérieur ne définit pas toujours les passions ou les capacités intérieures.</definition>
+    </word>
+    <word value="lucky">
+        <definition>Un des dalmatiens dans "Les 101 Dalmatiens", connu pour son espièglerie et sa capacité à échapper de justesse à de mauvaises situations.</definition>
+        <definition>Ses aventures audacieuses et ses échappées mettent souvent en lumière son nom prédestiné.</definition>
+        <definition>Représente la chance et la survie contre toute attente, montrant que parfois, la providence peut favoriser les plus audacieux.</definition>
+    </word>
+    <word value="ludwig von drake">
+        <definition>Scientifique excentrique et professeur dans l'univers de Mickey Mouse, oncle de Donald Duck, connu pour ses inventions folles et son savoir encyclopédique.</definition>
+        <definition>Son approche parfois chaotique de la science contraste avec ses moments de brillance et d'insight.</definition>
+        <definition>Symbolise l'importance de la curiosité et de la persévérance dans la quête de connaissance, même si le chemin peut être semé d'erreurs.</definition>
+    </word>
+    <word value="lachesis">
+        <definition>Une des trois Moires dans "Hercule", cette figure file le fil des vies humaines, décidant de la longueur de chaque vie.</definition>
+        <definition>Sa représentation ajoute une touche de mystère et de destinée aux événements qui se déroulent dans le film.</definition>
+        <definition>Symbolise l'inévitabilité et le destin, rappelant que certains événements de la vie sont hors de notre contrôle.</definition>
+    </word>
+    <word value="lampwick">
+        <definition>Garçon rebelle dans "Pinocchio" qui devient l'ami de Pinocchio et l'entraîne à Pleasure Island où ils subissent des transformations choquantes.</definition>
+        <definition>Représente l'influence corruptrice et les dangers de succomber aux tentations sans penser aux conséquences.</definition>
+        <definition>Symbolise la perte d'innocence et les conséquences de mauvais choix, servant de leçon morale pour le public.</definition>
+    </word>
+    <word value="laverne">
+        <definition>Une des trois gargouilles amicales dans "Le Bossu de Notre-Dame", offre des conseils et du soutien comique à Quasimodo.</definition>
+        <definition>Caractérisée par son esprit vif et ses réparties humoristiques, elle aide à alléger les thèmes plus sombres du film.</definition>
+        <definition>Représente la voix de la sagesse et de l'humour dans les moments difficiles, montrant l'importance du soutien émotionnel.</definition>
+    </word>
+    <word value="layla williams">
+        <definition>Élève super-héroïne dans "Sky High", possède le pouvoir de contrôler la croissance des plantes, utilisant ses talents pour le bien.</definition>
+        <definition>Proche amie du personnage principal, elle défend souvent les valeurs de l'amitié et de la justice.</definition>
+        <definition>Symbolise la croissance personnelle et le développement des capacités pour aider les autres, illustrant la force des convictions morales.</definition>
+    </word>
+    <word value="lucas">
+        <definition>Jeune garçon qui se lie d'amitié avec des fourmis dans "The Ant Bully", apprenant des leçons précieuses sur le respect et la communauté.</definition>
+        <definition>Transformé en fourmi pour comprendre la vie de ces créatures, il découvre un monde inimaginable juste sous ses pieds.</definition>
+        <definition>Représente l'empathie et la rédemption, enseignant que comprendre les autres est la clé pour changer nos préjugés.</definition>
+    </word>
+    <word value="lord macguffin">
+        <definition>Personnage dans "Rebelle", un des chefs de clan qui participe au tournoi pour la main de Mérida.</definition>
+        <definition>Sa stature imposante et son peu de mots cachent un esprit stratégique et un père attentionné.</definition>
+        <definition>Symbolise le rôle traditionnel des chefs dans les contes, où la force et la sagesse doivent guider les jeunes générations.</definition>
+    </word>
+    <word value="long john silver">
+        <definition>Pirate rusé et charismatique dans "La Planète au trésor", à la fois mentor et antagoniste du protagoniste.</definition>
+        <definition>Son personnage complexe oscille entre amitié sincère et trahison, reflétant les difficultés de la confiance.</definition>
+        <definition>Représente les nuances de moralité dans les relations, soulignant que les gens ne sont pas strictement bons ou mauvais.</definition>
+    </word>
+    <word value="lester">
+        <definition>Robot amical dans "Meet the Robinsons", chargé de l'accueil et de l'orientation des visiteurs dans la famille Robinson.</definition>
+        <definition>Son personnage ajoute une touche d'humour et de convivialité à l'atmosphère futuriste du film.</definition>
+        <definition>Symbolise l'accueil et l'hospitalité, montrant comment même les figures non humaines peuvent avoir un impact émotionnel profond.</definition>
+    </word>
+    <word value="liliane">
+        <definition>Mère royale dans "La Princesse et la Grenouille", elle soutient les rêves culinaires de sa fille tout en lui rappelant l'importance de l'amour et de la famille.</definition>
+        <definition>Sa sagesse guide sa fille à travers les épreuves de la vie, lui enseignant à équilibrer le travail et les relations personnelles.</definition>
+        <definition>Représente le rôle des parents dans le guidage des enfants vers la réalisation de leurs rêves sans perdre de vue ce qui est vraiment important.</definition>
+    </word>
+    <word value="lincoln">
+        <definition>Personnage dans "Zootopia", un des leaders de la communauté animale qui travaille pour maintenir la paix entre les espèces diverses.</definition>
+        <definition>Son leadership est testé quand des tensions surgissent, le forçant à trouver des solutions équitables pour tous.</definition>
+        <definition>Symbolise le leadership en temps de crise, illustrant comment la justice et l'équité sont cruciales pour le bien commun.</definition>
+    </word>
+    <word value="luna">
+        <definition>Guide spirituelle et figure maternelle dans "Coco", qui aide le jeune protagoniste à naviguer dans le monde des ancêtres durant le Dia de los Muertos.</definition>
+        <definition>Symbolise la sagesse et la protection ancestrale, guidant les vivants à travers les traditions et les valeurs familiales.</definition>
+        <definition>Représente la connexion entre les générations, montrant comment les enseignements des ancêtres façonnent les vies des descendants.</definition>
+    </word>
+    <word value="lord dingwall">
+        <definition>Un des chefs de clan dans "Rebelle", connu pour son tempérament bouillant et son sens de l'humour rustique.</definition>
+        <definition>Participe au concours pour gagner la main de Mérida, apportant des moments comiques au récit.</definition>
+        <definition>Symbolise l'entêtement et la fierté des traditions, tout en montrant que le courage peut prendre plusieurs formes.</definition>
+    </word>
+    <word value="lazlo">
+        <definition>Personnage dans "Camp Lazlo", un éléphant optimiste qui aime les aventures et trouve toujours le positif dans chaque situation.</definition>
+        <definition>Son enthousiasme et son innocence encouragent souvent ses amis à sortir de leur zone de confort.</definition>
+        <definition>Représente la joie de vivre et l'importance de l'amitié, soulignant que l'aventure se trouve souvent dans la joie partagée.</definition>
+    </word>
+    <word value="lucius best">
+        <definition>Super-héros dans "Les Indestructibles", aussi connu sous le nom de Frozone, capable de créer de la glace et de la neige à partir de l'humidité de l'air.</definition>
+        <definition>Meilleur ami du personnage principal, il joue un rôle clé dans la lutte contre le crime et dans la vie de famille de ses amis.</definition>
+        <definition>Symbolise le cool sous pression et le sacrifice, démontrant l'importance de l'équilibre entre la vie héroïque et la vie personnelle.</definition>
+    </word>
+    <word value="lou">
+        <definition>Directeur du camp dans "Monsters University", une figure d'autorité qui tente de maintenir l'ordre parmi les jeunes monstres.</definition>
+        <definition>Bien qu'il soit strict, il montre un côté plus doux, prouvant qu'il se soucie vraiment du bien-être des étudiants.</definition>
+        <definition>Représente la dualité de la discipline et de la compassion, soulignant que le vrai leadership nécessite un équilibre entre fermeté et gentillesse.</definition>
+    </word>
+    <word value="lucinda">
+        <definition>Sorcière amicale dans la série "Sofia the First", qui apprend à utiliser ses pouvoirs de manière responsable.</definition>
+        <definition>Malgré des débuts difficiles, elle devient une amie précieuse pour Sofia, aidant à résoudre divers problèmes magiques.</definition>
+        <definition>Symbolise la rédemption et l'apprentissage, illustrant comment l'erreur est humaine et la croissance personnelle est possible pour tous.</definition>
+    </word>
+    <word value="levi">
+        <definition>Personnage secondaire dans "La Petite Sirène", un des habitants marins qui assiste aux événements du royaume sous-marin.</definition>
+        <definition>Souvent impliqué dans les scènes de fond, sa présence ajoute à la richesse du monde aquatique dépeint dans le film.</definition>
+        <definition>Représente la diversité de la vie sous-marine et l'importance de chaque créature dans l'écosystème de l'histoire.</definition>
+    </word>
+    <word value="little john">
+        <definition>Compagnon loyal de Robin Hood, connu pour son imposante taille et son cœur d'or.</definition>
+        <definition>Utilise son ingéniosité et sa force pour aider Robin dans ses efforts pour défendre les pauvres contre l'injustice.</definition>
+        <definition>Symbolise la loyauté et le courage, montrant que la véritable grandeur vient de servir les autres.</definition>
+    </word>
+    <word value="lena">
+        <definition>Mystérieuse antagoniste dans "DuckTales", sorcière avec des motifs complexes et une relation compliquée avec les protagonistes.</definition>
+        <definition>Sa quête de pouvoir est tempérée par des moments de doute et des choix moraux difficiles.</definition>
+        <definition>Représente la lutte interne entre désir personnel et responsabilité morale, explorant les nuances de la rédemption.</definition>
+    </word>
+    <word value="lloyd">
+        <definition>Père de famille dans "Lloyd in Space", un extraterrestre qui tente de naviguer dans la vie quotidienne tout en élevant ses enfants dans un environnement intergalactique.</definition>
+        <definition>Chaque épisode le montre confronté à des défis parentaux uniques, souvent avec des résultats humoristiques et éducatifs.</definition>
+        <definition>Symbolise les joies et les défis de la paternité, prouvant que l'amour et l'humour peuvent surmonter même les obstacles les plus étrangers.</definition>
     </word>
     <word value="malefique">
         <definition>Fée puissante devenue la protectrice de son royaume après une trahison.</definition>
@@ -1045,14 +1605,102 @@
         <definition>Son désir d'indépendance provoque un chaos magique qui nécessite courage et habileté pour être résolu.</definition>
     </word>
     <word value="mowgli">
+        <definition>Enfant élevé par des loups dans "Le Livre de la Jungle", connu pour ses aventures dans la jungle avec divers animaux.</definition>
+        <definition>Sa quête d'identité entre le monde des animaux et le monde humain souligne son parcours de croissance et de découverte de soi.</definition>
+        <definition>Représente l'innocence et l'adaptabilité, illustrant comment les relations inter-espèces peuvent enseigner l'acceptation et le respect mutuel.</definition>
         <definition>Garçon élevé par des loups dans la jungle, curieux de ses origines humaines.</definition>
         <definition>Apprend les lois de la jungle grâce à un ours et une panthère protectrice.</definition>
         <definition>Doit éviter les menaces d'un tigre rancunier et d'un serpent hypnotique.</definition>
     </word>
+    <word value="mad hatter">
+        <definition>Excentrique amateur de thé dans "Alice au Pays des Merveilles", connu pour sa fête de non-anniversaire perpétuelle et son comportement imprévisible.</definition>
+        <definition>Sa personnalité décalée et ses énigmes confuses ajoutent une touche de folie charmante à l'aventure d'Alice.</definition>
+        <definition>Symbolise l'absurdité et l'émerveillement du Pays des Merveilles, montrant comment l'imagination peut défier la logique et le sens commun.</definition>
+    </word>
+    <word value="merryweather">
+        <definition>Une des trois fées marraines dans "La Belle au Bois Dormant", célèbre pour sa robe bleue et son tempérament joyeux et pratique.</definition>
+        <definition>Utilise sa magie pour aider à protéger et soutenir la princesse Aurora face aux menaces de Maléfique.</definition>
+        <definition>Représente la protection et le pragmatisme, soulignant l'importance de la sagesse et de la détermination dans le soin aux autres.</definition>
+    </word>
+    <word value="mater">
+        <definition>Vieille dépanneuse rouillée dans "Cars", meilleur ami du protagoniste et source de comédie avec son accent et ses manières de campagne.</definition>
+        <definition>Son innocence et sa loyauté sans faille le rendent essentiel dans les aventures et les défis rencontrés par les personnages principaux.</definition>
+        <definition>Symbolise l'authenticité et la fidélité, démontrant que l'honnêteté et un cœur pur sont plus précieux que n'importe quelle apparence extérieure.</definition>
+    </word>
+    <word value="mother gothel">
+        <definition>Femme manipulatrice dans "Raiponce" qui cache la vérité sur l'origine de sa fille adoptive pour exploiter ses pouvoirs magiques.</definition>
+        <definition>Sa chanson "Mother Knows Best" révèle ses tactiques de contrôle sous couvert de protection.</definition>
+        <definition>Représente l'égoïsme et la manipulation, explorant les thèmes de la captivité et de la quête de liberté individuelle.</definition>
+    </word>
+    <word value="marie">
+        <definition>Chaton blanc dans "Les Aristochats", connue pour sa grâce et son élégance, ainsi que pour son esprit légèrement prétentieux.</definition>
+        <definition>Son caractère aventureux la mène souvent à des situations délicates, mais elle trouve toujours un moyen élégant de s'en sortir.</definition>
+        <definition>Symbolise la curiosité et l'innocence, avec une touche de bravade féline qui charme et divertit.</definition>
+    </word>
+    <word value="max">
+        <definition>Le chien loyal de Prince Eric dans "La Petite Sirène", souvent vu en train de jouer et de protéger son maître.</definition>
+        <definition>Son flair pour reconnaître la véritable identité d'Ariel avant même les autres personnages humains montre son intuition.</definition>
+        <definition>Représente la fidélité et l'intuition, prouvant que les animaux sont souvent plus perceptifs aux vérités cachées que les humains.</definition>
+    </word>
+    <word value="miss bianca">
+        <definition>Élégante souris ambassadrice dans "Les Aventures de Bernard et Bianca", dévouée à aider les enfants en détresse à travers le monde.</definition>
+        <definition>Sa bravoure et son intelligence la rendent essentielle dans les missions de sauvetage de la Société de Secours.</definition>
+        <definition>Symbolise le courage et la compassion, mettant en avant l'importance de l'altruisme et de l'aventure dans la quête pour aider autrui.</definition>
+    </word>
+    <word value="muntz">
+        <definition>Explorateur légendaire et antagoniste dans "Là-haut", obsédé par la capture d'une créature rare pour restaurer sa réputation.</definition>
+        <definition>Son désir de prouver sa valeur le mène à des actions extrêmes, démontrant comment l'obsession peut corrompre.</definition>
+        <definition>Représente la détermination et la chute, explorant les dangers de laisser les ambitions personnelles éclipser la moralité.</definition>
+    </word>
+    <word value="monterey jack">
+        <definition>Souris aventurière dans "Tic et Tac, les rangers du risque", connue pour son amour du fromage et son courage dans les missions périlleuses.</definition>
+        <definition>Son esprit aventureux et ses compétences en combat font de lui un membre clé de l'équipe de rangers.</definition>
+        <definition>Symbolise l'esprit d'équipe et l'audace, soulignant que la bravoure et une bonne dose d'humour sont essentiels pour surmonter les défis.</definition>
+    </word>
     <word value="mulan">
-        <definition>Jeune femme qui se déguise en homme pour sauver son père et combattre les envahisseurs.</definition>
-        <definition>Utilise son intelligence et ses compétences en combat pour protéger son pays.</definition>
-        <definition>Révèle son identité et gagne le respect de ses compagnons et de sa nation.</definition>
+        <definition>Jeune femme courageuse qui se déguise en homme pour prendre la place de son père dans l'armée, dans un célèbre film éponyme.</definition>
+        <definition>Utilise son intelligence et ses compétences de combat pour sauver la Chine des envahisseurs.</definition>
+        <definition>Symbolise le courage, la loyauté et la rupture des stéréotypes de genre, prouvant que l'héroïsme ne connaît pas de limites de genre.</definition>
+    </word>
+    <word value="merida">
+        <definition>Princesse écossaise dans "Rebelle", célèbre pour ses cheveux roux flamboyants et son esprit indépendant.</definition>
+        <definition>Elle défie les traditions pour forger son propre chemin, entraînant des conséquences imprévues pour elle et sa famille.</definition>
+        <definition>Représente l'émancipation féminine et l'importance de suivre son cœur tout en apprenant de ses erreurs.</definition>
+    </word>
+    <word value="maui">
+        <definition>Demi-dieu polynésien dans "Moana", connu pour ses tatouages animés et sa hache magique.</definition>
+        <definition>Accompagne une jeune exploratrice dans sa quête pour sauver son peuple, redécouvrant son véritable soi en cours de route.</definition>
+        <definition>Symbolise la rédemption et le pouvoir des légendes, soulignant que derrière les mythes se cachent des vérités profondes.</definition>
+    </word>
+    <word value="mufasa">
+        <definition>Roi sage et respecté dans "Le Roi Lion", père du protagoniste, qui enseigne les responsabilités de la royauté.</definition>
+        <definition>Sa mort tragique est un point tournant pour son fils, qui doit grandir et reprendre le trône usurpé.</definition>
+        <definition>Représente la guidance paternelle et l'impact durable des enseignements des parents sur leurs enfants.</definition>
+    </word>
+    <word value="megara">
+        <definition>Figure sarcastique et indépendante dans "Hercule", initialement en mission pour trahir le héros mais finit par tomber amoureuse de lui.</definition>
+        <definition>Sa personnalité complexe et son passé difficile la rendent à la fois relatable et tragique.</definition>
+        <definition>Représente la rédemption et le pouvoir de l'amour pour changer les cœurs et les destins.</definition>
+    </word>
+    <word value="marlin">
+        <definition>Poisson-clown protecteur dans "Le Monde de Nemo", qui traverse l'océan pour retrouver son fils enlevé.</definition>
+        <definition>Son périple est marqué par des rencontres avec diverses créatures marines, apprenant des leçons sur le lâcher-prise et la confiance.</definition>
+        <definition>Symbolise la détermination parentale et les défis de laisser ses enfants grandir et faire leurs propres expériences.</definition>
+    </word>
+    <word value="maximus">
+        <definition>Cheval de la garde royale dans "Raiponce", plus déterminé que les humains à capturer la fugitive, mais finit par devenir son allié.</definition>
+        <definition>Ses compétences de détective et sa loyauté envers ses responsabilités le rendent à la fois comique et admirable.</definition>
+        <definition>Représente la loyauté et l'honneur, montrant que même les animaux peuvent avoir des principes forts et une personnalité héroïque.</definition>
+    </word>
+    <word value="mike wazowski">
+        <definition>Monstre vert et rond, vedette de "Monstres & Cie", connu pour son œil unique et son ambition de devenir le meilleur effrayeur.</definition>
+        <definition>Traverse de nombreux défis avec son ami Sulley, découvrant finalement que la rire est plus puissant que les cris.</definition>
+        <definition>Symbolise le thème de l'amitié et l'importance de trouver sa propre voie, même quand elle dévie des attentes traditionnelles.</definition>
+    </word>
+    <word value="moana">
+        <definition>Jeune navigatrice polynésienne dans le film éponyme, qui part en quête pour sauver son île d'une malédiction ancienne.</definition>
+        <definition>Son voyage la mène à explorer non seulement les océans mais aussi son identité et son héritage culturel.</definition>
+        <definition>Représente l'esprit d'aventure et le courage de défier les conventions pour le bien de sa communauté et de soi-même.</definition>
     </word>
     <word value="nemo">
         <definition>Poisson-clown aventureux capturé loin de son récif et de son père protecteur.</definition>
