@@ -37,6 +37,10 @@
     </option>
     <option>
         <name>Orville</name>
-        <file>file:///android_res/raw/disney.xml</file>
+        <file>https://raw.githubusercontent.com/addict4ever/jeux/main/orville.xml</file>
+    </option>
+    <option>
+        <name>Nintendo</name>
+        <file>https://raw.githubusercontent.com/addict4ever/jeux/main/nintendo.xml</file>
     </option>
 </choices>
