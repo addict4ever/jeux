@@ -89,7 +89,7 @@
         <definition>Apparaît dans de nombreux jeux Mario, offrant des défis uniques dans les maisons hantées et autres niveaux.</definition>
         <definition>Représente l'insaisissabilité et l'incertitude, mettant en scène les peurs enfantines de manière ludique.</definition>
     </word>
-    <word value="bowser jr.">
+    <word value="bowser jr">
         <definition>Fils de Bowser, souvent vu en train de concocter ses propres plans pour combattre Mario et aider son père.</definition>
         <definition>Caractérisé par sa détermination juvénile et son ingéniosité pour créer des machines et des gadgets.</definition>
         <definition>Symbolise la jeunesse et l'imitation des figures parentales, explorant les thèmes de l'héritage et de l'indépendance.</definition>
@@ -163,6 +163,156 @@
         <definition>Royaume fictif dans "Mario & Luigi: Superstar Saga", lieu principal de l'aventure des frères Mario dans ce jeu de rôle.</definition>
         <definition>Caractérisé par ses habitants uniques et ses défis humoristiques, il offre un contraste avec le Royaume Champignon traditionnel.</definition>
         <definition>Représente la diversité et l'exploration, encourageant les joueurs à découvrir de nouveaux mondes et cultures même au sein d'un univers familier.</definition>
+    </word>
+    <word value="boomerang bro">
+        <definition>Une variante des Hammer Bros, utilisant des boomerangs comme armes pour attaquer Mario depuis une distance.</definition>
+        <definition>Leurs attaques en arc de cercle ajoutent une complexité à leur confrontation, nécessitant une bonne synchronisation pour les esquiver ou les vaincre.</definition>
+        <definition>Symbolise l'adaptabilité et la précision, reflétant la nécessité de stratégies de combat dynamiques dans les jeux.</definition>
+    </word>
+    <word value="bonetail">
+        <definition>Dragon squelette qui réside au plus profond du Puits aux 100 étages dans "Paper Mario: The Thousand-Year Door".</definition>
+        <definition>Considéré comme l'un des ennemis les plus difficiles du jeu, il teste la persévérance et la préparation du joueur.</definition>
+        <definition>Symbolise l'ultime défi et la persistance, mettant en avant la gratification qui vient après avoir surmonté de grandes épreuves.</definition>
+    </word>
+    <word value="biddybud">
+        <definition>Petite créature avec un seul œil et des antennes, qui se déplace en groupe dans les jeux "Super Mario", formant des obstacles coordonnés.</definition>
+        <definition>Leur mouvement en groupe peut compliquer les stratégies de navigation des joueurs, demandant une attention et une réaction rapides.</definition>
+        <definition>Représente la collaboration et la coordination, soulignant comment les actions collectives peuvent augmenter les défis.</definition>
+    </word>
+    <word value="blooper baby">
+        <definition>Petite version des Bloopers, souvent vue suivant un Blooper plus grand, ajoutant un niveau de complexité dans les niveaux aquatiques.</definition>
+        <definition>Leur présence accroît la densité des ennemis et la difficulté de naviguer sans entrer en collision.</definition>
+        <definition>Symbolise la vulnérabilité mais aussi la protection, illustrant les défis supplémentaires lorsque les adversaires viennent en nombre.</definition>
+    </word>
+    <word value="blue toad">
+        <definition>Un des personnages jouables dans plusieurs jeux Mario, notamment dans "New Super Mario Bros. Wii", où il aide Mario et Luigi dans leur quête.</definition>
+        <definition>Son agilité et sa rapidité en font un choix populaire pour les joueurs cherchant à ajouter de la variété à leur expérience de jeu.</definition>
+        <definition>Représente la diversité et la coopération dans le gameplay, offrant une alternative colorée et dynamique aux personnages principaux.</definition>
+    </word>
+    <word value="boom boom">
+        <definition>Miniboss récurrent dans la série "Super Mario", apparaissant dans divers châteaux et forteresses pour défendre des clés ou bloquer le progrès.</definition>
+        <definition>Ses attaques tournantes et ses sauts puissants demandent aux joueurs de calculer soigneusement leur timing et leurs mouvements.</definition>
+        <definition>Symbolise l'obstination et la détermination, mettant en scène la persévérance nécessaire pour surmonter les barrières physiques et métaphoriques.</definition>
+    </word>
+    <word value="beep-zero">
+        <definition>Robot guide dans "Mario + Rabbids Kingdom Battle", aidant Mario et ses amis à naviguer dans un monde fusionné par un accident expérimental.</definition>
+        <definition>Sa capacité à analyser et à planifier des stratégies en fait un allié précieux dans les batailles tactiques du jeu.</definition>
+        <definition>Représente l'innovation et l'intelligence artificielle, illustrant comment la technologie peut assister dans la résolution de conflits complexes.</definition>
+    </word>
+    <word value="birdo">
+        <definition>Personnage de couleur rose, souvent confondu avec Yoshi, connu pour lancer des œufs comme projectiles dans les jeux "Super Mario".</definition>
+        <definition>Son design unique et ses manières excentriques en font un favori parmi les fans pour son originalité et son charme.</definition>
+        <definition>Symbolise la différence et l'unicité, célébrant la diversité dans les univers de jeu où la variété crée une expérience plus riche.</definition>
+    </word>
+    <word value="buzzy beetle">
+        <definition>Insecte portant une coquille dure, résistant aux attaques de feu dans les jeux "Super Mario".</definition>
+        <definition>Leur capacité à s'accrocher au plafond et à tomber sur les joueurs ajoute une dimension verticale aux défis des niveaux.</definition>
+        <definition>Symbolise la défense et la persévérance, reflétant les obstacles persistants qui requièrent des solutions créatives pour être surmontés.</definition>
+    </word>
+    <word value="bushy">
+        <definition>Personnage arboré dans "Paper Mario", se déguisant en buisson ordinaire avant de surprendre Mario en attaquant.</definition>
+        <definition>Leur tactique de camouflage demande aux joueurs de rester vigilants et d'examiner leur environnement de près.</definition>
+        <definition>Représente la tromperie et la surprise, soulignant l'importance de l'attention aux détails dans les aventures de Mario.</definition>
+    </word>
+    <word value="cheep cheep">
+        <definition>Poisson rouge fréquemment rencontré dans les niveaux aquatiques des jeux "Super Mario", connu pour ses mouvements de nage en ligne droite ou en sautant hors de l'eau.</definition>
+        <definition>Sa présence est un obstacle classique dans les parcours aquatiques, représentant les dangers simples mais efficaces.</definition>
+        <definition>Symbolise les défis persistants et les obstacles naturels dans les environnements de jeu.</definition>
+    </word>
+    <word value="chain chomp">
+        <definition>Boule noire enchaînée avec des dents acérées, connue pour son comportement agressif et imprévisible dans "Super Mario Bros. 3" et d'autres titres.</definition>
+        <definition>Sa chaîne limite ses mouvements, mais il reste une menace redoutable dans les niveaux où il apparaît.</definition>
+        <definition>Symbolise la rage contenue et les menaces brutales, souvent utilisé pour garder des zones importantes ou des trésors.</definition>
+    </word>
+    <word value="cappy">
+        <definition>Chapeau sentient et compagnon de Mario dans "Super Mario Odyssey", qui lui permet de prendre le contrôle de divers personnages et objets dans le jeu.</definition>
+        <definition>Sa capacité à permettre à Mario de "posséder" d'autres créatures ou objets ajoute une profondeur stratégique unique au gameplay.</definition>
+        <definition>Représente l'innovation et la coopération, illustrant l'importance des partenariats dans la résolution de problèmes.</definition>
+    </word>
+    <word value="captain toad">
+        <definition>Version aventureuse de Toad, protagoniste de "Captain Toad: Treasure Tracker", connu pour ses explorations et la résolution de puzzles.</definition>
+        <definition>Sans la capacité de sauter, il doit utiliser son intelligence et des outils pour naviguer dans les niveaux et éviter les dangers.</definition>
+        <definition>Symbolise l'ingéniosité et le courage, mettant en avant que les limitations physiques ne sont pas un obstacle à l'aventure.</definition>
+    </word>
+    <word value="cloud flower">
+        <definition>Objet dans "Super Mario Galaxy 2" qui permet à Mario de créer des plateformes temporaires de nuages pour atteindre des zones autrement inaccessibles.</definition>
+        <definition>Essentiel pour surmonter des défis spatiaux complexes, il demande une planification précise et une gestion des ressources.</definition>
+        <definition>Symbolise l'innovation et l'adaptabilité, encourageant les joueurs à explorer et à utiliser l'environnement à leur avantage.</definition>
+    </word>
+    <word value="clawgrip">
+        <definition>Crabe géant apparaissant comme un boss dans "Super Mario Bros. 2", lançant des rochers vers Mario et ses amis.</definition>
+        <definition>Ses attaques requièrent des esquives précises et l'utilisation des projectiles contre lui pour réussir.</definition>
+        <definition>Symbolise les défis brutaux et la nécessité de retourner les forces de l'adversaire contre lui-même.</definition>
+    </word>
+    <word value="conkdor">
+        <definition>Créature semblable à un condor dans "Super Mario 3D World", utilisant son long bec pour frapper les joueurs ou activer des mécanismes.</definition>
+        <definition>Ses attaques prévisibles mais puissantes testent la patience et le timing des joueurs.</definition>
+        <definition>Représente les dangers et les défis du timing, soulignant l'importance de l'observation et de la réaction rapide.</definition>
+    </word>
+    <word value="cooligan">
+        <definition>Pingouins glissants rencontrés dans les niveaux de glace de "New Super Mario Bros. Wii", qui patinent vers Mario en tentant de le pousser hors des plates-formes.</definition>
+        <definition>Leur présence ajoute une couche de difficulté aux environnements glissants, combinant vitesse et précision pour les éviter.</definition>
+        <definition>Symbolise le mouvement constant et les défis de navigation dans des conditions difficiles.</definition>
+    </word>
+    <word value="cosmic clone">
+        <definition>Copies spectrale de Mario qui apparaissent dans "Super Mario Galaxy 2", mimant chaque mouvement de Mario après un bref délai.</definition>
+        <definition>Leur poursuite constante crée une pression intense, forçant les joueurs à réfléchir rapidement et à éviter de refaire leurs propres pas.</definition>
+        <definition>Symbolise la confrontation avec soi-même et les défis de surmonter ses propres actions sous pression.</definition>
+    </word>
+    <word value="crazee dayzee">
+        <definition>Créature semblable à une marguerite dans "Paper Mario", qui peut chanter pour endormir ses adversaires ou fuir rapidement le combat.</definition>
+        <definition>Leur capacité à esquiver les attaques et à neutraliser les ennemis avec leur chant ajoute une stratégie de combat unique.</definition>
+        <definition>Représente la malice et l'espièglerie, mettant en scène l'importance de la ruse et de la stratégie plutôt que la force brute.</definition>
+    </word>
+    <word value="chargin' chuck">
+        <definition>Koopa en tenue de football américain apparaissant dans plusieurs jeux Mario, chargeant et lançant des ballons sur Mario.</definition>
+        <definition>Connus pour leur agressivité et leur endurance, ils représentent un défi physique supérieur à de nombreux ennemis standards.</definition>
+        <definition>Symbolise la détermination et l'obstination, montrant que certains obstacles requièrent une approche plus robuste et directe.</definition>
+    </word>
+    <word value="cheese bridge area">
+        <definition>Niveau de "Super Mario World" caractérisé par ses longues passerelles suspendues et ses risques de chute élevés.</definition>
+        <definition>Requiert une précision de saut et de timing, testant les compétences des joueurs dans la maîtrise de l'espace aérien.</definition>
+        <definition>Représente les défis de navigation et la précision, accentuant l'importance de la maîtrise et du contrôle dans des environnements périlleux.</definition>
+    </word>
+    <word value="cat mario">
+        <definition>Transformation de Mario obtenue par l'usage de la Super Bell dans "Super Mario 3D World", lui donnant l'apparence et les capacités d'un chat.</definition>
+        <definition>Permet à Mario de grimper sur les murs et d'attaquer les ennemis avec des griffes, offrant une nouvelle façon d'explorer et d'interagir avec les niveaux.</definition>
+        <definition>Symbolise la versatilité et l'adaptation, illustrant comment de nouvelles compétences peuvent ouvrir de nouvelles voies à l'exploration.</definition>
+    </word>
+    <word value="cloud kingdom">
+        <definition>Royaume visité dans "Super Mario Odyssey", caractérisé par ses vastes étendues de nuages et ses plateformes aériennes.</definition>
+        <definition>Scène d'une bataille épique contre Bowser, il met en scène des défis de navigation uniques et des visuels spectaculaires.</definition>
+        <definition>Représente l'élévation et la liberté, montrant que les voyages à travers des royaumes exotiques peuvent conduire à des affrontements mémorables.</definition>
+    </word>
+    <word value="cement factory">
+        <definition>Un des premiers niveaux de "Mario vs. Donkey Kong", où les joueurs doivent manœuvrer parmi des obstacles industriels et des machines.</definition>
+        <definition>Défis basés sur la synchronisation et la résolution de puzzles sous pression d'un environnement en constante évolution.</definition>
+        <definition>Symbolise les défis industriels et l'ingéniosité, soulignant l'interaction entre Mario et des environnements mécaniques complexes.</definition>
+    </word>
+    <word value="crystal palace">
+        <definition>Zone miroitante et labyrinthique dans "Paper Mario", pleine de réflexions et de passages secrets.</definition>
+        <definition>Les joueurs doivent démêler les illusions pour progresser, découvrant des vérités cachées derrière des façades trompeuses.</definition>
+        <definition>Représente les mystères et les révélations, mettant en scène la nécessité de regarder au-delà des apparences pour découvrir la vérité.</definition>
+    </word>
+    <word value="culex">
+        <definition>Personnage secret et boss optionnel dans "Super Mario RPG: Legend of the Seven Stars", représentant un défi de combat classique de RPG.</definition>
+        <definition>Sa nature de défi crossover entre univers Mario et Final Fantasy ajoute une dimension unique au jeu.</definition>
+        <definition>Symbolise la fusion des genres et l'ultime défi, offrant aux joueurs un combat mémorable qui teste toutes leurs compétences accumulées.</definition>
+    </word>
+    <word value="crazee dayzee">
+        <definition>Créature semblable à une marguerite qui apparaît dans plusieurs titres de "Paper Mario", capable de chanter pour endormir ses adversaires.</definition>
+        <definition>Sa capacité à neutraliser les joueurs avec son chant offre un défi stratégique, nécessitant des contre-mesures spécifiques.</definition>
+        <definition>Représente l'ingéniosité et la ruse, illustrant comment les ennemis peuvent utiliser des tactiques non conventionnelles pour déstabiliser les joueurs.</definition>
+    </word>
+    <word value="chuckola fruit">
+        <definition>Objet trouvé dans "Mario & Luigi: Superstar Saga", utilisé comme ingrédient principal pour la création de Chuckola Cola.</definition>
+        <definition>Son acquisition et son utilisation dans le jeu introduisent des éléments de quête et d'exploration pour obtenir des ressources rares.</definition>
+        <definition>Symbolise la quête et la découverte, soulignant l'importance des ingrédients et des recettes dans l'aventure culinaire du jeu.</definition>
+    </word>
+    <word value="cap kingdom">
+        <definition>Premier royaume visité dans "Super Mario Odyssey", enveloppé dans une atmosphère sombre et brumeuse et peuplé de chapeaux vivants.</definition>
+        <definition>Serve de point de départ pour l'aventure globetrotting de Mario, introduisant les mécaniques de possession par Cappy.</definition>
+        <definition>Représente les commencements et les introductions, établissant les thèmes de transformation et de découverte qui pervadent le jeu.</definition>
     </word>
     <word value="meta knight">
         <definition>Guerrier mystérieux et parfois antagoniste dans la série "Kirby", reconnaissable à son armure et son masque.</definition>
@@ -245,3 +395,5 @@
         <definition>Représente la dualité et la tromperie, explorant les thèmes de l'identité et de la manipulation.</definition>
     </word>
 </words>
+
+
