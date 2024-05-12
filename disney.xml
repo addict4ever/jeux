@@ -173,9 +173,6 @@
         <definition>Astronaute-jouet confiant, croit qu'il est un vrai ranger de l'espace.</definition>
         <definition>Travaille avec un cowboy-jouet pour surmonter ses illusions et devenir un héros.</definition>
         <definition>Protège ses amis jouets des dangers, en utilisant ses gadgets futuristes.</definition>
-        <definition>Astronaute jouet du film "Toy Story", célèbre pour ses phrases cultes et son courage.</definition>
-        <definition>Apprend à accepter sa nature de jouet tout en restant un héros pour ses amis.</definition>
-        <definition>Représente l'aventure et le dépassement de soi.</definition>
     </word>
     <word value="bebe hermann">
         <definition>Bébé tortue de "Le Monde de Nemo" qui aide Marlin et Doris à traverser le courant Est-Australien.</definition>
@@ -266,17 +263,11 @@
         <definition>Femme mondaine obsédée par la mode, en particulier les fourrures.</definition>
         <definition>Cherche à obtenir les peaux de certains chiots pour créer un manteau luxueux.</definition>
         <definition>Connu pour son rire maniaque et son apparence iconique en noir et blanc.</definition>
-        <definition>Antagoniste emblématique dans "Les 101 Dalmatiens", connue pour son obsession des fourrures.</definition>
-        <definition>Sa quête pour transformer les chiots en manteau de fourrure révèle sa cruauté et son extravagance.</definition>
-        <definition>Symbolise la vanité et l'avidité, restant l'une des méchantes les plus mémorables de Disney.</definition>
     </word>
     <word value="cendrillon">
         <definition>Jeune femme douce et rêveuse, héroïne de son propre conte.</definition>
         <definition>Subit les mauvais traitements de sa belle-mère et de ses demi-sœurs mais reste gentille et travailleuse.</definition>
         <definition>Trouve l'amour vrai et échappe à sa vie de servitude grâce à l'aide de sa marraine la fée.</definition>
-        <definition>Jeune fille douce vivant avec sa belle-mère et ses demi-sœurs envieuses.</definition>
-        <definition>Transformée par une marraine fée pour assister à un bal royal.</definition>
-        <definition>Laisse derrière elle une pantoufle de verre lors d'une fuite précipitée à minuit.</definition>
     </word>
     <word value="clochard">
         <definition>Chien de rue charismatique du film "La Belle et le Clochard".</definition>
@@ -377,25 +368,16 @@
         <definition>Canard sophistiqué connu pour son tempérament fougueux et son amour de la mode.</definition>
         <definition>Compagne du meilleur ami d'une célèbre souris, souvent impliquée dans ses aventures.</definition>
         <definition>Elle gère son impulsivité et montre une grande loyauté envers ses amis.</definition>
-        <definition>Compagne de Donald Duck, connue pour son élégance et son tempérament parfois bouillant.</definition>
-        <definition>Apparaît souvent dans des situations comiques avec Donald, montrant une dynamique de couple amusante.</definition>
-        <definition>Représente l'indépendance et le charme dans l'univers de Mickey Mouse.</definition>
     </word>
     <word value="donald duck">
         <definition>Canard au tempérament explosif, célèbre pour son uniforme de marin et son bégaiement.</definition>
         <definition>Vit des aventures chaotiques souvent dues à sa malchance légendaire.</definition>
         <definition>Oncle de trois petits canards malicieux, il s'efforce souvent de maintenir l'ordre.</definition>
-        <definition>Canard emblématique de Disney, célèbre pour son tempérament explosif et sa voix distincte.</definition>
-        <definition>Participe à de nombreuses aventures avec ses amis Mickey et Dingo.</definition>
-        <definition>Symbolise la persévérance malgré les échecs, souvent avec humour.</definition>
     </word>
     <word value="dumbo">
         <definition>Éléphanteau de cirque doté de grandes oreilles lui permettant de voler.</definition>
         <definition>Utilise son attribut unique pour surmonter les railleries et les adversités.</definition>
         <definition>Accompagné d'une souris qui l'aide à découvrir son talent spécial.</definition>
-        <definition>Éléphanteau avec de grandes oreilles, star de son propre film.</definition>
-        <definition>Surmonte le ridicule et la séparation d'avec sa mère grâce à sa capacité unique de voler.</definition>
-        <definition>Représente l'acceptation de soi et la découverte de ses talents cachés.</definition>
     </word>
     <word value="dingo">
         <definition>Chien maladroit et bon ami de Mickey Mouse.</definition>
@@ -492,9 +474,6 @@
         <definition>Protège ses chatons et navigue à travers Paris pour retourner à leur maison luxueuse.</definition>
         <definition>Symbolise l'élégance, la maternité et l'amour inconditionnel.</definition>
     </word>
-    <word value="doctor facilier">
-        <definition>Voir "Dr Facilier".</definition>
-    </word>
     <word value="dot">
         <definition>Jeune princesse fourmi dans "1001 Pattes", admirative de ses aînés mais désireuse de prouver sa propre valeur.</definition>
         <definition>Encourage Flik à suivre ses idées innovantes pour sauver la colonie.</definition>
@@ -574,8 +553,6 @@
         <definition>Reine d'Arendelle avec le pouvoir de créer de la glace et de la neige.</definition>
         <definition>Se cache du monde pour protéger les autres de ses pouvoirs qu'elle peine à contrôler.</definition>
         <definition>Son périple pour l'acceptation de soi l'amène à découvrir la vérité sur son passé.</definition>
-        <definition>Se bat pour contrôler ses pouvoirs et trouver sa place en tant que leader.</definition>
-        <definition>Symbolise l'acceptation de soi et la découverte de sa propre force intérieure.</definition>
     </word>
     <word value="eugene">
         <definition>Connu également sous le nom de Flynn Rider, charmant voleur dans "Raiponce".</definition>
@@ -756,9 +733,6 @@
         <definition>Voiture de course talentueuse et protagoniste de "Cars".</definition>
         <definition>Apprend les valeurs de l'humilité et de l'amitié au cours de ses aventures à Radiator Springs.</definition>
         <definition>Symbolise la croissance personnelle et le respect des racines et de la communauté.</definition>
-        <definition>Paresseux travaillant au DMV dans "Zootopie", célèbre pour sa lenteur extrême.</definition>
-        <definition>Malgré sa vitesse, il aide Judy Hopps dans son enquête, montrant que tous peuvent contribuer à la société.</definition>
-        <definition>Représente l'humour dans la routine quotidienne et la patience nécessaire dans certaines professions.</definition>
     </word>
     <word value="fee clochette">
         <definition>Compagne espiègle et loyale de Peter Pan, capable de faire de la magie avec sa poudre de fée.</definition>
@@ -889,17 +863,11 @@
         <definition>Chasseur vaniteux et musclé, désire épouser la plus intelligente des habitantes du village.</definition>
         <definition>Son ego le pousse à traquer une bête pour prouver sa valeur.</definition>
         <definition>Admiré par beaucoup pour sa force, mais critiqué pour son manque de sensibilité.</definition>
-        <definition>Antagoniste vaniteux et égocentrique de "La Belle et la Bête", désireux d'épouser l'héroïne principale par tous les moyens.</definition>
-        <definition>Utilise sa popularité pour manipuler les habitants du village, montrant un manque de respect flagrant pour le consentement d'autrui.</definition>
-        <definition>Incarnant l'obsession et le danger de la vanité masculine extrême, sa propre arrogance précipite sa chute.</definition>
     </word>
     <word value="genie">
         <definition>Esprit exubérant prisonnier d'une lampe, peut exaucer trois vœux.</definition>
         <definition>Utilise ses pouvoirs magiques de manière comique et spectaculaire.</definition>
         <definition>Cherche à gagner sa liberté tout en aidant son maître à trouver le vrai amour.</definition>
-        <definition>Être magique de "Aladdin" capable d'exaucer trois vœux pour son maître, enfermé dans une lampe magique.</definition>
-        <definition>Apporte humour et légèreté à l'histoire avec ses métamorphoses et son esprit vif.</definition>
-        <definition>Emblème de la quête de liberté et du pouvoir transformateur de l'amitié véritable.</definition>
     </word>
     <word value="gaston">
         <definition>Antagoniste vaniteux et égocentrique de "La Belle et la Bête", désireux d'épouser l'héroïne principale par tous les moyens.</definition>
@@ -1605,9 +1573,6 @@
         <definition>Enfant élevé par des loups dans "Le Livre de la Jungle", connu pour ses aventures dans la jungle avec divers animaux.</definition>
         <definition>Sa quête d'identité entre le monde des animaux et le monde humain souligne son parcours de croissance et de découverte de soi.</definition>
         <definition>Représente l'innocence et l'adaptabilité, illustrant comment les relations inter-espèces peuvent enseigner l'acceptation et le respect mutuel.</definition>
-        <definition>Garçon élevé par des loups dans la jungle, curieux de ses origines humaines.</definition>
-        <definition>Apprend les lois de la jungle grâce à un ours et une panthère protectrice.</definition>
-        <definition>Doit éviter les menaces d'un tigre rancunier et d'un serpent hypnotique.</definition>
     </word>
     <word value="mad hatter">
         <definition>Excentrique amateur de thé dans "Alice au Pays des Merveilles", connu pour sa fête de non-anniversaire perpétuelle et son comportement imprévisible.</definition>
