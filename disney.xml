@@ -1689,10 +1689,150 @@
         <definition>Malgré sa petite taille et son apparence timide, il est un personnage comique et essentiel au sein de l'équipage pirate.</definition>
         <definition>Symbolise la fidélité et la servitude, explorant les dynamiques de pouvoir et la loyauté dans les relations de subordination.</definition>
     </word>
+    <word value="maman gourou">
+        <definition>Matriarche aimante dans "Winnie l'Ourson", connue pour son affection et sa patience envers son fils Petit Gourou et ses amis.</definition>
+        <definition>Elle représente la sagesse et le soin maternel, offrant conseils et réconfort à ceux qui l'entourent.</definition>
+        <definition>Symbolise la sécurité et la chaleur maternelle, soulignant l'importance de la famille et de l'amour inconditionnel.</definition>
+    </word>
+    <word value="maurice">
+        <definition>Père inventeur et légèrement excentrique de Belle dans "La Belle et la Bête", son ingéniosité le met souvent dans des situations périlleuses.</definition>
+        <definition>Sa créativité et son amour pour sa fille le poussent à des actes de bravoure inattendus.</definition>
+        <definition>Symbolise l'innovation et le sacrifice parental, illustrant comment l'amour familial peut inspirer à dépasser ses limites.</definition>
+    </word>
+    <word value="miss bunny">
+        <definition>Amie de Panpan dans "Bambi", connue pour son charme et sa capacité à attirer l'attention de Panpan dès leur première rencontre.</definition>
+        <definition>Elle représente la séduction innocente et les premiers émois amoureux dans le monde animal.</definition>
+        <definition>Symbolise la jeunesse et l'attraction, évoquant les doux moments de découverte amoureuse dans la nature.</definition>
+    </word>
+    <word value="mad hatter">
+        <definition>Chapelier fou du "Pays des Merveilles" dans "Alice au Pays des Merveilles", célèbre pour sa fête de non-anniversaire et son comportement excentrique.</definition>
+        <definition>Son amour pour les énigmes et le thé représente son esprit non conventionnel et créatif.</definition>
+        <definition>Symbolise la folie et l'originalité, questionnant les normes sociales et célébrant l'unicité de chacun.</definition>
+    </word>
+    <word value="mere gothel">
+        <definition>Antagoniste de "Raiponce", qui utilise l'enchantement des cheveux de Raiponce pour rester jeune et puissante.</definition>
+        <definition>Sa manipulation et son affection feinte pour Raiponce révèlent ses motivations égoïstes.</definition>
+        <definition>Symbolise la vanité et la trahison, montrant les longueurs auxquelles certains iront pour préserver leur propre jeunesse et pouvoir.</definition>
+    </word>
+    <word value="mechant loup">
+        <definition>Adversaire récurrent dans plusieurs histoires Disney, notamment dans "Les Trois Petits Cochons", où il tente de détruire les maisons des cochons.</definition>
+        <definition>Sa ruse et sa persistance en font un antagoniste emblématique dans l'univers Disney.</definition>
+        <definition>Symbolise le danger et la malice, rappelant les défis constants que les personnages doivent surmonter pour assurer leur sécurité.</definition>
+    </word>
+    <word value="magica de spell">
+        <definition>Sorcière ambitieuse et rivale de Picsou dans "La Bande à Picsou", connue pour ses tentatives incessantes de voler sa pièce porte-bonheur.</definition>
+        <definition>Son intelligence et ses pouvoirs magiques en font une menace constante pour Picsou et sa fortune.</definition>
+        <definition>Symbolise la convoitise et la persévérance, illustrant comment la quête de richesse peut obséder et corrompre.</definition>
+    </word>
+    <word value="mufette">
+        <definition>Personnage de "Bambi", ami du jeune faon, célèbre pour son innocence et sa phrase emblématique, "On m'appelle Fleur."</definition>
+        <definition>Représente la douceur et l'acceptation, montrant l'importance des amis et du soutien dans les moments de croissance.</definition>
+        <definition>Symbolise la gentillesse et la découverte de soi, offrant une perspective tendre sur les relations amicales dans le monde animal.</definition>
+    </word>
+    <word value="merryweather">
+        <definition>Une des trois bonnes fées dans "La Belle au Bois Dormant", connue pour son tempérament joyeux et sa robe bleue.</definition>
+        <definition>Elle utilise sa magie pour aider la princesse Aurora, souvent en opposition avec ses sœurs sur la manière d'accomplir leur mission.</definition>
+        <definition>Symbolise la détermination et la protection, illustrant comment même les petits actes de défiance peuvent avoir de grandes conséquences.</definition>
+    </word>
+    <word value="major domo">
+        <definition>Garde du corps et majordome fidèle dans "Le Roi Lion", jouant un rôle clé dans le maintien de l'ordre dans le royaume.</definition>
+        <definition>Son engagement envers la famille royale et son rôle dans la transmission des traditions soulignent son importance pour la stabilité du royaume.</definition>
+        <definition>Symbolise la loyauté et la tradition, montrant comment les rôles de soutien sont essentiels au maintien de l'harmonie sociale et politique.</definition>
+    </word>
     <word value="nemo">
-        <definition>Poisson-clown aventureux capturé loin de son récif et de son père protecteur.</definition>
-        <definition>Vit des aventures dans un aquarium d'un cabinet dentaire tout en planifiant son évasion.</definition>
-        <definition>Son père brave de nombreux dangers pour le retrouver et le ramener chez eux.</definition>
+        <definition>Poisson-clown curieux et aventureux, protagoniste de "Le Monde de Nemo".</definition>
+        <definition>Ses aventures sous-marines pour retrouver son père illustrent les thèmes de courage et de persévérance.</definition>
+        <definition>Symbolise la découverte de soi et l'importance de la famille, montrant que l'amour et le courage peuvent surmonter de grands obstacles.</definition>
+    </word>
+    <word value="nala">
+        <definition>Amie d'enfance et plus tard reine aux côtés de Simba dans "Le Roi Lion".</definition>
+        <definition>Elle joue un rôle crucial en encourageant Simba à retourner dans la Terre des Lions pour reprendre sa place de roi.</definition>
+        <definition>Représente le courage et la loyauté, soulignant l'importance du soutien des êtres chers dans les moments critiques.</definition>
+    </word>
+    <word value="nakoma">
+        <definition>Amie proche de Pocahontas dans le film "Pocahontas", souvent vue comme la voix de la raison qui tempère l'esprit aventureux de Pocahontas.</definition>
+        <definition>Elle incarne la prudence et l'amitié fidèle, jouant un rôle essentiel dans le soutien émotionnel de l'héroïne.</definition>
+        <definition>Symbolise la sagesse et la prudence, mettant en lumière l'importance des conseils et du soutien des amis dans les décisions importantes.</definition>
+    </word>
+    <word value="nezzer">
+        <definition>Personnage secondaire dans "La Reine des Neiges", un des dignitaires du royaume voisin qui assiste au couronnement d'Elsa.</definition>
+        <definition>Représente les alliances politiques et les relations entre les royaumes, ajoutant une dimension de diplomatie au récit.</definition>
+        <definition>Symbolise l'interconnexion et les relations internationales, montrant comment les événements dans un royaume peuvent affecter ses voisins.</definition>
+    </word>
+    <word value="natasha">
+        <definition>Personnage mineur dans "Avengers", membre de l'équipe de soutien technique qui aide les héros dans leurs missions.</definition>
+        <definition>Elle illustre le rôle crucial des personnages de soutien qui assurent le succès des missions grâce à leur expertise technique.</definition>
+        <definition>Symbolise la compétence et le dévouement, rappelant l'importance de chaque membre de l'équipe, même ceux en coulisses.</definition>
+    </word>
+    <word value="nigel">
+        <definition>Pelican sympathique dans "Le Monde de Nemo", qui aide Marlin et Dory dans leur quête pour retrouver Nemo.</definition>
+        <definition>Son habileté à naviguer entre les mondes aquatique et terrestre fait de lui un allié précieux.</definition>
+        <definition>Symbolise l'aide désintéressée et l'amitié, démontrant que les actes de gentillesse peuvent traverser les barrières des espèces.</definition>
+    </word>
+    <word value="nanny">
+        <definition>Bonne d'enfants dans "Les 101 Dalmatiens", dévouée à la famille et protectrice des chiots.</definition>
+        <definition>Elle joue un rôle essentiel dans la défense des chiots contre Cruella De Vil et ses sbires.</definition>
+        <definition>Symbolise la protection et la fidélité, illustrant l'importance des figures maternelles dans la sécurité et le bien-être des jeunes.</definition>
+    </word>
+    <word value="norwood">
+        <definition>Personnage secondaire dans "Robin des Bois", un des habitants du village qui aide Robin dans ses efforts pour combattre l'injustice.</definition>
+        <definition>Son engagement envers la cause de Robin montre le pouvoir de la communauté face à l'oppression.</definition>
+        <definition>Symbolise la solidarité et le courage collectif, mettant en avant l'importance de l'unité dans la lutte contre l'adversité.</definition>
+    </word>
+    <word value="nimbus">
+        <definition>Charmeux nuage dans "Fantasia", qui joue un rôle dans la séquence "Le Sacre du Printemps", aidant à la croissance des plantes.</definition>
+        <definition>Son apparition est douce et poétique, contribuant à la beauté visuelle et thématique de l'animation.</definition>
+        <definition>Symbolise le renouveau et la nature, illustrant le cycle de vie et la connexion entre les éléments naturels.</definition>
+    </word>
+    <word value="napoleon">
+        <definition>Un des deux chiens de garde dans "Les Aristochats", caractérisé par sa bravoure exagérée et son autorité auto-proclamée.</definition>
+        <definition>Il prend son rôle de garde très au sérieux, ajoutant un élément comique par son zèle parfois mal placé.</definition>
+        <definition>Symbolise l'autorité et le courage, parfois aveugle, reflétant les traits comiques de ceux qui se prennent trop au sérieux.</definition>
+    </word>
+    <word value="nana">
+        <definition>Chienne nourrice bienveillante dans "Peter Pan", prenant soin des enfants Darling avec une attention maternelle.</definition>
+        <definition>Sa loyauté et son dévouement à la famille sont mis en évidence par son comportement presque humain.</definition>
+        <definition>Symbolise le soin et la protection, montrant l'importance des figures de garde dans la sécurité et le bien-être des enfants.</definition>
+    </word>
+    <word value="ned">
+        <definition>Flamingo joueur de croquet dans "Alice au Pays des Merveilles", participant à un des jeux les plus absurdes du film.</definition>
+        <definition>Son apparition ajoute à la bizarrerie et au chaos du Pays des Merveilles, participant activement au non-sens général.</definition>
+        <definition>Symbolise le surréalisme et l'absurde, représentant les thèmes de confusion et d'irrationalité prévalents dans le film.</definition>
+    </word>
+    <word value="norman">
+        <definition>Petit personnage secondaire dans "Luca", un villageois de la Riviera italienne qui observe avec suspicion les événements étranges autour de lui.</definition>
+        <definition>Son scepticisme et ses interactions avec les autres villageois apportent une touche d'humour et de réalité locale.</definition>
+        <definition>Symbolise la méfiance et la curiosité, illustrant la réaction humaine face à l'inconnu et au mystérieux.</definition>
+    </word>
+    <word value="nautilus">
+        <definition>Sous-marin commandé par le Capitaine Nemo dans "20 000 Lieues sous les mers", explorant les profondeurs de l'océan et ses mystères.</definition>
+        <definition>Il représente l'aventure et la découverte, défiant les limites de la science et de l'exploration humaine.</definition>
+        <definition>Symbolise la quête de connaissance et l'innovation, mettant en avant l'esprit de découverte et les défis de l'exploration.</definition>
+    </word>
+    <word value="niels">
+        <definition>Personnage mineur dans "Frozen", un des invités au couronnement d'Elsa qui questionne ses capacités à régner.</definition>
+        <definition>Son scepticisme face à la nouvelle reine ajoute à la tension narrative, représentant les doutes et les défis politiques.</definition>
+        <definition>Symbolise le doute et la critique, explorant les défis auxquels les leaders doivent faire face, surtout en période de transition.</definition>
+    </word>
+    <word value="nosemore">
+        <definition>Drôle de créature dans "Ralph 2.0", qui sait tout grâce à son accès à l'Internet, guidant Ralph et Vanellope dans leurs aventures numériques.</definition>
+        <definition>Il sert de guide et de source de connaissance, naviguant dans le monde complexe du Web.</definition>
+        <definition>Symbolise l'information et la guidance, soulignant l'importance de l'orientation et du savoir dans le monde moderne.</definition>
+    </word>
+    <word value="nero">
+        <definition>Crocodile méchant dans "Taram et le Chaudron magique", servant de gardien terrifiant pour les forces du mal.</definition>
+        <definition>Son rôle de créature menaçante ajoute à l'atmosphère sombre et dangereuse du film.</definition>
+        <definition>Symbolise la terreur et la fidélité aveugle, représentant les thèmes de danger et de loyauté envers les forces maléfiques.</definition>
+    </word>
+    <word value="nutmeg">
+        <definition>Caractère de soutien dans "Zootopie", une des nombreuses résidents animaux de la ville, contribuant à sa diversité culturelle.</definition>
+        <definition>Elle joue un petit rôle mais enrichit la tapestrie sociale et communautaire de Zootopie.</definition>
+        <definition>Symbolise la diversité et la communauté, montrant l'importance de chaque individu dans la création d'une société riche et variée.</definition>
+    </word>
+    <word value="nathaniel">
+        <definition>Serviteur maladroit mais bien intentionné dans "Il était une fois", tiraillé entre aider la méchante reine et faire ce qui est juste.</definition>
+        <definition>Sa lutte interne et son évolution montrent la complexité des choix moraux face à la pression.</definition>
+        <definition>Symbolise le conflit interne et la rédemption, explorant comment les personnages peuvent changer et choisir la bonne voie.</definition>
     </word>
     <word value="olaf">
         <definition>Bonhomme de neige jovial créé par magie, rêve de découvrir l'été.</definition>
