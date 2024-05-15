@@ -25,7 +25,7 @@
         <definition>Porte deux cuillères, amplifiant ses capacités psychiques pour déplacer des objets ou projeter des forces.</definition>
     </word>
     <word value="altaria">
-        <definition>Pokémon de type dragon et vol, évolution de Swablu.</definition>
+        <definition>Pokémon de type dragon et vol, évolution de tylton.</definition>
         <definition>Connu pour ses plumes semblables à des nuages qui lui permettent de chanter de manière mélodieuse.</definition>
         <definition>Peut Mega Évoluer, gagnant le type fée et renforçant ses capacités vocales et aériennes.</definition>
     </word>
@@ -113,11 +113,6 @@
         <definition>Pokémon de type roche et acier, évolution de Shieldon. Il a une face ressemblant à un mur de bouclier pour se défendre contre les attaques.</definition>
         <definition>Ses défenses sont extrêmement élevées, le rendant difficile à battre en combat de face.</definition>
         <definition>Utilise des attaques comme Mur de Fer pour augmenter encore plus sa défense.</definition>
-    </word>
-    <word value="bayleef">
-        <definition>Pokémon de type plante, évolution de Chikorita. Il a une feuille autour du cou qui dégage un parfum apaisant.</definition>
-        <definition>Le parfum de sa feuille peut apaiser les personnes et les Pokémon qui se trouvent à proximité.</definition>
-        <definition>Évolue en Meganium, un grand Pokémon avec une fleur qui a des capacités curatives.</definition>
     </word>
     <word value="beartic">
         <definition>Pokémon de type glace qui se forme en Cubchoo. Il ressemble à un ours polaire et est redoutable au combat avec des attaques de glace puissantes.</definition>
@@ -404,6 +399,11 @@
         <definition>Légendaire Pokémon capable de calmer les tempêtes et considéré comme le gardien des mers.</definition>
         <definition>Peut voler malgré sa taille imposante et possède des pouvoirs psychiques.</definition>
         <definition>Ses ailes ressemblent à celles d'un dragon et il peut plonger dans de profondes abysses marines.</definition>
+    </word>
+    <word value="macronium">
+        <definition>Pokémon de type plante, évolution de germignon. Il a une feuille autour du cou qui dégage un parfum apaisant.</definition>
+        <definition>Le parfum de sa feuille peut apaiser les personnes et les Pokémon qui se trouvent à proximité.</definition>
+        <definition>Évolue en Meganium, un grand Pokémon avec une fleur qui a des capacités curatives.</definition>
     </word>
     <word value="mamanbo">
         <definition>Pokémon de type eau qui ressemble à un poisson rose en forme de cœur.</definition>
