@@ -1835,29 +1835,354 @@
         <definition>Symbolise le conflit interne et la rédemption, explorant comment les personnages peuvent changer et choisir la bonne voie.</definition>
     </word>
     <word value="olaf">
-        <definition>Bonhomme de neige jovial créé par magie, rêve de découvrir l'été.</definition>
-        <definition>Ami fidèle et optimiste qui apporte du réconfort et des rires dans les moments difficiles.</definition>
-        <definition>Curieux du monde, adore les étreintes chaleureuses malgré sa nature glacée.</definition>
+        <definition>Bonhomme de neige animé et joyeux de "La Reine des Neiges", créé par les pouvoirs magiques d'Elsa.</definition>
+        <definition>Son amour pour l'été et sa nature innocente apportent humour et légèreté au récit.</definition>
+        <definition>Symbolise l'innocence et l'optimisme, montrant que la joie de vivre peut éclairer même les moments les plus sombres.</definition>
+    </word>
+    <word value="otto">
+        <definition>Robot assistant dans "Wall-E", chargé de maintenir les opérations du vaisseau spatial Axiom.</definition>
+        <definition>Sa programmation stricte le met souvent en conflit avec Wall-E et ses efforts pour sauver l'humanité.</definition>
+        <definition>Symbolise l'obéissance et le contrôle, reflétant les dangers d'une dépendance excessive à la technologie.</definition>
+    </word>
+    <word value="oogie boogie">
+        <definition>Antagoniste dans "L'Étrange Noël de monsieur Jack", un sac rempli d'insectes qui aime jouer avec la peur des autres.</definition>
+        <definition>Son penchant pour les jeux de hasard et ses méthodes malveillantes en font un ennemi redoutable pour Jack Skellington.</definition>
+        <definition>Symbolise la corruption et la manipulation, mettant en avant les aspects sombres de la personnalité humaine.</definition>
+    </word>
+    <word value="orphee">
+        <definition>Personnage mineur dans "Hercules", inspiré par le célèbre musicien de la mythologie grecque.</definition>
+        <definition>Ses brèves apparitions soulignent son talent musical et son rôle dans l'animation culturelle de l'antique Grèce.</definition>
+        <definition>Symbolise le talent artistique et l'impact culturel, illustrant l'importance des arts dans l'histoire.</definition>
+    </word>
+    <word value="oswald le lapin chanceux">
+        <definition>Un des premiers personnages animés de Disney, précurseur de Mickey Mouse, connu pour ses aventures rocambolesques.</definition>
+        <definition>Son histoire est marquée par des droits de propriété qui ont été retenus par Universal avant de revenir à Disney.</definition>
+        <definition>Symbolise les débuts de l'animation et les complexités des droits d'auteur dans l'industrie du divertissement.</definition>
+    </word>
+    <word value="octavius">
+        <definition>Souris de compagnie de Cendrillon, mieux connu sous le nom de "Gus", célèbre pour sa gourmandise et son bon cœur.</definition>
+        <definition>Il joue un rôle clé dans l'aide à Cendrillon, en récupérant les matériaux pour sa robe de bal.</definition>
+        <definition>Symbolise l'amitié et le courage, montrant que même les plus petits êtres peuvent faire une grande différence.</definition>
+    </word>
+    <word value="ouistiti">
+        <definition>Creature espiègle dans "Le Livre de la Jungle", membre du groupe de King Louie.</definition>
+        <definition>Contribue à l'atmosphère joyeuse et insouciante de leur royaume dans les ruines.</definition>
+        <definition>Symbolise la joie de vivre et l'insouciance, évoquant la liberté de l'esprit sauvage.</definition>
+    </word>
+    <word value="odon">
+        <definition>Dragon maladroit et ami de Mulan, apportant un soutien comique tout au long de son aventure militaire.</definition>
+        <definition>Malgré ses échecs fréquents, son loyauté et son courage ne font jamais défaut.</definition>
+        <definition>Symbolise la persévérance et l'amitié, illustrant que le véritable courage vient de la volonté de se battre pour ses amis.</definition>
+    </word>
+    <word value="olive">
+        <definition>Personnage secondaire dans "La Belle et le Clochard II", une des chiennes rencontrées par Scamp lors de ses aventures.</definition>
+        <definition>Elle montre le contraste entre la vie domestique confortable et l'existence errante de Scamp.</definition>
+        <definition>Symbolise la sécurité et la famille, explorant les thèmes de l'appartenance et du choix de vie.</definition>
+    </word>
+    <word value="olga">
+        <definition>Femme de chambre dans le palais d'Arendelle dans "La Reine des Neiges", où elle contribue aux préparatifs du couronnement d'Elsa.</definition>
+        <definition>Bien qu'elle apparaisse brièvement, elle ajoute à l'ambiance et à la richesse du cadre du palais.</definition>
+        <definition>Symbolise le dévouement et le travail en coulisses, rendant hommage aux nombreux personnages qui soutiennent les protagonistes.</definition>
+    </word>
+    <word value="olivia flaversham">
+        <definition>Petite souris courageuse et fille de l'horloger dans "Basil, détective privé".</definition>
+        <definition>Elle sollicite l'aide de Basil pour retrouver son père kidnappé, démontrant une grande bravoure et détermination.</definition>
+        <definition>Symbolise la ténacité et l'innocence, représentant l'importance de la famille et de la persévérance dans l'adversité.</definition>
+    </word>
+    <word value="omega">
+        <definition>Un des robots antagonistes dans "Les Nouveaux Héros", partie de l'équipe de combat formée pour lutter contre les forces du mal.</definition>
+        <definition>Sa conception avancée lui permet de participer à des combats intenses, où sa puissance est pleinement démontrée.</definition>
+        <definition>Symbolise le pouvoir et la technologie, mettant en avant les défis et les dangers de l'intelligence artificielle dans le combat.</definition>
+    </word>
+    <word value="orpheus">
+        <definition>Personnage basé sur la mythologie grecque, apparaissant brièvement dans "Hercules".</definition>
+        <definition>Reconnu pour ses talents musicaux, il enrichit le cadre culturel du film par sa présence.</definition>
+        <definition>Symbolise l'art et l'inspiration, célébrant l'influence de la musique et des arts dans l'histoire et la mythologie.</definition>
+    </word>
+    <word value="ossie">
+        <definition>Un petit oiseau dans "Le Roi Lion", participant aux scènes de la savane qui montrent la diversité de la faune.</definition>
+        <definition>Sa présence ajoute de la vie et de la variété à l'environnement, participant à la grande tapestrie de la nature présentée dans le film.</definition>
+        <definition>Symbolise la diversité et l'écosystème, rappelant l'importance de chaque créature, grande ou petite, dans la balance naturelle.</definition>
+    </word>
+    <word value="oncle articus">
+        <definition>Oncle de Picsou dans "La Bande à Picsou", connu pour ses expéditions polaires et ses découvertes de trésors gelés.</definition>
+        <definition>Il incarne l'esprit d'aventure et la quête incessante de nouvelles découvertes.</definition>
+        <definition>Symbolise l'exploration et la persévérance, inspirant toujours de nouvelles générations à la recherche et à la découverte.</definition>
+    </word>
+    <word value="old hag">
+        <definition>Forme transformée de la méchante reine dans "Blanche-Neige et les Sept Nains", utilisée pour tromper Blanche-Neige avec une pomme empoisonnée.</definition>
+        <definition>Elle incarne la tromperie et la malveillance, utilisant son déguisement pour accomplir ses sombres desseins.</definition>
+        <definition>Symbolise la ruse et le mal, montrant comment les personnages négatifs utilisent souvent l'ingéniosité pour atteindre leurs objectifs.</definition>
+    </word>
+    <word value="oberon">
+        <definition>Roi des fées dans "Gargoyles", tiré de la mythologie et de la littérature classique, où il joue un rôle important dans les intrigues magiques du récit.</definition>
+        <definition>Sa présence apporte une dimension mythologique, enrichissant le monde fantastique de la série.</definition>
+        <definition>Symbolise le pouvoir et l'ancienneté, illustrant l'impact des mythes et légendes sur les cultures modernes et les récits contemporains.</definition>
+    </word>
+    <word value="ollie">
+        <definition>Jeune veau dans "La Ferme se rebelle", qui tente de s'adapter à la vie de la ferme après avoir été séparé de sa mère.</definition>
+        <definition>Représente l'innocence et l'adaptation, son parcours symbolisant les défis de grandir et de trouver sa place dans le monde.</definition>
+        <definition>Symbolise l'adaptation et le courage, encourageant les jeunes audiences à affronter les changements avec bravoure et positivité.</definition>
+    </word>
+    <word value="octopus">
+        <definition>Un des méchants tentaculaires dans "La Petite Sirène", agissant comme les sbires d'Ursula dans plusieurs scènes clés du film.</definition>
+        <definition>Ses tentacules et son apparence intimidante ajoutent à la menace globale que représente Ursula sous l'eau.</definition>
+        <definition>Symbolise le danger et l'intimidation, reflétant les obstacles que Ariel doit surmonter pour atteindre ses objectifs.</definition>
+    </word>
+    <word value="orpheus">
+        <definition>Un personnage inspiré de la mythologie grecque qui apparaît dans "Fantasia", utilisant sa musique pour charmer et interagir avec son environnement naturel.</definition>
+        <definition>Ses scènes montrent la puissance de la musique pour harmoniser et influencer le monde autour de lui.</definition>
+        <definition>Symbolise le pouvoir artistique et la beauté naturelle, célébrant l'impact de l'art sur le monde réel.</definition>
+    </word>
+    <word value="ortensia">
+        <definition>Compagne d'Oswald le Lapin Chanceux, apparue dans les premiers dessins animés de Disney avant l'ère de Mickey Mouse.</definition>
+        <definition>Elle joue souvent un rôle de soutien dans les aventures d'Oswald, agissant comme un personnage qui aide à humaniser le lapin espiègle.</definition>
+        <definition>Symbolise l'amour et le soutien, montrant l'importance des relations dans les récits animés classiques.</definition>
+    </word>
+    <word value="one-eye">
+        <definition>Pirate au service de John Silver dans "La Planète au Trésor", caractérisé par son unique œil fonctionnel.</definition>
+        <definition>Sa présence ajoute au caractère rugueux et dangereux de l'équipage pirate du film.</definition>
+        <definition>Symbolise la brutalité et la loyauté envers son capitaine, illustrant les traits typiques des pirates dans la fiction.</definition>
+    </word>
+    <word value="ollie">
+        <definition>Élève dans l'école de magie de Merlin, apparaissant dans des séries télévisées Disney où la magie et l'apprentissage sont au cœur de l'intrigue.</definition>
+        <definition>Il représente les jeunes magiciens en formation, luttant pour maîtriser leurs pouvoirs et les responsabilités qui les accompagnent.</definition>
+        <definition>Symbolise l'apprentissage et la croissance personnelle, mettant en avant les défis des jeunes apprenants dans un monde fantastique.</definition>
+    </word>
+    <word value="oncle waldo">
+        <definition>Personnage excentrique de "Les Aristochats", un oie qui a échappé de peu à être servi pour le dîner.</definition>
+        <definition>Il apporte une touche d'humour avec son penchant pour le vin et ses récits de quasi évasion.</definition>
+        <definition>Symbolise la jovialité et la survie, illustrant avec humour comment la vie peut être imprévisible et pleine de rebondissements.</definition>
+    </word>
+    <word value="orville">
+        <definition>Pilote d'avion dans "Les Aventures de Bernard et Bianca", transportant les héros dans leurs missions de sauvetage.</definition>
+        <definition>Son courage et son expertise en vol sont essentiels pour le succès des missions de sauvetage des personnages principaux.</definition>
+        <definition>Symbolise l'aventure et le dévouement, montrant l'importance de l'entraide et du courage dans les moments critiques.</definition>
+    </word>
+    <word value="olwen">
+        <definition>Fée dans "Taram et le Chaudron magique", aidant les protagonistes dans leur quête pour empêcher le mal de se répandre.</definition>
+        <definition>Sa sagesse et ses pouvoirs magiques sont des atouts précieux pour guider les jeunes héros à travers leurs épreuves.</definition>
+        <definition>Symbolise la sagesse et le soutien mystique, renforçant le thème de l'aide surnaturelle dans les moments de besoin.</definition>
+    </word>
+    <word value="oskar">
+        <definition>Personnage mineur dans "La Reine des Neiges", un des habitants d'Arendelle qui participe à la fête de couronnement d'Elsa.</definition>
+        <definition>Son interaction avec les autres invités montre la diversité et la richesse culturelle du royaume.</definition>
+        <definition>Symbolise la communauté et la diversité, mettant en lumière l'importance de chaque citoyen dans la fabrication de l'histoire d'Arendelle.</definition>
+    </word>
+    <word value="olympe">
+        <definition>Chienne de compagnie dans "Cendrillon", souvent vue dans les moments de détente et de confort domestique dans le château.</definition>
+        <definition>Sa présence souligne le contraste entre la vie royale et les épreuves que Cendrillon doit endurer.</definition>
+        <definition>Symbolise le confort et la tranquillité domestique, rappelant les plaisirs simples de la vie au sein de la royauté.</definition>
     </word>
     <word value="picsou">
         <definition>Canard le plus riche du monde et grand-oncle de Donald Duck.</definition>
         <definition>Connue pour sa richesse immense et sa quête incessante de plus de richesses.</definition>
         <definition>Symbolise la persévérance, l'entreprise et l'importance de la famille.</definition>
     </word>
+    <word value="peter pan">
+        <definition>Garçon éternellement jeune du Pays Imaginaire, protagoniste du film "Peter Pan".</definition>
+        <definition>Il incarne l'esprit d'aventure et la résistance au passage à l'âge adulte, inspirant des générations d'enfants à rêver et à croire en la magie.</definition>
+        <definition>Symbolise la liberté et la jeunesse éternelle, explorant les thèmes du temps, de l'innocence et de l'évasion.</definition>
+    </word>
     <word value="pocahontas">
-        <definition>Fille d'un chef amérindien, elle est connue pour son esprit libre et aventureux.</definition>
-        <definition>Rencontre un explorateur de l'Angleterre et lui montre la beauté de la nature.</definition>
-        <definition>Défend la paix et l'harmonie entre son peuple et les nouveaux venus.</definition>
+        <definition>Princesse amérindienne dotée d'un profond respect pour la nature et les êtres vivants, protagoniste du film "Pocahontas".</definition>
+        <definition>Sa curiosité et son courage la mènent à défendre sa terre et son peuple contre les envahisseurs.</definition>
+        <definition>Symbolise le respect de la nature et le courage face à l'adversité, illustrant les conflits culturels et la diplomatie.</definition>
+    </word>
+    <word value="pinocchio">
+        <definition>Pantin de bois qui prend vie dans "Pinocchio", rêvant de devenir un vrai garçon.</definition>
+        <definition>Son périple est marqué par des leçons sur l'honnêteté, la loyauté et le courage.</definition>
+        <definition>Symbolise l'innocence et la quête de l'humanité, mettant en scène l'apprentissage des responsabilités et des conséquences des actes.</definition>
+    </word>
+    <word value="pluto">
+        <definition>Chien fidèle de Mickey Mouse, reconnu pour sa bonne humeur et sa loyauté sans faille.</definition>
+        <definition>Ses aventures offrent des moments de comédie et de tendresse, montrant son interaction avec divers personnages de l'univers Disney.</definition>
+        <definition>Symbolise la fidélité et l'amitié, célébrant les liens forts qui se développent entre les animaux et leurs maîtres.</definition>
+    </word>
+    <word value="prince charmant">
+        <definition>Archétype du héros romantique dans plusieurs films Disney, notamment dans "Cendrillon", où il cherche l'amour véritable.</definition>
+        <definition>Son personnage représente l'idéal romantique et la quête de l'amour éternel.</definition>
+        <definition>Symbolise le romantisme et la persévérance, explorant les thèmes de l'amour vrai et du destin.</definition>
     </word>
     <word value="prince eric">
-        <definition>Jeune prince royal qui aime explorer les océans avec son navire.</definition>
-        <definition>Sauvé de la noyade par une princesse sirène, tombe amoureux sans connaître sa véritable identité.</definition>
-        <definition>Combat une sorcière des mers pour sauver son amour et son royaume.</definition>
+        <definition>Jeune prince de "La Petite Sirène" qui tombe amoureux d'Ariel. Son amour pour la mer et son esprit aventureux le caractérisent.</definition>
+        <definition>Il joue un rôle clé dans le combat contre Ursula, démontrant son courage et sa détermination.</definition>
+        <definition>Symbolise l'amour et l'héroïsme, mettant en lumière les défis à surmonter pour protéger ceux qu'on aime.</definition>
+    </word>
+    <word value="princesse aurora">
+        <definition>Connu aussi sous le nom de "La Belle au bois dormant", elle est victime d'un sort qui nécessite un amour véritable pour être brisé.</definition>
+        <definition>Son histoire explore les thèmes du destin et du pouvoir des rêves.</definition>
+        <definition>Symbolise la beauté et la passivité, challengeant les rôles traditionnels des princesses dans les contes de fées.</definition>
+    </word>
+    <word value="philippe">
+        <definition>Cheval loyal de Belle dans "La Belle et la Bête", qui aide Belle à trouver et sauver son père, puis plus tard la Bête.</definition>
+        <definition>Il symbolise le courage et la loyauté, prouvant que même les animaux peuvent jouer des rôles héroïques dans des circonstances dangereuses.</definition>
+        <definition>Représente l'audace et l'engagement, illustrant comment le courage peut surmonter la peur face à l'inconnu.</definition>
+    </word>
+    <word value="pumbaa">
+        <definition>Phacochère débonnaire de "Le Roi Lion", meilleur ami de Timon et figure paternelle pour Simba lors de son exil.</definition>
+        <definition>Il apporte humour et chaleur au film, aidant Simba à grandir sans les pressions royales.</definition>
+        <definition>Symbolise l'acceptation et l'amitié, soulignant l'importance du soutien émotionnel et de l'honnêteté.</definition>
+    </word>
+    <word value="pascal">
+        <definition>Caméléon de compagnie de Raiponce dans "Raiponce", connu pour ses expressions faciales comiques et sa loyauté indéfectible.</definition>
+        <definition>Il joue un rôle crucial en aidant Raiponce à explorer le monde extérieur et à affronter Gothel.</definition>
+        <definition>Symbolise l'amitié et la protection, illustrant les petites façons dont les amis peuvent influencer de grands changements.</definition>
+    </word>
+    <word value="perla">
+        <definition>Souris couturière dans "Cendrillon", aidant à confectionner la robe pour le bal.</definition>
+        <definition>Elle incarne l'esprit de collaboration et d'entraide, démontrant que les actes de gentillesse peuvent changer des vies.</definition>
+        <definition>Symbolise le travail d'équipe et la générosité, mettant en avant l'impact positif de l'aide mutuelle.</definition>
+    </word>
+    <word value="pepe gonzales">
+        <definition>Souris très rapide et charmante de l'univers de Looney Tunes, souvent vue en train d'échapper ou de déjouer ses adversaires avec astuce.</definition>
+        <definition>Ses aventures sont pleines d'humour et de situations où sa malice lui permet de triompher.</definition>
+        <definition>Symbolise la ruse et la rapidité, célébrant l'intelligence et l'agilité comme moyens de résoudre des problèmes.</definition>
+    </word>
+    <word value="pat hibulaire">
+        <definition>Antagoniste récurrent dans les séries Mickey Mouse, souvent vu comme un rival de Mickey.</definition>
+        <definition>Il incarne le méchant typique, utilisant sa force et sa ruse pour atteindre ses objectifs malveillants.</definition>
+        <definition>Symbolise l'antagonisme et le défi, représentant les obstacles continus que Mickey doit surmonter.</definition>
+    </word>
+    <word value="prudence">
+        <definition>Conseillère stricte dans "Princesse Malgré Elle", qui essaie de guider Mia vers sa royauté.</definition>
+        <definition>Son approche rigide mais bien intentionnée confronte Mia aux réalités et aux responsabilités de la royauté.</definition>
+        <definition>Symbolise la discipline et la guidance, explorant les défis de l'adaptation à de nouvelles responsabilités.</definition>
+    </word>
+    <word value="perdita">
+        <definition>Mère des dalmatiens dans "Les 101 Dalmatiens", caractérisée par son élégance et son dévouement à sa famille.</definition>
+        <definition>Elle aide à sauver ses chiots des griffes de Cruella De Vil, démontrant force et détermination.</definition>
+        <definition>Symbolise le courage maternel et la protection, illustrant la force des liens familiaux face à l'adversité.</definition>
+    </word>
+    <word value="professeur ratigan">
+        <definition>Vilain principal dans "Basil, détective privé", un rat criminel qui se fait passer pour une souris.</definition>
+        <definition>Son intelligence et son charisme en font un ennemi redoutable pour Basil.</definition>
+        <definition>Symbolise la tromperie et l'ambition, montrant comment le désir de pouvoir peut mener à la corruption et à la chute.</definition>
+    </word>
+    <word value="prince john">
+        <definition>Antagoniste dans "Robin des Bois", un roi cupide et pleurnicheur qui taxe lourdement ses sujets.</definition>
+        <definition>Son règne tyrannique pousse Robin des Bois à devenir un hors-la-loi pour redistribuer la richesse aux pauvres.</definition>
+        <definition>Symbolise la cupidité et l'abus de pouvoir, explorant les thèmes de la justice et de la rébellion contre la corruption.</definition>
+    </word>
+    <word value="polochon">
+        <definition>Poisson-flûte et meilleur ami d'Ariel dans "La Petite Sirène", connu pour sa loyauté et sa nature peureuse.</definition>
+        <definition>Il soutient Ariel dans ses désirs d'explorer le monde humain malgré ses propres peurs.</definition>
+        <definition>Symbolise l'amitié fidèle et le soutien, montrant l'importance de soutenir ses amis dans la poursuite de leurs rêves.</definition>
+    </word>
+    <word value="princesse eilonwy">
+        <definition>Jeune princesse magique de "Taram et le Chaudron magique", connue pour son esprit libre et sa détermination.</definition>
+        <definition>Elle aide Taram dans sa quête pour vaincre le maléfique roi Cornu, utilisant sa lumière magique pour guider le chemin.</definition>
+        <definition>Symbolise l'espoir et la bravoure, illustrant le pouvoir de la lumière et de la bonté dans les ténèbres.</definition>
+    </word>
+    <word value="pacha">
+        <definition>Chef du village dans "Kuzco, l'empereur mégalo", devenu l'ami improbable de Kuzco après que ce dernier ait été transformé en lama.</definition>
+        <definition>Son honnêteté et son intégrité l'aident à guider Kuzco vers une meilleure compréhension du leadership et de la compassion.</definition>
+        <definition>Symbolise la sagesse et l'humilité, illustrant que le véritable leadership vient de servir et de comprendre son peuple.</definition>
+    </word>
+    <word value="pingouin serveur">
+        <definition>Un groupe de pingouins travaille comme serveurs dans "Mary Poppins", apportant un élément de comédie et de fantaisie lors de la séquence musicale "Jolly Holiday".</definition>
+        <definition>Leur interaction avec Mary Poppins et Bert ajoute une touche de magie et d'enchantement.</definition>
+        <definition>Symbolise la joie et le service, évoquant le plaisir des petites choses et l'importance de l'hospitalité.</definition>
+    </word>
+    <word value="prince naveen">
+        <definition>Personnage de "La Princesse et la Grenouille", un prince transformé en grenouille qui doit apprendre l'importance du travail et de l'amour véritable.</definition>
+        <definition>Sa transformation et son voyage initiatique lui enseignent des leçons de vie essentielles.</definition>
+        <definition>Symbolise la croissance et la redécouverte de soi, démontrant que le changement peut mener à une meilleure compréhension des véritables valeurs.</definition>
+    </word>
+    <word value="percy">
+        <definition>Petit chien pompeux dans "Pocahontas", animal de compagnie du gouverneur Ratcliffe, qui apprend à apprécier la compagnie des personnages natifs.</definition>
+        <definition>Il symbolise la déconstruction des préjugés à travers son amitié improbable avec un raton laveur et un colibri.</definition>
+        <definition>Représente l'adaptation et le changement de perspective, montrant comment l'exposition à différentes cultures peut changer les préjugés.</definition>
+    </word>
+    <word value="pierre">
+        <definition>Oie joviale et partenaire de vol dans "Les Aristochats", aidant Thomas O'Malley et les chatons à retourner à Paris.</definition>
+        <definition>Son enthousiasme et son esprit aventureux ajoutent une dimension de camaraderie et de soutien à l'histoire.</definition>
+        <definition>Symbolise l'amitié et l'entraide, valorisant les efforts collectifs pour surmonter les obstacles.</definition>
+    </word>
+    <word value="plumette">
+        <definition>Servante transformée en plumeau dans "La Belle et la Bête", personnage plein de grâce et de douceur.</definition>
+        <definition>Sa relation avec Lumière apporte une touche romantique subtile au récit.</definition>
+        <definition>Symbolise l'amour et la délicatesse, montrant la beauté et la tendresse qui peuvent subsister même dans les circonstances les plus sombres.</definition>
+    </word>
+    <word value="pacha">
+        <definition>Épouse aimante et soutenante du Pacha dans "Kuzco, l'empereur mégalo", connue pour sa force tranquille et son intelligence.</definition>
+        <definition>Elle joue un rôle crucial dans le maintien de la stabilité de sa famille et de son village face aux caprices de Kuzco.</definition>
+        <definition>Symbolise le soutien familial et la force féminine, illustrant l'importance des figures maternelles fortes.</definition>
+    </word>
+    <word value="patch">
+        <definition>Un des 101 dalmatiens, distingué par son patch autour de l'œil, connu pour son esprit aventurier et curieux.</definition>
+        <definition>Il se distingue par son désir d'action et d'aventure, souvent en quête d'excitation au-delà de la vie familiale.</definition>
+        <definition>Symbolise la curiosité et l'individualité, encourageant les jeunes à explorer et à affirmer leur identité.</definition>
+    </word>
+    <word value="professeur porter">
+        <definition>Scientifique excentrique et père de Jane dans "Tarzan", dont les recherches le conduisent dans la jungle africaine.</definition>
+        <definition>Il combine humour et érudition, apportant la lumière de la science dans le monde sauvage.</definition>
+        <definition>Symbolise la découverte et l'enthousiasme pour l'apprentissage, montrant que la soif de connaissances peut mener à des aventures extraordinaires.</definition>
+    </word>
+    <word value="prince regent">
+        <definition>Personnage dans "La Princesse et la Grenouille", qui cherche à marier Tiana pour ses propres gains politiques et économiques.</definition>
+        <definition>Il représente les obstacles sociaux et économiques que Tiana doit surmonter pour réaliser ses rêves.</definition>
+        <definition>Symbolise l'ambition et les conflits de classe, abordant les thèmes de la justice sociale et des aspirations individuelles.</definition>
+    </word>
+    <word value="prince phillip">
+        <definition>Le courageux prince dans "La Belle au bois dormant", connu pour son combat épique contre la dragonne Maléfique pour sauver la princesse Aurora.</definition>
+        <definition>Son courage et sa détermination le rendent emblématique dans le panthéon des princes Disney.</definition>
+        <definition>Symbolise le courage et la bravoure, mettant en avant les thèmes classiques de lutte contre le mal pour protéger l'amour et la justice.</definition>
+    </word>
+    <word value="peppo">
+        <definition>Le joyeux chat italien dans "Les Aristochats", membre du groupe de jazz de Scat Cat.</definition>
+        <definition>Il joue de l'accordéon et apporte une touche musicale et culturelle au groupe.</definition>
+        <definition>Symbolise la joie de vivre et la diversité culturelle, célébrant l'impact unificateur de la musique.</definition>
+    </word>
+    <word value="princess atta">
+        <definition>L'aînée des princesses fourmis dans "1001 Pattes", destinée à devenir reine.</definition>
+        <definition>Son parcours de développement et d'acceptation de ses responsabilités royales offre une perspective sur le leadership féminin.</definition>
+        <definition>Symbolise la croissance et l'acceptation de soi, illustrant les défis et les récompenses du leadership.</definition>
+    </word>
+    <word value="peg">
+        <definition>Chienne chantante dans "La Belle et le Clochard", elle est une amie de Lady et lui offre des conseils.</definition>
+        <definition>Son numéro musical dans la fourrière est un moment mémorable du film.</definition>
+        <definition>Symbolise la résilience et l'amitié, montrant que le soutien peut venir même dans les moments les plus sombres.</definition>
+    </word>
+    <word value="peter pig">
+        <definition>Un des amis de Mickey Mouse dans les dessins animés plus anciens, connu pour son rire contagieux.</definition>
+        <definition>Il apparaît dans des courts métrages, apportant humour et légèreté aux scènes.</definition>
+        <definition>Symbolise l'humour et la camaraderie, renforçant l'importance des rires et de la bonne humeur.</definition>
+    </word>
+    <word value="professor owl">
+        <definition>Un sage hibou qui apparaît dans les séries éducatives de Disney, fournissant des leçons sur la musique et la science.</definition>
+        <definition>Il est souvent vu comme un enseignant, utilisant son savoir pour éclairer et instruire les jeunes esprits.</definition>
+        <definition>Symbolise la connaissance et l'éducation, mettant en avant le rôle des éducateurs dans l'inspiration des générations futures.</definition>
+    </word>
+    <word value="princess dot">
+        <definition>La jeune sœur de la Princesse Atta dans "1001 Pattes", pleine d'énergie et d'admiration pour Flik.</definition>
+        <definition>Elle représente la jeunesse et le potentiel, montrant que même les plus jeunes peuvent faire une différence.</definition>
+        <definition>Symbolise l'espoir et l'innovation, encourageant à ne jamais sous-estimer les contributions des plus jeunes.</definition>
+    </word>
+    <word value="papi">
+        <definition>Le grand-père dans "Beverly Hills Chihuahua", un chien sage et aimant qui guide ses petits-enfants à travers diverses aventures.</definition>
+        <definition>Sa sagesse et son amour familial le rendent central dans le récit.</definition>
+        <definition>Symbolise la famille et la sagesse des anciens, illustrant l'importance des racines et des traditions.</definition>
+    </word>
+    <word value="princess mindy">
+        <definition>Fille du roi Neptune dans "Bob l'éponge, le film", qui essaie de convaincre son père de voir les bonnes qualités chez les gens plutôt que de juger hâtivement.</definition>
+        <definition>Sa compassion et son intelligence jouent un rôle crucial dans l'évolution de l'histoire.</definition>
+        <definition>Symbolise la compassion et la perspicacité, promouvant la compréhension et l'acceptation dans le leadership.</definition>
+    </word>
+    <word value="pollyanna">
+        <definition>Jeune fille optimiste dans le film éponyme, dont la philosophie du "jeu content" change la vie des habitants de sa petite ville.</definition>
+        <definition>Elle est une source d'inspiration et de changement positif, influençant profondément sa communauté.</definition>
+        <definition>Symbolise l'optimisme et l'impact, montrant comment une perspective positive peut transformer une communauté entière.</definition>
     </word>
     <word value="quasimodo">
-        <definition>Sonnetteur de Notre-Dame, marqué par une difformité physique depuis sa naissance.</definition>
-        <definition>Rêve de liberté pour échapper à la solitude et à l'isolement de sa tour.</definition>
-        <definition>Protège une jeune femme réfugiée, montrant sa grande bonté malgré son apparence.</definition>
+        <definition>Le personnage principal de "Le Bossu de Notre-Dame", un jeune homme déformé mais gentil, vivant reclus dans la cathédrale de Notre-Dame.</definition>
+        <definition>Sa quête pour l'acceptation et l'amour révèle sa grande bonté et sa force intérieure.</definition>
+        <definition>Symbolise la différence et l'acceptation de soi, explorant les thèmes de l'isolement et de la recherche de la communauté et de la connexion.</definition>
+    </word>
+    <word value="quincy">
+        <definition>Un des personnages de "Little Einsteins", série éducative pour enfants. Quincy est un musicien talentueux qui aime jouer de nombreux instruments.</definition>
+        <definition>Il aide ses amis à résoudre des problèmes en utilisant la musique et son intelligence créative.</definition>
+        <definition>Symbolise la créativité et le travail d'équipe, enseignant aux enfants l'importance de la musique et de la collaboration dans la résolution de défis.</definition>
     </word>
     <word value="raiponce">
         <definition>Princesse à la longue chevelure magique, enfermée dans une tour isolée.</definition>
@@ -1868,6 +2193,21 @@
         <definition>Renard rusé et habile archer, vole aux riches pour donner aux pauvres.</definition>
         <definition>Combat l'injustice dans son royaume avec son groupe de joyeux compagnons.</definition>
         <definition>Utilise son intelligence et son adresse au tir à l'arc pour déjouer le shérif.</definition>
+    </word>
+    <word value="reine leah">
+        <definition>Mère de la princesse Aurora dans "La Belle au Bois Dormant", qui endure la malédiction jetée sur sa fille avec une dignité royale.</definition>
+        <definition>Elle représente la figure maternelle classique, pleine de grâce et de souci pour le bien-être de sa famille.</definition>
+        <definition>Symbolise la royauté et le sacrifice parental, montrant la profondeur de l'amour parental face aux adversités.</definition>
+    </word>
+    <word value="reine de coeur">
+        <definition>La Reine de Cœur est un personnage tyrannique du film "Alice au Pays des Merveilles".</definition>
+        <definition>Elle est connue pour son tempérament colérique et son penchant pour les condamnations à mort.</definition>
+        <definition>Symbolise la tyrannie et l'absurdité, mettant en avant les thèmes de l'autoritarisme et de l'injustice dans le royaume fantastique.</definition>
+    </word>
+    <word value="reine clarion">
+        <definition>La reine Clarion est la dirigeante bienveillante des fées dans "La Fée Clochette".</definition>
+        <definition>Elle guide et protège toutes les fées de Pixie Hollow avec sagesse et douceur.</definition>
+        <definition>Symbolise le leadership éclairé et la maternité, représentant la sagesse et la responsabilité de diriger avec compassion et compréhension.</definition>
     </word>
     <word value="scar">
         <definition>Félidé machiavélique avec une cicatrice, aspire au trône de la savane.</definition>
