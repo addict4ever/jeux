@@ -199,40 +199,10 @@
         <definition>Est souvent représenté comme un riche et arrogant jeune homme qui abuse de son statut pour éviter les conséquences de ses actions.</definition>
         <definition>Est parfois en conflit avec Bart Simpson, qui le voit comme un exemple de privilège injuste.</definition>
     </word>
-    <word value="ned">
-        <definition>Voisin de la famille Simpson, connu pour sa nature aimable, sa religiosité fervente et sa positivité constante.</definition>
-        <definition>Est veuf et père de deux fils, Rod et Todd Flanders, qu'il élève dans le respect des valeurs chrétiennes.</definition>
-        <definition>Est souvent en contraste avec Homer Simpson, son voisin, en raison de leur personnalité opposée et de leur style de vie différent.</definition>
-    </word>
-    <word value="rod">
-        <definition>Fils aîné de Ned Flanders, souvent vu en compagnie de son frère Todd.</definition>
-        <definition>Est élevé dans le respect des valeurs religieuses par son père, et est souvent montré comme un enfant bien élevé et obéissant.</definition>
-        <definition>Est parfois présenté comme un contraste avec Bart Simpson, qui est plus espiègle et rebelle.</definition>
-    </word>
-    <word value="todd">
-        <definition>Fils cadet de Ned Flanders et frère de Rod Flanders.</definition>
-        <definition>Comme son frère, il est élevé dans le respect des valeurs religieuses et est souvent montré comme un enfant poli et obéissant.</definition>
-        <definition>Est parfois présenté comme étant plus naïf et innocent que son frère, ce qui le rend plus facilement manipulable.</definition>
-    </word>
-    <word value="frank grimes">
-        <definition>Un employé de la centrale nucléaire de Springfield qui est embauché temporairement en tant que superviseur de sécurité.</definition>
-        <definition>Est souvent désigné sous le nom de "Grimes" ou "Homer Simpson de la vraie vie" en raison de sa frustration face à la vie de Homer.</definition>
-        <definition>Est jaloux de la chance et du succès apparent de Homer malgré son manque de compétences et son comportement irresponsable.</definition>
-    </word>
-    <word value="fat tony">
-        <definition>Le chef de la mafia de Springfield, souvent vu en train de gérer des opérations illégales dans la ville.</definition>
-        <definition>Connu pour son apparence corpulente, sa voix grave et son accent italien prononcé.</definition>
-        <definition>Dirige ses affaires criminelles avec autorité mais est parfois montré comme ayant un côté plus doux, en particulier envers son fils Michael.</definition>
-    </word>
-    <word value="freddy quimby">
-        <definition>Le neveu du maire Joe Quimby, souvent impliqué dans des scandales et des comportements irresponsables.</definition>
-        <definition>Est souvent représenté comme un riche et arrogant jeune homme qui abuse de son statut pour éviter les conséquences de ses actions.</definition>
-        <definition>Est parfois en conflit avec Bart Simpson, qui le voit comme un exemple de privilège injuste.</definition>
-    </word>
-    <word value="willie">
-        <definition>Le gardien de l'école élémentaire de Springfield, connu pour son fort accent écossais et son tempérament bouillant.</definition>
-        <definition>Est souvent montré comme étant fier de son travail et prêt à utiliser des méthodes peu orthodoxes pour maintenir l'école en ordre.</definition>
-        <definition>Affiche souvent un mépris ouvert envers les enfants, en particulier Bart Simpson, qu'il considère comme un fauteur de troubles.</definition>
+    <word value="frink">
+        <definition>Scientifique excentrique de Springfield, spécialisé dans les inventions farfelues et les théories complexes.</definition>
+        <definition>Connue pour sa voix nasillarde et ses expressions intellectuelles.</definition>
+        <definition>Apparaît souvent en tant que personnage secondaire dans diverses situations impliquant la science et la technologie.</definition>
     </word>
     <word value="gil gunderson">
         <definition>Un vendeur infortuné et malchanceux qui est souvent vu cherchant désespérément un emploi ou essayant de vendre quelque chose.</definition>
@@ -253,6 +223,11 @@
         <definition>Il est un personnage récurrent de la série. Il est souvent représenté comme un vieil homme avec une barbe blanche et des lunettes rondes.</definition>
         <definition>Il est souvent vu en train de traîner au centre pour personnes âgées de Springfield ou dans d'autres lieux de la ville.</definition>
         <definition>Il est parfois impliqué dans des situations comiques, souvent liées à sa sénilité ou à son comportement excentrique.</definition>
+    </word>
+    <word value="john frink">
+        <definition>Scientifique excentrique de Springfield, célèbre pour ses inventions farfelues et son langage technobabillard.</definition>
+        <definition>Ses gadgets et théories souvent inutiles ou dangereux apportent un élément de comédie scientifique à la série.</definition>
+        <definition>Symbolise l'innovation et la folie, illustrant la fine ligne entre le génie et la folie.</definition>
     </word>
     <word value="lionel hutz">
         <definition>Avocat peu scrupuleux de Springfield, souvent vu représentant des clients dans des affaires juridiques controversées.</definition>
@@ -314,20 +289,25 @@
         <definition>Connaisseur de musique rock et adepte de la culture hippie.</definition>
         <definition>Connu pour son attitude décontractée et son manque d'enthousiasme pour la responsabilité.</definition>
     </word>
+    <word value="old gil gunderson">
+        <definition>Vendeur malchanceux qui apparaît souvent dans des rôles de second plan, luttant pour réussir dans divers emplois.</definition>
+        <definition>Ses tentatives infructueuses de vente et son éternel optimisme mal placé en font un personnage tragi-comique.</definition>
+        <definition>Symbolise la persévérance face à l'échec, montrant la réalité souvent dure de la quête du succès américain.</definition>
+    </word>
     <word value="patty bouvier">
-        <definition>Sœur jumelle de Selma Bouvier, toutes deux sont célibataires et travaillent au Bureau des permis de conduire de Springfield.</definition>
-        <definition>Connue pour son attitude sarcastique et son rejet des hommes et du mariage.</definition>
-        <definition>Partage souvent des moments de complicité avec sa sœur Selma malgré leurs différences.</definition>
+        <definition>Sœur jumelle de Selma et tante de Marge, Patty est connue pour son caractère acerbe et son dédain pour Homer.</definition>
+        <definition>Elle est ouvertement lesbienne et travaille au département des véhicules à moteur.</definition>
+        <definition>Symbolise l'indépendance et la fierté personnelle, représentant la diversité et l'acceptation dans la série.</definition>
     </word>
-    <word value="skinner">
-        <definition>Directeur de l'école élémentaire de Springfield, souvent vu en train de gérer les problèmes et les comportements des élèves.</definition>
-        <definition>Connu pour sa discipline stricte et son attachement aux règles et à l'ordre.</definition>
-        <definition>Affiche souvent une relation conflictuelle avec Bart Simpson en raison de ses nombreuses punitions.</definition>
+    <word value="pyro">
+        <definition>Un des personnages secondaires moins connus, apparu dans des épisodes impliquant des spectacles ou des actes de pyrotechnie.</definition>
+        <definition>Son penchant pour les feux d'artifice spectaculaires entraîne souvent des conséquences hilarantes ou chaotiques.</definition>
+        <definition>Symbolise l'exubérance et le danger, reflétant les conséquences inattendues des passions enflammées.</definition>
     </word>
-    <word value="frink">
-        <definition>Scientifique excentrique de Springfield, spécialisé dans les inventions farfelues et les théories complexes.</definition>
-        <definition>Connue pour sa voix nasillarde et ses expressions intellectuelles.</definition>
-        <definition>Apparaît souvent en tant que personnage secondaire dans diverses situations impliquant la science et la technologie.</definition>
+    <word value="rod">
+        <definition>Fils aîné de Ned Flanders, souvent vu en compagnie de son frère Todd.</definition>
+        <definition>Est élevé dans le respect des valeurs religieuses par son père, et est souvent montré comme un enfant bien élevé et obéissant.</definition>
+        <definition>Est parfois présenté comme un contraste avec Bart Simpson, qui est plus espiègle et rebelle.</definition>
     </word>
     <word value="rainier">
         <definition>Acteur célèbre connu pour son rôle d'action dans la série de films "McBain".</definition>
@@ -339,70 +319,61 @@
         <definition>Il est souvent montré comme étant naïf et ayant des réflexions absurdes ou inappropriées.</definition>
         <definition>Ses expressions et ses répliques sont devenues emblématiques de la série, en particulier sa célèbre phrase "Je mange de la colle".</definition>
     </word>
-    <word value="rod flanders">
-        <definition>Fils aîné de Ned Flanders et frère de Todd Flanders.</definition>
-        <definition>Il est élevé dans le respect des valeurs religieuses et est souvent montré comme étant un enfant poli et bien élevé.</definition>
-        <definition>Partage souvent des moments avec son frère Todd et est parfois montré comme étant plus mature que lui.</definition>
-    </word>
     <word value="ruth powers">
         <definition>Mère célibataire et voisine des Simpson, Ruth Powers est une femme forte et indépendante.</definition>
         <definition>Elle est souvent présentée comme une amie proche de Marge Simpson et une figure maternelle pour Bart et Lisa.</definition>
         <definition>Malgré ses différences avec certains habitants de Springfield, elle fait preuve de compassion et de détermination dans ses choix de vie.</definition>
+    </word>
+    <word value="skinner">
+        <definition>Directeur de l'école élémentaire de Springfield, souvent vu en train de gérer les problèmes et les comportements des élèves.</definition>
+        <definition>Connu pour sa discipline stricte et son attachement aux règles et à l'ordre.</definition>
+        <definition>Affiche souvent une relation conflictuelle avec Bart Simpson en raison de ses nombreuses punitions.</definition>
     </word>
     <word value="santa little">
         <definition>Chien fidèle de la famille Simpson.</definition>
         <definition>Participe souvent à des aventures folles avec la famille.</definition>
         <definition>Membre précieux malgré ses comportements parfois désordonnés.</definition>
     </word>
-
     <word value="sideshow bob">
         <definition>Antagoniste intelligent et sophistiqué.</definition>
         <definition>Ancien assistant de Krusty le Clown.</definition>
         <definition>Connaissez-vous ses plans diaboliques?</definition>
     </word>
-
     <word value="snake jailbird">
         <definition>Criminel récurrent de Springfield.</definition>
         <definition>Tente souvent de s'évader de prison.</definition>
         <definition>Impliqué dans des activités illégales.</definition>
     </word>
-
     <word value="sideshow mel">
         <definition>Assistant de Krusty le Clown.</definition>
         <definition>Moins en vue que Sideshow Bob.</definition>
         <definition>Connu pour son rire distinctif.</definition>
     </word>
-
     <word value="sideshow raheem">
         <definition>Un des comparses de Krusty le Clown.</definition>
         <definition>Apparaît sporadiquement dans la série.</definition>
         <definition>N'a pas de traits distinctifs bien définis.</definition>
     </word>
-
     <word value="squeaky-voiced teen">
         <definition>Employé timide et maladroit du fast-food "Krusty Burger".</definition>
         <definition>Travaille souvent au service au volant ou à la caisse du restaurant.</definition>
         <definition>Son véritable nom n'est jamais révélé dans la série.</definition>
     </word>
-
     <word value="snowball II">
         <definition>Deuxième chat de la famille Simpson après la mort de Snowball I.</definition>
         <definition>Rarement impliquée dans l'intrigue, utilisée comme accessoire.</definition>
         <definition>Son nom vient de l'ironie de la famille Simpson.</definition>
     </word>
-
     <word value="seymour skinner">
         <definition>Directeur de l'école élémentaire de Springfield.</definition>
         <definition>Obsédé par la discipline, mais cache un côté vulnérable.</definition>
         <definition>A adopté l'identité de Seymour Skinner.</definition>
     </word>
-
     <word value="scratchy">
         <definition>Personnage principal des cartoons "Itchy & Scratchy".</definition>
         <definition>Maltraité et tué par Itchy, une souris sadique.</definition>
         <definition>Revient toujours pour subir de nouveaux tourments.</definition>
     </word>
-
     <word value="sherri et terri">
         <definition>Jumelles identiques et camarades de classe de Lisa Simpson.</definition>
         <definition>Parfois sarcastiques ou méprisantes envers les autres élèves.</definition>
@@ -413,21 +384,29 @@
         <definition>Connu pour ses apparitions dans des films douteux et des publicités étranges.</definition>
         <definition>Son slogan : "Vous vous souvenez peut-être de moi dans...".</definition>
     </word>
-
     <word value="timothy lovejoy">
         <definition>Le révérend de l'église de Springfield.</definition>
         <definition>Connu pour son manque de charisme et ses prêches ennuyeux.</definition>
         <definition>Doit souvent faire face aux problèmes des habitants de la ville.</definition>
     </word>
-
     <word value="townspeople">
         <definition>Habitants variés de la ville de Springfield.</definition>
         <definition>Apparaissent dans de nombreux épisodes en tant que figurants ou dans des rôles mineurs.</definition>
         <definition>Contribuent à l'atmosphère et aux histoires de la série.</definition>
     </word>
+    <word value="todd">
+        <definition>Fils cadet de Ned Flanders et frère de Rod Flanders.</definition>
+        <definition>Comme son frère, il est élevé dans le respect des valeurs religieuses et est souvent montré comme un enfant poli et obéissant.</definition>
+        <definition>Est parfois présenté comme étant plus naïf et innocent que son frère, ce qui le rend plus facilement manipulable.</definition>
+    </word>
     <word value="uter zorker">
         <definition>Élève de l'école élémentaire de Springfield.</definition>
         <definition>D'origine étrangère, souvent victime d'intimidation.</definition>
         <definition>Connu pour sa passion pour la nourriture et les sucreries.</definition>
+    </word>
+    <word value="willie">
+        <definition>Le gardien de l'école élémentaire de Springfield, connu pour son fort accent écossais et son tempérament bouillant.</definition>
+        <definition>Est souvent montré comme étant fier de son travail et prêt à utiliser des méthodes peu orthodoxes pour maintenir l'école en ordre.</definition>
+        <definition>Affiche souvent un mépris ouvert envers les enfants, en particulier Bart Simpson, qu'il considère comme un fauteur de troubles.</definition>
     </word>
 </words>
