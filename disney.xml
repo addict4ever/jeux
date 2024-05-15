@@ -314,6 +314,11 @@
         <definition>Cherche constamment à se venger de Peter Pan, tout en évitant le crocodile qui a mangé sa main.</definition>
         <definition>Incarnation de la menace et de la rivalité, mais avec un côté comique dû à ses échecs répétés.</definition>
     </word>
+    <word value="chapelier fou">
+        <definition>Excentrique amateur de thé dans "Alice au Pays des Merveilles", connu pour sa fête de non-anniversaire perpétuelle et son comportement imprévisible.</definition>
+        <definition>Sa personnalité décalée et ses énigmes confuses ajoutent une touche de folie charmante à l'aventure d'Alice.</definition>
+        <definition>Symbolise l'absurdité et l'émerveillement du Pays des Merveilles, montrant comment l'imagination peut défier la logique et le sens commun.</definition>
+    </word>
     <word value="carl fredricksen">
         <definition>Vieil homme grincheux mais attachant du film "Là-haut".</definition>
         <definition>Entreprend un voyage épique en attachant des milliers de ballons à sa maison pour honorer la mémoire de sa femme.</definition>
@@ -459,11 +464,6 @@
         <definition>Essentiel dans la quête du trésor pour ses compétences en navigation et en science.</definition>
         <definition>Représente la curiosité et l'importance de la connaissance dans l'aventure.</definition>
     </word>
-    <word value="dewey">
-        <definition>Un des trois neveux de Donald Duck, connu pour son esprit aventureux et son pull bleu.</definition>
-        <definition>Participe souvent à des aventures avec ses frères et son oncle Donald.</definition>
-        <definition>Symbolise la curiosité et l'esprit d'équipe dans les dessins animés de Disney.</definition>
-    </word>
     <word value="dash">
         <definition>Fils moyen de la famille Parr dans "Les Indestructibles", possède une super-vitesse.</definition>
         <definition>Utilise ses pouvoirs pour faire des farces et aider sa famille dans leurs missions.</definition>
@@ -494,7 +494,7 @@
         <definition>Reflète la connexion entre les humains et les animaux, et l'intelligence animale.</definition>
         <definition>Symbolise la collaboration interspécifique et la résolution de problèmes complexes.</definition>
     </word>
-    <word value="disgust">
+    <word value="degout">
         <definition>Une des émotions dans "Vice-Versa", représentant le dégoût.</definition>
         <definition>Protège Riley des mauvaises expériences gustatives et sociales.</definition>
         <definition>Incarnation de l'instinct de répulsion et de la conscience sociale à l'adolescence.</definition>
@@ -614,7 +614,7 @@
         <definition>Aide les enfants à apprendre des leçons importantes sur l'amitié et la responsabilité.</definition>
         <definition>Symbolise la joie, la fidélité et les enseignements que peuvent apporter les animaux.</definition>
     </word>
-    <word value="eeyore">
+    <word value="bourriquet">
         <definition>Âne mélancolique dans les histoires de "Winnie l'Ourson".</definition>
         <definition>Souvent triste ou pessimiste, mais ses amis lui montrent toujours de l'affection et du soutien.</definition>
         <definition>Symbolise la tristesse mais aussi l'importance de l'amitié et du soutien émotionnel.</definition>
@@ -649,7 +649,7 @@
         <definition>Représente l'amour idéalisé et les espoirs romantiques.</definition>
         <definition>Symbolise la beauté de l'amour éternel et la magie des souhaits.</definition>
     </word>
-    <word value="elionwy">
+    <word value="eloise">
         <definition>Princesse magique dans "Taram et le chaudron magique", aide Taram dans sa quête pour trouver le chaudron.</definition>
         <definition>Utilise ses pouvoirs pour combattre le mal et protéger ses amis.</definition>
         <definition>Symbolise la force et l'indépendance féminines dans l'aventure et le conflit.</definition>
@@ -739,8 +739,8 @@
         <definition>Aide Peter et les enfants Darling dans leurs aventures au Pays Imaginaire.</definition>
         <definition>Symbolise la magie de l'enfance, la jalousie parfois, mais surtout l'amitié fidèle.</definition>
     </word>
-    <word value="faline">
-        <definition>Amie d'enfance et intérêt amoureux de Bambi dans "Bambi".</definition>
+    <word value="feline">
+        <definition>Amie d'enfance et intérêt amoureuse de Bambi.</definition>
         <definition>Participe à l'exploration du monde forestier et aux défis de la vie sauvage.</definition>
         <definition>Représente l'amour naissant et la beauté de la nature.</definition>
     </word>
@@ -755,9 +755,14 @@
         <definition>Représente la bienveillance, la sagesse et le pouvoir protecteur de la maternité.</definition>
     </word>
     <word value="fa mulan">
-        <definition>Jeune femme courageuse qui se déguise en homme pour prendre la place de son père dans l'armée dans "Mulan".</definition>
+        <definition>Jeune femme courageuse qui se déguise en homme pour prendre la place de son père dans l'armée.</definition>
         <definition>Démontre un grand courage et une habileté au combat, changeant les normes de son époque.</definition>
         <definition>Symbolise le courage, l'égalité des sexes et l'honneur familial.</definition>
+    </word>
+    <word value="fifi">
+        <definition>Un des trois neveux de Donald Duck, connu pour son esprit aventureux et son pull bleu.</definition>
+        <definition>Participe souvent à des aventures avec ses frères et son oncle Donald.</definition>
+        <definition>Symbolise la curiosité et l'esprit d'équipe dans les dessins animés de Disney.</definition>
     </word>
     <word value="figaro">
         <definition>Chat mignon et joueur, animal de compagnie de Geppetto dans "Pinocchio".</definition>
@@ -789,7 +794,7 @@
         <definition>Contribue à équilibrer les impulsions des autres émotions pour éviter les dangers.</definition>
         <definition>Représente l'importance de la prudence et la reconnaissance que la peur joue un rôle vital dans la protection.</definition>
     </word>
-    <word value="friar tuck">
+    <word value="frere tuck">
         <definition>Moine bon vivant et ami de Robin des Bois dans "Robin des Bois".</definition>
         <definition>Aide Robin dans ses efforts pour combattre l'injustice et soutenir les pauvres.</definition>
         <definition>Symbolise la gaieté, la générosité et la lutte contre l'oppression.</definition>
@@ -994,11 +999,6 @@
         <definition>Recherche la rédemption et une chance de se reconnecter avec les vivants pour se souvenir de lui.</definition>
         <definition>Symbolise les thèmes de la mémoire, de la réconciliation et de l'importance des racines familiales.</definition>
     </word>
-    <word value="huey">
-        <definition>L'un des triplés canards dans "La Bande à Picsou", connu pour son esprit aventureux et son bon sens.</definition>
-        <definition>Porte toujours un chandail rouge, se distinguant de ses frères par son attitude souvent plus réfléchie.</definition>
-        <definition>Représente la jeunesse curieuse et la quête constante de nouvelles aventures et découvertes.</definition>
-    </word>
     <word value="hyacinth hippo">
         <definition>Hippopotame danseur dans la séquence "Dance of the Hours" de "Fantasia".</definition>
         <definition>Elle performe avec grâce et élégance, ajoutant une touche de légèreté et de comédie à la performance classique.</definition>
@@ -1009,12 +1009,7 @@
         <definition>Connu pour sa trahison initiale et ses tentatives ultérieures de récupérer le Black Pearl.</definition>
         <definition>Symbolise la nature changeante de la loyauté et la recherche incessante de pouvoir et de rédemption.</definition>
     </word>
-    <word value="henwen">
-        <definition>Cochon devin dans "Taram et le chaudron magique", possède la clé pour localiser un artefact dangereux.</definition>
-        <definition>Sa capacité à voir l'avenir en fait une cible pour les forces du mal, déclenchant une série d'événements héroïques.</definition>
-        <definition>Représente l'innocence en possession d'un grand pouvoir, et l'importance de protéger les vulnérables.</definition>
-    </word>
-    <word value="happy">
+    <word value="joyeux">
         <definition>Un des sept nains de "Blanche-Neige", toujours joyeux et optimiste, quelles que soient les circonstances.</definition>
         <definition>Apporte un sourire constant et une attitude positive, équilibrant souvent l'atmosphère tendue créée par ses frères plus sérieux ou inquiets.</definition>
         <definition>Symbolise le bonheur inébranlable et l'effet positif d'une disposition joyeuse sur les autres.</definition>
@@ -1089,15 +1084,20 @@
         <definition>Traumatisée par l'abandon de son ancienne propriétaire, elle trouve une nouvelle famille avec Woody et Buzz.</definition>
         <definition>Représente la peur de l'abandon et la joie de trouver de nouveaux départs et de l'acceptation.</definition>
     </word>
-    <word value="joy">
+    <word value="joie">
         <definition>Une des cinq émotions dans "Vice-Versa", elle est l'incarnation de la joie et de l'optimisme dans l'esprit de la jeune Riley.</definition>
         <definition>Travaille constamment pour s'assurer que Riley reste heureuse, mais apprend l'importance des autres émotions dans la vie.</definition>
         <definition>Symbolise la recherche du bonheur et la complexité des émotions humaines.</definition>
     </word>
-    <word value="judge frollo">
+    <word value="juge frollo">
         <definition>Antagoniste sévère de "Le Bossu de Notre-Dame", il est le juge austère de Paris avec une obsession sombre pour Esmeralda.</definition>
         <definition>Sa quête de pureté et de contrôle révèle une profonde hypocrisie et cruauté.</definition>
         <definition>Incarnation de la tyrannie sous couvert de vertu, montrant comment le pouvoir et la piété peuvent être pervertis.</definition>
+    </word>
+    <word value="jack costaud">
+        <definition>Souris aventurière dans "Tic et Tac, les rangers du risque", connue pour son amour du fromage et son courage dans les missions périlleuses.</definition>
+        <definition>Son esprit aventureux et ses compétences en combat font de lui un membre clé de l'équipe de rangers.</definition>
+        <definition>Symbolise l'esprit d'équipe et l'audace, soulignant que la bravoure et une bonne dose d'humour sont essentiels pour surmonter les défis.</definition>
     </word>
     <word value="jack sparrow">
         <definition>Pirate excentrique et charismatique dans "Pirates des Caraïbes", connu pour ses évasions spectaculaires et sa ruse.</definition>
@@ -1244,7 +1244,7 @@
         <definition>Bien qu'elle n'apparaisse que brièvement, elle contribue à l'ambiance joyeuse et festive de la scène.</definition>
         <definition>Représente les personnages de soutien qui, bien que périphériques, aident à créer un contexte réaliste pour les événements principaux.</definition>
     </word>
-    <word value="jim dear">
+    <word value="jim cheri">
         <definition>Propriétaire humain et figure paternelle de Lady dans "La Belle et le Clochard".</definition>
         <definition>Son traitement aimant et responsable de Lady montre la forte connexion entre les humains et leurs animaux de compagnie.</definition>
         <definition>Représente la bienveillance et l'amour familial qui transcendent les espèces, illustrant les liens profonds que les animaux peuvent former avec leurs propriétaires.</definition>
@@ -1364,8 +1364,8 @@
         <definition>Son personnage montre le conflit intérieur entre protéger ses proches et leur permettre de grandir.</definition>
         <definition>Symbolise le dilemme parental entre sécurité et liberté, illustrant les défis de lâcher prise.</definition>
     </word>
-    <word value="kanga">
-        <definition>Mère attentionnée de Roo dans l'univers de "Winnie l'Ourson", elle offre un refuge sûr et des conseils maternels aux autres personnages.</definition>
+    <word value="grand gourou">
+        <definition>Mère attentionnée de petit gourou dans l'univers de "Winnie l'Ourson", elle offre un refuge sûr et des conseils maternels aux autres personnages.</definition>
         <definition>Elle incarne la figure maternelle classique, toujours prête à aider et à soigner les autres résidents de la forêt.</definition>
         <definition>Représente la bonté inconditionnelle et le rôle des parents dans la fourniture de soins et de soutien émotionnel.</definition>
     </word>
@@ -1425,7 +1425,7 @@
         <definition>Symbolise l'intégrité et le leadership, montrant l'importance de l'équité et du mérite dans le commandement.</definition>
     </word>
     <word value="lilo">
-        <definition>Jeune fille hawaïenne dans "Lilo Stitch" avec un grand cœur pour les créatures égarées, formant une famille avec des aliens.</definition>
+        <definition>Jeune fille hawaïenne avec un grand cœur pour les créatures égarées, formant une famille avec des aliens.</definition>
         <definition>Son amour pour le hula et les croyances hawaïennes imprègne sa quête de trouver et de préserver sa famille élargie.</definition>
         <definition>Représente l'innocence et la persistance, enseignant que la famille peut être choisie et créée avec ceux qui ont besoin d'amour.</definition>
     </word>
@@ -1544,11 +1544,6 @@
         <definition>Souvent impliqué dans les scènes de fond, sa présence ajoute à la richesse du monde aquatique dépeint dans le film.</definition>
         <definition>Représente la diversité de la vie sous-marine et l'importance de chaque créature dans l'écosystème de l'histoire.</definition>
     </word>
-    <word value="little john">
-        <definition>Compagnon loyal de Robin Hood, connu pour son imposante taille et son cœur d'or.</definition>
-        <definition>Utilise son ingéniosité et sa force pour aider Robin dans ses efforts pour défendre les pauvres contre l'injustice.</definition>
-        <definition>Symbolise la loyauté et le courage, montrant que la véritable grandeur vient de servir les autres.</definition>
-    </word>
     <word value="lena">
         <definition>Mystérieuse antagoniste dans "DuckTales", sorcière avec des motifs complexes et une relation compliquée avec les protagonistes.</definition>
         <definition>Sa quête de pouvoir est tempérée par des moments de doute et des choix moraux difficiles.</definition>
@@ -1574,11 +1569,6 @@
         <definition>Sa quête d'identité entre le monde des animaux et le monde humain souligne son parcours de croissance et de découverte de soi.</definition>
         <definition>Représente l'innocence et l'adaptabilité, illustrant comment les relations inter-espèces peuvent enseigner l'acceptation et le respect mutuel.</definition>
     </word>
-    <word value="mad hatter">
-        <definition>Excentrique amateur de thé dans "Alice au Pays des Merveilles", connu pour sa fête de non-anniversaire perpétuelle et son comportement imprévisible.</definition>
-        <definition>Sa personnalité décalée et ses énigmes confuses ajoutent une touche de folie charmante à l'aventure d'Alice.</definition>
-        <definition>Symbolise l'absurdité et l'émerveillement du Pays des Merveilles, montrant comment l'imagination peut défier la logique et le sens commun.</definition>
-    </word>
     <word value="merryweather">
         <definition>Une des trois fées marraines dans "La Belle au Bois Dormant", célèbre pour sa robe bleue et son tempérament joyeux et pratique.</definition>
         <definition>Utilise sa magie pour aider à protéger et soutenir la princesse Aurora face aux menaces de Maléfique.</definition>
@@ -1589,7 +1579,7 @@
         <definition>Son innocence et sa loyauté sans faille le rendent essentiel dans les aventures et les défis rencontrés par les personnages principaux.</definition>
         <definition>Symbolise l'authenticité et la fidélité, démontrant que l'honnêteté et un cœur pur sont plus précieux que n'importe quelle apparence extérieure.</definition>
     </word>
-    <word value="mother gothel">
+    <word value="mere gothel">
         <definition>Femme manipulatrice dans "Raiponce" qui cache la vérité sur l'origine de sa fille adoptive pour exploiter ses pouvoirs magiques.</definition>
         <definition>Sa chanson "Mother Knows Best" révèle ses tactiques de contrôle sous couvert de protection.</definition>
         <definition>Représente l'égoïsme et la manipulation, explorant les thèmes de la captivité et de la quête de liberté individuelle.</definition>
@@ -1613,11 +1603,6 @@
         <definition>Explorateur légendaire et antagoniste dans "Là-haut", obsédé par la capture d'une créature rare pour restaurer sa réputation.</definition>
         <definition>Son désir de prouver sa valeur le mène à des actions extrêmes, démontrant comment l'obsession peut corrompre.</definition>
         <definition>Représente la détermination et la chute, explorant les dangers de laisser les ambitions personnelles éclipser la moralité.</definition>
-    </word>
-    <word value="monterey jack">
-        <definition>Souris aventurière dans "Tic et Tac, les rangers du risque", connue pour son amour du fromage et son courage dans les missions périlleuses.</definition>
-        <definition>Son esprit aventureux et ses compétences en combat font de lui un membre clé de l'équipe de rangers.</definition>
-        <definition>Symbolise l'esprit d'équipe et l'audace, soulignant que la bravoure et une bonne dose d'humour sont essentiels pour surmonter les défis.</definition>
     </word>
     <word value="mulan">
         <definition>Jeune femme courageuse qui se déguise en homme pour prendre la place de son père dans l'armée, dans un célèbre film éponyme.</definition>
@@ -1674,11 +1659,6 @@
         <definition>Elle joue un rôle clé dans l'aventure de sa famille pour retourner chez eux après avoir été kidnappés.</definition>
         <definition>Symbolise l'innocence et la bravoure des jeunes, explorant le monde avec émerveillement et courage.</definition>
     </word>
-    <word value="madame de la grande bouche">
-        <definition>Armoire chanteuse d'opéra dans "La Belle et la Bête", ancienne dame de compagnie devenu un meuble animé.</definition>
-        <definition>Elle aide à organiser la vie du château et à préparer le bal entre Belle et la Bête.</definition>
-        <definition>Représente la loyauté et l'engagement envers la famille que l'on choisit, même dans des circonstances extraordinaires.</definition>
-    </word>
     <word value="madame patate">
         <definition>Épouse de Monsieur Patate dans la série "Toy Story", connue pour son humour piquant et son dévouement à sa famille.</definition>
         <definition>Elle joue un rôle crucial dans l'organisation des autres jouets et dans l'évasion de situations périlleuses.</definition>
@@ -1719,7 +1699,7 @@
         <definition>Sa ruse et sa persistance en font un antagoniste emblématique dans l'univers Disney.</definition>
         <definition>Symbolise le danger et la malice, rappelant les défis constants que les personnages doivent surmonter pour assurer leur sécurité.</definition>
     </word>
-    <word value="magica de spell">
+    <word value="miss tick">
         <definition>Sorcière ambitieuse et rivale de Picsou dans "La Bande à Picsou", connue pour ses tentatives incessantes de voler sa pièce porte-bonheur.</definition>
         <definition>Son intelligence et ses pouvoirs magiques en font une menace constante pour Picsou et sa fortune.</definition>
         <definition>Symbolise la convoitise et la persévérance, illustrant comment la quête de richesse peut obséder et corrompre.</definition>
@@ -2164,6 +2144,11 @@
         <definition>Sa sagesse et son amour familial le rendent central dans le récit.</definition>
         <definition>Symbolise la famille et la sagesse des anciens, illustrant l'importance des racines et des traditions.</definition>
     </word>
+    <word value="petit jean">
+        <definition>Compagnon loyal de Robin Hood, connu pour son imposante taille et son cœur d'or.</definition>
+        <definition>Utilise son ingéniosité et sa force pour aider Robin dans ses efforts pour défendre les pauvres contre l'injustice.</definition>
+        <definition>Symbolise la loyauté et le courage, montrant que la véritable grandeur vient de servir les autres.</definition>
+    </word>
     <word value="princess mindy">
         <definition>Fille du roi Neptune dans "Bob l'éponge, le film", qui essaie de convaincre son père de voir les bonnes qualités chez les gens plutôt que de juger hâtivement.</definition>
         <definition>Sa compassion et son intelligence jouent un rôle crucial dans l'évolution de l'histoire.</definition>
@@ -2183,6 +2168,11 @@
         <definition>Un des personnages de "Little Einsteins", série éducative pour enfants. Quincy est un musicien talentueux qui aime jouer de nombreux instruments.</definition>
         <definition>Il aide ses amis à résoudre des problèmes en utilisant la musique et son intelligence créative.</definition>
         <definition>Symbolise la créativité et le travail d'équipe, enseignant aux enfants l'importance de la musique et de la collaboration dans la résolution de défis.</definition>
+    </word>
+    <word value="riri picsou">
+        <definition>L'un des triplés canards dans "La Bande à Picsou", connu pour son esprit aventureux et son bon sens.</definition>
+        <definition>Porte toujours un chandail rouge, se distinguant de ses frères par son attitude souvent plus réfléchie.</definition>
+        <definition>Représente la jeunesse curieuse et la quête constante de nouvelles aventures et découvertes.</definition>
     </word>
     <word value="raiponce">
         <definition>Princesse à la longue chevelure magique, enfermée dans une tour isolée.</definition>
@@ -2243,6 +2233,11 @@
         <definition>Suricate bavard et plein d'esprit, adopte un style de vie sans souci.</definition>
         <definition>Meilleur ami d'un phacochère, ensemble ils adoptent un lionceau exilé.</definition>
         <definition>Favorise la philosophie "Hakuna Matata" pour éviter les tracas de la vie.</definition>
+    </word>
+    <word value="tirelire">
+        <definition>Cochon devin dans "Taram et le chaudron magique", possède la clé pour localiser un artefact dangereux.</definition>
+        <definition>Sa capacité à voir l'avenir en fait une cible pour les forces du mal, déclenchant une série d'événements héroïques.</definition>
+        <definition>Représente l'innocence en possession d'un grand pouvoir, et l'importance de protéger les vulnérables.</definition>
     </word>
     <word value="ursula">
         <definition>Sorcière de la mer qui manipule une princesse pour contrôler les océans.</definition>
