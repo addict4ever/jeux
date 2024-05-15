@@ -264,7 +264,12 @@
         <definition>Leur capacité à esquiver les attaques et à neutraliser les ennemis avec leur chant ajoute une stratégie de combat unique.</definition>
         <definition>Représente la malice et l'espièglerie, mettant en scène l'importance de la ruse et de la stratégie plutôt que la force brute.</definition>
     </word>
-    <word value="chargin' chuck">
+    <word value="champignon deluxe">
+        <definition>Objet de puissance dans les jeux Mario qui offre généralement des capacités ou des bonus spéciaux au-delà de l'agrandissement typique des Super Champignons.</definition>
+        <definition>Rare et précieux, il confère un avantage significatif lorsqu'utilisé avec sagesse.</definition>
+        <definition>Représente le privilège et l'amélioration, évoquant les récompenses obtenues en explorant et en prenant des risques.</definition>
+    </word>
+    <word value="chargin chuck">
         <definition>Koopa en tenue de football américain apparaissant dans plusieurs jeux Mario, chargeant et lançant des ballons sur Mario.</definition>
         <definition>Connus pour leur agressivité et leur endurance, ils représentent un défi physique supérieur à de nombreux ennemis standards.</definition>
         <definition>Symbolise la détermination et l'obstination, montrant que certains obstacles requièrent une approche plus robuste et directe.</definition>
@@ -313,6 +318,101 @@
         <definition>Premier royaume visité dans "Super Mario Odyssey", enveloppé dans une atmosphère sombre et brumeuse et peuplé de chapeaux vivants.</definition>
         <definition>Serve de point de départ pour l'aventure globetrotting de Mario, introduisant les mécaniques de possession par Cappy.</definition>
         <definition>Représente les commencements et les introductions, établissant les thèmes de transformation et de découverte qui pervadent le jeu.</definition>
+    </word>
+    <word value="donkey kong">
+        <definition>Un des personnages les plus célèbres de Nintendo, d'abord apparu comme adversaire dans son propre jeu où il lançait des tonneaux à Mario.</definition>
+        <definition>Plus tard, il devient le héros de "Donkey Kong Country", montrant une évolution de méchant à protagoniste bien-aimé.</definition>
+        <definition>Symbolise la rédemption et la diversité des personnages de jeu vidéo, illustrant une évolution bien au-delà de ses origines.</definition>
+    </word>
+    <word value="daisy">
+        <definition>Princesse de Sarasaland, connue pour sa personnalité indépendante et sportive, fréquemment présente dans les jeux "Mario Kart" et "Mario Party".</definition>
+        <definition>Souvent considérée comme ayant une approche plus dynamique que la princesse Peach.</definition>
+        <definition>Représente l'autonomie et la compétition, mettant en avant des traits de caractère forts et indépendants.</definition>
+    </word>
+    <word value="koopa squelette">
+        <definition>Koopa qui revient à la vie sous forme de squelette après avoir été vaincu, apparaissant souvent dans les châteaux et les donjons.</definition>
+        <definition>Leur capacité de régénération les rend des ennemis persistants, nécessitant souvent des stratégies spécifiques pour être complètement éliminés.</definition>
+        <definition>Symbolise la résilience et la persistance, reflétant des obstacles qui nécessitent plus qu'une simple solution temporaire pour être surmontés.</definition>
+    </word>
+    <word value="diddy kong">
+        <definition>Compagnon et neveu de Donkey Kong, apparu pour la première fois dans "Donkey Kong Country" comme personnage jouable aux côtés de DK.</definition>
+        <definition>Plus petit et plus rapide que Donkey, idéal pour accéder à des zones inaccessibles à son oncle, offrant une dynamique de jeu variée.</definition>
+        <definition>Représente la complémentarité et l'agilité, soulignant l'importance de diverses compétences au sein d'une équipe.</definition>
+    </word>
+    <word value="doopliss">
+        <definition>Antagoniste dans "Paper Mario : La Porte Millénaire", un esprit capable de voler les identités, y compris celle de Mario.</definition>
+        <definition>Ses pouvoirs de transformation apportent un élément unique de mystère et d'imitation au jeu.</definition>
+        <definition>Symbolise la tromperie et l'usurpation d'identité, explorant les thèmes de la perte et de la reconquête de soi.</definition>
+    </word>
+    <word value="dorrie">
+        <definition>Gentil monstre marin semblable à un dinosaure que Mario peut chevaucher dans "Super Mario 64" pour traverser des étendues d'eau.</definition>
+        <definition>Amical et coopératif, il aide à surmonter les obstacles aquatiques.</definition>
+        <definition>Représente l'aide et l'amitié, montrant comment différentes créatures peuvent aider à surmonter les défis.</definition>
+    </word>
+    <word value="bowser sombre">
+        <definition>Version maléfique de Bowser, créée par la magie, et apparaissant comme un boss final dans certains jeux.</definition>
+        <definition>Très puissant et intimidant, il est un des ennemis les plus redoutables pour Mario et ses amis.</definition>
+        <definition>Symbolise les ténèbres et la corruption, confrontant Mario à une version altérée de son ennemi de longue date.</definition>
+    </word>
+    <word value="panneau d'accélération">
+        <definition>Élément des pistes dans "Mario Kart" qui fournit un boost de vitesse à quiconque roule dessus.</definition>
+        <definition>Placé stratégiquement pour offrir des opportunités de dépassement et d'excitation accrue lors des courses.</definition>
+        <definition>Représente l'opportunité et l'accélération, intégrant un élément de rapidité et de risque calculé dans les compétitions.</definition>
+    </word>
+    <word value="deep cheep">
+        <definition>Variante agressive des Cheep Cheeps, poursuivant activement Mario lorsqu'il nage à proximité dans les jeux Mario.</definition>
+        <definition>Leur comportement plus hostile ajoute un niveau de difficulté supplémentaire dans les niveaux aquatiques.</definition>
+        <definition>Symbolise l'hostilité et la persistance, amplifiant les défis aquatiques par leur présence menaçante.</definition>
+    </word>
+    <word value="dino rhino">
+        <definition>Créature ressemblant à un dinosaure, rencontrée dans les niveaux de "Super Mario World".</definition>
+        <definition>Ils se transforment en Dino Torches plus petits et rapides quand ils sont touchés.</definition>
+        <definition>Symbolise la transformation et l'adaptabilité, montrant que les obstacles peuvent évoluer et devenir plus complexes avec le temps.</definition>
+    </word>
+    <word value="domino">
+        <definition>Obstacle sous forme de dominos qui tombent, rencontré dans "Super Mario RPG: Legend of the Seven Stars".</definition>
+        <definition>Leur chute en série peut bloquer des passages ou créer de nouveaux chemins, ajoutant une dynamique unique au gameplay.</definition>
+        <definition>Représente les chaînes de réactions et les conséquences imprévues, soulignant l'importance de l'action et de la réaction dans les stratégies de jeu.</definition>
+    </word>
+    <word value="dreamy luigi">
+        <definition>Version onirique de Luigi dans "Mario & Luigi: Dream Team", où il peut interagir avec le monde des rêves pour aider Mario.</definition>
+        <definition>Ses pouvoirs uniques permettent de manipuler l'environnement de rêve et de résoudre des énigmes complexes.</definition>
+        <definition>Symbolise l'imagination et le pouvoir des rêves, explorant comment les pensées et les fantasmes peuvent affecter la réalité.</definition>
+    </word>
+    <word value="dr. toadley">
+        <definition>Docteur excentrique dans "Mario & Luigi: Bowser's Inside Story", connu pour son expertise médicale et ses manières théâtrales.</definition>
+        <definition>Il joue un rôle clé dans l'aventure en fournissant des informations et des soins médicaux à Mario et Luigi.</definition>
+        <definition>Représente la connaissance et l'excentricité, illustrant comment l'expertise peut venir avec des traits de caractère uniques et mémorables.</definition>
+    </word>
+    <word value="double cherry">
+        <definition>Objet dans "Super Mario 3D World" qui crée des clones du personnage joueur, doublant la capacité d'action.</definition>
+        <definition>Permet des stratégies de jeu multiples en ayant plusieurs versions du personnage sur le champ de jeu simultanément.</definition>
+        <definition>Symbolise la multiplicité et l'ingéniosité, offrant de nouvelles manières de naviguer dans les défis et d'atteindre les objectifs.</definition>
+    </word>
+    <word value="dolphin">
+        <definition>Créatures amicales dans "Super Mario World" qui aident Mario à traverser des zones aquatiques en lui permettant de sauter sur eux.</definition>
+        <definition>Leur présence bienveillante dans des niveaux autrement difficiles offre un répit et une aide précieuse.</definition>
+        <definition>Symbolise l'aide et la coopération, démontrant que l'entraide est essentielle pour surmonter les défis.</definition>
+    </word>
+    <word value="dry bowser">
+        <definition>Version squelettique de Bowser, apparaissant après que Bowser soit défait dans certaines situations extrêmes.</definition>
+        <definition>Ses capacités ressemblent à celles de Bowser mais avec des attaques de feu améliorées et une résistance accrue.</definition>
+        <definition>Représente la résilience et la transformation, soulignant que même après une défaite, de nouveaux défis peuvent émerger.</definition>
+    </word>
+    <word value="dark star">
+        <definition>Objet maléfique dans "Mario & Luigi: Bowser's Inside Story", cherchant à absorber l'énergie vitale de Bowser et à causer le chaos.</definition>
+        <definition>Son influence corruptrice transforme les ennemis en versions plus sombres d'eux-mêmes, augmentant leur dangerosité.</definition>
+        <definition>Symbolise la corruption et le mal inhérent, illustrant les menaces intangibles qui peuvent altérer profondément le monde.</definition>
+    </word>
+    <word value="dash pepper">
+        <definition>Objet dans "Super Mario Galaxy 2" qui donne à Yoshi la capacité de courir à grande vitesse pendant un court moment.</definition>
+        <definition>Permet de traverser rapidement de grandes distances ou de surmonter des obstacles qui nécessitent une vitesse exceptionnelle.</definition>
+        <definition>Représente l'accélération et le pouvoir éphémère, montrant que certaines capacités peuvent offrir des avantages significatifs, mais limités dans le temps.</definition>
+    </word>
+    <word value="dino piranha">
+        <definition>Boss dans "Super Mario Galaxy", mélange d'une plante Piranha et d'un dinosaure, nécessitant une stratégie unique pour être vaincu.</definition>
+        <definition>Ses mouvements sont lents mais puissants, et battre ce boss requiert une bonne gestion de l'espace et du timing.</definition>
+        <definition>Symbolise la fusion des forces et la puissance brute, mettant en lumière la nécessité d'adapter les tactiques face à des adversaires hybrides.</definition>
     </word>
     <word value="meta knight">
         <definition>Guerrier mystérieux et parfois antagoniste dans la série "Kirby", reconnaissable à son armure et son masque.</definition>
@@ -394,6 +494,74 @@
         <definition>Ses transformations sont à la fois comiques et parfois inquiétantes, ajoutant une dimension unique aux défis que Mario doit affronter.</definition>
         <definition>Représente la dualité et la tromperie, explorant les thèmes de l'identité et de la manipulation.</definition>
     </word>
+    <word value="nana">
+        <definition>Un des deux protagonistes du jeu "Ice Climber", Nana est une alpiniste qui escalade des montagnes glacées pour récupérer des légumes volés par des créatures.</definition>
+        <definition>Elle représente la persévérance et le travail d'équipe, partageant souvent l'écran avec son partenaire Popo.</definition>
+        <definition>Symbolise l'aventure et la coopération, illustrant l'importance de la collaboration pour atteindre des objectifs élevés.</definition>
+    </word>
+    <word value="ninji">
+        <definition>Créature ennemie dans les jeux "Super Mario", souvent rencontrée dans des niveaux avec des plateformes élevées, bondissant pour gêner Mario.</definition>
+        <definition>Représentant les obstacles et les défis, ces créatures ajoutent une difficulté supplémentaire aux niveaux qu'elles peuplent.</definition>
+        <definition>Symbolise les défis et l'agilité, mettant en avant la nécessité de réaction rapide et de stratégie dans le jeu.</definition>
+    </word>
+    <word value="naomi">
+        <definition>Personnage du jeu "Style Savvy", elle est une conseillère mode qui aide les joueurs à choisir des tenues et à gérer leur boutique de mode.</definition>
+        <definition>Sa connaissance approfondie de la mode et son approche amicale en font un guide précieux pour les joueurs intéressés par le design.</definition>
+        <definition>Symbolise le style et l'entrepreneuriat, encourageant l'expression personnelle à travers la mode et la gestion d'une entreprise.</definition>
+    </word>
+    <word value="nidoking">
+        <definition>Pokémon de type Poison/Sol, connu pour sa force brute et son apparence intimidante.</definition>
+        <definition>Evolution de Nidorino, il est très prisé pour sa polyvalence et ses puissantes attaques dans les combats Pokémon.</definition>
+        <definition>Symbolise la puissance et l'évolution, montrant l'importance de l'évolution et du développement pour atteindre la pleine capacité.</definition>
+    </word>
+    <word value="niles">
+        <definition>Personnage de "Fire Emblem: Fates", un archer avec un passé trouble mais un talent remarquable pour l'arc.</definition>
+        <definition>Ses commentaires souvent provocateurs et son histoire complexe ajoutent de la profondeur au groupe de personnages du jeu.</definition>
+        <definition>Symbolise la rédemption et la complexité, explorant les thèmes du passé difficile et de la transformation personnelle.</definition>
+    </word>
+    <word value="narcian">
+        <definition>Vilain dans "Fire Emblem: The Binding Blade", un général vaniteux connu pour sa cruauté et son arrogance.</definition>
+        <definition>Il est l'un des antagonistes que les joueurs doivent vaincre, représentant l'ambition démesurée et la décadence morale.</definition>
+        <definition>Symbolise la corruption et l'orgueil, mettant en scène la chute inévitable qui suit souvent l'hubris extrême.</definition>
+    </word>
+    <word value="nooklings">
+        <definition>Timmy et Tommy, personnages de "Animal Crossing", neveux de Tom Nook, gèrent la boutique Nook's Cranny.</definition>
+        <definition>Ils représentent la nouvelle génération du commerce dans le jeu, apportant enthousiasme et innovation.</definition>
+        <definition>Symbolise le commerce et l'apprentissage, illustrant la transmission des connaissances et la croissance économique dans le monde du jeu.</definition>
+    </word>
+    <word value="nabiru">
+        <definition>Créature de "Monster Hunter Stories", un Felyne qui accompagne le joueur dans ses aventures.</definition>
+        <definition>Sa personnalité enjouée et ses compétences uniques le rendent indispensable pour naviguer dans le monde et combattre les monstres.</definition>
+        <definition>Symbolise la camaraderie et l'exploration, mettant en valeur l'importance des compagnons dans les quêtes et les découvertes.</definition>
+    </word>
+    <word value="nyx">
+        <definition>Personnage de "Fire Emblem: Fates", une mage sombre qui semble jeune mais est en réalité beaucoup plus âgée, en raison d'un sort mal tourné.</definition>
+        <definition>Sa sagesse et ses pouvoirs magiques puissants contrastent avec son apparence de jeune fille.</definition>
+        <definition>Symbolise l'erreur et la sagesse, représentant les conséquences durables des erreurs et la possibilité de croissance personnelle malgré les apparences.</definition>
+    </word>
+    <word value="nella">
+        <definition>Personnage de "Xenoblade Chronicles", une guerrière dévouée servant la famille royale avec loyauté et force.</definition>
+        <definition>Elle est une protectrice féroce, dont le courage et le sacrifice inspirent ceux autour d'elle.</definition>
+        <definition>Symbolise le devoir et le sacrifice, mettant en lumière l'importance de protéger les valeurs et les personnes chères.</definition>
+    </word>
+    <word value="ness">
+        <definition>Protagoniste du jeu "EarthBound", un jeune garçon doté de pouvoirs psychiques qui se lance dans une mission pour sauver le monde.</definition>
+        <definition>Son aventure à travers différentes villes et contre des ennemis uniques en fait une figure culte parmi les fans de Nintendo.</definition>
+        <definition>Symbolise le courage et l'innocence, explorant les thèmes de l'enfance et du passage à l'âge adulte à travers ses défis.</definition>
+    </word>
+    <word value="ninten">
+        <definition>Personnage principal du jeu "Mother", qui est l'ancêtre de la série qui inclut EarthBound.</definition>
+        <definition>Comme Ness, il possède des pouvoirs psychokinétiques et se lance dans une quête pour découvrir le mystère derrière l'héritage de sa famille.</definition>
+        <definition>Symbolise la découverte et l'héritage, montrant l'importance des racines et du passé dans la formation de notre identité.</definition>
+    </word>
+    <word value="nabooru">
+        <definition>Guerrière Gerudo dans "The Legend of Zelda: Ocarina of Time", elle joue un rôle crucial en tant qu'un des six Sages qui aident Link à vaincre Ganondorf.</definition>
+        <definition>Sa force et son indépendance en font un modèle pour de nombreux joueurs, représentant la résilience et la rébellion contre le mal.</definition>
+        <definition>Symbolise le pouvoir féminin et la rébellion, illustrant la force des convictions et la lutte contre l'oppression.</definition>
+    </word>
+    <word value="navi">
+        <definition>Fée accompagnatrice de Link dans "The Legend of Zelda: Ocarina of Time", connue pour ses conseils et ses alertes de "Hey! Listen!".</definition>
+        <definition>Elle guide Link à travers sa quête, offrant aide et informations vitales tout au long du jeu.</definition>
+        <definition>Symbolise la guidance et l'assistance, soulignant le rôle crucial du mentorat et du soutien dans les défis.</definition>
+    </word>
 </words>
-
-
