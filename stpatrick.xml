@@ -1,0 +1,412 @@
+<words>
+    <word value="arc-en-ciel">
+        <definition>Phénomène météorologique souvent associé à la légende du pot d'or des leprechauns.</definition>
+        <definition>Symbole de chance et de prospérité dans les célébrations de la Saint-Patrick.</definition>
+        <definition>Arche colorée apparaissant dans le ciel, souvent vue comme un signe de bonne fortune.</definition>
+    </word>
+    <word value="chance">
+        <definition>Élément essentiel des célébrations de la Saint-Patrick, symbolisé par le trèfle à quatre feuilles.</definition>
+        <definition>Concept de bonne fortune souvent associé aux traditions irlandaises.</definition>
+        <definition>Aspect positif de la vie célébré lors des festivités de la Saint-Patrick.</definition>
+    </word>
+    <word value="chope">
+        <definition>Récipient utilisé pour boire de la bière, particulièrement lors des fêtes de la Saint-Patrick.</definition>
+        <definition>Symbole de convivialité et de célébration dans les pubs irlandais.</definition>
+        <definition>Accessoire essentiel pour savourer les boissons lors des festivités de la Saint-Patrick.</definition>
+    </word>
+    <word value="defile">
+        <definition>Événement festif caractérisé par des parades colorées et animées célébrant la Saint-Patrick.</definition>
+        <definition>Manifestation publique marquant les célébrations de la fête irlandaise.</definition>
+        <definition>Tradition de la Saint-Patrick où les participants défilent en portant des costumes verts et des symboles irlandais.</definition>
+    </word>
+    <word value="elfe">
+        <definition>Créature mythologique souvent associée aux légendes irlandaises célébrées lors de la Saint-Patrick.</definition>
+        <definition>Être fantastique symbolisant la magie et la féérie des contes irlandais.</definition>
+        <definition>Figure emblématique des mythes et légendes de l'Irlande.</definition>
+    </word>
+    <word value="emeraude">
+        <definition>Pierre précieuse verte, souvent associée à l'Irlande, surnommée "l'île d'émeraude".</definition>
+        <definition>Symbole de richesse et de beauté, célébré lors de la Saint-Patrick.</definition>
+        <definition>Couleur verte emblématique des festivités de la Saint-Patrick.</definition>
+    </word>
+    <word value="farfadet">
+        <definition>Petit être légendaire irlandais, souvent malicieux, célébré lors de la Saint-Patrick.</definition>
+        <definition>Créature mythologique associée aux trésors cachés et aux pots d'or.</definition>
+        <definition>Symbole de la magie et du folklore irlandais, présent dans les célébrations de la Saint-Patrick.</definition>
+    </word>
+    <word value="festivite">
+        <definition>Ensemble des célébrations et des réjouissances organisées pour la Saint-Patrick.</definition>
+        <definition>Événements festifs marquant la fête irlandaise.</definition>
+        <definition>Période de réjouissance et de convivialité lors de la Saint-Patrick.</definition>
+    </word>
+    <word value="flute">
+        <definition>Instrument de musique souvent joué lors des festivités de la Saint-Patrick.</definition>
+        <definition>Symbole de la tradition musicale irlandaise.</definition>
+        <definition>Instrument emblématique des mélodies folkloriques irlandaises.</definition>
+    </word>
+    <word value="gnome">
+        <definition>Petit être mythique associé aux contes et légendes irlandaises, souvent célébré lors de la Saint-Patrick.</definition>
+        <definition>Créature fantastique symbolisant la magie et la mystique des traditions irlandaises.</definition>
+        <definition>Figure folklorique présente dans les histoires et légendes de l'Irlande.</definition>
+    </word>
+    <word value="guinness">
+        <definition>Bière noire emblématique de l'Irlande, souvent consommée lors des célébrations de la Saint-Patrick.</definition>
+        <definition>Symbole de la tradition brassicole irlandaise.</definition>
+        <definition>Boisson incontournable des pubs irlandais pendant la Saint-Patrick.</definition>
+    </word>
+    <word value="harpe">
+        <definition>Instrument de musique symbole de l'Irlande, souvent joué lors des célébrations de la Saint-Patrick.</definition>
+        <definition>Emblème national irlandais, représenté sur de nombreux objets et monuments.</definition>
+        <definition>Instrument traditionnel des mélodies et des chants irlandais.</definition>
+    </word>
+    <word value="ile">
+        <definition>Territoire entouré d'eau, faisant référence à l'Irlande, célébrée lors de la Saint-Patrick.</definition>
+        <definition>Symbolise l'Irlande, surnommée l'île d'émeraude.</definition>
+        <definition>Lieu de festivités et de traditions riches lors de la Saint-Patrick.</definition>
+    </word>
+    <word value="kilt">
+        <definition>Vêtement traditionnel souvent porté lors des festivités de la Saint-Patrick.</definition>
+        <definition>Symbole de la culture et de l'héritage celtique.</definition>
+        <definition>Tenue emblématique des parades et des célébrations irlandaises.</definition>
+    </word>
+    <word value="legende">
+        <definition>Récit traditionnel racontant les histoires et les mythes irlandais, souvent célébré lors de la Saint-Patrick.</definition>
+        <definition>Conte populaire associé aux traditions et aux croyances de l'Irlande.</definition>
+        <definition>Histoire mythique transmise de génération en génération en Irlande.</definition>
+    </word>
+    <word value="leprechaun">
+        <definition>Petit personnage mythique irlandais, souvent représenté avec un pot d'or, symbole de la Saint-Patrick.</definition>
+        <definition>Créature légendaire associée à la chance et aux trésors cachés.</definition>
+        <definition>Symbole emblématique des contes et légendes irlandaises.</definition>
+    </word>
+    <word value="lievre">
+        <definition>Animal souvent associé à la fertilité et à la chance dans les traditions irlandaises.</definition>
+        <definition>Symbole de renouveau et de prospérité célébré lors de la Saint-Patrick.</definition>
+        <definition>Figure présente dans les contes et mythes irlandais.</definition>
+    </word>
+    <word value="lutin">
+        <definition>Petit être légendaire, souvent espiègle, célébré lors des festivités de la Saint-Patrick.</definition>
+        <definition>Créature mythologique associée aux contes irlandais et à la magie.</definition>
+        <definition>Symbole de la malice et de la féérie des traditions irlandaises.</definition>
+    </word>
+    <word value="malachite">
+        <definition>Pierre précieuse verte, symbole de la couleur emblématique de la Saint-Patrick.</definition>
+        <definition>Symbole de prospérité et de beauté dans les célébrations irlandaises.</definition>
+        <definition>Pierre souvent utilisée pour les bijoux et les ornements lors de la Saint-Patrick.</definition>
+    </word>
+    <word value="or">
+        <definition>Métal précieux souvent associé aux trésors cachés des leprechauns.</definition>
+        <definition>Symbole de richesse et de chance célébré lors de la Saint-Patrick.</definition>
+        <definition>Élément emblématique des légendes irlandaises.</definition>
+    </word>
+    <word value="parade">
+        <definition>Défilé festif caractéristique des célébrations de la Saint-Patrick.</definition>
+        <definition>Manifestation publique de joie et de festivités lors de la fête irlandaise.</definition>
+        <definition>Événement coloré et animé réunissant les participants en costumes traditionnels.</definition>
+    </word>
+    <word value="patrimoine">
+        <definition>Ensemble des traditions et des coutumes transmises de génération en génération en Irlande.</definition>
+        <definition>Héritage culturel et historique célébré lors de la Saint-Patrick.</definition>
+        <definition>Richesse des contes, des légendes et des symboles irlandais.</definition>
+    </word>
+    <word value="pint">
+        <definition>Mesure de boisson souvent utilisée pour servir la bière lors des festivités de la Saint-Patrick.</definition>
+        <definition>Symbole de convivialité et de partage dans les pubs irlandais.</definition>
+        <definition>Contenant emblématique des célébrations irlandaises.</definition>
+    </word>
+    <word value="poete">
+        <definition>Auteur de vers et de chansons célébrant l'Irlande et ses traditions.</definition>
+        <definition>Figure importante de la culture irlandaise, souvent honorée lors de la Saint-Patrick.</definition>
+        <definition>Créateur de récits et de légendes irlandaises.</definition>
+    </word>
+    <word value="pot dor">
+        <definition>Trésor légendaire souvent gardé par les leprechauns et célébré lors de la Saint-Patrick.</definition>
+        <definition>Symbole de chance et de prospérité dans les légendes irlandaises.</definition>
+        <definition>Objet de quête dans les contes populaires irlandais.</definition>
+    </word>
+    <word value="prosperite">
+        <definition>État de richesse et de succès célébré lors de la Saint-Patrick.</definition>
+        <definition>Souhait de bonheur et de réussite pour l'année à venir.</definition>
+        <definition>Symbole de chance et de fortune dans les traditions irlandaises.</definition>
+    </word>
+    <word value="pub">
+        <definition>Lieu de convivialité où l'on célèbre la Saint-Patrick avec des amis et de la famille.</definition>
+        <definition>Établissement emblématique des rencontres et des festivités irlandaises.</definition>
+        <definition>Endroit où l'on partage des boissons et des histoires lors de la Saint-Patrick.</definition>
+    </word>
+    <word value="rejouissance">
+        <definition>Moment de fête et de joie partagée lors de la Saint-Patrick.</definition>
+        <definition>État de bonheur collectif célébré lors des festivités irlandaises.</definition>
+        <definition>Expression de la convivialité et de l'allégresse lors de la fête irlandaise.</definition>
+    </word>
+    <word value="shamrock">
+        <definition>Trèfle à trois feuilles, symbole de la Saint-Patrick et de l'Irlande.</definition>
+        <definition>Emblème de chance et de prospérité dans les traditions irlandaises.</definition>
+        <definition>Plante représentative des célébrations de la Saint-Patrick.</definition>
+    </word>
+    <word value="trefle">
+        <definition>Plante symbolisant la chance, souvent associée à la Saint-Patrick.</definition>
+        <definition>Élément emblématique des légendes et des traditions irlandaises.</definition>
+        <definition>Symbole de prospérité et de bonheur célébré lors de la fête irlandaise.</definition>
+    </word>
+    <word value="turlutte">
+        <definition>Chanson traditionnelle irlandaise souvent chantée lors des célébrations de la Saint-Patrick.</definition>
+        <definition>Mélodie folklorique typique des festivités irlandaises.</definition>
+        <definition>Chant populaire célébrant l'histoire et la culture de l'Irlande.</definition>
+    </word>
+    <word value="verdeur">
+        <definition>Qualité de ce qui est vert et luxuriant, souvent associée à l'Irlande et à la Saint-Patrick.</definition>
+        <definition>Symbole de renouveau et de vitalité dans les traditions irlandaises.</definition>
+        <definition>Aspect de la nature célébré lors des festivités de la Saint-Patrick.</definition>
+    </word>
+    <word value="vetements verts">
+        <definition>Tenue traditionnelle portée lors des célébrations de la Saint-Patrick.</definition>
+        <definition>Symbole de l'appartenance à la culture irlandaise et à ses festivités.</definition>
+        <definition>Habits emblématiques des défilés et des parades de la Saint-Patrick.</definition>
+    </word>
+    <word value="whisky">
+        <definition>Boisson alcoolisée traditionnelle souvent consommée lors de la Saint-Patrick.</definition>
+        <definition>Spiritueux emblématique des célébrations irlandaises.</definition>
+        <definition>Élément incontournable des toasts et des réjouissances lors de la fête irlandaise.</definition>
+    </word>
+    <word value="chaleur">
+        <definition>Sens de l'hospitalité et de la convivialité caractéristique des festivités de la Saint-Patrick.</definition>
+        <definition>Atmosphère accueillante et joyeuse des célébrations irlandaises.</definition>
+        <definition>Qualité de l'accueil et de l'amitié partagée lors de la Saint-Patrick.</definition>
+    </word>
+    <word value="danse">
+        <definition>Activité festive et rythmée, typique des célébrations de la Saint-Patrick.</definition>
+        <definition>Expression de la joie et de la convivialité dans les fêtes irlandaises.</definition>
+        <definition>Art traditionnel souvent pratiqué lors des défilés et des festivités irlandaises.</definition>
+    </word>
+    <word value="espoir">
+        <definition>Sentiment positif et optimiste célébré lors de la Saint-Patrick.</definition>
+        <definition>Souhait de bonheur et de prospérité pour l'année à venir.</definition>
+        <definition>Symbole de renouveau et de chance dans les traditions irlandaises.</definition>
+    </word>
+    <word value="generosite">
+        <definition>Qualité de partage et de bienveillance, souvent mise en avant lors de la Saint-Patrick.</definition>
+        <definition>Acte de donner et de soutenir les autres dans les célébrations irlandaises.</definition>
+        <definition>Valeur fondamentale des festivités de la Saint-Patrick.</definition>
+    </word>
+    <word value="kermesse">
+        <definition>Fête de village avec des jeux et des activités, souvent organisée pour la Saint-Patrick.</definition>
+        <definition>Événement festif et communautaire célébrant les traditions irlandaises.</definition>
+        <definition>Occasion de partage et de réjouissance dans les villages et les quartiers.</definition>
+    </word>
+    <word value="marche">
+        <definition>Balade ou déambulation organisée lors des festivités de la Saint-Patrick.</definition>
+        <definition>Activité physique et conviviale pour célébrer la fête irlandaise.</definition>
+        <definition>Promenade festive souvent accompagnée de musique et de chants.</definition>
+    </word>
+    <word value="nature">
+        <definition>Environnement verdoyant et luxuriant célébré lors de la Saint-Patrick.</definition>
+        <definition>Aspect de la beauté et de la richesse naturelle de l'Irlande.</definition>
+        <definition>Élément central des célébrations de la fête irlandaise.</definition>
+    </word>
+    <word value="accueil">
+        <definition>Réception chaleureuse et conviviale lors des célébrations de la Saint-Patrick.</definition>
+        <definition>Hospitalité offerte aux visiteurs et aux amis pendant les festivités irlandaises.</definition>
+        <definition>Acte de recevoir et de célébrer ensemble dans un esprit de partage.</definition>
+    </word>
+    <word value="bagpipes">
+        <definition>Instrument de musique à vent traditionnel souvent joué lors des festivités de la Saint-Patrick.</definition>
+        <definition>Symbole sonore des parades et des célébrations irlandaises.</definition>
+        <definition>Instrument emblématique des musiques folkloriques irlandaises et écossaises.</definition>
+    </word>
+    <word value="benevolat">
+        <definition>Acte de donner de son temps et de son énergie pour organiser les festivités de la Saint-Patrick.</definition>
+        <definition>Participation volontaire aux activités et aux événements de la fête irlandaise.</definition>
+        <definition>Esprit de service et de générosité manifesté lors des célébrations communautaires.</definition>
+    </word>
+    <word value="bonheur">
+        <definition>Sentiment de joie et de satisfaction célébré lors de la Saint-Patrick.</definition>
+        <definition>État de contentement partagé entre amis et famille pendant les festivités irlandaises.</definition>
+        <definition>Emotion positive ressentie lors des parades et des fêtes de la Saint-Patrick.</definition>
+    </word>
+    <word value="brassage">
+        <definition>Processus de fabrication de la bière, souvent mis en avant lors des célébrations de la Saint-Patrick.</definition>
+        <definition>Tradition brassicole irlandaise célébrée dans les pubs et les brasseries.</definition>
+        <definition>Art de créer des boissons artisanales pour les festivités irlandaises.</definition>
+    </word>
+    <word value="celtique">
+        <definition>Relatif aux cultures et aux traditions des peuples celtes, souvent célébrées lors de la Saint-Patrick.</definition>
+        <definition>Symbole de l'héritage culturel irlandais.</definition>
+        <definition>Style artistique et musical caractéristique des célébrations irlandaises.</definition>
+    </word>
+    <word value="claddagh">
+        <definition>Bague traditionnelle irlandaise symbolisant l'amour, l'amitié et la loyauté.</definition>
+        <definition>Bijou souvent offert lors des célébrations de la Saint-Patrick.</definition>
+        <definition>Emblème de l'engagement et des relations sincères dans la culture irlandaise.</definition>
+    </word>
+    <word value="clover">
+        <definition>Mot anglais pour "trèfle", symbole de la chance et de la Saint-Patrick.</definition>
+        <definition>Plante emblématique des légendes irlandaises et des festivités de la Saint-Patrick.</definition>
+        <definition>Symbole de prospérité et de bonheur célébré lors de la fête irlandaise.</definition>
+    </word>
+    <word value="communaute">
+        <definition>Ensemble des personnes se réunissant pour célébrer la Saint-Patrick.</definition>
+        <definition>Esprit de solidarité et de convivialité lors des festivités irlandaises.</definition>
+        <definition>Groupe partageant des traditions et des valeurs communes pendant la fête irlandaise.</definition>
+    </word>
+    <word value="contes">
+        <definition>Histoires et légendes racontées lors des célébrations de la Saint-Patrick.</definition>
+        <definition>Récits traditionnels mettant en scène les mythes et les héros irlandais.</definition>
+        <definition>Évocations de la richesse culturelle et de l'héritage historique de l'Irlande.</definition>
+    </word>
+    <word value="danse irlandaise">
+        <definition>Style de danse traditionnel souvent pratiqué lors des festivités de la Saint-Patrick.</definition>
+        <definition>Expression artistique et culturelle des parades et des fêtes irlandaises.</definition>
+        <definition>Activité rythmée et joyeuse caractéristique des célébrations de la Saint-Patrick.</definition>
+    </word>
+    <word value="delice">
+        <definition>Plats et boissons savoureux partagés lors des célébrations de la Saint-Patrick.</definition>
+        <definition>Plaisirs culinaires associés aux festivités irlandaises.</definition>
+        <definition>Gastronomie riche et variée mise en avant lors de la fête de la Saint-Patrick.</definition>
+    </word>
+    <word value="drapeau">
+        <definition>Enseigne tricolore vert, blanc et orange, représentant l'Irlande et arborée lors de la Saint-Patrick.</definition>
+        <definition>Symbole national affiché fièrement pendant les parades et les célébrations irlandaises.</definition>
+        <definition>Bannière représentant l'identité et l'héritage culturel de l'Irlande.</definition>
+    </word>
+    <word value="embleme">
+        <definition>Symbole représentant l'Irlande et ses traditions lors des célébrations de la Saint-Patrick.</definition>
+        <definition>Objet ou signe distinctif des festivités irlandaises.</definition>
+        <definition>Image emblématique de la culture et de l'héritage irlandais.</definition>
+    </word>
+    <word value="espoir">
+        <definition>Sentiment de confiance et de positivité célébré lors de la Saint-Patrick.</definition>
+        <definition>Souhait de bonheur et de prospérité pour l'année à venir.</definition>
+        <definition>Symbole de renouveau et de chance dans les traditions irlandaises.</definition>
+    </word>
+    <word value="famille">
+        <definition>Ensemble des proches réunis pour célébrer la Saint-Patrick.</definition>
+        <definition>Événement festif où l'on partage des moments précieux avec les êtres chers.</definition>
+        <definition>Valeur centrale des célébrations et des traditions irlandaises.</definition>
+    </word>
+    <word value="festin">
+        <definition>Repas copieux et joyeux partagé lors des festivités de la Saint-Patrick.</definition>
+        <definition>Banquet célébrant la richesse culinaire irlandaise.</definition>
+        <definition>Réjouissance gastronomique marquant la fête irlandaise.</definition>
+    </word>
+    <word value="feuille de trefle">
+        <definition>Symbole de la Saint-Patrick représentant la chance et la prospérité.</definition>
+        <definition>Plante emblématique des légendes et des traditions irlandaises.</definition>
+        <definition>Élément distinctif des décorations et des célébrations de la Saint-Patrick.</definition>
+    </word>
+    <word value="flanerie">
+        <definition>Promenade agréable et détendue lors des festivités de la Saint-Patrick.</definition>
+        <definition>Balade à travers les rues animées et décorées pour la fête irlandaise.</definition>
+        <definition>Moment de détente et de découverte pendant les célébrations irlandaises.</definition>
+    </word>
+    <word value="fortune">
+        <definition>Chance et prospérité souvent célébrées lors de la Saint-Patrick.</definition>
+        <definition>Souhait de réussite et de bonheur pour l'année à venir.</definition>
+        <definition>Symbole de richesse et de bonne fortune dans les traditions irlandaises.</definition>
+    </word>
+    <word value="gigue">
+        <definition>Danse traditionnelle irlandaise souvent pratiquée lors des festivités de la Saint-Patrick.</definition>
+        <definition>Style de danse rythmée et joyeuse caractéristique des parades et des fêtes irlandaises.</definition>
+        <definition>Expression artistique de la culture et de l'héritage irlandais.</definition>
+    </word>
+    <word value="histoires">
+        <definition>Récits et légendes racontés lors des célébrations de la Saint-Patrick.</definition>
+        <definition>Contes populaires mettant en scène les héros et les mythes irlandais.</definition>
+        <definition>Évocations de la richesse culturelle et historique de l'Irlande.</definition>
+    </word>
+    <word value="inspiration">
+        <definition>Source de motivation et de créativité célébrée lors de la Saint-Patrick.</definition>
+        <definition>Élan positif et créatif nourri par les festivités irlandaises.</definition>
+        <definition>Sentiment de renouveau et d'optimisme partagé pendant la fête de la Saint-Patrick.</definition>
+    </word>
+    <word value="jovialite">
+        <definition>Atmosphère joyeuse et conviviale des célébrations de la Saint-Patrick.</definition>
+        <definition>État d'esprit festif et amical caractéristique des fêtes irlandaises.</definition>
+        <definition>Sentiment de bonheur et de plaisir partagé pendant les festivités.</definition>
+    </word>
+    <word value="kilt">
+        <definition>Vêtement traditionnel souvent porté lors des festivités de la Saint-Patrick.</definition>
+        <definition>Symbole de la culture et de l'héritage celtique.</definition>
+        <definition>Tenue emblématique des parades et des célébrations irlandaises.</definition>
+    </word>
+    <word value="legende">
+        <definition>Récit traditionnel racontant les histoires et les mythes irlandais, souvent célébré lors de la Saint-Patrick.</definition>
+        <definition>Conte populaire associé aux traditions et aux croyances de l'Irlande.</definition>
+        <definition>Histoire mythique transmise de génération en génération en Irlande.</definition>
+    </word>
+    <word value="leprechaun">
+        <definition>Petit personnage mythique irlandais, souvent représenté avec un pot d'or, symbole de la Saint-Patrick.</definition>
+        <definition>Créature légendaire associée à la chance et aux trésors cachés.</definition>
+        <definition>Symbole emblématique des contes et légendes irlandaises.</definition>
+    </word>
+    <word value="lievre">
+        <definition>Animal souvent associé à la fertilité et à la chance dans les traditions irlandaises.</definition>
+        <definition>Symbole de renouveau et de prospérité célébré lors de la Saint-Patrick.</definition>
+        <definition>Figure présente dans les contes et mythes irlandais.</definition>
+    </word>
+    <word value="lutin">
+        <definition>Petit être légendaire, souvent espiègle, célébré lors des festivités de la Saint-Patrick.</definition>
+        <definition>Créature mythologique associée aux contes irlandais et à la magie.</definition>
+        <definition>Symbole de la malice et de la féérie des traditions irlandaises.</definition>
+    </word>
+    <word value="malachite">
+        <definition>Pierre précieuse verte, symbole de la couleur emblématique de la Saint-Patrick.</definition>
+        <definition>Symbole de prospérité et de beauté dans les célébrations irlandaises.</definition>
+        <definition>Pierre souvent utilisée pour les bijoux et les ornements lors de la Saint-Patrick.</definition>
+    </word>
+    <word value="mythologie">
+        <definition>Ensemble des légendes et des récits fantastiques irlandais célébrés lors de la Saint-Patrick.</definition>
+        <definition>Collection de contes et de traditions associées aux croyances irlandaises.</definition>
+        <definition>Héritage culturel riche en histoires et en symboles de l'Irlande.</definition>
+    </word>
+    <word value="or">
+        <definition>Métal précieux souvent associé aux trésors cachés des leprechauns.</definition>
+        <definition>Symbole de richesse et de chance célébré lors de la Saint-Patrick.</definition>
+        <definition>Élément emblématique des légendes irlandaises.</definition>
+    </word>
+    <word value="parade">
+        <definition>Défilé festif caractéristique des célébrations de la Saint-Patrick.</definition>
+        <definition>Manifestation publique de joie et de festivités lors de la fête irlandaise.</definition>
+        <definition>Événement coloré et animé réunissant les participants en costumes traditionnels.</definition>
+    </word>
+    <word value="patrimoine">
+        <definition>Ensemble des traditions et des coutumes transmises de génération en génération en Irlande.</definition>
+        <definition>Héritage culturel et historique célébré lors de la Saint-Patrick.</definition>
+        <definition>Richesse des contes, des légendes et des symboles irlandais.</definition>
+    </word>
+    <word value="pint">
+        <definition>Mesure de boisson souvent utilisée pour servir la bière lors des festivités de la Saint-Patrick.</definition>
+        <definition>Symbole de convivialité et de partage dans les pubs irlandais.</definition>
+        <definition>Contenant emblématique des célébrations irlandaises.</definition>
+    </word>
+    <word value="poete">
+        <definition>Auteur de vers et de chansons célébrant l'Irlande et ses traditions.</definition>
+        <definition>Figure importante de la culture irlandaise, souvent honorée lors de la Saint-Patrick.</definition>
+        <definition>Créateur de récits et de légendes irlandaises.</definition>
+    </word>
+    <word value="pub">
+        <definition>Lieu de convivialité où l'on célèbre la Saint-Patrick avec des amis et de la famille.</definition>
+        <definition>Établissement emblématique des rencontres et des festivités irlandaises.</definition>
+        <definition>Endroit où l'on partage des boissons et des histoires lors de la Saint-Patrick.</definition>
+    </word>
+    <word value="rejouissance">
+        <definition>Moment de fête et de joie partagée lors de la Saint-Patrick.</definition>
+        <definition>État de bonheur collectif célébré lors des festivités irlandaises.</definition>
+        <definition>Expression de la convivialité et de l'allégresse lors de la fête irlandaise.</definition>
+    </word>
+    <word value="shamrock">
+        <definition>Trèfle à trois feuilles, symbole de la Saint-Patrick et de l'Irlande.</definition>
+        <definition>Emblème de chance et de prospérité dans les traditions irlandaises.</definition>
+        <definition>Plante représentative des célébrations de la Saint-Patrick.</definition>
+    </word>
+    <word value="turlutte">
+        <definition>Chanson traditionnelle irlandaise souvent chantée lors des célébrations de la Saint-Patrick.</definition>
+        <definition>Mélodie folklorique typique des festivités irlandaises.</definition>
+        <definition>Chant populaire célébrant l'histoire et la culture de l'Irlande.</definition>
+    </word>
+    <word value="verdeur">
+        <definition>Qualité de ce qui est vert et luxuriant, souvent associée à l'Irlande et à la Saint-Patrick.</definition>
+        <definition>Symbole de renouveau et de vitalité dans les traditions irlandaises.</definition>
+        <definition>Aspect de la nature célébré lors des festivités de la Saint-Patrick.</definition>
+    </word>
+</words>
