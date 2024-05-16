@@ -1,0 +1,672 @@
+<words>
+    <word value="amour">
+        <definition>Sentiment profond d'affection et d'attachement envers quelqu'un.</definition>
+        <definition>Émotion puissante souvent célébrée lors de la Saint-Valentin.</definition>
+        <definition>Force qui unit les couples et inspire les gestes romantiques.</definition>
+    </word>
+    <word value="coeur">
+        <definition>Symbole universel de l'amour et de la passion.</definition>
+        <definition>Organe vital souvent associé aux émotions et aux sentiments romantiques.</definition>
+        <definition>Motif décoratif courant dans les cartes et les cadeaux de Saint-Valentin.</definition>
+    </word>
+    <word value="fleur">
+        <definition>Plante colorée offerte en signe d'affection et d'amour.</definition>
+        <definition>Cadeau traditionnel de la Saint-Valentin, symbolisant la beauté et la tendresse.</definition>
+        <definition>Élément central des bouquets romantiques et des décorations de fête.</definition>
+    </word>
+    <word value="chocolat">
+        <definition>Confiserie douce souvent offerte comme témoignage d'affection.</definition>
+        <definition>Cadeau populaire de la Saint-Valentin, apprécié pour son goût délicieux et sa symbolique romantique.</definition>
+        <definition>Friandise gourmande associée à la célébration de l'amour et des moments partagés.</definition>
+    </word>
+    <word value="bijou">
+        <definition>Objet précieux souvent offert en cadeau pour exprimer son amour.</definition>
+        <definition>Symbole de l'engagement et de la promesse dans les relations amoureuses.</definition>
+        <definition>Présent élégant et raffiné pour marquer une occasion spéciale comme la Saint-Valentin.</definition>
+    </word>
+    <word value="diner">
+        <definition>Repas partagé en tête-à-tête pour célébrer l'amour et la complicité.</definition>
+        <definition>Moment privilégié pour échanger des mots doux et des regards amoureux.</definition>
+        <definition>Occasion spéciale souvent marquée par une ambiance romantique et des mets raffinés.</definition>
+    </word>
+    <word value="lettre">
+        <definition>Message écrit exprimant des sentiments d'amour et de tendresse.</definition>
+        <definition>Forme classique de déclaration amoureuse, souvent conservée comme un précieux souvenir.</definition>
+        <definition>Missive personnelle remplie de mots doux et de promesses affectueuses.</definition>
+    </word>
+    <word value="romantique">
+        <definition>Qualité de ce qui est empreint de douceur et de passion amoureuse.</definition>
+        <definition>Atmosphère ou geste favorisant l'expression des sentiments amoureux.</definition>
+        <definition>Caractéristique des moments intimes et des surprises affectueuses partagées à deux.</definition>
+    </word>
+    <word value="celin">
+        <definition>Étreinte chaleureuse exprimant l'affection et la tendresse.</definition>
+        <definition>Geste doux et réconfortant souvent échangé entre amoureux.</definition>
+        <definition>Moment de proximité et de connexion émotionnelle, symbole de l'amour partagé.</definition>
+    </word>
+    <word value="poeme">
+        <definition>Composition littéraire exprimant des sentiments amoureux et des émotions profondes.</definition>
+        <definition>Ode à l'amour souvent offerte en cadeau pour déclarer sa flamme.</definition>
+        <definition>Texte lyrique et passionné célébrant la beauté de l'amour et de la romance.</definition>
+    </word>
+    <word value="rose">
+        <definition>Fleur emblématique de l'amour et de la passion, souvent offerte le jour de la Saint-Valentin.</definition>
+        <definition>Symbole de beauté et de romantisme, couramment utilisé dans les bouquets et les décorations.</definition>
+        <definition>Élément central des gestes romantiques, symbolisant l'affection et la tendresse.</definition>
+    </word>
+    <word value="parfum">
+        <definition>Fragrance délicate souvent offerte en signe d'amour et de désir.</definition>
+        <definition>Essence captivante évoquant des souvenirs et des émotions romantiques.</definition>
+        <definition>Cadeau raffiné symbolisant l'élégance et la séduction.</definition>
+    </word>
+    <word value="carte">
+        <definition>Message décoratif exprimant des vœux d'amour et d'affection.</definition>
+        <definition>Support traditionnel pour déclarer ses sentiments lors de la Saint-Valentin.</definition>
+        <definition>Objet souvent orné de motifs romantiques et de mots doux, offert à un être cher.</definition>
+    </word>
+    <word value="tendresse">
+        <definition>Affection douce et délicate exprimée envers un être aimé.</definition>
+        <definition>Sentiment de proximité et de chaleur partagée entre deux personnes.</definition>
+        <definition>Émotion bienveillante et apaisante, caractéristique des relations amoureuses.</definition>
+    </word>
+    <word value="etoile">
+        <definition>Astres brillants souvent utilisés comme métaphores de l'amour éternel et de la beauté céleste.</definition>
+        <definition>Symbole romantique évoquant des vœux et des rêves partagés.</definition>
+        <definition>Élément poétique associé à la magie des nuits étoilées et aux promesses d'amour.</definition>
+    </word>
+    <word value="amoureux">
+        <definition>Personne éprouvant des sentiments d'amour envers quelqu'un.</definition>
+        <definition>Individu partageant une relation romantique et passionnée avec un partenaire.</definition>
+        <definition>Qualificatif désignant ceux qui célèbrent leur affection mutuelle lors de la Saint-Valentin.</definition>
+    </word>
+    <word value="cupidon">
+        <definition>Divinité de l'amour souvent représentée avec un arc et des flèches, symbole de la Saint-Valentin.</definition>
+        <definition>Figure mythologique associée aux flèches de l'amour et aux rencontres romantiques.</definition>
+        <definition>Emblème des sentiments amoureux et des déclarations passionnées.</definition>
+    </word>
+    <word value="felicite">
+        <definition>État de bonheur intense et de satisfaction profonde souvent atteint grâce à l'amour.</definition>
+        <definition>Sensation de plénitude et de joie partagée entre deux personnes amoureuses.</definition>
+        <definition>Sentiment de bonheur parfait caractéristique des relations épanouies et harmonieuses.</definition>
+    </word>
+    <word value="passion">
+        <definition>Émotion intense et ardente caractérisant les sentiments amoureux.</definition>
+        <definition>Force irrésistible animant les relations romantiques et les gestes de dévotion.</definition>
+        <definition>Amour profond et impétueux souvent célébré lors de la Saint-Valentin.</definition>
+    </word>
+    <word value="emerveillement">
+        <definition>Sentiment d'admiration et de surprise agréable, souvent ressenti en présence de l'être aimé.</definition>
+        <definition>État d'enchantement provoqué par des gestes romantiques ou des moments partagés.</definition>
+        <definition>Sensation de bonheur intense lorsque l'amour dévoile sa beauté et sa magie.</definition>
+    </word>
+    <word value="elan">
+        <definition>Mouvement spontané et passionné vers l'être aimé.</definition>
+        <definition>Geste d'affection ou de tendresse, exprimé avec sincérité et enthousiasme.</definition>
+        <definition>Impulsion amoureuse poussant à agir pour le bien-être de l'autre.</definition>
+    </word>
+    <word value="idylle">
+        <definition>Relation amoureuse douce et charmante, souvent marquée par une grande harmonie.</definition>
+        <definition>Moment privilégié de bonheur partagé entre deux personnes amoureuses.</definition>
+        <definition>Aventure sentimentale caractérisée par la simplicité et la pureté des sentiments.</definition>
+    </word>
+    <word value="complicite">
+        <definition>Sentiment de connexion profonde et d'harmonie entre deux personnes.</definition>
+        <definition>Intimité et compréhension mutuelle qui renforcent les liens amoureux.</definition>
+        <definition>Partage de secrets et de moments précieux, créant un lien unique et spécial.</definition>
+    </word>
+    <word value="promesse">
+        <definition>Engagement sincère et solennel exprimant un vœu d'amour et de fidélité.</definition>
+        <definition>Parole donnée pour assurer un avenir commun et des projets partagés.</definition>
+        <definition>Acte symbolique de dévotion et de loyauté dans une relation amoureuse.</definition>
+    </word>
+    <word value="serenade">
+        <definition>Chanson ou mélodie romantique jouée en hommage à l'être aimé.</definition>
+        <definition>Geste musical de dévotion, souvent réalisé sous les fenêtres de la personne aimée.</definition>
+        <definition>Manifestation d'amour à travers la musique, créant une atmosphère de romance.</definition>
+    </word>
+    <word value="ravissement">
+        <definition>État de bonheur extrême et d'extase provoqué par l'amour.</definition>
+        <definition>Sensation d'enchantement et de joie intense en présence de l'être aimé.</definition>
+        <definition>Émotion profonde de plaisir et de satisfaction, liée à des moments partagés.</definition>
+    </word>
+    <word value="union">
+        <definition>Alliance entre deux personnes qui s'aiment, souvent célébrée par un mariage ou un engagement.</definition>
+        <definition>Fusion des cœurs et des esprits, créant une relation harmonieuse et durable.</definition>
+        <definition>Acte de s'unir pour construire un avenir commun et partagé.</definition>
+    </word>
+    <word value="flirt">
+        <definition>Interaction légère et enjouée entre deux personnes, souvent marquée par des signes d'affection.</definition>
+        <definition>Premiers échanges de séduction et de courtoisie dans une relation naissante.</definition>
+        <definition>Jeu de regards et de mots doux, préambule à une relation amoureuse plus profonde.</definition>
+    </word>
+    <word value="tendresse">
+        <definition>Affection douce et délicate exprimée envers un être aimé.</definition>
+        <definition>Sentiment de proximité et de chaleur partagée entre deux personnes.</definition>
+        <definition>Émotion bienveillante et apaisante, caractéristique des relations amoureuses.</definition>
+    </word>
+    <word value="valentin">
+        <definition>Nom donné à l'être cher ou à l'amoureux lors de la fête de la Saint-Valentin.</definition>
+        <definition>Personne spéciale à qui sont adressées des déclarations d'amour et des cadeaux romantiques.</definition>
+        <definition>Figure emblématique de la célébration de l'amour et de l'affection partagée.</definition>
+    </word>
+    <word value="passionne">
+        <definition>Qui éprouve ou manifeste des sentiments intenses et ardents.</definition>
+        <definition>Personne profondément dévouée et animée par l'amour pour l'autre.</definition>
+        <definition>Caractéristique d'une relation marquée par une forte intensité émotionnelle.</definition>
+    </word>
+    <word value="eblouissement">
+        <definition>Sensation de plaisir visuel intense, souvent provoquée par la beauté de l'être aimé.</definition>
+        <definition>État d'admiration et de fascination face à des gestes ou des paroles romantiques.</definition>
+        <definition>Moment de grâce où l'amour illumine la vie de manière éclatante.</definition>
+    </word>
+    <word value="devotion">
+        <definition>Engagement total et sincère envers l'être aimé, manifesté par des actes de tendresse.</definition>
+        <definition>Attachement profond et fidèle, caractérisé par un soin constant de l'autre.</definition>
+        <definition>Expression de l'amour par des gestes d'attention et de soutien inconditionnel.</definition>
+    </word>
+    <word value="entente">
+        <definition>Accord harmonieux et compréhension mutuelle entre deux personnes.</definition>
+        <definition>Qualité essentielle des relations amoureuses, permettant de surmonter les obstacles ensemble.</definition>
+        <definition>Complicité et respect réciproque, fondements d'une relation épanouie.</definition>
+    </word>
+    <word value="seduction">
+        <definition>Art de charmer et d'attirer l'autre par des gestes, des paroles et des regards.</definition>
+        <definition>Processus de conquête amoureuse, souvent marqué par des échanges subtils et envoûtants.</definition>
+        <definition>Capacité à éveiller le désir et l'intérêt chez la personne aimée.</definition>
+    </word>
+    <word value="serment">
+        <definition>Engagement solennel et sincère exprimé lors d'une déclaration d'amour.</definition>
+        <definition>Promesse faite à l'être aimé de fidélité et de soutien éternels.</definition>
+        <definition>Parole sacrée scellant une relation amoureuse par un pacte de confiance.</definition>
+    </word>
+    <word value="extase">
+        <definition>État de bonheur intense et de plaisir suprême ressenti en présence de l'être aimé.</definition>
+        <definition>Moment d'euphorie où l'amour se manifeste avec une puissance exceptionnelle.</definition>
+        <definition>Sensation de ravissement et de plénitude, caractéristique des émotions amoureuses.</definition>
+    </word>
+    <word value="cour">
+        <definition>Ensemble des efforts et des gestes destinés à séduire et à gagner le cœur de l'autre.</definition>
+        <definition>Processus de rapprochement et de découverte mutuelle dans une relation naissante.</definition>
+        <definition>Échange romantique marqué par des attentions et des marques d'affection.</definition>
+    </word>
+    <word value="ecrin">
+        <definition>Boîte précieuse contenant un bijou ou un cadeau symbolique.</definition>
+        <definition>Présent offert lors de la Saint-Valentin, représentant l'amour et la délicatesse.</definition>
+        <definition>Objet raffiné utilisé pour présenter un témoignage d'affection de manière élégante.</definition>
+    </word>
+     <word value="affection">
+        <definition>Sentiment tendre qui unit les personnes et inspire les gestes de gentillesse.</definition>
+        <definition>Manifestation d'amour et d'attachement sincère envers l'être aimé.</definition>
+        <definition>Émotion douce exprimée par des câlins, des bisous et des attentions.</definition>
+    </word>
+    <word value="caresse">
+        <definition>Geste tendre et doux visant à exprimer l'amour et la tendresse.</definition>
+        <definition>Contact physique délicat, souvent utilisé pour réconforter ou séduire.</definition>
+        <definition>Acte d'affection manifestant la douceur et l'attachement à l'autre.</definition>
+    </word>
+    <word value="embrasser">
+        <definition>Action de presser les lèvres contre celles d'une autre personne en signe d'amour.</definition>
+        <definition>Geste romantique exprimant l'affection et le désir.</definition>
+        <definition>Acte d'amour souvent partagé lors de moments intimes et spéciaux.</definition>
+    </word>
+    <word value="galanterie">
+        <definition>Comportement courtois et attentionné envers une personne, souvent dans un contexte romantique.</definition>
+        <definition>Art de séduire et de montrer de l'affection par des gestes élégants et respectueux.</definition>
+        <definition>Attitude chevaleresque visant à plaire et à honorer l'être aimé.</definition>
+    </word>
+    <word value="idole">
+        <definition>Personne adorée et admirée, souvent celle dont on est amoureux.</definition>
+        <definition>Objet de grande affection et de vénération dans une relation amoureuse.</definition>
+        <definition>Figure idéalisée représentant l'amour et la dévotion.</definition>
+    </word>
+    <word value="lune de miel">
+        <definition>Voyage ou séjour romantique effectué par les jeunes mariés après leur mariage.</definition>
+        <definition>Période de découverte et de passion partagée par les nouveaux époux.</definition>
+        <definition>Moments privilégiés de bonheur et de complicité après les noces.</definition>
+    </word>
+    <word value="mariage">
+        <definition>Union légale et formelle de deux personnes, souvent célébrée par une cérémonie.</definition>
+        <definition>Engagement mutuel à partager sa vie avec l'autre, symbolisé par des alliances.</definition>
+        <definition>Institution marquant le début d'une vie commune et d'un amour reconnu publiquement.</definition>
+    </word>
+    <word value="nuit etoilee">
+        <definition>Soirée romantique sous un ciel parsemé d'étoiles, propice aux déclarations d'amour.</definition>
+        <definition>Moment magique où les amoureux se retrouvent pour contempler les étoiles.</definition>
+        <definition>Instant privilégié de connexion et de partage sous la voûte céleste.</definition>
+    </word>
+    <word value="poignet">
+        <definition>Partie du corps souvent ornée de bijoux offerts en cadeau de Saint-Valentin.</definition>
+        <definition>Zone délicate du corps où l'on peut déposer des baisers doux.</definition>
+        <definition>Symbole de la beauté et de la sensualité, souvent valorisé par des bracelets.</definition>
+    </word>
+    <word value="quatrieme dimension">
+        <definition>Concept évoquant un amour si profond qu'il transcende le temps et l'espace.</definition>
+        <definition>Idée d'une connexion amoureuse si intense qu'elle semble irréelle et magique.</definition>
+        <definition>Expression de la profondeur et de l'infini dans les sentiments amoureux.</definition>
+    </word>
+    <word value="rosee">
+        <definition>Gouttes d'eau délicates déposées sur les fleurs au matin, symbole de fraîcheur et de beauté.</definition>
+        <definition>Image poétique souvent utilisée pour décrire la pureté et la douceur de l'amour naissant.</definition>
+        <definition>Évocation de la nature et de la tendresse dans les relations amoureuses.</definition>
+    </word>
+    <word value="scintillement">
+        <definition>Lumière douce et intermittente évoquant la magie des moments romantiques.</definition>
+        <definition>Éclat subtil et enchanteur souvent associé aux soirées et aux gestes amoureux.</definition>
+        <definition>Effet lumineux créant une atmosphère de rêve et de féérie dans les relations amoureuses.</definition>
+    </word>
+    <word value="tendresse">
+        <definition>Affection douce et délicate exprimée envers un être aimé.</definition>
+        <definition>Sentiment de proximité et de chaleur partagée entre deux personnes.</definition>
+        <definition>Émotion bienveillante et apaisante, caractéristique des relations amoureuses.</definition>
+    </word>
+    <word value="velours">
+        <definition>Tissu doux et lisse souvent utilisé pour les cadeaux et les décorations romantiques.</definition>
+        <definition>Symbole de luxe et de confort, évoquant la tendresse et l'affection.</definition>
+        <definition>Texture associée à la délicatesse et à l'élégance dans les gestes amoureux.</definition>
+    </word>
+    <word value="whisper">
+        <definition>Chuchotement doux et intime partagé entre deux amoureux.</definition>
+        <definition>Parole tendre murmurée à l'oreille de l'être aimé, créant une connexion spéciale.</definition>
+        <definition>Geste discret et affectueux exprimant l'amour et la complicité.</definition>
+    </word>
+    <word value="xoxo">
+        <definition>Expression symbolisant les baisers et les câlins, souvent utilisée dans les messages d'amour.</definition>
+        <definition>Sigle affectueux et chaleureux pour exprimer son amour et son affection.</definition>
+        <definition>Termes d'affection couramment employés dans les lettres et les cartes de Saint-Valentin.</definition>
+    </word>
+    <word value="yeux">
+        <definition>Partie du corps par laquelle passent de nombreux échanges amoureux et complices.</definition>
+        <definition>Organe de la vision, souvent qualifié de miroir de l'âme dans les relations amoureuses.</definition>
+        <definition>Symbole de la beauté et de l'intensité des sentiments partagés.</definition>
+    </word>
+    <word value="zenith">
+        <definition>Point culminant de l'amour et de la passion dans une relation amoureuse.</definition>
+        <definition>Moment de bonheur intense où les émotions sont à leur apogée.</definition>
+        <definition>Pic de la romance et de l'affection entre deux personnes amoureuses.</definition>
+    </word>
+    <word value="adulation">
+        <definition>Amour et admiration excessive envers quelqu'un.</definition>
+        <definition>Sentiment de vénération profonde souvent ressenti envers l'être aimé.</definition>
+        <definition>Affection intense manifestée par des gestes et des paroles tendres.</definition>
+    </word>
+    <word value="alliance">
+        <definition>Bague symbolisant l'engagement et l'union matrimoniale.</definition>
+        <definition>Symbole de fidélité et de promesse éternelle entre deux personnes.</definition>
+        <definition>Objet précieux échangé lors des cérémonies de mariage.</definition>
+    </word>
+    <word value="amoureux">
+        <definition>Personne éprouvant des sentiments d'amour envers quelqu'un.</definition>
+        <definition>Individu partageant une relation romantique et passionnée avec un partenaire.</definition>
+        <definition>Qualificatif désignant ceux qui célèbrent leur affection mutuelle lors de la Saint-Valentin.</definition>
+    </word>
+    <word value="ardeur">
+        <definition>Intensité des sentiments amoureux et passionnés.</definition>
+        <definition>Énergie et enthousiasme manifestés dans les gestes romantiques.</definition>
+        <definition>Ferveur caractérisant les relations amoureuses passionnées.</definition>
+    </word>
+    <word value="aspiration">
+        <definition>Souhait intense et profond de réaliser quelque chose avec l'être aimé.</definition>
+        <definition>Désir de partager un avenir commun et harmonieux.</definition>
+        <definition>Rêve d'amour et de bonheur partagé.</definition>
+    </word>
+    <word value="attirance">
+        <definition>Attraction physique et émotionnelle envers une personne.</definition>
+        <definition>Sentiment de désir et d'intérêt pour l'être aimé.</definition>
+        <definition>Force magnétique unissant deux personnes amoureuses.</definition>
+    </word>
+    <word value="beaute">
+        <definition>Qualité de ce qui est agréable à voir et qui inspire l'admiration.</definition>
+        <definition>Caractéristique de l'être aimé qui suscite l'affection et l'admiration.</definition>
+        <definition>Élément essentiel des relations amoureuses, symbolisant la perfection et l'harmonie.</definition>
+    </word>
+    <word value="beguin">
+        <definition>Premiers sentiments amoureux ressentis pour quelqu'un.</definition>
+        <definition>Attirance et fascination initiale dans une relation naissante.</definition>
+        <definition>État de légèreté et de bonheur associé à la découverte de l'amour.</definition>
+    </word>
+    <word value="celin">
+        <definition>Étreinte chaleureuse exprimant l'affection et la tendresse.</definition>
+        <definition>Geste doux et réconfortant souvent échangé entre amoureux.</definition>
+        <definition>Moment de proximité et de connexion émotionnelle, symbole de l'amour partagé.</definition>
+    </word>
+    <word value="candeur">
+        <definition>Simplicité et pureté des sentiments amoureux.</definition>
+        <definition>Qualité de ce qui est innocent et sincère dans une relation amoureuse.</definition>
+        <definition>État d'esprit caractérisé par la franchise et la douceur dans les échanges amoureux.</definition>
+    </word>
+    <word value="confiance">
+        <definition>Sentiment de sécurité et de sérénité dans une relation amoureuse.</definition>
+        <definition>Base essentielle des relations durables et harmonieuses.</definition>
+        <definition>Élément fondamental de l'engagement et de la fidélité entre deux personnes.</definition>
+    </word>
+    <word value="connivence">
+        <definition>Complicité et entente parfaite entre deux personnes.</definition>
+        <definition>Compréhension mutuelle et secrète dans une relation amoureuse.</definition>
+        <definition>Sympathie profonde et intuitive partagée par les amoureux.</definition>
+    </word>
+    <word value="constance">
+        <definition>Fidélité et persévérance dans les sentiments amoureux.</definition>
+        <definition>Stabilité et durabilité des relations affectives.</definition>
+        <definition>Qualité de ce qui est constant et inébranlable dans une relation amoureuse.</definition>
+    </word>
+    <word value="crush">
+        <definition>Attirance soudaine et intense pour quelqu'un.</definition>
+        <definition>Sentiment de désir et d'admiration envers une personne.</definition>
+        <definition>Phase initiale de fascination dans une relation amoureuse.</definition>
+    </word>
+    <word value="desir">
+        <definition>Sentiment intense de vouloir être proche de l'être aimé.</definition>
+        <definition>Émotion forte caractérisée par l'envie de partager des moments intimes.</definition>
+        <definition>Force motrice des gestes romantiques et des déclarations d'amour.</definition>
+    </word>
+    <word value="devotion">
+        <definition>Engagement total et sincère envers l'être aimé, manifesté par des actes de tendresse.</definition>
+        <definition>Attachement profond et fidèle, caractérisé par un soin constant de l'autre.</definition>
+        <definition>Expression de l'amour par des gestes d'attention et de soutien inconditionnel.</definition>
+    </word>
+    <word value="effusion">
+        <definition>Manifestation intense et spontanée de sentiments amoureux.</definition>
+        <definition>Expression débordante d'affection et de tendresse.</definition>
+        <definition>Élan de passion souvent partagé lors de moments romantiques.</definition>
+    </word>
+    <word value="engouement">
+        <definition>Passion soudaine et vive pour quelqu'un.</definition>
+        <definition>Sentiment de fascination et d'admiration intense.</definition>
+        <definition>Attirance irrésistible caractérisant les débuts d'une relation amoureuse.</definition>
+    </word>
+    <word value="epanouissement">
+        <definition>Développement harmonieux des sentiments amoureux.</definition>
+        <definition>État de bonheur et de plénitude dans une relation.</definition>
+        <definition>Croissance personnelle et émotionnelle grâce à l'amour partagé.</definition>
+    </word>
+    <word value="epouse">
+        <definition>Femme unie à une autre personne par les liens du mariage.</definition>
+        <definition>Partenaire de vie avec qui l'on partage un engagement et un amour profond.</definition>
+        <definition>Compagne fidèle et aimante dans une relation de couple.</definition>
+    </word>
+    <word value="epoux">
+        <definition>Homme uni à une autre personne par les liens du mariage.</definition>
+        <definition>Partenaire de vie avec qui l'on partage un engagement et un amour profond.</definition>
+        <definition>Compagnon fidèle et aimant dans une relation de couple.</definition>
+    </word>
+    <word value="espoir">
+        <definition>Attente positive et confiante d'un avenir amoureux heureux.</definition>
+        <definition>Sentiment d'optimisme et de foi en l'amour.</definition>
+        <definition>Espérance de moments heureux et de relations épanouissantes.</definition>
+    </word>
+    <word value="exaltation">
+        <definition>État de joie intense et de passion amoureuse.</definition>
+        <definition>Sensation de bonheur et d'euphorie dans les relations romantiques.</definition>
+        <definition>Émotion forte et enthousiasmante souvent ressentie en présence de l'être aimé.</definition>
+    </word>
+    <word value="fidelite">
+        <definition>Loyauté et dévouement constant envers l'être aimé.</definition>
+        <definition>Qualité essentielle des relations amoureuses durables.</definition>
+        <definition>Engagement à rester fidèle et loyal dans une relation.</definition>
+    </word>
+    <word value="frissons">
+        <definition>Sensations agréables ressenties lors de moments d'intimité et de passion.</definition>
+        <definition>Réactions physiques témoignant de l'émotion et de l'excitation amoureuse.</definition>
+        <definition>Moments de plaisir et de bonheur partagés avec l'être aimé.</definition>
+    </word>
+    <word value="fusion">
+        <definition>Union totale et harmonieuse entre deux personnes amoureuses.</definition>
+        <definition>Symbiose émotionnelle et spirituelle caractérisant les relations intimes.</definition>
+        <definition>État de connexion profonde et d'unité dans une relation amoureuse.</definition>
+    </word>
+    <word value="gentillesse">
+        <definition>Qualité de ce qui est aimable et attentionné dans une relation.</definition>
+        <definition>Attitude bienveillante et affectueuse envers l'être aimé.</definition>
+        <definition>Geste doux et délicat manifestant l'amour et le respect.</definition>
+    </word>
+    <word value="ivresse">
+        <definition>Sensation de bonheur et de plaisir intense dans une relation amoureuse.</definition>
+        <definition>État d'euphorie et d'exaltation ressenti en présence de l'être aimé.</definition>
+        <definition>Émotion enivrante de passion et d'amour partagé.</definition>
+    </word>
+    <word value="jubilation">
+        <definition>Joie exubérante et bonheur intense dans une relation amoureuse.</definition>
+        <definition>Sentiment de satisfaction profonde et de bonheur partagé.</definition>
+        <definition>Émotion de fête et de célébration de l'amour.</definition>
+    </word>
+    <word value="langueur">
+        <definition>État de douceur et de nonchalance dans les moments amoureux.</definition>
+        <definition>Sensation de calme et de détente en présence de l'être aimé.</definition>
+        <definition>Atmosphère romantique et apaisante caractérisant les échanges amoureux.</definition>
+    </word>
+    <word value="legerete">
+        <definition>Sens de l'insouciance et de la spontanéité dans les relations amoureuses.</definition>
+        <definition>Attitude joyeuse et détendue envers l'amour.</definition>
+        <definition>État d'esprit caractérisé par la simplicité et la douceur dans les moments partagés.</definition>
+    </word>
+    <word value="lumineux">
+        <definition>Qualité de ce qui est éclatant et radieux dans une relation amoureuse.</definition>
+        <definition>Sensation de bonheur et de clarté en présence de l'être aimé.</definition>
+        <definition>État de grâce et de lumière dans les échanges amoureux.</definition>
+    </word>
+    <word value="magnifique">
+        <definition>Qualificatif exprimant l'admiration et la beauté dans une relation amoureuse.</definition>
+        <definition>Sentiment de ravissement et de fascination envers l'être aimé.</definition>
+        <definition>État d'esprit exalté par la splendeur des moments partagés.</definition>
+    </word>
+    <word value="palpitation">
+        <definition>Battements rapides du cœur provoqués par l'excitation amoureuse.</definition>
+        <definition>Émotion intense et vive ressentie en présence de l'être aimé.</definition>
+        <definition>Signe physique de l'amour et de l'attirance passionnée.</definition>
+    </word>
+    <word value="paradis">
+        <definition>Lieu idéal et enchanteur où règne le bonheur amoureux.</definition>
+        <definition>État de félicité et de perfection dans une relation.</definition>
+        <definition>Symbole de la plénitude et de l'harmonie amoureuse.</definition>
+    </word>
+    <word value="reverie">
+        <definition>Moment de contemplation et de réflexion romantique.</definition>
+        <definition>État de rêverie douce et agréable en pensant à l'être aimé.</definition>
+        <definition>Évasion mentale vers des mondes imaginaires et enchanteurs.</definition>
+    </word>
+    <word value="seduction">
+        <definition>Art de charmer et d'attirer l'autre par des gestes, des paroles et des regards.</definition>
+        <definition>Processus de conquête amoureuse, souvent marqué par des échanges subtils et envoûtants.</definition>
+        <definition>Capacité à éveiller le désir et l'intérêt chez la personne aimée.</definition>
+    </word>
+    <word value="serment">
+        <definition>Engagement solennel et sincère exprimé lors d'une déclaration d'amour.</definition>
+        <definition>Promesse faite à l'être aimé de fidélité et de soutien éternels.</definition>
+        <definition>Parole sacrée scellant une relation amoureuse par un pacte de confiance.</definition>
+    </word>
+    <word value="soupir">
+        <definition>Expiration lente et profonde exprimant des émotions amoureuses.</definition>
+        <definition>Geste de soulagement ou de désir en présence de l'être aimé.</definition>
+        <definition>Expression silencieuse de l'amour et de la passion.</definition>
+    </word>
+    <word value="venus">
+        <definition>Déesse de l'amour et de la beauté dans la mythologie romaine.</definition>
+        <definition>Symbole de la séduction et de l'attirance romantique.</definition>
+        <definition>Figure emblématique des relations amoureuses et de la passion.</definition>
+    </word>
+    <word value="volupte">
+        <definition>Plaisir intense et raffiné ressenti dans les moments d'intimité.</definition>
+        <definition>Sensualité et délice des échanges amoureux.</definition>
+        <definition>État de satisfaction et de contentement dans une relation passionnée.</definition>
+    </word>
+    <word value="adoration">
+        <definition>Sentiment profond d'amour et de respect envers quelqu'un.</definition>
+        <definition>Émotion intense et sincère manifestée par des gestes et des mots doux.</definition>
+        <definition>Attachement fervent et dévoué à l'être aimé.</definition>
+    </word>
+    <word value="allegresse">
+        <definition>Joie intense et débordante ressentie lors de moments romantiques.</definition>
+        <definition>État de bonheur extrême partagé entre deux personnes amoureuses.</definition>
+        <definition>Sensations de plaisir et de satisfaction dans une relation amoureuse.</definition>
+    </word>
+    <word value="amabilite">
+        <definition>Qualité de ce qui est aimable et agréable dans une relation amoureuse.</definition>
+        <definition>Attitude de gentillesse et de bienveillance envers l'être aimé.</definition>
+        <definition>Comportement charmant et attentionné manifesté dans les échanges amoureux.</definition>
+    </word>
+    <word value="amitie">
+        <definition>Relation affectueuse et complice entre deux personnes, souvent base de l'amour romantique.</definition>
+        <definition>Attachement mutuel et sincère caractérisant les relations durables.</definition>
+        <definition>Affection et confiance partagées entre amis et amoureux.</definition>
+    </word>
+    <word value="amoureux transi">
+        <definition>Personne profondément amoureuse, souvent timide et hésitante.</definition>
+        <definition>Individu épris, mais n'osant pas exprimer ses sentiments.</definition>
+        <definition>État d'amour intense et silencieux, souvent associé à la rêverie.</definition>
+    </word>
+    <word value="attraction">
+        <definition>Force qui attire deux personnes l'une vers l'autre.</definition>
+        <definition>Sentiment de désir et de fascination pour l'être aimé.</definition>
+        <definition>Phénomène naturel et irrésistible dans les relations amoureuses.</definition>
+    </word>
+    <word value="aveu">
+        <definition>Déclaration sincère de ses sentiments amoureux.</definition>
+        <definition>Expression ouverte et honnête de l'amour ressenti.</definition>
+        <definition>Moment de vérité et de vulnérabilité dans une relation.</definition>
+    </word>
+    <word value="baiser">
+        <definition>Geste tendre consistant à poser ses lèvres sur celles de l'autre en signe d'amour.</definition>
+        <definition>Acte d'affection et de passion souvent partagé entre amoureux.</definition>
+        <definition>Expression physique de l'amour et de la tendresse.</definition>
+    </word>
+    <word value="beatitude">
+        <definition>État de bonheur parfait et de sérénité dans une relation amoureuse.</definition>
+        <definition>Sensation de plénitude et de contentement partagé avec l'être aimé.</definition>
+        <definition>Sentiment de félicité et de satisfaction profonde.</definition>
+    </word>
+    <word value="billet doux">
+        <definition>Lettre ou message écrit exprimant des sentiments amoureux.</definition>
+        <definition>Note romantique souvent échangée entre amoureux pour déclarer leur amour.</definition>
+        <definition>Message tendre et poétique témoignant de l'affection et du désir.</definition>
+    </word>
+    <word value="compliment">
+        <definition>Parole aimable et flatteuse adressée à l'être aimé pour exprimer son admiration.</definition>
+        <definition>Geste verbal de reconnaissance et d'affection dans une relation.</definition>
+        <definition>Expression de valorisation et d'estime envers l'autre.</definition>
+    </word>
+    <word value="connexion">
+        <definition>Lien émotionnel et spirituel établi entre deux personnes.</definition>
+        <definition>Sentiment de proximité et de compréhension mutuelle.</definition>
+        <definition>État de communion et d'unité dans une relation amoureuse.</definition>
+    </word>
+    <word value="delicatesse">
+        <definition>Qualité de ce qui est fin, subtil et attentionné dans une relation amoureuse.</definition>
+        <definition>Attitude de soin et de respect envers l'autre.</definition>
+        <definition>Geste tendre et raffiné exprimant l'amour et l'affection.</definition>
+    </word>
+    <word value="devouement">
+        <definition>Engagement total et sincère envers l'être aimé.</definition>
+        <definition>Acte d'amour consistant à se consacrer entièrement à l'autre.</definition>
+        <definition>Preuve de fidélité et de soutien inconditionnel dans une relation.</definition>
+    </word>
+    <word value="douceur">
+        <definition>Qualité de ce qui est agréable et tendre dans une relation amoureuse.</definition>
+        <definition>Geste délicat et affectueux exprimant l'amour et la tendresse.</definition>
+        <definition>Sens de la bienveillance et de la gentillesse dans les échanges amoureux.</definition>
+    </word>
+    <word value="echange">
+        <definition>Partage de sentiments, de pensées et de gestes dans une relation amoureuse.</definition>
+        <definition>Interaction et communication entre deux personnes amoureuses.</definition>
+        <definition>Acte de donner et de recevoir de l'amour et de l'affection.</definition>
+    </word>
+    <word value="envol">
+        <definition>Sensation de légèreté et de liberté ressentie en présence de l'être aimé.</definition>
+        <definition>État d'euphorie et de bonheur dans une relation amoureuse.</definition>
+        <definition>Élévation spirituelle et émotionnelle partagée entre amoureux.</definition>
+    </word>
+    <word value="extase">
+        <definition>État de joie et de plaisir intense dans une relation amoureuse.</definition>
+        <definition>Sensation de bonheur suprême et de satisfaction partagée.</definition>
+        <definition>Moments de passion et de ravissement dans les échanges amoureux.</definition>
+    </word>
+    <word value="flatterie">
+        <definition>Parole ou geste destiné à plaire et à séduire l'autre.</definition>
+        <definition>Acte de valorisation et de reconnaissance dans une relation amoureuse.</definition>
+        <definition>Expression d'admiration et de désir de plaire à l'être aimé.</definition>
+    </word>
+    <word value="idylle">
+        <definition>Histoire d'amour heureuse et romantique.</definition>
+        <definition>Relation amoureuse idéale et harmonieuse.</definition>
+        <definition>Moment de bonheur parfait et de complicité entre deux personnes.</definition>
+    </word>
+    <word value="joie">
+        <definition>Sentiment de bonheur intense et de plaisir partagé avec l'être aimé.</definition>
+        <definition>Émotion positive et exaltante dans une relation amoureuse.</definition>
+        <definition>État de contentement et de satisfaction ressenti en présence de l'autre.</definition>
+    </word>
+    <word value="mélodie">
+        <definition>Suite de sons harmonieux exprimant des sentiments romantiques.</definition>
+        <definition>Musique douce et agréable évoquant l'amour et la tendresse.</definition>
+        <definition>Chanson ou air partagé entre amoureux pour célébrer leur relation.</definition>
+    </word>
+    <word value="nourrir">
+        <definition>Prendre soin de l'autre en lui apportant amour et attention.</definition>
+        <definition>Entretenir et développer les sentiments amoureux dans une relation.</definition>
+        <definition>Geste d'affection consistant à combler les besoins émotionnels de l'autre.</definition>
+    </word>
+    <word value="passion">
+        <definition>Sentiment intense et ardent ressenti pour l'être aimé.</definition>
+        <definition>Émotion forte et brûlante caractérisant les relations amoureuses.</definition>
+        <definition>Désir irrésistible et dévorant partagé entre amoureux.</definition>
+    </word>
+    <word value="poesie">
+        <definition>Expression artistique et littéraire de l'amour et des sentiments romantiques.</definition>
+        <definition>Langage métaphorique et lyrique célébrant la beauté et la passion.</definition>
+        <definition>Ode à l'amour et à la tendresse, souvent écrite pour l'être aimé.</definition>
+    </word>
+    <word value="prévenance">
+        <definition>Attention délicate et anticipée envers l'autre.</definition>
+        <definition>Geste de soin et de protection manifestant l'amour.</definition>
+        <definition>Qualité de ce qui est attentif et bienveillant dans une relation amoureuse.</definition>
+    </word>
+    <word value="promesse">
+        <definition>Engagement sincère et solennel exprimé dans une relation amoureuse.</definition>
+        <definition>Parole donnée à l'être aimé de rester fidèle et dévoué.</definition>
+        <definition>Serment d'amour et de soutien inconditionnel.</definition>
+    </word>
+    <word value="proximite">
+        <definition>Sensation de proximité physique et émotionnelle avec l'être aimé.</definition>
+        <definition>État de connexion intime et de complicité partagée.</definition>
+        <definition>Sentiment de sécurité et de confort en présence de l'autre.</definition>
+    </word>
+    <word value="recueillement">
+        <definition>Moment de calme et de réflexion partagée avec l'être aimé.</definition>
+        <definition>État de méditation et de contemplation romantique.</definition>
+        <definition>Instant de paix et de sérénité dans une relation amoureuse.</definition>
+    </word>
+    <word value="regard">
+        <definition>Échange visuel chargé de signification et de tendresse.</definition>
+        <definition>Geste de communication silencieuse exprimant l'amour et l'affection.</definition>
+        <definition>Expression des sentiments amoureux par les yeux.</definition>
+    </word>
+    <word value="rire">
+        <definition>Manifestation de la joie et du bonheur partagé entre amoureux.</definition>
+        <definition>Échange de moments de complicité et de plaisir.</definition>
+        <definition>Expression de la légèreté et de la spontanéité dans une relation amoureuse.</definition>
+    </word>
+    <word value="serenite">
+        <definition>État de tranquillité et de paix intérieure dans une relation amoureuse.</definition>
+        <definition>Sensation de sécurité et de confort en présence de l'autre.</definition>
+        <definition>Qualité de ce qui est calme et harmonieux dans les échanges amoureux.</definition>
+    </word>
+    <word value="souvenir">
+        <definition>Moment mémorable et précieux partagé avec l'être aimé.</definition>
+        <definition>Évocation des instants passés remplis de bonheur et de tendresse.</definition>
+        <definition>Trace durable et émouvante des expériences amoureuses vécues ensemble.</definition>
+    </word>
+    <word value="tendresse">
+        <definition>Affection douce et délicate manifestée par des gestes et des mots.</definition>
+        <definition>Qualité de ce qui est tendre et aimant dans une relation amoureuse.</definition>
+        <definition>Expression de l'amour et de la bienveillance envers l'autre.</definition>
+    </word>
+    <word value="voeu">
+        <definition>Souhait sincère et profond exprimé pour l'avenir de la relation amoureuse.</definition>
+        <definition>Engagement solennel pris lors de moments importants, comme le mariage.</definition>
+        <definition>Déclaration d'intention et de promesse envers l'être aimé.</definition>
+    </word>
+    <word value="zele">
+        <definition>Ardeur et enthousiasme déployés pour plaire et satisfaire l'être aimé.</definition>
+        <definition>Dévouement et soin apportés à la relation amoureuse.</definition>
+        <definition>Énergie et passion manifestées dans les gestes d'amour et d'attention.</definition>
+    </word>
+</words>
