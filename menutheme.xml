@@ -4,6 +4,14 @@
         <file>https://raw.githubusercontent.com/addict4ever/jeux/main/words.xml</file>
     </option>
     <option>
+        <name>Saint-Valentin</name>
+        <file>https://raw.githubusercontent.com/addict4ever/jeux/main/valentin.xml</file>
+    </option>
+    <option>
+        <name>Saint-Patrick</name>
+        <file>https://raw.githubusercontent.com/addict4ever/jeux/main/stpatrick.xml</file>
+    </option>
+    <option>
         <name>Halloween</name>
         <file>https://raw.githubusercontent.com/addict4ever/jeux/main/halloween.xml</file>
     </option>
