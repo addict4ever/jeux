@@ -238,7 +238,7 @@
     <word value="hurlant">
         <definition>Produire ou émettre un son fort et perçant, souvent associé à des cris d'animaux sauvages et à des hurlements de douleur ou de terreur.</definition>
         <definition>Adjectif souvent utilisé pour décrire des vents violents et des tempêtes déchaînées, évoquant des images de chaos et de destruction.</definition>
-        <definition>Terme souvent utilisé pour décrire des personnages et des monstres hurlant dans les ténèbres, suscitant la terreur et l'effroi chez ceux qui les entendent.</definition>
+        <definition>Terme souvent utilisé pour décrire des personnages et des monstres , des sons dans les ténèbres, suscitant la terreur et l'effroi chez ceux qui les entendent.</definition>
     </word>
     <word value="sombre">
         <definition>De couleur foncée, souvent associé à des atmosphères lugubres et à des humeurs sombres, évoquant des sensations de tristesse et de désespoir.</definition>
@@ -280,5 +280,138 @@
         <definition>Thème récurrent dans les récits d'horreur et les légendes populaires, représentant la lutte contre des forces maléfiques et des pouvoirs occultes.</definition>
         <definition>Croyance en des forces maléfiques et des entités démoniaques capables de maudire les vivants et de les condamner à une vie de misère et de désespoir.</definition>
     </word>
-
+    <word value="sepulcre">
+        <definition>Tombeau ou lieu de sépulture, souvent associé à des rituels funéraires et à la mémoire des morts.</definition>
+        <definition>Structure monumentale destinée à abriter les restes d'une personne décédée.</definition>
+        <definition>Lieu sacré et vénéré, souvent entouré de mystère et de respect.</definition>
+    </word>
+    <word value="vampirisme">
+        <definition>Condition mythique où un individu se nourrit du sang des vivants pour survivre.</definition>
+        <definition>Thème récurrent dans la littérature et le cinéma d'horreur, associé à l'immortalité et à la séduction.</definition>
+        <definition>Pratique occulte impliquant l'absorption de l'énergie vitale d'autrui.</definition>
+    </word>
+    <word value="ensorcellement">
+        <definition>Action de jeter un sort ou d'utiliser la magie pour influencer ou contrôler quelqu'un.</definition>
+        <definition>État d'être sous l'influence d'un sortilège ou d'une incantation magique.</definition>
+        <definition>Pratique magique souvent associée à la sorcellerie et aux rites occultes.</definition>
+    </word>
+    <word value="grimoire">
+        <definition>Livre de magie contenant des sorts, des incantations et des recettes pour réaliser des rituels.</definition>
+        <definition>Ouvrage secret et ancien, souvent associé aux sorciers et aux alchimistes.</definition>
+        <definition>Recueil de connaissances occultes, utilisé pour la pratique de la magie noire et des arts mystiques.</definition>
+    <word value="sortilege">
+        <definition>Formule magique ou incantation utilisée pour jeter un sort ou invoquer des forces surnaturelles.</definition>
+        <definition>Acte de magie visant à influencer des événements ou des personnes par des moyens occultes.</definition>
+        <definition>Pratique occulte souvent associée à la sorcellerie et aux rituels magiques.</definition>
+    </word>
+    <word value="marais hante">
+        <definition>Zone marécageuse réputée pour être habitée par des esprits et des créatures surnaturelles.</definition>
+        <definition>Lieu souvent associé à des légendes de fantômes et à des phénomènes inexpliqués.</definition>
+        <definition>Endroit sinistre et mystérieux, suscitant la peur et la fascination chez ceux qui osent s'y aventurer.</definition>
+    </word>
+    <word value="crane">
+        <definition>Structure osseuse de la tête, souvent utilisée comme symbole de la mort et de la mortalité.</definition>
+        <definition>Objet macabre et décoratif souvent associé à Halloween et aux histoires d'horreur.</definition>
+        <definition>Symbole récurrent dans l'art et la littérature, représentant la fin de la vie et l'impermanence de l'existence.</definition>
+    </word>
+    <word value="lanterne d'Halloween">
+        <definition>Citrouille sculptée et illuminée par une bougie, utilisée comme décoration lors de la fête d'Halloween.</definition>
+        <definition>Élément emblématique des célébrations d'Halloween, symbolisant les esprits et les âmes errantes.</definition>
+        <definition>Objet décoratif créant une atmosphère effrayante et festive pendant les festivités d'automne.</definition>
+    </word>
+    <word value="alchimiste">
+        <definition>Personne pratiquant l'alchimie, une ancienne discipline philosophique et proto-scientifique.</definition>
+        <definition>Individu cherchant à transformer des métaux en or et à découvrir l'élixir de vie éternelle.</definition>
+        <definition>Figure souvent associée à la magie et à la quête de connaissances ésotériques.</definition>
+    </word>
+    <word value="malefice">
+        <definition>Sort ou envoûtement destiné à nuire à quelqu'un.</definition>
+        <definition>Acte de magie noire visant à causer des dommages ou du malheur.</definition>
+        <definition>Rituel occulte utilisé pour jeter une malédiction ou provoquer des effets néfastes.</definition>
+    </word>
+    <word value="spectrale">
+        <definition>Relatif aux spectres ou aux fantômes.</definition>
+        <definition>Apparence ou atmosphère fantomatique et effrayante.</definition>
+        <definition>Évoquant des présences invisibles et inquiétantes.</definition>
+    </word>
+    <word value="ensorceler">
+        <definition>Exercer un pouvoir magique sur quelqu'un, le soumettre à un charme.</definition>
+        <definition>Captiver ou séduire par des moyens occultes ou mystérieux.</definition>
+        <definition>Envoûter ou fasciner irrésistiblement.</definition>
+    </word>
+    <word value="incantation">
+        <definition>Formule magique récitée pour jeter un sort ou invoquer des esprits.</definition>
+        <definition>Paroles rituelles utilisées dans les pratiques occultes et les cérémonies magiques.</definition>
+        <definition>Chant ou formule prononcé lors de rituels de sorcellerie pour provoquer des effets surnaturels.</definition>
+    </word>
+    <word value="phylactere">
+        <definition>Amulette ou talisman protecteur porté pour se prémunir contre le mal.</definition>
+        <definition>Objet sacré ou texte religieux utilisé dans les pratiques occultes et magiques.</definition>
+        <definition>Petit rouleau de parchemin contenant des prières ou des formules magiques.</definition>
+    </word>
+    <word value="pentagramme">
+        <definition>Symbole étoilé à cinq branches souvent utilisé dans les rituels occultes et magiques.</definition>
+        <definition>Figure géométrique associée à la protection et à la puissance mystique.</definition>
+        <definition>Étoile à cinq branches utilisée comme symbole de sorcellerie et de magie.</definition>
+    </word>
+    <word value="clairvoyance">
+        <definition>Capacité à percevoir des événements ou des informations cachées au-delà des sens normaux.</definition>
+        <definition>Talent surnaturel permettant de voir l'avenir ou des réalités invisibles.</definition>
+        <definition>Perception extrasensorielle utilisée dans les pratiques divinatoires et occultes.</definition>
+    </word>
+    <word value="lycanthropie">
+        <definition>Transformation mythique d'un humain en loup ou en créature lupine.</definition>
+        <definition>Condition légendaire où une personne se transforme en loup-garou lors de la pleine lune.</definition>
+        <definition>État de métamorphose associé aux récits de loups-garous et aux malédictions.</definition>
+    </word>
+    <word value="runique">
+        <definition>Relatif aux runes, caractères anciens utilisés dans les inscriptions magiques et divinatoires.</definition>
+        <definition>Symbole ou écriture mystique associé aux pratiques occultes et ésotériques.</definition>
+        <definition>Inscription gravée sur des objets sacrés ou magiques pour invoquer des pouvoirs surnaturels.</definition>
+    </word>
+    <word value="echafaud">
+        <definition>Structure temporaire utilisée pour les exécutions publiques, souvent associée à la guillotine.</definition>
+        <definition>Plateforme où les condamnés à mort étaient exécutés, symbole de mort et de terreur.</definition>
+        <definition>Lieu de supplice et de mise à mort, souvent représenté dans les histoires d'horreur.</definition>
+    </word>
+    <word value="effigie">
+        <definition>Représentation d'une personne, souvent utilisée dans les rituels magiques ou funéraires.</definition>
+        <definition>Figure ou sculpture symbolisant un individu, utilisée pour des pratiques occultes.</definition>
+        <definition>Image ou statue représentant quelqu'un, parfois employée pour jeter des sorts.</definition>
+    </word>
+    <word value="divination">
+        <definition>Art de prédire l'avenir ou de découvrir des choses cachées par des moyens surnaturels.</definition>
+        <definition>Pratique occulte utilisant des méthodes comme la lecture des cartes, des runes ou des astres.</definition>
+        <definition>Techniques mystiques employées pour obtenir des révélations sur des événements futurs ou secrets.</definition>
+    </word>
+    <word value="haruspice">
+        <definition>Prêtre ou devin de l'Antiquité qui pratiquait la divination en examinant les entrailles des animaux sacrifiés.</definition>
+        <definition>Personne pratiquant la haruspication pour prédire l'avenir ou interpréter des présages.</definition>
+        <definition>Devineur utilisant des méthodes anciennes pour lire les signes dans les viscères des victimes sacrificielles.</definition>
+    </word>
+    <word value="chamanisme">
+        <definition>Pratiques et croyances religieuses des chamans, qui agissent comme intermédiaires entre le monde des esprits et les humains.</definition>
+        <definition>Rituels de guérison, de divination et de magie effectués par les chamans pour influencer les forces surnaturelles.</definition>
+        <definition>Traditions spirituelles utilisant des techniques de transe et de communication avec les esprits pour obtenir des révélations et des pouvoirs mystiques.</definition>
+    </word>
+    <word value="apparition">
+        <definition>Manifestation soudaine et visible d'un être surnaturel, souvent associé à des fantômes ou des esprits.</definition>
+        <definition>Phénomène inexplicable où une entité invisible devient perceptible aux sens humains.</definition>
+        <definition>Vision mystérieuse et effrayante souvent rapportée dans les histoires de maisons hantées et de lieux maudits.</definition>
+    </word>
+    <word value="grimoire">
+        <definition>Livre de magie contenant des sorts, des incantations et des recettes pour réaliser des rituels.</definition>
+        <definition>Ouvrage secret et ancien, souvent associé aux sorciers et aux alchimistes.</definition>
+        <definition>Recueil de connaissances occultes, utilisé pour la pratique de la magie noire et des arts mystiques.</definition>
+    </word>
+    <word value="halloween">
+        <definition>Fête célébrée le 31 octobre, marquée par des costumes, des décorations effrayantes et des activités comme la collecte de bonbons.</definition>
+        <definition>Événement annuel associant traditions païennes et modernes, souvent axé sur les thèmes de la peur et de l'horreur.</definition>
+        <definition>Journée où les enfants se déguisent en créatures effrayantes et vont de porte en porte pour demander des friandises.</definition>
+    </word>
+    <word value="ensorceleur">
+        <definition>Personne pratiquant la sorcellerie, capable de lancer des sorts et d'utiliser des pouvoirs magiques.</definition>
+        <definition>Sorcier ou magicien utilisant des charmes et des incantations pour influencer les événements ou les individus.</definition>
+        <definition>Figure mystique souvent associée à la manipulation des forces occultes et à l'usage des rituels magiques.</definition>
+    </word>
 </words>
