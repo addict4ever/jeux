@@ -1,192 +1,352 @@
 <words>
-    <word value="natation">
-        <definition>Sport consistant à nager dans une piscine ou en milieu naturel.</definition>
-        <definition>Activité physique bénéfique pour la santé et la forme physique.</definition>
-        <definition>Sport populaire en été pour se rafraîchir et rester actif.</definition>
+    <word value="acrobatie">
+        <definition>Performance physique impliquant des figures et des mouvements aériens spectaculaires.</definition>
+        <definition>Activité pratiquée dans des festivals et des spectacles estivaux.</definition>
+        <definition>Symbole de compétence et de maîtrise corporelle.</definition>
     </word>
-    <word value="surf">
-        <definition>Sport de glisse pratiqué sur les vagues avec une planche.</definition>
-        <definition>Activité estivale populaire sur les plages océaniques.</definition>
-        <definition>Symbole de liberté et d'aventure en été.</definition>
-    </word>
-    <word value="beach-volley">
-        <definition>Sport de balle joué sur le sable entre deux équipes de deux joueurs.</definition>
-        <definition>Activité populaire sur les plages en été.</definition>
-        <definition>Symbole de compétition et de convivialité estivale.</definition>
-    </word>
-    <word value="randonnee">
-        <definition>Activité de marche sur des sentiers naturels ou en montagne.</definition>
-        <definition>Loisir estival permettant de découvrir la nature et de rester en forme.</definition>
-        <definition>Symbole d'exploration et de détente en plein air.</definition>
-    </word>
-    <word value="cyclisme">
-        <definition>Sport pratiqué à vélo, sur route ou sur des chemins de terre.</definition>
-        <definition>Activité physique populaire pour explorer les paysages estivaux.</definition>
-        <definition>Symbole de liberté et de mobilité durable en été.</definition>
-    </word>
-    <word value="paddle">
-        <definition>Sport de glisse sur l'eau pratiqué debout sur une planche avec une pagaie.</definition>
-        <definition>Activité relaxante et amusante en bord de mer ou sur les lacs.</definition>
-        <definition>Symbole de tranquillité et de connexion avec la nature en été.</definition>
-    </word>
-    <word value="canoe-kayak">
-        <definition>Sport nautique pratiqué avec une pagaie dans des embarcations légères.</definition>
-        <definition>Activité estivale pour explorer les rivières et les lacs.</definition>
-        <definition>Symbole d'aventure et de découverte aquatique.</definition>
-    </word>
-    <word value="escalade">
-        <definition>Activité sportive consistant à grimper des parois rocheuses ou des murs artificiels.</definition>
-        <definition>Sport d'été pratiqué en montagne ou en falaise.</definition>
-        <definition>Symbole de défi et de maîtrise de soi.</definition>
-    </word>
-    <word value="planche a voile">
-        <definition>Sport nautique consistant à naviguer sur une planche équipée d'une voile.</definition>
-        <definition>Activité estivale populaire sur les lacs et les océans.</definition>
-        <definition>Symbole de liberté et de sensation forte sur l'eau.</definition>
-    </word>
-    <word value="kitesurf">
-        <definition>Sport de glisse nautique utilisant une aile de traction et une planche.</definition>
-        <definition>Activité dynamique et extrême pratiquée en été.</definition>
-        <definition>Symbole d'adrénaline et de maîtrise des éléments naturels.</definition>
-    </word>
-    <word value="ski nautique">
-        <definition>Sport nautique où l'on est tracté par un bateau sur des skis.</definition>
-        <definition>Activité estivale pour les amateurs de vitesse sur l'eau.</definition>
-        <definition>Symbole de plaisir et de performance aquatique.</definition>
-    </word>
-    <word value="plongee">
-        <definition>Sport consistant à explorer les fonds marins avec un équipement de plongée.</definition>
-        <definition>Activité estivale pour découvrir la faune et la flore sous-marine.</definition>
-        <definition>Symbole d'aventure et de découverte des merveilles marines.</definition>
-    </word>
-    <word value="snorkeling">
-        <definition>Activité de nage en surface avec un masque et un tuba pour observer les fonds marins.</definition>
-        <definition>Loisir estival accessible à tous pour explorer les récifs coralliens.</definition>
-        <definition>Symbole de découverte et de relaxation dans l'eau.</definition>
-    </word>
-    <word value="tennis">
-        <definition>Sport de raquette se jouant à deux ou en double sur un court.</definition>
-        <definition>Activité estivale pratiquée en plein air.</definition>
-        <definition>Symbole de compétition et de technique sportive.</definition>
-    </word>
-    <word value="golf">
-        <definition>Sport consistant à frapper une balle dans des trous répartis sur un parcours avec le moins de coups possible.</definition>
-        <definition>Activité estivale pratiquée sur des parcours en plein air.</definition>
-        <definition>Symbole de précision et de concentration.</definition>
-    </word>
-    <word value="course a pied">
-        <definition>Sport consistant à courir sur différentes distances et terrains.</definition>
-        <definition>Activité physique accessible et populaire en été.</definition>
-        <definition>Symbole de santé et de bien-être.</definition>
-    </word>
-    <word value="yoga en plein air">
-        <definition>Pratique de postures et d'exercices de respiration en extérieur.</definition>
-        <definition>Activité estivale relaxante et bénéfique pour le corps et l'esprit.</definition>
-        <definition>Symbole de sérénité et de connexion avec la nature.</definition>
-    </word>
-    <word value="marche nordique">
-        <definition>Activité de marche rapide avec des bâtons spécialement conçus.</definition>
-        <definition>Sport estival pour améliorer la condition physique.</definition>
+    <word value="aerobic">
+        <definition>Ensemble d'exercices physiques rythmés et en musique.</definition>
+        <definition>Activité pratiquée en plein air pendant l'été pour rester en forme.</definition>
         <definition>Symbole de santé et de dynamisme.</definition>
     </word>
-    <word value="parapente">
-        <definition>Activité de vol libre à l'aide d'une aile gonflable.</definition>
-        <definition>Sport extrême pratiqué en été pour survoler les paysages.</definition>
-        <definition>Symbole de liberté et d'émotion forte.</definition>
+    <word value="aviron">
+        <definition>Sport nautique consistant à propulser une embarcation à l'aide de rames.</definition>
+        <definition>Activité estivale pour les amateurs de compétition et de nature.</definition>
+        <definition>Symbole de force et de coordination.</definition>
     </word>
-    <word value="equitation">
-        <definition>Sport consistant à monter à cheval pour le loisir ou la compétition.</definition>
-        <definition>Activité estivale pratiquée en pleine nature.</definition>
-        <definition>Symbole de connexion avec les animaux et de maîtrise équestre.</definition>
-    </word>
-    <word value="voile">
-        <definition>Sport nautique utilisant des bateaux à voile pour naviguer.</definition>
-        <definition>Activité estivale pour profiter du vent et de l'eau.</definition>
-        <definition>Symbole de liberté et de compétence nautique.</definition>
-    </word>
-    <word value="randonnee aquatique">
-        <definition>Marche dans l'eau peu profonde, souvent en rivière ou en mer.</definition>
-        <definition>Activité estivale rafraîchissante et ludique.</definition>
-        <definition>Symbole de détente et d'aventure aquatique.</definition>
-    </word>
-    <word value="peche">
-        <definition>Activité consistant à attraper des poissons avec une canne à pêche.</definition>
-        <definition>Loisir estival pratiqué en mer, en lac ou en rivière.</definition>
-        <definition>Symbole de patience et de connexion avec la nature.</definition>
-    </word>
-    <word value="escalade de bloc">
-        <definition>Variante de l'escalade pratiquée sur des blocs de roche ou des murs artificiels sans corde.</definition>
-        <definition>Sport estival pour les amateurs de grimpe.</definition>
-        <definition>Symbole de force et de technique.</definition>
-    </word>
-    <word value="ultimate frisbee">
-        <definition>Sport collectif joué avec un frisbee, opposant deux équipes sur un terrain.</definition>
-        <definition>Activité estivale ludique et compétitive.</definition>
-        <definition>Symbole de fair-play et de dynamisme.</definition>
-    </word>
-    <word value="course d'orientation">
-        <definition>Activité consistant à trouver des balises dans la nature à l'aide d'une carte et d'une boussole.</definition>
-        <definition>Sport estival pour les amateurs d'aventure et de stratégie.</definition>
-        <definition>Symbole de défi et d'exploration.</definition>
-    </word>
-    <word value="kitesurf">
-        <definition>Sport de glisse nautique utilisant une aile de traction et une planche.</definition>
-        <definition>Activité dynamique et extrême pratiquée en été.</definition>
-        <definition>Symbole d'adrénaline et de maîtrise des éléments naturels.</definition>
-    </word>
-    <word value="tir à l'arc">
-        <definition>Sport consistant à tirer des flèches avec un arc vers une cible.</definition>
-        <definition>Activité estivale pratiquée en plein air.</definition>
-        <definition>Symbole de précision et de concentration.</definition>
-    </word>
-    <word value="football">
-        <definition>Sport collectif joué avec un ballon rond, opposant deux équipes de onze joueurs.</definition>
-        <definition>Activité estivale populaire sur les terrains en herbe.</definition>
-        <definition>Symbole de passion et de compétition.</definition>
-    </word>
-    <word value="basketball">
-        <definition>Sport collectif joué avec un ballon sur un terrain, opposant deux équipes de cinq joueurs.</definition>
-        <definition>Activité estivale pratiquée en plein air sur des terrains de rue.</definition>
-        <definition>Symbole de dynamisme et de collaboration.</definition>
-    </word>
-    <word value="volleyball">
-        <definition>Sport collectif joué avec un ballon sur un terrain divisé par un filet, opposant deux équipes de six joueurs.</definition>
-        <definition>Activité estivale pratiquée en salle ou sur la plage.</definition>
-        <definition>Symbole de convivialité et de compétition.</definition>
-    </word>
-    <word value="roller">
-        <definition>Sport de glisse urbaine pratiqué avec des patins à roulettes en ligne.</definition>
-        <definition>Activité estivale pour se déplacer et s'amuser en ville.</definition>
-        <definition>Symbole de liberté et de plaisir de la glisse.</definition>
-    </word>
-    <word value="bateau a moteur">
-        <definition>Activité nautique utilisant un bateau équipé d'un moteur pour naviguer.</definition>
-        <definition>Loisir estival pour explorer les eaux et profiter du soleil.</definition>
-        <definition>Symbole de vitesse et d'aventure sur l'eau.</definition>
-    </word>
-    <word value="rafting">
-        <definition>Sport d'eau vive pratiqué en descente de rivière sur un radeau pneumatique.</definition>
-        <definition>Activité estivale pour les amateurs de sensations fortes.</definition>
-        <definition>Symbole de courage et de travail d'équipe.</definition>
+    <word value="balade a cheval">
+        <definition>Promenade équestre en pleine nature.</definition>
+        <definition>Activité estivale relaxante et enrichissante.</definition>
+        <definition>Symbole de connexion avec les animaux et la nature.</definition>
     </word>
     <word value="baseball">
         <definition>Sport collectif joué avec une batte et une balle, opposant deux équipes de neuf joueurs.</definition>
         <definition>Activité estivale populaire en Amérique du Nord.</definition>
         <definition>Symbole de tradition et de compétition.</definition>
     </word>
-    <word value="softball">
-        <definition>Variante du baseball jouée avec une balle plus grosse et un terrain plus petit.</definition>
-        <definition>Sport estival pratiqué en plein air.</definition>
-        <definition>Symbole de convivialité et de plaisir en équipe.</definition>
+    <word value="basketball">
+        <definition>Sport collectif joué avec un ballon sur un terrain, opposant deux équipes de cinq joueurs.</definition>
+        <definition>Activité estivale pratiquée en plein air sur des terrains de rue.</definition>
+        <definition>Symbole de dynamisme et de collaboration.</definition>
+    </word>
+    <word value="bateau a moteur">
+        <definition>Activité nautique utilisant un bateau équipé d'un moteur pour naviguer.</definition>
+        <definition>Loisir estival pour explorer les eaux et profiter du soleil.</definition>
+        <definition>Symbole de vitesse et d'aventure sur l'eau.</definition>
+    </word>
+    <word value="beach soccer">
+        <definition>Variante du football jouée sur le sable.</definition>
+        <definition>Sport populaire sur les plages en été.</definition>
+        <definition>Symbole de convivialité et de compétition estivale.</definition>
+    </word>
+    <word value="beach-volley">
+        <definition>Sport de balle joué sur le sable entre deux équipes de deux joueurs.</definition>
+        <definition>Activité populaire sur les plages en été.</definition>
+        <definition>Symbole de compétition et de convivialité estivale.</definition>
+    </word>
+    <word value="bocce">
+        <definition>Jeu de boules italien joué sur un terrain en extérieur.</definition>
+        <definition>Activité estivale populaire pour tous les âges.</definition>
+        <definition>Symbole de convivialité et de tradition.</definition>
+    </word>
+    <word value="canoe-kayak">
+        <definition>Sport nautique pratiqué avec une pagaie dans des embarcations légères.</definition>
+        <definition>Activité estivale pour explorer les rivières et les lacs.</definition>
+        <definition>Symbole d'aventure et de découverte aquatique.</definition>
+    </word>
+    <word value="cerf-volant">
+        <definition>Objet volant léger et coloré, souvent en forme d'oiseau ou de dragon.</definition>
+        <definition>Activité ludique pratiquée en plein air pendant l'été.</definition>
+        <definition>Symbole de liberté et de créativité.</definition>
+    </word>
+    <word value="course a pied">
+        <definition>Sport consistant à courir sur différentes distances et terrains.</definition>
+        <definition>Activité physique accessible et populaire en été.</definition>
+        <definition>Symbole de santé et de bien-être.</definition>
+    </word>
+    <word value="course d'orientation">
+        <definition>Activité consistant à trouver des balises dans la nature à l'aide d'une carte et d'une boussole.</definition>
+        <definition>Sport estival pour les amateurs d'aventure et de stratégie.</definition>
+        <definition>Symbole de défi et d'exploration.</definition>
+    </word>
+    <word value="cyclisme">
+        <definition>Sport pratiqué à vélo, sur route ou sur des chemins de terre.</definition>
+        <definition>Activité physique populaire pour explorer les paysages estivaux.</definition>
+        <definition>Symbole de liberté et de mobilité durable en été.</definition>
+    </word>
+    <word value="danse de rue">
+        <definition>Forme de danse pratiquée en plein air, souvent de manière spontanée et improvisée.</definition>
+        <definition>Activité estivale populaire dans les festivals et les rassemblements urbains.</definition>
+        <definition>Symbole d'expression artistique et de culture urbaine.</definition>
+    </word>
+    <word value="equitation">
+        <definition>Sport consistant à monter à cheval pour le loisir ou la compétition.</definition>
+        <definition>Activité estivale pratiquée en pleine nature.</definition>
+        <definition>Symbole de connexion avec les animaux et de maîtrise équestre.</definition>
+    </word>
+    <word value="escalade">
+        <definition>Activité sportive consistant à grimper des parois rocheuses ou des murs artificiels.</definition>
+        <definition>Sport d'été pratiqué en montagne ou en falaise.</definition>
+        <definition>Symbole de défi et de maîtrise de soi.</definition>
+    </word>
+    <word value="escalade de bloc">
+        <definition>Variante de l'escalade pratiquée sur des blocs de roche ou des murs artificiels sans corde.</definition>
+        <definition>Sport estival pour les amateurs de grimpe.</definition>
+        <definition>Symbole de force et de technique.</definition>
+    </word>
+    <word value="escalade en falaise">
+        <definition>Variante de l'escalade pratiquée sur des parois naturelles.</definition>
+        <definition>Sport extrême pour les amateurs de défis en été.</definition>
+        <definition>Symbole de courage et de technique.</definition>
+    </word>
+    <word value="feu de camp">
+        <definition>Réunion autour d'un feu en plein air, souvent accompagnée de chansons et de récits.</definition>
+        <definition>Activité estivale traditionnelle pour les soirées en plein air.</definition>
+        <definition>Symbole de convivialité et de partage.</definition>
+    </word>
+    <word value="football">
+        <definition>Sport collectif joué avec un ballon rond, opposant deux équipes de onze joueurs.</definition>
+        <definition>Activité estivale populaire sur les terrains en herbe.</definition>
+        <definition>Symbole de passion et de compétition.</definition>
+    </word>
+    <word value="frisbee golf">
+        <definition>Sport combinant le frisbee et le golf, où le but est de lancer un frisbee dans des cibles spécifiques.</definition>
+        <definition>Activité ludique pratiquée en plein air pendant l'été.</definition>
+        <definition>Symbole de plaisir et de précision.</definition>
+    </word>
+    <word value="golf">
+        <definition>Sport consistant à frapper une balle dans des trous répartis sur un parcours avec le moins de coups possible.</definition>
+        <definition>Activité estivale pratiquée sur des parcours en plein air.</definition>
+        <definition>Symbole de précision et de concentration.</definition>
+    </word>
+    <word value="jogging">
+        <definition>Course à pied à un rythme modéré pour le plaisir et la forme physique.</definition>
+        <definition>Activité estivale populaire dans les parcs et les sentiers.</definition>
+        <definition>Symbole de santé et de bien-être.</definition>
+    </word>
+    <word value="kayak de mer">
+        <definition>Sport nautique pratiqué en mer avec un kayak.</definition>
+        <definition>Activité estivale pour explorer les côtes et les paysages marins.</definition>
+        <definition>Symbole d'aventure et de découverte aquatique.</definition>
+    </word>
+    <word value="kitesurf">
+        <definition>Sport de glisse nautique utilisant une aile de traction et une planche.</definition>
+        <definition>Activité dynamique et extrême pratiquée en été.</definition>
+        <definition>Symbole d'adrénaline et de maîtrise des éléments naturels.</definition>
+    </word>
+    <word value="lancer de disque">
+        <definition>Épreuve d'athlétisme où les compétiteurs lancent un disque le plus loin possible.</definition>
+        <definition>Activité pratiquée en plein air pendant les compétitions estivales.</definition>
+        <definition>Symbole de force et de technique.</definition>
+    </word>
+    <word value="marathon">
+        <definition>Course à pied de longue distance, généralement de 42,195 kilomètres.</definition>
+        <definition>Épreuve estivale majeure pour les coureurs d'endurance.</definition>
+        <definition>Symbole de défi personnel et de réalisation.</definition>
+    </word>
+    <word value="marche athletique">
+        <definition>Discipline d'athlétisme consistant à marcher le plus rapidement possible sur une distance donnée.</definition>
+        <definition>Sport estival pour les amateurs de défis d'endurance.</definition>
+        <definition>Symbole de persévérance et de discipline.</definition>
+    </word>
+    <word value="marche nordique">
+        <definition>Activité de marche rapide avec des bâtons spécialement conçus.</definition>
+        <definition>Sport estival pour améliorer la condition physique.</definition>
+        <definition>Symbole de santé et de dynamisme.</definition>
+    </word>
+    <word value="minigolf">
+        <definition>Variante ludique du golf, jouée sur des parcours de petite taille avec des obstacles.</definition>
+        <definition>Activité estivale populaire pour toute la famille.</definition>
+        <definition>Symbole de détente et de plaisir.</definition>
+    </word>
+    <word value="natation">
+        <definition>Sport consistant à nager dans une piscine ou en milieu naturel.</definition>
+        <definition>Activité physique bénéfique pour la santé et la forme physique.</definition>
+        <definition>Sport populaire en été pour se rafraîchir et rester actif.</definition>
+    </word>
+    <word value="parapente">
+        <definition>Activité de vol libre à l'aide d'une aile gonflable.</definition>
+        <definition>Sport extrême pratiqué en été pour survoler les paysages.</definition>
+        <definition>Symbole de liberté et d'émotion forte.</definition>
+    </word>
+    <word value="parcours aventure">
+        <definition>Parcours en hauteur avec des obstacles et des tyroliennes.</definition>
+        <definition>Activité estivale pour les amateurs de sensations fortes.</definition>
+        <definition>Symbole de défi et de dépassement de soi.</definition>
+    </word>
+    <word value="paddle">
+        <definition>Sport de glisse sur l'eau pratiqué debout sur une planche avec une pagaie.</definition>
+        <definition>Activité relaxante et amusante en bord de mer ou sur les lacs.</definition>
+        <definition>Symbole de tranquillité et de connexion avec la nature en été.</definition>
     </word>
     <word value="paddle-tennis">
         <definition>Sport de raquette joué sur un court plus petit avec des raquettes solides.</definition>
         <definition>Activité estivale ludique et compétitive.</definition>
         <definition>Symbole de dynamisme et de technique sportive.</definition>
     </word>
-    <word value="bocce">
-        <definition>Jeu de boules italien joué sur un terrain en extérieur.</definition>
-        <definition>Activité estivale populaire pour tous les âges.</definition>
+    <word value="peche">
+        <definition>Activité consistant à attraper des poissons avec une canne à pêche.</definition>
+        <definition>Loisir estival pratiqué en mer, en lac ou en rivière.</definition>
+        <definition>Symbole de patience et de connexion avec la nature.</definition>
+    </word>
+    <word value="petanque">
+        <definition>Jeu de boules traditionnel français, souvent joué en plein air.</definition>
+        <definition>Activité estivale populaire pour les rassemblements sociaux.</definition>
         <definition>Symbole de convivialité et de tradition.</definition>
+    </word>
+    <word value="piscine">
+        <definition>Bassin d'eau aménagé pour la natation et les jeux aquatiques.</definition>
+        <definition>Lieu de détente et de rafraîchissement en été.</definition>
+        <definition>Symbole de plaisir et de relaxation.</definition>
+    </word>
+    <word value="planche a voile">
+        <definition>Sport nautique consistant à naviguer sur une planche équipée d'une voile.</definition>
+        <definition>Activité estivale populaire sur les lacs et les océans.</definition>
+        <definition>Symbole de liberté et de sensation forte sur l'eau.</definition>
+    </word>
+    <word value="plongee">
+        <definition>Sport consistant à explorer les fonds marins avec un équipement de plongée.</definition>
+        <definition>Activité estivale pour découvrir la faune et la flore sous-marine.</definition>
+        <definition>Symbole d'aventure et de découverte des merveilles marines.</definition>
+    </word>
+    <word value="plongee avec tuba">
+        <definition>Activité de nage avec un masque et un tuba pour observer les fonds marins en surface.</definition>
+        <definition>Loisir estival pour découvrir la vie sous-marine.</definition>
+        <definition>Symbole de tranquillité et de curiosité.</definition>
+    </word>
+    <word value="randonnee">
+        <definition>Activité de marche sur des sentiers naturels ou en montagne.</definition>
+        <definition>Loisir estival permettant de découvrir la nature et de rester en forme.</definition>
+        <definition>Symbole d'exploration et de détente en plein air.</definition>
+    </word>
+    <word value="randonnee aquatique">
+        <definition>Marche dans l'eau peu profonde, souvent en rivière ou en mer.</definition>
+        <definition>Activité estivale rafraîchissante et ludique.</definition>
+        <definition>Symbole de détente et d'aventure aquatique.</definition>
+    </word>
+    <word value="randonnee en montagne">
+        <definition>Marche sur des sentiers de montagne pour explorer les paysages naturels.</definition>
+        <definition>Activité estivale pour les amoureux de la nature.</definition>
+        <definition>Symbole de tranquillité et de découverte.</definition>
+    </word>
+    <word value="rafting">
+        <definition>Sport d'eau vive pratiqué en descente de rivière sur un radeau pneumatique.</definition>
+        <definition>Activité estivale pour les amateurs de sensations fortes.</definition>
+        <definition>Symbole de courage et de travail d'équipe.</definition>
+    </word>
+    <word value="roller">
+        <definition>Sport de glisse urbaine pratiqué avec des patins à roulettes en ligne.</definition>
+        <definition>Activité estivale pour se déplacer et s'amuser en ville.</definition>
+        <definition>Symbole de liberté et de plaisir de la glisse.</definition>
+    </word>
+    <word value="saut en hauteur">
+        <definition>Épreuve d'athlétisme consistant à franchir une barre horizontale placée à une certaine hauteur.</definition>
+        <definition>Activité estivale pratiquée dans les compétitions sportives.</definition>
+        <definition>Symbole de puissance et de technique.</definition>
+    </word>
+    <word value="saut en longueur">
+        <definition>Épreuve d'athlétisme consistant à sauter le plus loin possible à partir d'une planche d'appel.</definition>
+        <definition>Sport estival pour les amateurs de défis physiques.</definition>
+        <definition>Symbole de vitesse et d'agilité.</definition>
+    </word>
+    <word value="ski nautique">
+        <definition>Sport nautique où l'on est tracté par un bateau sur des skis.</definition>
+        <definition>Activité estivale pour les amateurs de vitesse sur l'eau.</definition>
+        <definition>Symbole de plaisir et de performance aquatique.</definition>
+    </word>
+    <word value="snorkeling">
+        <definition>Activité de nage en surface avec un masque et un tuba pour observer les fonds marins.</definition>
+        <definition>Loisir estival accessible à tous pour explorer les récifs coralliens.</definition>
+        <definition>Symbole de découverte et de relaxation dans l'eau.</definition>
+    </word>
+    <word value="softball">
+        <definition>Variante du baseball jouée avec une balle plus grosse et un terrain plus petit.</definition>
+        <definition>Sport estival pratiqué en plein air.</definition>
+        <definition>Symbole de convivialité et de plaisir en équipe.</definition>
+    </word>
+    <word value="stand up paddle">
+        <definition>Sport de glisse sur l'eau pratiqué debout sur une planche avec une pagaie.</definition>
+        <definition>Activité estivale populaire sur les lacs et les rivières.</definition>
+        <definition>Symbole de tranquillité et de plaisir aquatique.</definition>
+    </word>
+    <word value="surf">
+        <definition>Sport de glisse pratiqué sur les vagues avec une planche.</definition>
+        <definition>Activité estivale populaire sur les plages océaniques.</definition>
+        <definition>Symbole de liberté et d'aventure en été.</definition>
+    </word>
+    <word value="surf des vagues">
+        <definition>Sport de glisse pratiqué sur les vagues avec une planche de surf.</definition>
+        <definition>Activité estivale pour les amateurs de sensations fortes.</definition>
+        <definition>Symbole de liberté et d'aventure.</definition>
+    </word>
+    <word value="tennis">
+        <definition>Sport de raquette se jouant à deux ou en double sur un court.</definition>
+        <definition>Activité estivale pratiquée en plein air.</definition>
+        <definition>Symbole de compétition et de technique sportive.</definition>
+    </word>
+    <word value="tir a l'arc">
+        <definition>Sport consistant à tirer des flèches avec un arc vers une cible.</definition>
+        <definition>Activité estivale pratiquée en plein air.</definition>
+        <definition>Symbole de précision et de concentration.</definition>
+    </word>
+    <word value="tir à l'arc">
+        <definition>Sport consistant à tirer des flèches avec un arc vers une cible.</definition>
+        <definition>Activité estivale pour développer précision et concentration.</definition>
+        <definition>Symbole de maîtrise et de technique.</definition>
+    </word>
+    <word value="tournoi de tennis">
+        <definition>Compétition sportive opposant des joueurs de tennis.</definition>
+        <definition>Événement estival majeur pour les amateurs de tennis.</definition>
+        <definition>Symbole de compétition et de performance sportive.</definition>
+    </word>
+    <word value="triathlon">
+        <definition>Compétition sportive combinant natation, cyclisme et course à pied.</definition>
+        <definition>Épreuve estivale exigeante pour les athlètes polyvalents.</definition>
+        <definition>Symbole d'endurance et de polyvalence.</definition>
+    </word>
+    <word value="tyrolienne">
+        <definition>Activité consistant à glisser le long d'un câble tendu entre deux points.</definition>
+        <definition>Loisir estival pour les amateurs de sensations fortes.</definition>
+        <definition>Symbole d'aventure et de plaisir aérien.</definition>
+    </word>
+    <word value="ultimate frisbee">
+        <definition>Sport collectif joué avec un frisbee, opposant deux équipes sur un terrain.</definition>
+        <definition>Activité estivale ludique et compétitive.</definition>
+        <definition>Symbole de fair-play et de dynamisme.</definition>
+    </word>
+    <word value="volley-ball de plage">
+        <definition>Variante du volley-ball pratiquée sur le sable.</definition>
+        <definition>Sport estival populaire pour les journées à la plage.</definition>
+        <definition>Symbole de convivialité et de compétition.</definition>
+    </word>
+    <word value="volleyball">
+        <definition>Sport collectif joué avec un ballon sur un terrain divisé par un filet, opposant deux équipes de six joueurs.</definition>
+        <definition>Activité estivale pratiquée en salle ou sur la plage.</definition>
+        <definition>Symbole de convivialité et de compétition.</definition>
+    </word>
+    <word value="voile">
+        <definition>Sport nautique utilisant des bateaux à voile pour naviguer.</definition>
+        <definition>Activité estivale pour profiter du vent et de l'eau.</definition>
+        <definition>Symbole de liberté et de compétence nautique.</definition>
+    </word>
+    <word value="wakeboard">
+        <definition>Sport nautique où l'on est tracté par un bateau sur une planche.</definition>
+        <definition>Activité estivale pour les amateurs de sensations fortes.</definition>
+        <definition>Symbole de plaisir et de performance aquatique.</definition>
+    </word>
+    <word value="water-polo">
+        <definition>Sport collectif joué dans l'eau, opposant deux équipes de sept joueurs.</definition>
+        <definition>Activité estivale compétitive et dynamique.</definition>
+        <definition>Symbole de travail d'équipe et de stratégie aquatique.</definition>
+    </word>
+    <word value="yoga paddle">
+        <definition>Pratique du yoga sur une planche de paddle en équilibre sur l'eau.</definition>
+        <definition>Activité estivale relaxante et équilibrante.</definition>
+        <definition>Symbole de sérénité et de connexion avec la nature.</definition>
+    </word>
+    <word value="zumba en plein air">
+        <definition>Cours de fitness dansé pratiqué en extérieur.</definition>
+        <definition>Activité estivale pour se dépenser en s'amusant.</definition>
+        <definition>Symbole de joie et de dynamisme.</definition>
     </word>
 </words>
