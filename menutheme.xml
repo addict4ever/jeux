@@ -16,6 +16,10 @@
         <file>https://raw.githubusercontent.com/addict4ever/jeux/main/hiver.xml</file>
     </option>
     <option>
+        <name>Sport D'Été</name>
+        <file>https://raw.githubusercontent.com/addict4ever/jeux/main/sportete.xml</file>
+    </option>
+    <option>
         <name>Halloween</name>
         <file>https://raw.githubusercontent.com/addict4ever/jeux/main/halloween.xml</file>
     </option>
