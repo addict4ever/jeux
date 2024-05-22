@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rush Hour</title>
+    <style>
+        #gameboard {
+            border: solid black 1px;
+            display: inline-block;
+            padding: 4px;
+            border-radius: 4px;
+        }
+        .cell {
+            width: 60px;
+            height: 60px;
+            border: solid black 1px;
+            text-align: center;
+            vertical-align: middle;
+        }
+        .selected {
+            border: 3px solid yellow;
+        }
+        ._R { background-color: red; }
+        ._1 { background-color: green; }
+        ._2 { background-color: lightblue; }
+        ._3 { background-color: #0080ff; }
+        ._4 { background-color: #aaa885; }
+        ._5 { background-color: #0fa885; }
+        ._6 { background-color: #5939ed; }
+        ._7 { background-color: #ff00ff; }
+        ._8 { background-color: #00ff80; }
+        ._9 { background-color: #8000ff; }
+        ._A { background-color: lightgrey; }
+        ._B { background-color: grey; }
+        #controls {
+            margin-top: 10px;
+        }
+        #joystick {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 10px;
+        }
+        .joystick-button {
+            width: 50px;
+            height: 50px;
+            margin: 5px;
+            text-align: center;
+            vertical-align: middle;
+            background-color: #ccc;
+            border: 1px solid #888;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        #timer {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<h2>Rush Hour</h2>
+
+<div id="gameboard"></div>
+
+<div id="controls">
+    <button onclick="loadLevel('easy')">Easy</button>
+    <button onclick="loadLevel('medium')">Medium</button>
+    <button onclick="loadLevel('hard')">Hard</button>
+    <div id="timer">Time: 0 seconds</div>
+</div>
+
+<div id="joystick">
+    <div class="joystick-button" onclick="move('up')">↑</div>
+    <div style="display: flex;">
+        <div class="joystick-button" onclick="move('left')">←</div>
+        <div class="joystick-button" onclick="move('down')">↓</div>
+        <div class="joystick-button" onclick="move('right')">→</div>
+    </div>
+</div>
+
+<script>
+    var gameboard = document.getElementById('gameboard');
+    var timerElement = document.getElementById('timer');
+    var timer;
+    var timeElapsed = 0;
+    var currentLevel;
+    var selectedCar = null;
+    var carCells = [];
+    var carDirection = null;
+
+    var levels = {
+        "easy": "011100203444203RR567780560089ABBB89A",
+        "medium": "011203444203RR567780561089ABB189A",
+        "hard": "011300444203RR567780561089ABB189A"
+    };
+
+    function startTimer() {
+        timeElapsed = 0;
+        timerElement.textContent = "Time: 0 seconds";
+        timer = setInterval(function() {
+            timeElapsed++;
+            timerElement.textContent = "Time: " + timeElapsed + " seconds";
+        }, 1000);
+    }
+
+    function stopTimer() {
+        clearInterval(timer);
+    }
+
+    function resetGame() {
+        gameboard.innerHTML = '';
+        stopTimer();
+        selectedCar = null;
+        carCells = [];
+        carDirection = null;
+    }
+
+    function loadLevel(level) {
+        resetGame();
+        currentLevel = level;
+        var boardString = levels[level];
+        stringToBoard(boardString);
+        startTimer();
+    }
+
+    function stringToBoard(inputString) {
+        inputString = inputString.replace(/0/g, "*");
+        for (var i = 0; i < 6; i++) {
+            var currentRow = document.createElement("tr");
+            var rowArray = [];
+            var row = inputString.slice(0, 6);
+            inputString = inputString.replace(row, "");
+
+            var exitRow = false;
+
+            for (var j = 0; j < 6; j++) {
+                var currentValue = row[j];
+                var currentCell = document.createElement("td");
+                currentCell.setAttribute("class", "cell _" + currentValue);
+                currentCell.setAttribute("data-coordinates", i + "-" + j);
+                currentCell.onclick = function() {
+                    selectCar(this);
+                };
+                if (currentValue == "R") {
+                    exitRow = true;
+                }
+                currentRow.appendChild(currentCell);
+                rowArray.push(currentValue);
+            }
+
+            if (exitRow) {
+                var exitCell = document.createElement("td");
+                exitCell.setAttribute("class", "cell");
+                var innerText = document.createTextNode("Exit");
+                exitCell.appendChild(innerText);
+                currentRow.appendChild(exitCell);
+            }
+            gameboard.appendChild(currentRow);
+        }
+    }
+
+    function selectCar(cell) {
+        if (selectedCar) {
+            carCells.forEach(function(carCell) {
+                carCell.classList.remove("selected");
+            });
+        }
+
+        var carType = cell.className.match(/_\w/)[0];
+        carCells = Array.from(document.querySelectorAll('.' + carType));
+        carCells.forEach(function(carCell) {
+            carCell.classList.add("selected");
+        });
+
+        selectedCar = carType;
+        determineCarDirection();
+    }
+
+    function determineCarDirection() {
+        if (carCells.length < 2) return;
+
+        var firstCell = carCells[0];
+        var secondCell = carCells[1];
+        var firstCoords = firstCell.getAttribute("data-coordinates").split("-");
+        var secondCoords = secondCell.getAttribute("data-coordinates").split("-");
+
+        if (firstCoords[0] === secondCoords[0]) {
+            carDirection = "horizontal";
+        } else {
+            carDirection = "vertical";
+        }
+    }
+
+    function move(direction) {
+        if (!selectedCar) return;
+
+        if ((carDirection === "horizontal" && (direction === "up" || direction === "down")) ||
+            (carDirection === "vertical" && (direction === "left" || direction === "right"))) {
+            return;
+        }
+
+        var movePossible = carCells.every(function(cell) {
+            var coordinates = cell.getAttribute("data-coordinates").split("-");
+            var x = parseInt(coordinates[0]);
+            var y = parseInt(coordinates[1]);
+
+            switch(direction) {
+                case 'up':
+                    return x > 0 && isEmptyCell(x - 1, y);
+                case 'down':
+                    return x < 5 && isEmptyCell(x + 1, y);
+                case 'left':
+                    return y > 0 && isEmptyCell(x, y - 1);
+                case 'right':
+                    return y < 5 && isEmptyCell(x, y + 1);
+            }
+        });
+
+        if (movePossible) {
+            carCells.forEach(function(cell) {
+                var coordinates = cell.getAttribute("data-coordinates").split("-");
+                var x = parseInt(coordinates[0]);
+                var y = parseInt(coordinates[1]);
+
+                switch(direction) {
+                    case 'up':
+                        swapCells(x, y, x - 1, y);
+                        break;
+                    case 'down':
+                        swapCells(x, y, x + 1, y);
+                        break;
+                    case 'left':
+                        swapCells(x, y, x, y - 1);
+                        break;
+                    case 'right':
+                        swapCells(x, y, x, y + 1);
+                        break;
+                }
+            });
+        }
+    }
+
+    function isEmptyCell(x, y) {
+        var cell = document.querySelector(`[data-coordinates='${x}-${y}']`);
+        return cell && cell.className.includes("_*");
+    }
+
+    function swapCells(x1, y1, x2, y2) {
+        var cell1 = document.querySelector(`[data-coordinates='${x1}-${y1}']`);
+        var cell2 = document.querySelector(`[data-coordinates='${x2}-${y2}']`);
+
+        var class1 = cell1.getAttribute("class");
+        var class2 = cell2.getAttribute("class");
+
+        cell1.setAttribute("class", class2);
+        cell2.setAttribute("class", class1);
+
+        cell1.setAttribute("data-coordinates", x2 + "-" + y2);
+        cell2.setAttribute("data-coordinates", x1 + "-" + y1);
+
+        carCells = carCells.map(function(cell) {
+            if (cell === cell1) {
+                return cell2;
+            } else if (cell === cell2) {
+                return cell1;
+            } else {
+                return cell;
+            }
+        });
+    }
+
+    loadLevel('easy'); // Load the easy level by default
+</script>
+
+</body>
+</html>
