@@ -88,7 +88,6 @@
     var currentLevel;
     var selectedCar = null;
     var carCells = [];
-    var carDirection = null;
 
     var levels = {
         "easy": "011100203444203RR567780560089ABBB89A",
@@ -114,7 +113,6 @@
         stopTimer();
         selectedCar = null;
         carCells = [];
-        carDirection = null;
     }
 
     function loadLevel(level) {
@@ -175,31 +173,10 @@
         });
 
         selectedCar = carType;
-        determineCarDirection();
-    }
-
-    function determineCarDirection() {
-        if (carCells.length < 2) return;
-
-        var firstCell = carCells[0];
-        var secondCell = carCells[1];
-        var firstCoords = firstCell.getAttribute("data-coordinates").split("-");
-        var secondCoords = secondCell.getAttribute("data-coordinates").split("-");
-
-        if (firstCoords[0] === secondCoords[0]) {
-            carDirection = "horizontal";
-        } else {
-            carDirection = "vertical";
-        }
     }
 
     function move(direction) {
         if (!selectedCar) return;
-
-        if ((carDirection === "horizontal" && (direction === "up" || direction === "down")) ||
-            (carDirection === "vertical" && (direction === "left" || direction === "right"))) {
-            return;
-        }
 
         var movePossible = carCells.every(function(cell) {
             var coordinates = cell.getAttribute("data-coordinates").split("-");
@@ -208,13 +185,13 @@
 
             switch(direction) {
                 case 'up':
-                    return x > 0 && isEmptyCell(x - 1, y);
+                    return x > 0 && document.querySelector(`[data-coordinates='${x - 1}-${y}']`).className.includes("_*");
                 case 'down':
-                    return x < 5 && isEmptyCell(x + 1, y);
+                    return x < 5 && document.querySelector(`[data-coordinates='${x + 1}-${y}']`).className.includes("_*");
                 case 'left':
-                    return y > 0 && isEmptyCell(x, y - 1);
+                    return y > 0 && document.querySelector(`[data-coordinates='${x}-${y - 1}']`).className.includes("_*");
                 case 'right':
-                    return y < 5 && isEmptyCell(x, y + 1);
+                    return y < 5 && document.querySelector(`[data-coordinates='${x}-${y + 1}']`).className.includes("_*");
             }
         });
 
@@ -240,11 +217,6 @@
                 }
             });
         }
-    }
-
-    function isEmptyCell(x, y) {
-        var cell = document.querySelector(`[data-coordinates='${x}-${y}']`);
-        return cell && cell.className.includes("_*");
     }
 
     function swapCells(x1, y1, x2, y2) {
