@@ -36,6 +36,10 @@
         <file>https://raw.githubusercontent.com/addict4ever/jeux/main/pokemon.xml</file>
     </option>
     <option>
+        <name>Disney Facile</name>
+        <file>https://raw.githubusercontent.com/addict4ever/jeux/main/disneyfacile.xml</file>
+    </option>
+    <option>
         <name>Disney</name>
         <file>https://raw.githubusercontent.com/addict4ever/jeux/main/disney.xml</file>
     </option>
