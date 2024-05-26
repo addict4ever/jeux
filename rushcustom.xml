@@ -23,4 +23,18 @@
         <vehicle id="P" x="3" y="1" length="3" orientation="H" color="olive"/>
         <vehicle id="Q" x="1" y="0" length="2" orientation="H" color="teal"/>
     </board>
+    <board>
+        <vehicle id="X" x="2" y="2" length="2" orientation="H" color="red"/>
+        <vehicle id="P" x="5" y="0" length="2" orientation="V" color="olive"/>
+        <vehicle id="F" x="1" y="0" length="3" orientation="H" color="goldenrod"/>
+        <vehicle id="S" x="0" y="2" length="3" orientation="V" color="brown"/>
+        <vehicle id="T" x="1" y="4" length="3" orientation="H" color="chartreuse"/>
+        <vehicle id="K" x="4" y="2" length="2" orientation="V" color="magenta"/>
+        <vehicle id="Y" x="3" y="1" length="2" orientation="H" color="turquoise"/>
+        <vehicle id="C" x="5" y="3" length="3" orientation="V" color="orange"/>
+        <vehicle id="I" x="0" y="1" length="2" orientation="H" color="pink"/>
+        <vehicle id="V" x="2" y="5" length="3" orientation="H" color="khaki"/>
+        <vehicle id="G" x="1" y="3" length="3" orientation="H" color="gray"/>
+        <vehicle id="U" x="0" y="5" length="2" orientation="H" color="crimson"/>
+    </board>
 </rushhour>
