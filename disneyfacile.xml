@@ -194,4 +194,354 @@
         <definition>Remet en question les idées reçues sur les monstres et les humains. ("Monstres & Cie")</definition>
         <definition>Symbolise l'innocence et l'amitié. ("Monstres & Cie")</definition>
     </word>
+    <word value="bonnibel">
+        <definition>Princesse dans "Adventure Time", souvent impliquée dans des aventures rocambolesques. ("Adventure Time")</definition>
+        <definition>Utilise son intelligence et son charme pour naviguer dans des situations complexes. ("Adventure Time")</definition>
+        <definition>Thèmes de l'autonomie féminine et du leadership. ("Adventure Time")</definition>
+    </word>
+    <word value="bruce">
+        <definition>Grand requin blanc dans "Le Monde de Nemo". ("Le Monde de Nemo")</definition>
+        <definition>Essaye de résister à son instinct de prédateur. ("Le Monde de Nemo")</definition>
+        <definition>Promoteur d'une communauté de requins amis des poissons. ("Le Monde de Nemo")</definition>
+    </word>
+    <word value="bienvenue">
+        <definition>Personnage fictif représentant l'accueil dans Disney. ("Disney")</definition>
+        <definition>Symbolise l'hospitalité et la chaleur. ("Disney")</definition>
+        <definition>Incite les visiteurs à se sentir chez eux dans le monde magique. ("Disney")</definition>
+    </word>
+    <word value="bagheera">
+        <definition>Panthère sage et protectrice dans "Le Livre de la Jungle". ("Le Livre de la Jungle")</definition>
+        <definition>Guide et mentor de Mowgli. ("Le Livre de la Jungle")</definition>
+        <definition>Symbolise la prudence et la fidélité. ("Le Livre de la Jungle")</definition>
+    </word>
+    <word value="boulette">
+        <definition>Chien affectueux dans "La Belle et le Clochard II". ("La Belle et le Clochard II")</definition>
+        <definition>Apporte de la joie et de l'innocence à l'histoire. ("La Belle et le Clochard II")</definition>
+        <definition>Représente l'amitié sans condition. ("La Belle et le Clochard II")</definition>
+    </word>
+    <word value="bip-bip">
+        <definition>Personnage de soutien dans "Cars". ("Cars")</definition>
+        <definition>Habitant de Radiator Springs. ("Cars")</definition>
+        <definition>Incarnation de l'esprit communautaire et de l'entraide. ("Cars")</definition>
+    </word>
+    <word value="bongo">
+        <definition>Ours jongleur dans "Bongo" (segment de "Fun and Fancy Free"). ("Bongo")</definition>
+        <definition>Quitte le cirque pour explorer le monde naturel. ("Bongo")</definition>
+        <definition>Symbolise le désir d'indépendance. ("Bongo")</definition>
+    </word>
+    <word value="bazil">
+        <definition>Détective souris dans "Basil, détective privé". ("Basil, détective privé")</definition>
+        <definition>Inspiré de Sherlock Holmes. ("Basil, détective privé")</definition>
+        <definition>Utilise son intelligence pour résoudre des mystères. ("Basil, détective privé")</definition>
+    </word>
+    <word value="bea">
+        <definition>Amie humaine et protectrice des animaux dans "Alvin et les Chipmunks". ("Alvin et les Chipmunks")</definition>
+        <definition>Travaille pour sauver et prendre soin des animaux. ("Alvin et les Chipmunks")</definition>
+        <definition>Symbole de compassion et de dévouement. ("Alvin et les Chipmunks")</definition>
+    </word>
+    <word value="balthazar">
+        <definition>Sorcier dans "Le Retour de Merlin". ("Le Retour de Merlin")</definition>
+        <definition>Guide les apprentis sorciers à maîtriser leurs pouvoirs. ("Le Retour de Merlin")</definition>
+        <definition>Aide à combattre les forces du mal. ("Le Retour de Merlin")</definition>
+    </word>
+    <word value="boomer">
+        <definition>Oiseau siffleur dans "Les Aventures de Bernard et Bianca". ("Les Aventures de Bernard et Bianca")</definition>
+        <definition>Aide les protagonistes dans leur mission. ("Les Aventures de Bernard et Bianca")</definition>
+        <definition>Utilise ses talents pour résoudre des problèmes. ("Les Aventures de Bernard et Bianca")</definition>
+    </word>
+    <word value="bucheron">
+        <definition>Personnage qui coupe du bois dans la forêt. ("Blanche-Neige et les Sept Nains")</definition>
+        <definition>Travaille dans les forêts et symbolise souvent la force. ("Blanche-Neige et les Sept Nains")</definition>
+        <definition>Souvent représenté comme fort et simple. ("Blanche-Neige et les Sept Nains")</definition>
+    </word>
+    <word value="cruella denfer">
+        <definition>Femme obsédée par les manteaux de fourrure. ("Les 101 Dalmatiens")</definition>
+        <definition>Veut utiliser la peau des chiots pour un manteau. ("Les 101 Dalmatiens")</definition>
+        <definition>Connue pour son rire et son look noir et blanc. ("Les 101 Dalmatiens")</definition>
+    </word>
+    <word value="cendrillon">
+        <definition>Jeune femme douce et rêveuse. ("Cendrillon")</definition>
+        <definition>Maltraitée par sa belle-mère et ses demi-sœurs. ("Cendrillon")</definition>
+        <definition>Échappe à sa vie de servitude avec l'aide de sa marraine la fée. ("Cendrillon")</definition>
+    </word>
+    <word value="clochard">
+        <definition>Chien de rue charismatique. ("La Belle et le Clochard")</definition>
+        <definition>Vit librement sans attache. ("La Belle et le Clochard")</definition>
+        <definition>Change la vie de Lady en lui montrant l'amour. ("La Belle et le Clochard")</definition>
+    </word>
+    <word value="clochette">
+        <definition>Petite fée amie de Peter Pan. ("Peter Pan")</definition>
+        <definition>Connue pour sa jalousie et son dévouement. ("Peter Pan")</definition>
+        <definition>Aide à changer les saisons avec sa magie. ("Peter Pan")</definition>
+    </word>
+    <word value="charlotte">
+        <definition>Amie de Tiana. ("La Princesse et la Grenouille")</definition>
+        <definition>Rêve de rencontrer un prince. ("La Princesse et la Grenouille")</definition>
+        <definition>Affection et loyauté envers Tiana. ("La Princesse et la Grenouille")</definition>
+    </word>
+    <word value="coco">
+        <definition>Ancêtre de Miguel. ("Coco")</definition>
+        <definition>Importance de la famille et de la mémoire. ("Coco")</definition>
+        <definition>Son souvenir guide Miguel. ("Coco")</definition>
+    </word>
+    <word value="crush">
+        <definition>Tortue de mer relax. ("Le Monde de Nemo")</definition>
+        <definition>Enseigne à Marlin et Dory à profiter du voyage. ("Le Monde de Nemo")</definition>
+        <definition>Symbolise la sagesse décontractée. ("Le Monde de Nemo")</definition>
+    </word>
+    <word value="claude frollo">
+        <definition>Juge austère et impitoyable. ("Le Bossu de Notre-Dame")</definition>
+        <definition>Traite cruellement Quasimodo et Esmeralda. ("Le Bossu de Notre-Dame")</definition>
+        <definition>Incarnation du fanatisme et de l'intolérance. ("Le Bossu de Notre-Dame")</definition>
+    </word>
+    <word value="chip">
+        <definition>Petite tasse curieuse et innocente. ("La Belle et la Bête")</definition>
+        <definition>Apporte légèreté et humour au château. ("La Belle et la Bête")</definition>
+        <definition>Symbolise l'espoir et la jeunesse. ("La Belle et la Bête")</definition>
+    </word>
+    <word value="clarabelle">
+        <definition>Vache comique dans les dessins animés Mickey Mouse. ("Mickey Mouse")</definition>
+        <definition>Relation amicale avec les autres personnages de Mickey. ("Mickey Mouse")</definition>
+        <definition>Reflète le charme des dessins animés vintage. ("Mickey Mouse")</definition>
+    </word>
+    <word value="capitaine crochet">
+        <definition>Pirate et ennemi de Peter Pan. ("Peter Pan")</definition>
+        <definition>Cherche à se venger de Peter Pan. ("Peter Pan")</definition>
+        <definition>Comique dû à ses échecs répétés. ("Peter Pan")</definition>
+    </word>
+    <word value="chapelier fou">
+        <definition>Excentrique amateur de thé. ("Alice au Pays des Merveilles")</definition>
+        <definition>Connue pour sa fête de non-anniversaire perpétuelle. ("Alice au Pays des Merveilles")</definition>
+        <definition>Symbolise l'absurdité du Pays des Merveilles. ("Alice au Pays des Merveilles")</definition>
+    </word>
+    <word value="carl fredricksen">
+        <definition>Vieil homme grincheux mais attachant. ("Là-haut")</definition>
+        <definition>Voyage avec des ballons attachés à sa maison. ("Là-haut")</definition>
+        <definition>Symbolise le deuil, l'espoir et l'aventure. ("Là-haut")</definition>
+    </word>
+    <word value="calhoun">
+        <definition>Sergent dur et impitoyable. ("Les Mondes de Ralph")</definition>
+        <definition>Combat les bugs du jeu. ("Les Mondes de Ralph")</definition>
+        <definition>Représente la force et le leadership féminin. ("Les Mondes de Ralph")</definition>
+    </word>
+    <word value="cass hamada">
+        <definition>Tante aimante de Hiro. ("Les Nouveaux Héros")</definition>
+        <definition>Supporte Hiro et ses passions pour la robotique. ("Les Nouveaux Héros")</definition>
+        <definition>Incarnation de la famille soutenante. ("Les Nouveaux Héros")</definition>
+    </word>
+    <word value="cephalopode">
+        <definition>Personnage fictif représentant la sagesse marine.</definition>
+        <definition>Utilise son intelligence et ses tentacules pour aider. ("Disney")</definition>
+        <definition>Symbolise la connaissance et l'adaptabilité. ("Disney")</definition>
+    </word>
+    <word value="celeste">
+        <definition>Matriarche éléphant. ("Babar, les aventures de Badou")</definition>
+        <definition>Guide et protège Badou et ses amis. ("Babar, les aventures de Badou")</definition>
+        <definition>Représente la protection et la sagesse. ("Babar, les aventures de Badou")</definition>
+    </word>
+    <word value="cody">
+        <definition>Jeune garçon aventureux. ("Bernard et Bianca au pays des kangourous")</definition>
+        <definition>Capture en sauvant un aigle rare. ("Bernard et Bianca au pays des kangourous")</definition>
+        <definition>Emblème de la bravoure et de la compassion. ("Bernard et Bianca au pays des kangourous")</definition>
+    </word>
+    <word value="callaghan">
+        <definition>Professeur et antagoniste. ("Les Nouveaux Héros")</definition>
+        <definition>Utilise la technologie pour se venger. ("Les Nouveaux Héros")</definition>
+        <definition>Illustration de la douleur et des choix moraux. ("Les Nouveaux Héros")</definition>
+    </word>
+    <word value="crickee">
+        <definition>Criquet porte-bonheur de Mulan. ("Mulan")</definition>
+        <definition>Accompagne Mulan dans ses batailles. ("Mulan")</definition>
+        <definition>Représente la chance dans l'adversité. ("Mulan")</definition>
+    </word>
+    <word value="camille">
+        <definition>Styliste de mode connue pour son goût impeccable.</definition>
+        <definition>Travaille dur pour réussir dans la mode. ("Disney")</definition>
+        <definition>Symbolise la persévérance et la créativité. ("Disney")</definition>
+    </word>
+    <word value="chick hicks">
+        <definition>Rival de Lightning McQueen. ("Cars")</definition>
+        <definition>Connu pour ses tactiques peu scrupuleuses. ("Cars")</definition>
+        <definition>Reflète les thèmes de la compétition et de l'intégrité. ("Cars")</definition>
+    </word>
+    <word value="daisy duck">
+        <definition>Canard sophistiqué connu pour son amour de la mode. ("Mickey Mouse")</definition>
+        <definition>Compagne de Donald Duck. ("Mickey Mouse")</definition>
+        <definition>Elle montre une grande loyauté envers ses amis. ("Mickey Mouse")</definition>
+    </word>
+    <word value="donald duck">
+        <definition>Canard au tempérament explosif avec un uniforme de marin. ("Mickey Mouse")</definition>
+        <definition>Vit des aventures chaotiques. ("Mickey Mouse")</definition>
+        <definition>Oncle de trois petits canards malicieux. ("Mickey Mouse")</definition>
+    </word>
+    <word value="dumbo">
+        <definition>Éléphanteau de cirque avec de grandes oreilles qui lui permettent de voler. ("Dumbo")</definition>
+        <definition>Surmonte les railleries grâce à son talent unique. ("Dumbo")</definition>
+        <definition>Accompagné d'une souris qui l'aide à découvrir son talent. ("Dumbo")</definition>
+    </word>
+    <word value="dingo">
+        <definition>Chien maladroit et bon ami de Mickey Mouse. ("Mickey Mouse")</definition>
+        <definition>Souvent impliqué dans des situations comiques. ("Mickey Mouse")</definition>
+        <definition>Symbolise la loyauté et l'innocence. ("Mickey Mouse")</definition>
+    </word>
+    <word value="denahi">
+        <definition>Frère du protagoniste dans "Frère des Ours". ("Frère des Ours")</definition>
+        <definition>Se bat contre son frère transformé en ours. ("Frère des Ours")</definition>
+        <definition>Représente le conflit familial. ("Frère des Ours")</definition>
+    </word>
+    <word value="destinee">
+        <definition>Requin baleine myope dans "Le Monde de Dory". ("Le Monde de Dory")</definition>
+        <definition>Montre un grand cœur et de l'optimisme malgré ses problèmes de vue. ("Le Monde de Dory")</definition>
+        <definition>Symbolise le soutien et l'acceptation. ("Le Monde de Dory")</definition>
+    </word>
+    <word value="duke caboom">
+        <definition>Cascadeur jouet dans "Toy Story 4". ("Toy Story 4")</definition>
+        <definition>Célèbre pour ses poses spectaculaires. ("Toy Story 4")</definition>
+        <definition>Représente la bravoure et l'esprit de spectacle. ("Toy Story 4")</definition>
+    </word>
+    <word value="doc hudson">
+        <definition>Mentor de Lightning McQueen dans "Cars". ("Cars")</definition>
+        <definition>Partage son expérience pour aider McQueen. ("Cars")</definition>
+        <definition>Symbolise la sagesse et le passage de la torche. ("Cars")</definition>
+    </word>
+    <word value="darla">
+        <definition>Jeune fille brutale avec les poissons dans "Le Monde de Nemo". ("Le Monde de Nemo")</definition>
+        <definition>Cause des défis majeurs pour Nemo et les autres poissons. ("Le Monde de Nemo")</definition>
+        <definition>Représente les dangers pour les protagonistes. ("Le Monde de Nemo")</definition>
+    </word>
+    <word value="diablo">
+        <definition>Corbeau de la sorcière Maléfique dans "La Belle au Bois Dormant". ("La Belle au Bois Dormant")</definition>
+        <definition>Espion de Maléfique. ("La Belle au Bois Dormant")</definition>
+        <definition>Symbolise la malice et la loyauté envers le mal. ("La Belle au Bois Dormant")</definition>
+    </word>
+    <word value="daisy de vil">
+        <definition>Nièce de Cruella d'Enfer dans des adaptations modernes. ("101 Dalmatiens")</definition>
+        <definition>Veut surpasser Cruella en méchanceté. ("101 Dalmatiens")</definition>
+        <definition>Représente la nouvelle génération de méchants. ("101 Dalmatiens")</definition>
+    </word>
+    <word value="dr facilier">
+        <definition>Sorcier vaudou dans "La Princesse et la Grenouille". ("La Princesse et la Grenouille")</definition>
+        <definition>Utilise la magie noire pour obtenir du pouvoir. ("La Princesse et la Grenouille")</definition>
+        <definition>Symbolise la tentation et les conséquences des voies faciles. ("La Princesse et la Grenouille")</definition>
+    </word>
+    <word value="david">
+        <definition>Ami et intérêt amoureux de Lilo dans "Lilo & Stitch". ("Lilo & Stitch")</definition>
+        <definition>Supporte Lilo et aide à prendre soin de Stitch. ("Lilo & Stitch")</definition>
+        <definition>Représente la loyauté et l'acceptation. ("Lilo & Stitch")</definition>
+    </word>
+    <word value="dante">
+        <definition>Chien de Miguel dans "Coco". ("Coco")</definition>
+        <definition>Aide Miguel dans le monde des morts. ("Coco")</definition>
+        <definition>Symbolise la loyauté et le lien entre les mondes. ("Coco")</definition>
+    </word>
+    <word value="doris">
+        <definition>Poisson amnésique dans "Le Monde de Nemo" et "Le Monde de Dory". ("Le Monde de Nemo")</definition>
+        <definition>Connue pour sa phrase "Il suffit de nager". ("Le Monde de Nemo")</definition>
+        <definition>Représente l'optimisme et la persévérance. ("Le Monde de Nemo")</definition>
+    </word>
+    <word value="dimitri">
+        <definition>Jeune homme qui aide Anastasia. ("Anastasia")</definition>
+        <definition>Montre du courage et du dévouement. ("Anastasia")</definition>
+        <definition>Symbolise la rédemption et l'amour. ("Anastasia")</definition>
+    </word>
+    <word value="deacon">
+        <definition>Pirate sous le commandement de Barbe Noire dans "Pirates des Caraïbes". ("Pirates des Caraïbes")</definition>
+        <definition>Participe aux batailles navales. ("Pirates des Caraïbes")</definition>
+        <definition>Reflète la loyauté et la survie dans la piraterie. ("Pirates des Caraïbes")</definition>
+    </word>
+    <word value="demeter">
+        <definition>Déesse de l'agriculture dans "Hercule". ("Hercule")</definition>
+        <definition>Contribue à l'authenticité des divinités grecques. ("Hercule")</definition>
+        <definition>Symbolise la fertilité et la récolte. ("Hercule")</definition>
+    </word>
+    <word value="delbert">
+        <definition>Scientifique excentrique dans "La Planète au trésor". ("La Planète au trésor")</definition>
+        <definition>Essentiel pour la navigation et la science. ("La Planète au trésor")</definition>
+        <definition>Symbolise la curiosité et l'importance de la connaissance. ("La Planète au trésor")</definition>
+    </word>
+    <word value="dash">
+        <definition>Enfant avec super-vitesse dans "Les Indestructibles". ("Les Indestructibles")</definition>
+        <definition>Utilise ses pouvoirs pour aider sa famille. ("Les Indestructibles")</definition>
+        <definition>Représente l'énergie juvénile. ("Les Indestructibles")</definition>
+    </word>
+    <word value="duchess">
+        <definition>Chatte élégante et mère dévouée dans "Les Aristochats". ("Les Aristochats")</definition>
+        <definition>Protège ses chatons et traverse Paris. ("Les Aristochats")</definition>
+        <definition>Symbolise l'élégance et l'amour maternel. ("Les Aristochats")</definition>
+    </word>
+    <word value="dot">
+        <definition>Jeune princesse fourmi dans "1001 Pattes". ("1001 Pattes")</definition>
+        <definition>Encourage Flik à suivre ses idées. ("1001 Pattes")</definition>
+        <definition>Représente la détermination des jeunes. ("1001 Pattes")</definition>
+    </word>
+    <word value="duke weaselton">
+        <definition>Petit criminel dans "Zootopie". ("Zootopie")</definition>
+        <definition>Impliqué dans des ventes illégales. ("Zootopie")</definition>
+        <definition>Symbolise les petits méchants. ("Zootopie")</definition>
+    </word>
+    <word value="dean hardscrabble">
+        <definition>Doyenne de l'Université des Monstres dans "Monstres Academy". ("Monstres Academy")</definition>
+        <definition>Impose des normes élevées. ("Monstres Academy")</definition>
+        <definition>Représente les défis académiques. ("Monstres Academy")</definition>
+    </word>
+    <word value="darwin">
+        <definition>Chimpanzé savant dans un film Disney non spécifié. ("Disney")</definition>
+        <definition>Aide les protagonistes avec son intelligence. ("Disney")</definition>
+        <definition>Symbolise la collaboration entre espèces. ("Disney")</definition>
+    </word>
+    <word value="degout">
+        <definition>Émotion représentant le dégoût dans "Vice-Versa". ("Vice-Versa")</definition>
+        <definition>Protège Riley des mauvaises expériences. ("Vice-Versa")</definition>
+        <definition>Incarnation de l'instinct de répulsion. ("Vice-Versa")</definition>
+    </word>
+    <word value="delta">
+        <definition>Raptor dans "Jurassic World". ("Jurassic World")</definition>
+        <definition>Participe à des scènes d'action intenses. ("Jurassic World")</definition>
+        <definition>Représente le danger et la sauvagerie. ("Jurassic World")</definition>
+    </word>
+    <word value="digby">
+        <definition>Chien aventurier dans une série télévisée Disney. ("Disney")</definition>
+        <definition>Aide les enfants à résoudre des mystères. ("Disney")</definition>
+        <definition>Symbolise l'amitié et l'importance des animaux. ("Disney")</definition>
+    </word>
+    <word value="daphne">
+        <definition>Une des sœurs d'Ariel dans "La Petite Sirène". ("La Petite Sirène")</definition>
+        <definition>Soutient Ariel dans ses aventures. ("La Petite Sirène")</definition>
+        <definition>Représente le soutien familial. ("La Petite Sirène")</definition>
+    </word>
+    <word value="demetrius">
+        <definition>Artisan dans "Hercule". ("Hercule")</definition>
+        <definition>Crée des armures et des armes pour les dieux. ("Hercule")</definition>
+        <definition>Symbolise l'habileté et l'innovation. ("Hercule")</definition>
+    </word>
+    <word value="dewford">
+        <definition>Jeune surfeur dans un dessin animé Disney. ("Disney")</definition>
+        <definition>Aime l'océan et les sports aquatiques. ("Disney")</definition>
+        <definition>Représente l'aventure et l'engagement environnemental. ("Disney")</definition>
+    </word>
+    <word value="delilah">
+        <definition>Chat élégante dans "Les Aristochats". ("Les Aristochats")</definition>
+        <definition>Amie et mentor de Duchess. ("Les Aristochats")</definition>
+        <definition>Symbolise l'élégance et le mentorat. ("Les Aristochats")</definition>
+    </word>
+    <word value="dexter">
+        <definition>Scientifique excentrique dans une série télévisée Disney. ("Disney")</definition>
+        <definition>Crée des inventions qui échappent souvent à son contrôle. ("Disney")</definition>
+        <definition>Symbolise la curiosité et les défis de l'innovation. ("Disney")</definition>
+    </word>
+    <word value="doom">
+        <definition>Vilain emblématique dans un crossover entre Marvel et Disney. ("Marvel/Disney")</definition>
+        <definition>Connu pour ses plans de domination mondiale. ("Marvel/Disney")</definition>
+        <definition>Représente le mal ultime et l'ambition sans limites. ("Marvel/Disney")</definition>
+    </word>
+    <word value="doppler">
+        <definition>Dr. Delbert Doppler dans "La Planète au trésor". ("La Planète au trésor")</definition>
+        <definition>Astrophysicien maladroit mais brillant. ("La Planète au trésor")</definition>
+        <definition>Symbolise la curiosité intellectuelle. ("La Planète au trésor")</definition>
+    </word>
+    <word value="despereaux">
+        <definition>Souris intrépide dans "Le Conte de Despereaux". ("Le Conte de Despereaux")</definition>
+        <definition>Veut devenir un chevalier malgré sa petite taille. ("Le Conte de Despereaux")</definition>
+        <definition>Symbolise le courage face à l'adversité. ("Le Conte de Despereaux")</definition>
+    </word>
 </words>
