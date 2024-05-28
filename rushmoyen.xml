@@ -41,4 +41,15 @@
         <vehicle id="" x="3" y="4" length="2" orientation="H" color="undefined"/>
         <vehicle id="M" x="1" y="4" length="2" orientation="H" color="gold"/>
     </board>
+    <board>
+        <vehicle id="A" x="2" y="4" length="3" orientation="H" color="yellow"/>
+        <vehicle id="B" x="3" y="1" length="3" orientation="H" color="green"/>
+        <vehicle id="C" x="0" y="0" length="2" orientation="H" color="orange"/>
+        <vehicle id="D" x="0" y="1" length="2" orientation="V" color="blue"/>
+        <vehicle id="E" x="2" y="0" length="2" orientation="V" color="purple"/>
+        <vehicle id="F" x="0" y="4" length="2" orientation="H" color="goldenrod"/>
+        <vehicle id="G" x="5" y="4" length="2" orientation="V" color="gray"/>
+        <vehicle id="H" x="4" y="2" length="2" orientation="V" color="orchid"/>
+        <vehicle id="X" x="2" y="2" length="2" orientation="H" color="red"/>
+    </board>
 </rushhour>
