@@ -52,4 +52,20 @@
         <vehicle id="H" x="4" y="2" length="2" orientation="V" color="orchid"/>
         <vehicle id="X" x="2" y="2" length="2" orientation="H" color="red"/>
     </board>
+    <board>
+        <vehicle id="A" x="0" y="0" length="3" orientation="V" color="yellow"/>
+        <vehicle id="B" x="3" y="1" length="3" orientation="H" color="green"/>
+        <vehicle id="C" x="0" y="5" length="3" orientation="H" color="orange"/>
+        <vehicle id="D" x="1" y="4" length="3" orientation="H" color="blue"/>
+        <vehicle id="X" x="3" y="2" length="2" orientation="H" color="red"/>
+        <vehicle id="E" x="4" y="0" length="2" orientation="H" color="purple"/>
+        <vehicle id="F" x="3" y="3" length="2" orientation="H" color="goldenrod"/>
+        <vehicle id="G" x="5" y="2" length="2" orientation="V" color="gray"/>
+        <vehicle id="H" x="5" y="4" length="2" orientation="V" color="orchid"/>
+        <vehicle id="I" x="4" y="4" length="2" orientation="V" color="pink"/>
+        <vehicle id="J" x="0" y="3" length="2" orientation="V" color="cyan"/>
+        <vehicle id="K" x="1" y="2" length="2" orientation="V" color="magenta"/>
+        <vehicle id="L" x="1" y="0" length="2" orientation="V" color="lime"/>
+        <vehicle id="M" x="2" y="0" length="2" orientation="H" color="gold"/>
+    </board>
 </rushhour>
