@@ -58,4 +58,16 @@
         <vehicle id="I" x="4" y="4" length="2" orientation="V" color="pink"/>
         <vehicle id="X" x="1" y="2" length="2" orientation="H" color="red"/>
     </board>
+    <board>
+        <vehicle id="A" x="5" y="3" length="3" orientation="V" color="yellow"/>
+        <vehicle id="B" x="0" y="0" length="3" orientation="V" color="green"/>
+        <vehicle id="C" x="3" y="0" length="3" orientation="H" color="orange"/>
+        <vehicle id="D" x="2" y="0" length="2" orientation="V" color="blue"/>
+        <vehicle id="E" x="2" y="3" length="2" orientation="H" color="purple"/>
+        <vehicle id="F" x="0" y="3" length="2" orientation="H" color="goldenrod"/>
+        <vehicle id="G" x="0" y="5" length="2" orientation="H" color="gray"/>
+        <vehicle id="H" x="2" y="5" length="2" orientation="H" color="orchid"/>
+        <vehicle id="I" x="3" y="1" length="2" orientation="V" color="pink"/>
+        <vehicle id="X" x="1" y="2" length="2" orientation="H" color="red"/>
+    </board>
 </rushhour>
